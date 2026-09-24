@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 4 * * *"        # daily, 06:00/07:00 Nordic time
   workflow_dispatch: {}          # "Run workflow" button
+  push:
+    branches: [main]
+    paths: ["app/**"]            # redeploy when the Beehive app changes
 
 permissions:
   contents: write                # commit crawl state
@@ -32,6 +35,7 @@ jobs:
 
       - name: Build the app with today's listings
         run: |
+          mkdir -p site
           python -m crawler export --out site/jobs.json
           python scripts/build_app.py --data site/jobs.json --out site/index.html
 
@@ -41,6 +45,7 @@ jobs:
           git config user.email "beehive-bot@users.noreply.github.com"
           git add data companies.yaml
           git commit -m "Crawl $(date -u +%F)" || echo "No changes"
+          git pull --rebase
           git push
 
       - uses: actions/upload-pages-artifact@v3
