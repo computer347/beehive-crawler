@@ -1,0 +1,55 @@
+name: Crawl jobs
+
+on:
+  schedule:
+    - cron: "0 4 * * *"        # daily, 06:00/07:00 Nordic time
+  workflow_dispatch: {}          # "Run workflow" button
+
+permissions:
+  contents: write                # commit crawl state
+  pages: write
+  id-token: write
+
+concurrency: { group: crawl, cancel-in-progress: false }
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+
+      - name: Crawl
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CRAWLER_CONTACT: ${{ vars.CRAWLER_CONTACT }}
+        run: python -m crawler run
+
+      - name: Build the app with today's listings
+        run: |
+          python -m crawler export --out site/jobs.json
+          python scripts/build_app.py --data site/jobs.json --out site/index.html
+
+      - name: Save crawl state
+        run: |
+          git config user.name "beehive-bot"
+          git config user.email "beehive-bot@users.noreply.github.com"
+          git add data companies.yaml
+          git commit -m "Crawl $(date -u +%F)" || echo "No changes"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: site }
+
+  deploy:
+    needs: crawl
+    runs-on: ubuntu-latest
+    environment: { name: github-pages, url: "${{ steps.deploy.outputs.page_url }}" }
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,190 @@
+# One company per line. `python -m crawler discover` probes public ATS feeds for each name.
+# Finland
+Supercell
+Wolt
+Oura
+ICEYE
+Varjo
+Smartly
+Aiven
+Relex Solutions
+Reaktor
+Futurice
+Vincit
+Nitor
+Solita
+Unikie
+Bittium
+Vaisala
+Kempower
+IQM
+Bluefors
+Swappie
+Yousician
+Rovio
+Remedy Entertainment
+Housemarque
+Sievo
+Enfuce
+Holvi
+Framery
+Distance Technologies
+Polar Electro
+Suunto
+Planmeca
+Kalmar
+Hiab
+Ponsse
+Konecranes
+Valmet
+Metso
+Fortum
+Neste
+Wärtsilä
+Nokia
+KONE
+Elisa
+Posti
+Kesko
+Sanoma
+Alma Media
+Cactos
+Sulapac
+Infinited Fiber
+Kvanttori
+Zervant
+Efecte
+Qvantel
+Maria 01
+ResQ Club
+Kiuas
+Volare
+Klarna
+# Sweden
+Spotify
+Einride
+Voi
+Tink
+King
+Mojang
+Paradox Interactive
+Embark Studios
+Epidemic Sound
+Kry
+Truecaller
+Trustly
+Sinch
+Polestar
+Zenseact
+Mentimeter
+Lovable
+Legora
+Depict
+Anyfin
+Kivra
+Detectify
+Budbee
+Hemnet
+Storytel
+Quinyx
+Oatly
+Sana Labs
+Neo4j
+Normative
+Stegra
+Northvolt
+Tibber
+Hexagon
+Husqvarna
+Electrolux
+Saab
+Scania
+Volvo Cars
+Ericsson
+Atlas Copco
+Sandvik
+SKF
+Assa Abloy
+Worldfavor
+Juni
+Qliro
+Instabee
+Cling
+Carla
+Mathem
+Wayke
+# Norway
+Kahoot
+Cognite
+Aker BP
+Kongsberg
+Nordic Semiconductor
+reMarkable
+Oda
+Vipps
+Schibsted
+Finn
+Airthings
+AutoStore
+Zaptec
+Otovo
+Gelato
+Easee
+Unacast
+Bekk
+Nel
+Yara
+Telenor
+Equinor
+DNB
+Tise
+Sval Energi
+Strise
+Dune Analytics
+Huddly
+# Denmark
+Pleo
+Trustpilot
+Vivino
+Too Good To Go
+Lunar
+Templafy
+Planday
+Veo Technologies
+Corti
+Penneo
+Dixa
+Ageras
+Universal Robots
+Mobile Industrial Robots
+Siteimprove
+Queue-it
+Monta
+Netcompany
+Systematic
+Radiometer
+Danfoss
+Grundfos
+Vestas
+Orsted
+Maersk
+Novo Nordisk
+Lego
+Demant
+GN Group
+Coloplast
+Shape
+Bankdata
+Tradeshift
+Heimdal Security
+# Iceland
+CCP Games
+Marel
+Controlant
+Lucinity
+Meniga
+Kerecis
+Ossur
+Sidekick Health
+Travelshift
+Tempo
