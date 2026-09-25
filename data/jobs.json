@@ -31,7 +31,7 @@
   "id": "18a3462ae2af95c2",
   "content_hash": "5148ad88b27c0489",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "0e59b0b92d46f28b": {
@@ -65,7 +65,7 @@
   "id": "0e59b0b92d46f28b",
   "content_hash": "eda8e9330dee2a24",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "a029c37aa9769e83": {
@@ -100,7 +100,7 @@
   "id": "a029c37aa9769e83",
   "content_hash": "fe3030ec5f966958",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "5f94da55e712bbaf": {
@@ -134,7 +134,7 @@
   "id": "5f94da55e712bbaf",
   "content_hash": "68f3e39fc69552f6",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "82badc0df983ae92": {
@@ -168,7 +168,7 @@
   "id": "82badc0df983ae92",
   "content_hash": "c534143b3aace471",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "7de3dcfb1fdaa215": {
@@ -202,7 +202,7 @@
   "id": "7de3dcfb1fdaa215",
   "content_hash": "11985aeec783d8dd",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "9dd2fcffa30ed8b9": {
@@ -236,7 +236,7 @@
   "id": "9dd2fcffa30ed8b9",
   "content_hash": "3cc6d1146a9fb76b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "7f4d46f3b7840c92": {
@@ -276,7 +276,7 @@
   "id": "7f4d46f3b7840c92",
   "content_hash": "2fe8290c82f041e3",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "3306155384cefff7": {
@@ -315,7 +315,7 @@
   "id": "3306155384cefff7",
   "content_hash": "c5c80e919572c489",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "c5cdecebe025cd52": {
@@ -352,7 +352,7 @@
   "id": "c5cdecebe025cd52",
   "content_hash": "7cd9c01597a29d09",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "0502060694254c60": {
@@ -389,7 +389,7 @@
   "id": "0502060694254c60",
   "content_hash": "fe2e063883f58962",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "13f9a4d2e7259d8d": {
@@ -425,7 +425,7 @@
   "id": "13f9a4d2e7259d8d",
   "content_hash": "9dbcc9116eb97bfa",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "2dd63beb4218d2de": {
@@ -460,7 +460,7 @@
   "id": "2dd63beb4218d2de",
   "content_hash": "c740582f290469dd",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "98f891d2f73804f9": {
@@ -500,7 +500,7 @@
   "id": "98f891d2f73804f9",
   "content_hash": "52cafc16b7c2631c",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "d477f897f91031b4": {
@@ -535,7 +535,7 @@
   "id": "d477f897f91031b4",
   "content_hash": "dce9a06137900740",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "896103a7eedd60c0": {
@@ -570,7 +570,7 @@
   "id": "896103a7eedd60c0",
   "content_hash": "2a5ef867a7061a91",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "26affd7d51814cdb": {
@@ -606,7 +606,7 @@
   "id": "26affd7d51814cdb",
   "content_hash": "2841669a91209432",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "637c2f6063ff9ba0": {
@@ -648,7 +648,7 @@
   "id": "637c2f6063ff9ba0",
   "content_hash": "4c8f3c1f70a8d62c",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "0ada7af633546188": {
@@ -685,7 +685,7 @@
   "id": "0ada7af633546188",
   "content_hash": "1af14781cbe3143d",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "4389377cd260e6c2": {
@@ -725,7 +725,7 @@
   "id": "4389377cd260e6c2",
   "content_hash": "2e247f4f4e1db209",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "512b2ddf3d09bfaf": {
@@ -762,7 +762,7 @@
   "id": "512b2ddf3d09bfaf",
   "content_hash": "7d300590062c7e40",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "e7f6e4085a0417ab": {
@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -841,7 +841,7 @@
   "id": "63c1445138d20f54",
   "content_hash": "ec6ac044f258444f",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "5418d519ecf4c0a7": {
@@ -878,7 +878,7 @@
   "id": "5418d519ecf4c0a7",
   "content_hash": "9bd3b723ff60ae5e",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "03dfc6c2b08c0909": {
@@ -915,7 +915,7 @@
   "id": "03dfc6c2b08c0909",
   "content_hash": "9287156d11c9b87b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "f2da3db7d8d654dc": {
@@ -952,7 +952,7 @@
   "id": "f2da3db7d8d654dc",
   "content_hash": "429e0b35473888bc",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "7f207031cf115f12": {
@@ -987,7 +987,7 @@
   "id": "7f207031cf115f12",
   "content_hash": "49e609cee957250b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "711a074d6eeb327f": {
@@ -1023,7 +1023,7 @@
   "id": "711a074d6eeb327f",
   "content_hash": "4f81076ee86c05c4",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "bf2997c93b9868af": {
@@ -1058,7 +1058,7 @@
   "id": "bf2997c93b9868af",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "2078c7e015353e21": {
@@ -1095,7 +1095,7 @@
   "id": "2078c7e015353e21",
   "content_hash": "7973359fb9d1f4b1",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "e77bb422fda554b2": {
@@ -1132,7 +1132,7 @@
   "id": "e77bb422fda554b2",
   "content_hash": "6d0d3e431350fcd6",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "fd68deadadc0dee5": {
@@ -1169,7 +1169,7 @@
   "id": "fd68deadadc0dee5",
   "content_hash": "f9f488bde79efe90",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "d489f2bc12fa717c": {
@@ -1206,7 +1206,7 @@
   "id": "d489f2bc12fa717c",
   "content_hash": "d081f59f7af1a418",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "2fb936555883da97": {
@@ -1245,7 +1245,7 @@
   "id": "2fb936555883da97",
   "content_hash": "1e9db2cd6919b79c",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "b27bd77f5956eabf": {
@@ -1282,7 +1282,7 @@
   "id": "b27bd77f5956eabf",
   "content_hash": "33d31775130d08f0",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "3a84d954a4fc55ea": {
@@ -1324,7 +1324,7 @@
   "id": "3a84d954a4fc55ea",
   "content_hash": "da5e564b1259de63",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "1808642af1771a1b": {
@@ -1366,7 +1366,7 @@
   "id": "1808642af1771a1b",
   "content_hash": "5ef6bd99b540f9bf",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "84eac48d22d24a39": {
@@ -1402,7 +1402,7 @@
   "id": "84eac48d22d24a39",
   "content_hash": "9cebe82af1ea65fb",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "39424e85dba2844a": {
@@ -1439,7 +1439,7 @@
   "id": "39424e85dba2844a",
   "content_hash": "54770d5fefac6189",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "97e053036c3db2be": {
@@ -1476,7 +1476,7 @@
   "id": "97e053036c3db2be",
   "content_hash": "34b239d0f69ec32b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "217562eb3f707bdf": {
@@ -1513,7 +1513,7 @@
   "id": "217562eb3f707bdf",
   "content_hash": "4f90949a497f6177",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "cd7a1e98cdf4365c": {
@@ -1550,7 +1550,7 @@
   "id": "cd7a1e98cdf4365c",
   "content_hash": "d19d9d99a9827852",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "c645eed59395b253": {
@@ -1589,7 +1589,7 @@
   "id": "c645eed59395b253",
   "content_hash": "491aff6415beb344",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "3bcd1cfad19ac0a9": {
@@ -1628,7 +1628,7 @@
   "id": "3bcd1cfad19ac0a9",
   "content_hash": "8f0ceb47a9b68909",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "cadc084332fb5ff1": {
@@ -1667,7 +1667,7 @@
   "id": "cadc084332fb5ff1",
   "content_hash": "b250d1ef39e48089",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "d697dbbcbbd68791": {
@@ -1705,7 +1705,7 @@
   "id": "d697dbbcbbd68791",
   "content_hash": "40f00c3f1352e9c9",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "00e2f2f03fa0f8a3": {
@@ -1749,7 +1749,7 @@
   "id": "00e2f2f03fa0f8a3",
   "content_hash": "05baf893415d533e",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "46ea43c3e6599d93": {
@@ -1785,7 +1785,7 @@
   "id": "46ea43c3e6599d93",
   "content_hash": "5daaace57880aba6",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "c638e648881575cd": {
@@ -1821,7 +1821,7 @@
   "id": "c638e648881575cd",
   "content_hash": "67806b99a9974196",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "165a73871ae7ff14": {
@@ -1857,7 +1857,7 @@
   "id": "165a73871ae7ff14",
   "content_hash": "cb0ce0b1ef593713",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "e14b68401272dd04": {
@@ -1892,7 +1892,7 @@
   "id": "e14b68401272dd04",
   "content_hash": "ae1b2f0c611d1497",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "e8acd9bc0dfbebe1": {
@@ -1927,7 +1927,7 @@
   "id": "e8acd9bc0dfbebe1",
   "content_hash": "8442c4bcce0b8586",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "20ac0f2934a0afd4": {
@@ -1969,7 +1969,7 @@
   "id": "20ac0f2934a0afd4",
   "content_hash": "450c993d76e76ddb",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "d01860f36002c286": {
@@ -2005,7 +2005,7 @@
   "id": "d01860f36002c286",
   "content_hash": "a9978d5f31717fa2",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "f96b7b51cf185932": {
@@ -2040,7 +2040,7 @@
   "id": "f96b7b51cf185932",
   "content_hash": "a0d3f83584da5dd5",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "912e14d2590b35a5": {
@@ -2075,7 +2075,7 @@
   "id": "912e14d2590b35a5",
   "content_hash": "ef087b4a0370221d",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  },
  "9507e251d23bfbc2": {
@@ -2114,7 +2114,156 @@
   "id": "9507e251d23bfbc2",
   "content_hash": "bb7ddad161eefdc7",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-24T14:10:43+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
+  "is_open": true
+ },
+ "7e1ef6971145027a": {
+  "source": "lever",
+  "source_id": "ba2760c3-6461-45bf-b67b-0508d10c8659",
+  "company": "Spotify",
+  "title": "CoLM 2026 — Intern",
+  "url": "https://jobs.lever.co/spotify/ba2760c3-6461-45bf-b67b-0508d10c8659",
+  "description": "PLEASE READ BEFORE APPLYING\nThis posting is intended specifically for candidates who are participating in CoLM and is not a general application for open roles at Spotify.\nWhen applying, you’ll be asked to select how you engaged with us at the conference. Please answer this question accurately. Applications indicating conference participation or engagement that did not occur may be removed from consideration.\nIf you are interested in opportunities at Spotify but are not attending CoLM please visit our Life at Spotify page to explore current openings.\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nThanks for connecting with the Spotify team at the conference! This posting is a way for us to stay in touch and keep the conversation going.\nAt Spotify, machine learning and AI are at the heart of how we personalize music, podcasts, and audiobooks for hundreds of millions of listeners around the world. Our ML teams tackle problems across recommendation systems, search and ranking, natural language understanding, generative AI, audio analysis, and more — and we're always looking for talented students who want to work on real problems at real scale as part of our internship program.\nBy applying here, you're expressing interest in ML/AI internship opportunities at Spotify. This isn't tied to a specific role or team — our team will follow up to explore the right fit based on your background, interests, and experience.\n\nSpotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.\n \nAt Spotify, we are passionate about inclusivity and making sure our entire recruitment process is accessible to everyone. We have ways to request reasonable accommodations during the interview process and help assist in what you need. If you need accommodations at any stage of the application or interview process, please let us know - we’re here to support you in any way we can.\n \n",
+  "posted_at": "2026-09-24T16:44:19+00:00",
+  "deadline": null,
+  "pay": null,
+  "industry": "",
+  "company_slug": "spotify",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "Remote",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Machine learning",
+   "LLM applications"
+  ],
+  "fields": [
+   "Data Science"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "7e1ef6971145027a",
+  "content_hash": "9eea41556add003f",
+  "first_seen": "2026-09-25T09:11:48+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
+  "is_open": true
+ },
+ "6a5fececfc2614dd": {
+  "source": "lever",
+  "source_id": "e7f6e680-bf86-4da6-8711-afe44b84fa41",
+  "company": "Spotify",
+  "title": "RecSys 2026 — Intern",
+  "url": "https://jobs.lever.co/spotify/e7f6e680-bf86-4da6-8711-afe44b84fa41",
+  "description": "PLEASE READ BEFORE APPLYING\nThis posting is intended specifically for candidates who are participating in RecSys and is not a general application for open roles at Spotify.\nWhen applying, you’ll be asked to select how you engaged with us at the conference. Please answer this question accurately. Applications indicating conference participation or engagement that did not occur may be removed from consideration.\nIf you are interested in opportunities at Spotify but are not attending RecSys please visit our Life at Spotify page to explore current openings.\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nThanks for connecting with the Spotify team at the conference! This posting is a way for us to stay in touch and keep the conversation going.\nAt Spotify, machine learning and AI are at the heart of how we personalize music, podcasts, and audiobooks for hundreds of millions of listeners around the world. Our ML teams tackle problems across recommendation systems, search and ranking, natural language understanding, generative AI, audio analysis, and more — and we're always looking for talented students who want to work on real problems at real scale as part of our internship program.\nBy applying here, you're expressing interest in ML/AI internship opportunities at Spotify. This isn't tied to a specific role or team — our team will follow up to explore the right fit based on your background, interests, and experience.\n\nSpotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.\n \nAt Spotify, we are passionate about inclusivity and making sure our entire recruitment process is accessible to everyone. We have ways to request reasonable accommodations during the interview process and help assist in what you need. If you need accommodations at any stage of the application or interview process, please let us know - we’re here to support you in any way we can.\n \n",
+  "posted_at": "2026-09-24T16:44:03+00:00",
+  "deadline": null,
+  "pay": null,
+  "industry": "",
+  "company_slug": "spotify",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "Remote",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Machine learning",
+   "LLM applications"
+  ],
+  "fields": [
+   "Data Science"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "6a5fececfc2614dd",
+  "content_hash": "6dea8026c07a0a78",
+  "first_seen": "2026-09-25T09:11:48+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
+  "is_open": true
+ },
+ "84950426290afe6b": {
+  "source": "jobtech",
+  "source_id": "31517624",
+  "company": "ECIT Services AB",
+  "title": "Praktikplats inom Talent Acquisition, Employer Branding & AI på ECIT",
+  "url": "https://jobb.ecit.se/jobs/8443582-praktikplats-inom-talent-acquisition-employer-branding-ai/c9f39583-b537-4e68-8f57-59054f4e0fd5",
+  "description": "Vill du vara med och utveckla framtidens rekrytering under din praktik?\nÄr du nyfiken på hur AI, data och moderna digitala verktyg förändrar HR och rekrytering? Vill du få praktisk erfarenhet inom Talent Acquisition, Employer Branding och HR-analys i en organisation med verksamhet över hela Sverige?\nNu erbjuder vi en praktikplats för dig som studerar HR, personalvetenskap eller ett närliggande område och som vill få praktisk erfarenhet inom Talent Acquisition, Employer Branding, analys och AI.\nOm oss\nECIT är en nordisk koncern som erbjuder tjänster och lösningar inom ekonomi, lön, HR, IT och affärssystem. Vi befinner oss på en spännande utvecklingsresa där kompetensförsörjning, employer branding och digitalisering är viktiga områden för vår fortsatta tillväxt.\nHos oss får du arbeta nära vår rekryteringsansvariga och få insyn i hela rekryteringsprocessen, från attraktion och search till analys, uppföljning och strategisk kompetensförsörjning. Vi arbetar aktivt med talent communities, employer branding och AI-stöd i våra processer.\nPlacering är på vårt huvudkontor i Stockholm på Kungsholmen.\n\n\nOm praktiken\nUnder din praktik får du möjlighet att arbeta inom flera olika områden:\nTalent Acquisition\nStöd i rekryteringsprocesser\nSearch och kandidatarbete\nKandidatkommunikation\nUppdatering och underhåll av kandidatdatabaser\nArbete med talent communities\n\nEmployer Branding\nSkapa innehåll för LinkedIn och andra digitala kanaler\nGenomföra medarbetarintervjuer och skriva artiklar\nVidareutveckla vår karriärsida\nDelta i employer branding-kampanjer\nOmvärldsbevakning och trendspaning\n\nData & Analys\nStatistik och KPI-uppföljning\nRekryteringsanalyser\nDatainsamling och rapportering\nArbete i Excel och Power BI\nAnalys av kandidat- och rekryteringsdata\n\nAI & Digitalisering\nUtforska och använda Microsoft Copilot\nArbeta i Teamtailor och andra digitala verktyg\nBidra till automatisering av arbetsflöden\nDelta i utvecklingen av AI-stöd inom rekrytering\n\nVem är du?\nVi tror att du studerar inom exempelvis:\nPersonalvetenskap\nHR\nRekrytering\nSystemvetenskap\nBusiness Intelligence\nDigital marknadsföring\nKommunikation\nDataanalys\n\nFör att trivas hos oss tror vi att du:\nHar ett stort intresse för människor, teknik och utveckling\nÄr nyfiken på AI och digitala verktyg\nArbetar strukturerat och noggrant\nHar god systemvana\nÄr analytisk och tycker om att arbeta med data\nUttrycker dig väl på svenska i både tal och skrift\n\nMeriterande erfarenheter\nDet är ett plus om du har erfarenhet av eller kommit i kontakt med:\nExcel\nPower BI\nTeamtailor\nCanva\nMicrosoft Copilot\nLinkedIn\n\n\n\nVad erbjuder ECIT?\nHos oss får du:\nPraktisk erfarenhet av modern Talent Acquisition\nArbeta med AI och digitalisering inom Rekrytering\nUtveckla dina kunskaper inom employer branding\nDelta i utvecklingen av KPI:er, analyser och dashboards\nFå erfarenhet av moderna rekryteringssystem\nInsyn i både operativ och strategisk kompetensförsörjning\nArbeta i en organisation som befinner sig i en spännande tillväxt- och utvecklingsfas\n\n\n\nVälkommen med din ansökan!\nKänner du igen dig i beskrivningen och vill göra din praktik hos oss? Urval och intervjuer sker löpande, så skicka gärna in din ansökan så snart som möjligt.\nPlacering: Stockholm \nOmfattning: Praktik enligt utbildningens upplägg\nTillträde: Enligt överenskommelse\nAlla ansökningar behandlas konfidentiellt. För att säkerställa att dina personuppgifter hanteras i enlighet med GDPR tar ECIT inte emot ansökningar via e-post.\nHar du frågor om praktiken är du varmt välkommen att kontakta oss.\nVi ser fram emot att höra från dig!",
+  "posted_at": "2026-09-24T16:33:45+00:00",
+  "deadline": "2026-10-24T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5566580410",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Data visualisation",
+   "Excel modelling",
+   "Data analysis",
+   "AI-assisted coding"
+  ],
+  "fields": [
+   "Data Science"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "84950426290afe6b",
+  "content_hash": "95b8c79479a2ca4e",
+  "first_seen": "2026-09-25T09:11:48+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
+  "is_open": true
+ },
+ "128808ae8e8143f3": {
+  "source": "jobtech",
+  "source_id": "31517785",
+  "company": "Vattenfall AB",
+  "title": "Examensarbete - Design av energiomvandlare och energiomvandlingsfunktion",
+  "url": "https://jobs.smartrecruiters.com/Vattenfall/744000151360118-examensarbete-design-av-energiomvandlare-och-energiomvandlingsfunktion",
+  "description": "Företagsbeskrivning\nVattenfall är ett ledande europeiskt energiföretag med 12 miljoner kunder och cirka 21 000 anställda. Vi är övertygade om att det finns en väg att bygga en framtid där alla kan välja fossilfria sätt att transportera, producera och leva.\n\n\nOm rollen\nÄr du student och vill använda dina kunskaper för att bidra till verkliga lösningar inom energiomställningen? Hos oss får du möjlighet att genomföra ditt examensarbete nära verksamheten, tillsammans med erfarna specialister och med utmaningar där dina idéer och perspektiv kan göra skillnad.\nDet här examensarbetet gör du inom Vattenfall Research & Development i Älvkarleby hos gruppen som arbetar med hydraulik och dammsäkerhet. Under handledning av laboratoriet kommer du få utföra CFD-simuleringar (Computational Fluid Dynamics) i programvaran Fluent. I CFD-modellen studeras flera olika konfigurationer för att identifiera likheter och öka förståelsen för problemets karaktär.\nExamensarbetets bakgrund – Utskov är en av de mest kritiska konstruktionerna ur dammsäkerhetssynpunkt och måste kunna avbörda stora vattenflöden utan att dammens konstruktion skadas. Trots detta kan strukturella skador uppstå även vid normal drift. Det misstänks att sprickor kan utvecklas i rännbottnarna till följd av exempelvis bristfällig byggkvalitet, låg betonghållfasthet, förändrade driftförhållanden etc. Turbulent vattenströmning tränger in i sprickorna och konstruktionsfogar och genererar uppåtriktade lyftkrafter som leder till strukturella skador. För att säkerställa säker drift samt möjliggöra effektiv reparation och omkonstruktion av befintliga rännutskov är det avgörande att förstå flödesdynamiken och tryckutbredningen under betongplattorna.\nSyftet med examensarbetet är att föreslå lämpliga och kostnadseffektiva åtgärder för uppgradering av anläggningen. Målen med projektet är att du ska:\nFå inblick i pågående arbete inom dammsäkerhet och dammuppgraderingsprojekt i Sverige;\nTillägna sig grundläggande kunskaper inom CFD (Computational Fluid Dynamics);\nUtveckla en CFD-modell för simulering av flöden över dammutskov; och\nFöreslå lämpliga åtgärder för CFD utvärdering. \n\nDet här examensarbetet är för 1 student. \n\n\nKravspecifikation\nVi söker en student som snart avslutar sina akademiska studier och som vill omsätta sina kunskaper i praktiken genom ett examenarbete hos Vattenfall. Du är även någon som identifierar sig med våra principer: Aktiv, Öppen, Positiv och Säkerhet.\nVi ser att du: \nLäser Samhällsbyggnad alternativt Teknisk fysik\nHar mycket goda kunskaper i svenska och engelska i både tal och skrift.\n\nOmfattning - 30 hp. \n\n\nYtterligare information\nUppdraget startar: Januari-Februari 2027, exakt startdatum enligt överenskommelse\nPlaceringsort: Älvkarleby\nAnsökan – bifoga en fil som innehåller ditt CV och en kopia av dina betyg. Observera att man endast kan bifoga en fil i ansökan, därmed är det viktigt att informationen är samlad i en och samma fil.\nSista ansökningsdag är 2026-10-18.\nKontaktperson och handledare på Vattenfall: James Yang, james.yang@vattenfall.com, +46702723200\n\nMångfald och inkludering – i allt vi gör \nPå Vattenfall värdesätter vi att vara aktiva, positiva, öppna och säkerhetsmedvetna. Vi söker medarbetare som delar vår vision och kan bidra till att stärka vår företagskultur. Vi är övertygade om att mångfald bidrar till att bygga ett mer lönsamt och tilltalande företag och strävar efter att vara goda förebilder när det gäller mångfald. Vattenfall arbetar aktivt för att alla medarbetare ska ha samma möjligheter och rättigheter oavsett ålder, etnisk eller kulturell bakgrund, könstillhörighet, religion/tro, sexuell läggning eller funktionsvariation. Läs mer om hur vi arbetar med mångfald och inkludering här.     \nVattenfall är en del av Sveriges kritiska infrastruktur, därmed är många av våra tjänster säkerhetsklassade. Är denna tjänst säkerhetsklassad kommer säkerhetsprövning genomföras innan anställning, i enlighet med säkerhetsskyddslagen.",
+  "posted_at": "2026-09-24T16:58:30+00:00",
+  "deadline": "2026-10-18T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5560362138",
+  "city": "Älvkarleby",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Mechanical Engineering"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "128808ae8e8143f3",
+  "content_hash": "33ed3b7a5555c825",
+  "first_seen": "2026-09-25T09:11:48+00:00",
+  "last_seen": "2026-09-25T09:11:48+00:00",
   "is_open": true
  }
 }
