@@ -31,7 +31,7 @@
   "id": "18a3462ae2af95c2",
   "content_hash": "5148ad88b27c0489",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "0e59b0b92d46f28b": {
@@ -65,7 +65,7 @@
   "id": "0e59b0b92d46f28b",
   "content_hash": "eda8e9330dee2a24",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "a029c37aa9769e83": {
@@ -100,7 +100,7 @@
   "id": "a029c37aa9769e83",
   "content_hash": "fe3030ec5f966958",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "5f94da55e712bbaf": {
@@ -134,7 +134,7 @@
   "id": "5f94da55e712bbaf",
   "content_hash": "68f3e39fc69552f6",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "82badc0df983ae92": {
@@ -168,7 +168,7 @@
   "id": "82badc0df983ae92",
   "content_hash": "c534143b3aace471",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "7de3dcfb1fdaa215": {
@@ -202,7 +202,7 @@
   "id": "7de3dcfb1fdaa215",
   "content_hash": "11985aeec783d8dd",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "9dd2fcffa30ed8b9": {
@@ -236,7 +236,7 @@
   "id": "9dd2fcffa30ed8b9",
   "content_hash": "3cc6d1146a9fb76b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "7f4d46f3b7840c92": {
@@ -315,7 +315,7 @@
   "id": "3306155384cefff7",
   "content_hash": "c5c80e919572c489",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "c5cdecebe025cd52": {
@@ -352,7 +352,7 @@
   "id": "c5cdecebe025cd52",
   "content_hash": "7cd9c01597a29d09",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "0502060694254c60": {
@@ -389,7 +389,7 @@
   "id": "0502060694254c60",
   "content_hash": "fe2e063883f58962",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "13f9a4d2e7259d8d": {
@@ -425,7 +425,7 @@
   "id": "13f9a4d2e7259d8d",
   "content_hash": "9dbcc9116eb97bfa",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "2dd63beb4218d2de": {
@@ -460,7 +460,7 @@
   "id": "2dd63beb4218d2de",
   "content_hash": "c740582f290469dd",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "98f891d2f73804f9": {
@@ -500,7 +500,7 @@
   "id": "98f891d2f73804f9",
   "content_hash": "52cafc16b7c2631c",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "d477f897f91031b4": {
@@ -535,7 +535,7 @@
   "id": "d477f897f91031b4",
   "content_hash": "dce9a06137900740",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "896103a7eedd60c0": {
@@ -570,7 +570,7 @@
   "id": "896103a7eedd60c0",
   "content_hash": "2a5ef867a7061a91",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "26affd7d51814cdb": {
@@ -606,7 +606,7 @@
   "id": "26affd7d51814cdb",
   "content_hash": "2841669a91209432",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "637c2f6063ff9ba0": {
@@ -648,7 +648,7 @@
   "id": "637c2f6063ff9ba0",
   "content_hash": "4c8f3c1f70a8d62c",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "0ada7af633546188": {
@@ -685,7 +685,7 @@
   "id": "0ada7af633546188",
   "content_hash": "1af14781cbe3143d",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "4389377cd260e6c2": {
@@ -725,7 +725,7 @@
   "id": "4389377cd260e6c2",
   "content_hash": "2e247f4f4e1db209",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "512b2ddf3d09bfaf": {
@@ -762,7 +762,7 @@
   "id": "512b2ddf3d09bfaf",
   "content_hash": "7d300590062c7e40",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "e7f6e4085a0417ab": {
@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -841,7 +841,7 @@
   "id": "63c1445138d20f54",
   "content_hash": "ec6ac044f258444f",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "5418d519ecf4c0a7": {
@@ -878,7 +878,7 @@
   "id": "5418d519ecf4c0a7",
   "content_hash": "9bd3b723ff60ae5e",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "03dfc6c2b08c0909": {
@@ -915,7 +915,7 @@
   "id": "03dfc6c2b08c0909",
   "content_hash": "9287156d11c9b87b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "f2da3db7d8d654dc": {
@@ -952,7 +952,7 @@
   "id": "f2da3db7d8d654dc",
   "content_hash": "429e0b35473888bc",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "7f207031cf115f12": {
@@ -987,7 +987,7 @@
   "id": "7f207031cf115f12",
   "content_hash": "49e609cee957250b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "711a074d6eeb327f": {
@@ -1023,7 +1023,7 @@
   "id": "711a074d6eeb327f",
   "content_hash": "4f81076ee86c05c4",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "bf2997c93b9868af": {
@@ -1058,7 +1058,7 @@
   "id": "bf2997c93b9868af",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "2078c7e015353e21": {
@@ -1095,7 +1095,7 @@
   "id": "2078c7e015353e21",
   "content_hash": "7973359fb9d1f4b1",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "e77bb422fda554b2": {
@@ -1169,7 +1169,7 @@
   "id": "fd68deadadc0dee5",
   "content_hash": "f9f488bde79efe90",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "d489f2bc12fa717c": {
@@ -1206,7 +1206,7 @@
   "id": "d489f2bc12fa717c",
   "content_hash": "d081f59f7af1a418",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "2fb936555883da97": {
@@ -1245,7 +1245,7 @@
   "id": "2fb936555883da97",
   "content_hash": "1e9db2cd6919b79c",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "b27bd77f5956eabf": {
@@ -1282,7 +1282,7 @@
   "id": "b27bd77f5956eabf",
   "content_hash": "33d31775130d08f0",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "3a84d954a4fc55ea": {
@@ -1324,7 +1324,7 @@
   "id": "3a84d954a4fc55ea",
   "content_hash": "da5e564b1259de63",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "1808642af1771a1b": {
@@ -1366,7 +1366,7 @@
   "id": "1808642af1771a1b",
   "content_hash": "5ef6bd99b540f9bf",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "84eac48d22d24a39": {
@@ -1402,7 +1402,7 @@
   "id": "84eac48d22d24a39",
   "content_hash": "9cebe82af1ea65fb",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "39424e85dba2844a": {
@@ -1439,7 +1439,7 @@
   "id": "39424e85dba2844a",
   "content_hash": "54770d5fefac6189",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "97e053036c3db2be": {
@@ -1476,7 +1476,7 @@
   "id": "97e053036c3db2be",
   "content_hash": "34b239d0f69ec32b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "217562eb3f707bdf": {
@@ -1513,7 +1513,7 @@
   "id": "217562eb3f707bdf",
   "content_hash": "4f90949a497f6177",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "cd7a1e98cdf4365c": {
@@ -1550,7 +1550,7 @@
   "id": "cd7a1e98cdf4365c",
   "content_hash": "d19d9d99a9827852",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "c645eed59395b253": {
@@ -1589,7 +1589,7 @@
   "id": "c645eed59395b253",
   "content_hash": "491aff6415beb344",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "3bcd1cfad19ac0a9": {
@@ -1628,7 +1628,7 @@
   "id": "3bcd1cfad19ac0a9",
   "content_hash": "8f0ceb47a9b68909",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "cadc084332fb5ff1": {
@@ -1667,7 +1667,7 @@
   "id": "cadc084332fb5ff1",
   "content_hash": "b250d1ef39e48089",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "d697dbbcbbd68791": {
@@ -1705,7 +1705,7 @@
   "id": "d697dbbcbbd68791",
   "content_hash": "40f00c3f1352e9c9",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "00e2f2f03fa0f8a3": {
@@ -1749,7 +1749,7 @@
   "id": "00e2f2f03fa0f8a3",
   "content_hash": "05baf893415d533e",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "46ea43c3e6599d93": {
@@ -1785,7 +1785,7 @@
   "id": "46ea43c3e6599d93",
   "content_hash": "5daaace57880aba6",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "c638e648881575cd": {
@@ -1821,7 +1821,7 @@
   "id": "c638e648881575cd",
   "content_hash": "67806b99a9974196",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "165a73871ae7ff14": {
@@ -1857,7 +1857,7 @@
   "id": "165a73871ae7ff14",
   "content_hash": "cb0ce0b1ef593713",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "e14b68401272dd04": {
@@ -1892,7 +1892,7 @@
   "id": "e14b68401272dd04",
   "content_hash": "ae1b2f0c611d1497",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "e8acd9bc0dfbebe1": {
@@ -1927,7 +1927,7 @@
   "id": "e8acd9bc0dfbebe1",
   "content_hash": "8442c4bcce0b8586",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "20ac0f2934a0afd4": {
@@ -1969,7 +1969,7 @@
   "id": "20ac0f2934a0afd4",
   "content_hash": "450c993d76e76ddb",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "d01860f36002c286": {
@@ -2005,7 +2005,7 @@
   "id": "d01860f36002c286",
   "content_hash": "a9978d5f31717fa2",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "f96b7b51cf185932": {
@@ -2040,7 +2040,7 @@
   "id": "f96b7b51cf185932",
   "content_hash": "a0d3f83584da5dd5",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "912e14d2590b35a5": {
@@ -2075,7 +2075,7 @@
   "id": "912e14d2590b35a5",
   "content_hash": "ef087b4a0370221d",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "9507e251d23bfbc2": {
@@ -2114,7 +2114,7 @@
   "id": "9507e251d23bfbc2",
   "content_hash": "bb7ddad161eefdc7",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "7e1ef6971145027a": {
@@ -2151,7 +2151,7 @@
   "id": "7e1ef6971145027a",
   "content_hash": "9eea41556add003f",
   "first_seen": "2026-09-25T09:11:48+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "6a5fececfc2614dd": {
@@ -2188,7 +2188,7 @@
   "id": "6a5fececfc2614dd",
   "content_hash": "6dea8026c07a0a78",
   "first_seen": "2026-09-25T09:11:48+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "84950426290afe6b": {
@@ -2228,7 +2228,7 @@
   "id": "84950426290afe6b",
   "content_hash": "95b8c79479a2ca4e",
   "first_seen": "2026-09-25T09:11:48+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "128808ae8e8143f3": {
@@ -2263,7 +2263,7 @@
   "id": "128808ae8e8143f3",
   "content_hash": "33ed3b7a5555c825",
   "first_seen": "2026-09-25T09:11:48+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "ddef14251dabcc3c": {
@@ -2302,7 +2302,7 @@
   "id": "ddef14251dabcc3c",
   "content_hash": "7cb266290b85910f",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "9b0d10b7bc5a0458": {
@@ -2337,7 +2337,7 @@
   "id": "9b0d10b7bc5a0458",
   "content_hash": "6cb0069b61a4804c",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "3f07afa568825d73": {
@@ -2381,7 +2381,7 @@
   "id": "3f07afa568825d73",
   "content_hash": "0847226d0d728fcc",
   "first_seen": "2026-09-28T10:17:58+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  },
  "6b69f554117dc4ff": {
@@ -2416,7 +2416,396 @@
   "id": "6b69f554117dc4ff",
   "content_hash": "716785840ae228f9",
   "first_seen": "2026-09-29T10:14:15+00:00",
-  "last_seen": "2026-09-29T10:14:15+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
+  "is_open": true
+ },
+ "e576f7cf02fdca67": {
+  "source": "jobtech",
+  "source_id": "31532495",
+  "company": "Toyota Material Handling Europe AB",
+  "title": "Examensarbete: Mekanisk konstruktion, vibrationer",
+  "url": "https://www.aplitrak.com/?adid=VE1ITVMuODYyMTIuMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
+  "description": "På Toyota tillverkas truckar där förarens säkerhet och ergonomi är högt prioriterade. I takt med ökande krav på arbetsmiljö. komfort och ergonomi kring helkroppsvibrationer behöver produkternas prestande förbättras. I det här examensarbetet får du analysera helkroppsvibrationer och analysera hur man kan förbättra förarupplevelsen av Toyotas ståtruckar.\n\nI ditt examensarbete på Toyota kommer du att arbeta med:\nDu kommer att få genomföra en bred analys av vibrationer i truckar\nGenomföra en litteraturstudie inom området helkroppsvibrationer, ergonomi och komfort.\nKartlägga och analysera vilka vibrationstyper och frekvensområden som har störst påverkan på förarens upplevelse och exponering.\nUtvärdera relevanta standarder och riktlinjer för helkroppsvibrationer.\nAnalysera befintliga mätdata och provresultat från truckar.\nUndersöka om befintliga provmetoder kan användas för att bedöma ytterligare aspekter av vibrationer och komfort.\nIdentifiera förbättringsmöjligheter för framtida produktutveckling och verifieringsmetoder.\n\n\nOMFATTNING\nExjobbet är lämpligt för en-två personer inom ramen för ett masterprogram.\nKravspecifikation\nTill detta examensarbete söker vi dig/er som läser någon av följande utbildningar eller motsvarande:\nCivilingenjör maskinteknik\nCivilingenjör produktutveckling\nCivilingenjör teknisk mekanik\n\nVilka är Toyota Material Handling?\nToyota Material Handling är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \n\nPå Toyota Material Handling eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. Genom vårt framstående miljöarbete, ambitiösa klimatmål och vår personalpolitik arbetar vi för att vara en hållbar arbetsgivare.\n\nStart\nVT2027\n\nDin ansökan\nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01.\n\nKontakta gärna våra medarbetare för mer information:\nSofia Oskarsson, Manager Machine Compartment, Sofia.Oskarsson@toyota-industries.eu\nJosefin Nilsson, HR, josefin.nilsson@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS",
+  "posted_at": "2026-09-29T13:59:48+00:00",
+  "deadline": "2026-10-27T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5564919537",
+  "city": "Mjölby",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Mechanical Engineering"
+  ],
+  "about": "Du kommer att få genomföra en bred analys av vibrationer i truckar",
+  "bullets": [],
+  "enriched": false,
+  "id": "e576f7cf02fdca67",
+  "content_hash": "f64031f238159e49",
+  "first_seen": "2026-09-30T10:05:38+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
+  "is_open": true
+ },
+ "44ac48910cd76c39": {
+  "source": "jobtech",
+  "source_id": "31532547",
+  "company": "Toyota Material Handling Europe AB",
+  "title": "Examensarbete: Systematisk kostnadsreduktion i produktutvecklingsarbete",
+  "url": "https://www.aplitrak.com/?adid=VE1ITVMuNTM1MzYuMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
+  "description": "Är du intresserad av samspelet mellan teknik, ekonomi och produktutveckling? Detta examensarbete riktar sig till dig/er som vill kombinera akademisk forskning med praktisk tillämpning genom att utvärdera olika kostnadsreduceringsmetoder och testa deras potential på en skarp produkt.\n\nI ditt examensarbete på Toyota kommer du att arbeta med:\nAtt göra en litteraturstudie för att finna metoder kring strukturerat arbete för att sänka kostnader på produkter utifrån ett konstruktionsperspektiv. \nAtt ta fram styrkor och svagheter för de olika metodikerna.\nAtt prova de bästa metoderna på en riktig produkt för att ta fram kostnadsreduceringsförslag.\n\n\nMarknaden för truckar blir alltmer konkurrensutsatt, samtidigt som kunderna ställer höga krav på både prestanda, kvalitet och pris. För att bibehålla konkurrenskraften räcker det inte att utveckla tekniskt välfungerande produkter, de måste även vara kostnadseffektiva att tillverka. Detta ställer ökade krav på konstruktionsarbetet, där val av lösningar, material och komponenter har stor påverkan på produktens totala kostnad.\n\nI detta examensarbete kommer ni att få undersöka hur företag på ett strukturerat sätt kan identifiera och reducera produktkostnader på befintliga produkter genom att välja \"smartare\" konstruktionslösningar. Arbetet inleds med en litteraturstudie av etablerade kostnadsreduceringsmetoder, följt av en utvärdering av metodernas styrkor och svagheter.\n\nDe mest lovande metoderna kommer därefter att tillämpas på en befintlig produkt för att identifiera potentiella kostnadsbesparingar och förbättringsområden. Målet är att ta fram både konkreta kostnadsreduceringsförslag och rekommendationer för hur ett mer kostnadsmedvetet arbetssätt kan integreras i framtida produktutveckling.\n\nOMFATTNING\nOmfattningen av arbetet kan vi anpassa men vi ser gärna att ni är två personer som gör examensarbetet tillsammans.\n1-2 personer / 15-30HP\nKravspecifikation\nTill detta examensarbete söker vi dig/er som läser någon av följande utbildningar eller motsvarande:\nCivil- eller högskoleingenjör i Maskinteknik med inriktning konstruktion eller produktion.\nCivil- eller högskoleingenjör Design och Produktutveckling\nCivil- eller högskoleingenjör Industriell Ekonomi\n\nVilka är Toyota Material Handling?\nToyota Material Handling är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar.\nPå Toyota Material Handling eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. Genom vårt framstående miljöarbete, ambitiösa klimatmål och vår personalpolitik arbetar vi för att vara en hållbar arbetsgivare.\nStart\n\nEnligt överenskommelse våren 2027.\n\nDin ansökan\nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01.\n\nKontakta gärna våra medarbetare för mer information:\nDennis Åkersten, gruppchef produktoptimering, tel. +46 722 38 47 46\nJosefin Nilsson, HR, josefin.nilsson@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS",
+  "posted_at": "2026-09-29T14:03:03+00:00",
+  "deadline": "2026-10-27T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5564919537",
+  "city": "Mjölby",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Mechanical Engineering"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "44ac48910cd76c39",
+  "content_hash": "956887e7a843c9e5",
+  "first_seen": "2026-09-30T10:05:38+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
+  "is_open": true
+ },
+ "6b6b3ca909ddfa25": {
+  "source": "jobtech",
+  "source_id": "31532460",
+  "company": "Toyota Material Handling Europe AB",
+  "title": "Examensarbete: Mekanisk konstruktion och beräkning",
+  "url": "https://www.aplitrak.com/?adid=VE1ITVMuMDkwODQuMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
+  "description": "Nästa generations truckar behöver nästa generations skyddstak med förbättrad funktion och sänkt kostnad. I det här exjobbet får du ta fram nya koncept som löser tekniska utmaningar genom att praktiskt testa produktutvecklingsmetodik och konstruktion för att kunna validera konceptet genom simulering.\n\nI ditt examensarbete på Toyota kommer du att arbeta med:\nNi kommer att självständigt genomföra konceptframtagning och validering av konceptet, med stöd av handledare med djup kompetens inom produkten och metoderna.\nExjobbet innebär att:\nAnalysera kravbild på skyddstak\nGenerera koncept med olika tillverkningstekniker\nKonstruera valda koncept i CAD (Catia V5)\nSimulering av koncept för att validera genomförbarhet\n\n\nOMFATTNING\nExjobbet är lämpligt för två personer inom ramen för ett masterprogram.\nKravspecifikation\nTill detta examensarbete söker vi er som läser någon av följande utbildningar eller motsvarande:\nCivilingenjör maskinteknik\nCivilingenjör produktutveckling\nCivilingenjör teknisk mekanik\nLämpligt är att en person är inriktad mot konstruktion/produktutveckling och en mot beräkning/simulering.\n\nVilka är Toyota Material Handling?\nToyota Material Handling är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \n\nPå Toyota Material Handling eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. Genom vårt framstående miljöarbete, ambitiösa klimatmål och vår personalpolitik arbetar vi för att vara en hållbar arbetsgivare. \n\nStart\nVT 2027\n\nDin ansökan\nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01.\n\nKontakta gärna våra medarbetare för mer information:\nSofia Oskarsson, Manager Machine Compartment, Sofia.Oskarsson@toyota-industries.eu\nJosefin Nilsson, HR, josefin.nilsson@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS",
+  "posted_at": "2026-09-29T13:55:29+00:00",
+  "deadline": "2026-10-27T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5564919537",
+  "city": "Mjölby",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "CAD (SolidWorks)"
+  ],
+  "fields": [
+   "Mechanical Engineering"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "6b6b3ca909ddfa25",
+  "content_hash": "738a27f1bc891253",
+  "first_seen": "2026-09-30T10:05:38+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
+  "is_open": true
+ },
+ "b69218cc6f6de9af": {
+  "source": "jobtech",
+  "source_id": "31532590",
+  "company": "Toyota Material Handling Europe AB",
+  "title": "Examensarbete mjukvara: AI-baserad felsökning av ECU-testfall",
+  "url": "https://www.aplitrak.com/?adid=VE1ITVMuMjgwMzYuMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
+  "description": "Testning blir en allt större del av vårt arbetsflöde och har en stark koppling till vår utvecklings- och releaseprocess. AI gör att utvecklingen går ständigt framåt i snabb takt, och varje natt körs tusentals tester på våra produkter. För att utvecklare ska få snabb och tydlig feedback om vad som har gått fel räcker våra nuvarande rapporter inte alltid till. När test går fel behöver vi ge utvecklarna snabbare och mer detaljerad feedback om vad och varför testet gick fel.\n\nI ditt examensarbete på Toyota kommer du att arbeta med:\nAnvända en befintlig HIL- eller SIL-rigg för att utvärdera testkörningar med hjälp av AI\nUtvärdera träffsäkerheten i att identifiera fel i koden eller testet\nImplementera arbetet i våra automatiserade byggflöden\n\n\nKan vi med hjälp av AI-agent analysera och identifiera vad som har gått fel i ett testfall? Efter att våra HIL-tester har körts har vi tillgång till kraven, koden som testats, koden som utför testerna samt data från testerna. Med hjälp av denna data vill vi undersöka möjligheten att peka ut exakt vad i koden som har gått fel, och vad åtgärden är för att lösa felet\n\nOMFATTNING\n2 personer/15-30HP\nKravspecifikation\nTill detta examensarbete söker vi dig/er som läser någon av följande utbildningar eller motsvarande:\nCivilingenjör i mjukvaruteknik\nCivilingenjör i datateknik\nCivilingenjör i teknisk fysik\nHögskoleingenjör Data\nInnovativ programmering\n\nVilka är Toyota Material Handling?\nToyota Material Handling är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \nHållbar arbetsgivare \nPå Toyota Material Handling eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. Genom vårt framstående miljöarbete, ambitiösa klimatmål och vår personalpolitik arbetar vi för att vara en hållbar arbetsgivare.\n\nStart\nVåren 2027\n\nDin ansökan\nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01.\n\nKontakta gärna våra medarbetare för mer information:\nFilip Sundqvist, Software Engineer, Filip.Sundqvist@toyota-industries.eu\nJosefin Nilsson, HR, josefin.nilsson@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS",
+  "posted_at": "2026-09-29T14:06:31+00:00",
+  "deadline": "2026-10-27T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5564919537",
+  "city": "Mjölby",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Data Science",
+   "Computer Science"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "b69218cc6f6de9af",
+  "content_hash": "fbd8110c8348ce87",
+  "first_seen": "2026-09-30T10:05:38+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
+  "is_open": true
+ },
+ "d9dcbe3effc9bd2d": {
+  "source": "jobtech",
+  "source_id": "31535908",
+  "company": "BAE Systems Bofors AB",
+  "title": "Examensarbete hos BAE Systems Bofors:CFD-Simulering av drivspegelseparation",
+  "url": "https://baesystems.varbi.com/se/what:job/jobID:974418/type:job/where:125/apply:1",
+  "description": "BAE Systems Bofors arbetar med att stärka försvarsförmågan i Sverige och i våra partnerstater världen över. Detta gör vi genom att utveckla, producera och sälja världens mest avancerade försvarsmateriel. BAE Systems Bofors verksamhet finns längs med hela Sveriges försvarspolitiska säkerhetsbälte och företaget har cirka 850 medarbetare placerade i Karlstad, Karlskoga och Örebro. Företaget ingår i en av världens största försvarsindustrikoncern, BAE Systems, med över 100 000 anställda. Detta ger oss unika möjligheter att kombinera vår långa tradition av lokal expertis med världsledande internationell erfarenhet.\nVarje år gör flera studenter sina examensarbete hos BAE Systems Bofors i Karlskoga. Vi som arbetsgivare ser examensarbete som en möjlighet för oss att lära känna potentiella framtida medarbetare, men också som en chans för dig som student att testa dina kunskaper, lära känna vår organsation och ta steget närmare en anställning.\nTillsättning och tidsomfattning sker i samråd med dig som student.\nVill du göra ditt examensarbete i en högteknologisk miljö där teori möter praktik?\nHos BAE Systems Bofors erbjuder vi spännande examensarbeten där du får möjlighet att arbeta med avancerade simuleringar, experimentella tester och bidra till utvecklingen av framtidens försvarssystem.\nSom examensarbetare hos BAE Systems Bofors blir du en del av en kultur präglad av samarbete, innovation och kunskapsdelning. Din röst är viktig och nya idéer uppmuntras. Du får en konkret inblick i hur det är att arbeta som analysingenjör och möjlighet att bidra till utvecklingen av verkliga produkter och lösningar.\nArbetet sker i nära samarbete med erfarna ingenjörer och experter, och du får tillgång till modern analysutrustning i en dynamisk miljö där både praktiskt och teoretiskt arbete är centralt. För dig som är intresserad av en framtid som analysingenjör är detta en utmärkt möjlighet att få inblick i yrkesrollen och utveckla relevanta färdigheter. Vi har ett kontinuerligt rekryteringsbehov inom området och ser examensarbeten som en naturlig och viktig väg till framtida anställning – flera av våra tidigare exjobbare är idag en del av vårt team.\nNumerisk simulering av drivspegelsseparation med CFD\nBakgrund\nDet kan i vissa tillämpningar vara av intresse att skjuta projektiler med en mindre diameter än eldrörets diameter. För att möjliggöra detta används en så kallad sabot, eller drivspegel, som omger den underkalibrerade projektilen och skapar ett tätt skikt mellan projektil och eldrör. Efter mynningspassage separerar drivspegeln från projektilen, som därefter fortsätter sin fria flygning med hög hastighet.\nFör att kunna utveckla och utvärdera drivspeglar är det av intresse att kunna simulera separationsförloppet när projektilpaketet lämnar mynningen. En sådan simuleringsmetod kan bidra till ökad förståelse för hur drivspegelns delar separerar från projektilen och hur förloppet påverkas av det omgivande luftflödet.\nSyfte\nSyftet med examensarbetet är att ta fram en simuleringsmetod i valfri CFD-programvara för att återskapa separationsförloppet när projektilpaketet lämnar mynningen. Arbetet avgränsas till radiellt separerande drivspeglar. Simuleringsmodellen och dess förutsättningar ska baseras på information från öppna källor, vilket innebär att arbetet kan genomföras utan användning av sekretessbelagd information.\nInnehåll och arbetsuppgifter\nLitteraturstudie samt insamling av öppet tillgängliga data, bilder och videomaterial för ett lämpligt exempel på underkalibrerad ammunition.\nFramtagning eller förenkling av nödvändiga geometrier samt uppbyggnad av en lämplig simuleringsmiljö.\nUppställning och genomförande av simuleringar i lämplig CFD-programvara (Ansys Fluent, CFX, CFD++ eller OpenFOAM).\nModellering av det transienta separationsförloppet, med fokus på radiellt separerande drivspeglar och samspelet mellan aerodynamiska laster och drivspegelns rörelse.\nUtvärdering av simuleringsmetoden genom jämförelse med öppet tillgängliga observationer och dokumenterade verkliga separationsförlopp.\nDokumentation av metod, resultat, begränsningar och rekommendationer för fortsatt arbete.\n\nFörväntade resultat\nEn fungerande och dokumenterad metod för CFD-simulering av radiellt separerande drivspeglar.\nÖkad förståelse för vilka modellval och fysikaliska fenomen som är viktiga för att beskriva separationsförloppet.\nEn jämförelse mellan simulerade resultat och öppet tillgängliga verkliga förlopp samt en bedömning av metodens möjligheter och begränsningar.\n\nProfil / förkunskaper\nGoda kunskaper i strömningsmekanik och ett intresse för aerodynamik och numerisk simulering.\nGrundläggande erfarenhet av numeriska metoder och/eller CFD är meriterande.\nErfarenhet av någon CFD-programvara, exempelvis Ansys Fluent, CFX, CFD++ eller OpenFOAM, är meriterande.\nIntresse för simulering, modellutveckling och analys av snabba transienta förlopp.\nPraktiskt:\nOmfattning: cirka 20 veckor (masterexamensarbete)\nArbetet lämpar sig för 1 student.\nStart: enligt överenskommelse.\nPlats: Karlskoga/Karlstad\nVill du veta mer om exjobbet?\nKontakta Andreas Hörberg: andreas.horberg@baesystems.se\nOm du är redo att ta nästa steg i din karriär, välkommen att skicka in din ansökan med CV och personligt brev till BAE Systems Bofors, senast 2026-11-22, och bli en del av ett innovativt team som gör skillnad! Urval och intervjuer sker löpande, och tillsättning av examensarbetet kan komma att ske före sista ansökningsdag. Skicka därför gärna in din ansökan så snart som möjligt!\nVarmt välkommen med din ansökan!",
+  "posted_at": "2026-09-30T11:09:11+00:00",
+  "deadline": "2026-11-22T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5562041904",
+  "city": "Karlskoga",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Mechanical Engineering"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "d9dcbe3effc9bd2d",
+  "content_hash": "4b0d852740397d13",
+  "first_seen": "2026-09-30T10:05:38+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
+  "is_open": true
+ },
+ "51e11c83c475db15": {
+  "source": "jobtech",
+  "source_id": "31532682",
+  "company": "Toyota Material Handling Europe AB",
+  "title": "Examensarbete: Kamerabaserad förarövervakning och förarstöd i lagertruckar ",
+  "url": "https://www.aplitrak.com/?adid=VE1ITVMuODI1MTcuMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
+  "description": "Hur kan AI och kamerateknik bidra till säkrare, effektivare och mer ergonomiska lagertruckar? Toyota Material Handling söker examensarbetare som vill utforska framtidens förarstödssystem genom att kombinera AI, människa-maskininteraktion och ergonomi. Arbetet kan genomföras med fokus på mjukvaruutveckling och AI-algoritmer eller som en mer ergonomi- och funktionsutvärderande studie. \n\nI ditt examensarbete på Toyota kommer du att arbeta med: \nUtvärdera hur kameror kan identifiera distraktion och mobilanvändning under körning. \nUndersöka möjligheten att övervaka förarens position och säkerhetsbeteenden. \nStudera hur AI-baserad förarövervakning kan förbättra säkerhet, ergonomi och produktivitet. \nUtveckla eller utvärdera koncept för föraridentifiering och intelligenta stödfunktioner. \n\n\nKamerateknik i kombination med AI utvecklas snabbt och används idag inom många fordonssystem. Examensarbetet syftar till att undersöka vilka funktioner som ger störst nytta för förare och företag samt hur dessa kan implementeras i framtida lagertruckar. \n\nOMFATTNING \n1-2 personer / 15-30 hp\nKravspecifikation\nTill detta examensarbete söker vi dig/er som läser någon av följande utbildningar eller motsvarande:\nCivilingenjör Datateknik \nCivilingenjör Mjukvaruteknik \nCivilingenjör Mekatronik \nCivilingenjör Teknisk fysik \nCivilingenjör Industriell design \nHögskoleingenjör Data \nHögskoleingenjör Elektroteknik \nMaster eller kandidat inom ergonomi, kognitionsvetenskap eller MDI/HMI\n\nVilka är Toyota Material Handling? \nToyota Material Handling är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \nPå Toyota Material Handling eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. \n\nStart \nVårterminen 2027 eller enligt överenskommelse. \n\nDin ansökan \nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01. \n\nKontakta gärna våra medarbetare för mer information:\nDaniel Nåbo, Handledare, 0705- 484012, daniel.nabo@toyota-industries.eu \nJosefin Nilsson, HR, josefin.nilsson@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB \n#MS",
+  "posted_at": "2026-09-29T14:18:32+00:00",
+  "deadline": "2026-10-27T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5564919537",
+  "city": "Mjölby",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Data Science"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "51e11c83c475db15",
+  "content_hash": "81f9071b16303c94",
+  "first_seen": "2026-09-30T10:05:38+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
+  "is_open": true
+ },
+ "3a4a1f9175f766de": {
+  "source": "jobtech",
+  "source_id": "31532628",
+  "company": "Toyota Material Handling Europe AB",
+  "title": "Examensarbete: Inbyggd Mjukvara: Automatisk styrning mot en EU-Pall",
+  "url": "https://www.aplitrak.com/?adid=VE1ITVMuNjE4MzguMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
+  "description": "Marknaden begär truckar med smartare funktioner även på menuellstyrda truckar. Exjobbet går ut på att använda färdigutvecklad machine vision data som räknar ut en pall position relativt trucken. Du kommer skriva kod i vår inbyggda mjukvara för att reglera en riktig Toyota truck mot en EU-pall på ett säkert och effektivt sätt.\n\nI ditt examensarbete hos oss kommer du att arbeta med:\nInbyggd Mjukvaruutveckling\nReglerteknik\nTestning på produkt\nCAN kommunikation \n\n\nUtforska vilka komplikationer det finns med att använda ett vision system för att positionera en truck med \"hold to run\" funktioner där operatören bara kontrollerar om funktionen ska köras eller inte och resten hanteras automatiskt. Utforska hur man kan säkert och effektivt kontrollera styrningen på en truck för att positionera gafflarna under en EU-Pall när noggrannhet förändras i realtid.\n\nOMFATTNING\n2 personer / 30HP\nKravspecifikation\nTill detta examensarbete söker vi dig/er som läser någon av följande utbildningar eller motsvarande:\nCivilingenjör inom datateknik.\nCivilingenjör inom elektronik och systemdesign.\nCivilingenjör inom Maskinteknik\nCivilingenjör inom Mjukvaruteknik\n\nVilka är Toyota Material Handling Europe?\nToyota Material Handling Europe är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \nHållbar arbetsgivare \nPå Toyota Material Handling Europe eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. Genom vårt framstående miljöarbete, ambitiösa klimatmål och vår personalpolitik arbetar vi för att vara en hållbar arbetsgivare.\n\nStart\nSlutet av Januari.\n\nDin ansökan\nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01.\n\nKontakta gärna våra medarbetare för mer information:\nAlbin Axby , Mjukvaruutecklare, +46761349566\nJosefin Nilsson, HR, josefin.nilsson@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS",
+  "posted_at": "2026-09-29T14:16:07+00:00",
+  "deadline": "2026-10-27T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5564919537",
+  "city": "Mjölby",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Computer Science"
+  ],
+  "about": "Du kommer skriva kod i vår inbyggda mjukvara för att reglera en riktig Toyota truck mot en EU-pall på ett säkert och effektivt sätt.",
+  "bullets": [],
+  "enriched": false,
+  "id": "3a4a1f9175f766de",
+  "content_hash": "e60d76b4322c9ffa",
+  "first_seen": "2026-09-30T10:05:38+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
+  "is_open": true
+ },
+ "877de922b2afac65": {
+  "source": "jobtech",
+  "source_id": "31532411",
+  "company": "Toyota Material Handling Europe AB",
+  "title": "Examensarbete: Elektrifiering av lyftsystem för autonom låglyftande truck",
+  "url": "https://www.aplitrak.com/?adid=VE1ITVMuMzU5MTUuMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
+  "description": "Hydraulik har länge varit den dominerande tekniken för lyftfunktioner inom materialhantering. Samtidigt möjliggör dagens elektriska aktuatorer och drivsystem nya lösningar som kan minska komplexitet, förbättra energieffektivitet och skapa nya produktmöjligheter. Toyota Material Handling söker nu examensarbetare som vill undersöka framtidens lyftteknik genom att utvärdera möjligheten att ersätta hydrauliken i en autonom låglyftande truck med elektriska alternativ.\n\nI ditt examensarbete på Toyota kommer du att arbeta med:\nKartlägga och analysera krav på lyftfunktion för en autonom låglyftande truck. \nUndersöka och utvärdera elektriska alternativ till dagens hydraulsystem. \nJämföra tekniska lösningar utifrån prestanda, energieffektivitet, kostnad och robusthet. \nTa fram konceptförslag och rekommendationer för framtida produktutveckling. \n\n\nHydrauliska system används idag för att skapa de krafter och rörelser som krävs vid lyft av gods. Samtidigt utvecklas elektriska aktuatorer, kulskruvslösningar och elektromekaniska system i snabb takt och används i allt fler industriella applikationer.\n\nMålet med examensarbetet är att undersöka om ett elektriskt lyftsystem kan vara ett realistiskt alternativ för en autonom låglyftande truck. Arbetet omfattar analys av befintlig lösning, identifiering av tekniska krav, marknadsundersökning av tillgängliga tekniker samt konceptutveckling. Resultatet förväntas ge Toyota Material Handling ett beslutsunderlag för framtida utveckling av mer elektrifierade och hållbara trucklösningar.\n\nOMFATTNING\n2 personer / 15-30 HP per person.\nKravspecifikation\nTill detta examensarbete söker vi dig/er som läser någon av följande utbildningar eller motsvarande:\nCivilingenjör Maskinteknik \nCivilingenjör Mekatronik \nCivilingenjör Elektroteknik \nHögskoleingenjör Maskinteknik \nHögskoleingenjör Mekatronik\n\nVilka är Toyota Material Handling?\nToyota Material Handling är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \n\nPå Toyota Material Handling eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. Genom vårt framstående miljöarbete, ambitiösa klimatmål och vår personalpolitik arbetar vi för att vara en hållbar arbetsgivare.\n\nStart\nJanuari 2027 (för 30 HP) eller mars 2027 (för 15 HP).\n\nDin ansökan\nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01.\n\nKontakta gärna våra medarbetare för mer information:\nJoakim Jennsjö, Manager HW AS, 073 0622696\nJosefin Nilsson, HR, josefin.nilsson@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS",
+  "posted_at": "2026-09-29T13:53:02+00:00",
+  "deadline": "2026-10-27T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5564919537",
+  "city": "Mjölby",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Mechanical Engineering",
+   "Electrical Engineering"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "877de922b2afac65",
+  "content_hash": "c03b6f350a592fa2",
+  "first_seen": "2026-09-30T10:05:38+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
+  "is_open": true
+ },
+ "98a8ebdf51a41ac3": {
+  "source": "jobtech",
+  "source_id": "31532641",
+  "company": "Toyota Material Handling Europe AB",
+  "title": "Exjobb:Intelligent punktmolnsfiltrering för förbättrad pallperception",
+  "url": "https://www.aplitrak.com/?adid=VE1ITVMuMzEyOTIuMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
+  "description": "Förbättrad sensorik och perception av omgivning ger nya förutsättningar för att lösa komplexa problem i automatiserade system. Vi vill nu utvärdera nu en eller fler metoder för att, med hjälp av kombinerad sensorik, identifiera och särskilja mätpunkter i ett punktmoln av specifikt intresse.\n\nI ditt examensarbete på Toyota kommer du att arbeta med:\nEtt modernt sensorsystem med:\n2D RGB kamera för objektdetektion\nTime of Flight (ToF) 3D kamera, för avståndsbedömning\nKorrelation mellan pixlar från rgb-kamera med punkter i 3D-punkmoln från ToF-kamera.\nNvidia-chip (GPU) för databehandling\n\n\nTanken med examensarbetet är att undersöka hur detta system kan nyttjas för att göra korrekt avståndsbedömning till detekterade objekt, till exempel detekterade lastpallar. Vid avståndsbedömning söker vi avstånd till det detekterade objektets framsida och utmaningen ligger i att filtrera bort ointressanta delar, av det detekterade objektet, i punktmolnet. Examensarbetet inkluderar att utveckla denna metod samt att jämföra denna med alternativa metoder.\nSyftet med examensarbetet är att möjliggöra exempelvis för anpassad inkörning, baserat på exakt lastpositionering och orientering.\n\nOMFATTNING\n1-2 personer/ 30 HP\nKravspecifikation\nTill detta examensarbete söker vi dig/er som läser någon av följande utbildningar eller motsvarande:\nCivilingenjör Teknisk fysik\nCivilingenjör Datateknik\nCivilingenjör Medieteknik och AI\n\nVilka är Toyota Material Handling?\nToyota Material Handling är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produkt-range går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \nHållbar arbetsgivare \nPå Toyota Material Handling eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. Genom vårt framstående miljöarbete, ambitiösa klimatmål och vår personalpolitik arbetar vi för att vara en hållbar arbetsgivare.\n\nStart\nJanuari 2027\n\nDin ansökan\nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01.\n\nKontakta gärna våra medarbetare för mer information:\nArvid Önsten, Software Developer,+46 72-238 41 82\nJosefin Nilsson, HR, josefin.nilsson@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS",
+  "posted_at": "2026-09-29T14:14:13+00:00",
+  "deadline": "2026-10-27T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5564919537",
+  "city": "Mjölby",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Computer Science"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "98a8ebdf51a41ac3",
+  "content_hash": "5766edf8db89d9b8",
+  "first_seen": "2026-09-30T10:05:38+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
+  "is_open": true
+ },
+ "96f0e6e5efe31b57": {
+  "source": "jobtech",
+  "source_id": "31532607",
+  "company": "Toyota Material Handling Europe AB",
+  "title": "Exjobb:Upptäck och kompensera för mastutböjning på självkörande gaffeltruck",
+  "url": "https://www.aplitrak.com/?adid=VE1ITVMuNDgxMDIuMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
+  "description": "Marknaden för förarlösa fordon växer allt snabbare och kraven på truckarna ökar. Toyota Material Handling Europe söker nu två examensarbetare som skall hjälpa oss att utforska framtida lösningar för att förbättra effektivitet och precision under lasthantering på höga höjder. Under ditt examensarbete blir du en del av vår avdelning för självkörande gaffeltruckar och får lära känna våra medarbetare och vår kultur. \n\nI ditt examensarbete på Toyota kommer du att arbeta med:\nSamla och analysera data om mastutböjning\nModellering\nImplementera konceptlösning\nTesta modeller/lösning på riktig hårdvara\nSensorfusion\n\n\nEn av de största felkällorna när det kommer till precision under lasthantering med självkörande gaffeltruckar är att det inte är känt för truckens styrsystem exakt hur masten beter sig vid lyft till olika höjder med olika vikter. En manuell förare kan enkelt kompensera för detta men i det självkörande fallet blir det en utmaning. Det här exjobbet går ut på att undersöka om det går att, i realtid, kompensera för den variation som uppstår mellan lastens teoretiska och faktiska positioner vid höga lyft. Detta kan potentiellt göras på flera olika vis, genom att utnyttja olika sensorer i kombination med till exempel maskininlärning, dataanalys, sensorfusion eller modellering.\n\nOMFATTNING\n2 personer/15-30HP\nKravspecifikation\nTill detta examensarbete söker vi dig/er som läser någon av följande utbildningar eller motsvarande:\nTeknisk Fysik\nElektroteknik\nMaskinteknik\nDatateknik\n\nVilka är Toyota Material Handling?\nToyota Material Handling är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \n\nPå Toyota Material Handling eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. \n\nStart\nCivilingenjörer/30 HP - januari och högskoleingenjörer/15-16 HP - slutet av mars.\n\nDin ansökan\nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01.\n\nKontakta gärna våra medarbetare för mer information:\nSanna Renius, Software Engineer, +46 72-202 40 69\nKarin Jerner, Manager Software Development Auto Solutions, +46 72-238 98 36\nJosefin Nilsso, HR, josefin.nilsson@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS",
+  "posted_at": "2026-09-29T14:11:24+00:00",
+  "deadline": "2026-10-27T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5564919537",
+  "city": "Mjölby",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Computer Science"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "96f0e6e5efe31b57",
+  "content_hash": "c1281673f32efb10",
+  "first_seen": "2026-09-30T10:05:38+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
+  "is_open": true
+ },
+ "e82c953a146b7753": {
+  "source": "jobtech",
+  "source_id": "31535034",
+  "company": "Fastighetsägarna Service Stockholm AB",
+  "title": "Hej studentmedarbetare inom ekonomi!",
+  "url": "https://fastighetsagarnastockholm.teamtailor.com/jobs/8476373-hej-studentmedarbetare-inom-ekonomi/applications/new?promotion=2221442-arbetsformedlingen",
+  "description": "Att arbeta här är så mycket mer än att bara arbeta med fastigheter. Det handlar om att förbättra vårt samhälle, en plats för människor och möten, kontor och butiker, skolor och sjukhus, torg och parker. I detta myller av verksamheter står våra hus - där livet äger rum. Varje dag bidrar vi till att skapa trygga miljöer och stadsdelar.\nVi söker en nyfiken ekonomistudent som vill kombinera plugg med praktiskt ekonomiarbete. Du blir en del av vårt team och får vara med, lära dig och bidra – utan att behöva kunna allt från start.\nOm rollen \nHos oss blir du en del av affärsområdet ekonomisk förvaltning – ett engagerat gäng med ett femtiotal kollegor i olika roller. Du kommer att tillhöra teamet ekonomisupport, där ekonomiassistenter arbetar med att stötta verksamheten i olika ekonomiadministrativa frågor.\nSom studentmedarbetare hjälper du till att avlasta våra ekonomiassistenter i det löpande arbetet. Dina arbetsuppgifter kan exempelvis vara att hantera leverantörsfakturor, hanterar påminnelse, krav och kundärenden i vårt ärendehanteringssystem.\nDu får möjlighet att lära dig mer om ekonomiarbete i praktiken och successivt ta dig an fler uppgifter utifrån dina kunskaper och erfarenheter. Du behöver inte kunna allt från början – det viktiga är att du är nyfiken och vill utvecklas tillsammans med oss. Vi ser att du har möjlighet att arbeta ca 2 dagar i veckan på vårt kontor på Alströmergatan 14.\nVem är du? \nVi söker dig som studerar ekonomi och vill kombinera dina studier med praktisk erfarenhet. Du är noggrann, strukturerad och ansvarstagande, samtidigt som du är prestigelös och tycker om att hjälpa till där det behövs.\nDu har lätt för att samarbeta och kommunicera med andra och vågar ställa frågor när du behöver. Vi tror att du uppskattar en arbetsplats där man stöttar varandra, delar kunskap och har roligt tillsammans.\nKvalifikationer:\n\nPågående relevant eftergymnasial utbildning inom ekonomi med minst ett år kvar av studierna\n\n\nTidigare erfarenhet av ekonomiadministration är meriterande men inget krav\n\nJobba hos oss! \nMed över 150 års erfarenhet inom fastighetsförvaltning har vi byggt upp en gedigen kunskap om hur man skapar långsiktigt värde för våra kunder. Vi arbetar med hela förvaltningskedjan – från juridiska konsultationer till ekonomisk och teknisk förvaltning samt försäljning av fastighetsprodukter.\nVi tror att framgång börjar med människor. Därför satsar vi på hälsa och välmående för våra medarbetare. I våra lokaler på Alströmergatan 14 på Kungsholmen finns ett fullt utrustat gym och ledarledda träningspass varje vecka. Dessutom erbjuder vi kontinuerlig kompetensutveckling genom Fastighetsägarnas utbildningar.\nVill du lära känna oss ännu bättre? Följ oss på Linkedin.\nSök!\nPå Fastighetsägarna Service är tempo vår motor – så om du tycker att det låter intressant uppmuntrar vi dig att skicka in din ansökan direkt! Får vi in en ansökan som matchar vår kravprofil så drar vi igång med rekryteringsprocessen direkt!  \nHar du några frågor eller funderingar så kan du självklart nå mig via kontaktuppgifterna längre ner på sidan!\nBästa hälsningar,\nÅsa Davidsson Gruppchef ekonomisupport",
+  "posted_at": "2026-09-30T09:12:58+00:00",
+  "deadline": "2026-11-02T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5561558205",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "Du kommer att tillhöra teamet ekonomisupport, där ekonomiassistenter arbetar med att stötta verksamheten i olika ekonomiadministrativa frågor.",
+  "bullets": [],
+  "enriched": false,
+  "id": "e82c953a146b7753",
+  "content_hash": "2f5355ccce78a5b2",
+  "first_seen": "2026-09-30T10:05:38+00:00",
+  "last_seen": "2026-09-30T10:05:38+00:00",
   "is_open": true
  }
 }
