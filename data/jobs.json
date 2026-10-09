@@ -315,7 +315,7 @@
   "id": "3306155384cefff7",
   "content_hash": "c5c80e919572c489",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "c5cdecebe025cd52": {
@@ -352,7 +352,7 @@
   "id": "c5cdecebe025cd52",
   "content_hash": "7cd9c01597a29d09",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "0502060694254c60": {
@@ -389,7 +389,7 @@
   "id": "0502060694254c60",
   "content_hash": "fe2e063883f58962",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "13f9a4d2e7259d8d": {
@@ -762,7 +762,7 @@
   "id": "512b2ddf3d09bfaf",
   "content_hash": "7d300590062c7e40",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "e7f6e4085a0417ab": {
@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -878,7 +878,7 @@
   "id": "5418d519ecf4c0a7",
   "content_hash": "9bd3b723ff60ae5e",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "03dfc6c2b08c0909": {
@@ -915,7 +915,7 @@
   "id": "03dfc6c2b08c0909",
   "content_hash": "9287156d11c9b87b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "f2da3db7d8d654dc": {
@@ -952,7 +952,7 @@
   "id": "f2da3db7d8d654dc",
   "content_hash": "429e0b35473888bc",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "7f207031cf115f12": {
@@ -987,7 +987,7 @@
   "id": "7f207031cf115f12",
   "content_hash": "49e609cee957250b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "711a074d6eeb327f": {
@@ -1023,7 +1023,7 @@
   "id": "711a074d6eeb327f",
   "content_hash": "4f81076ee86c05c4",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "bf2997c93b9868af": {
@@ -1058,7 +1058,7 @@
   "id": "bf2997c93b9868af",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "2078c7e015353e21": {
@@ -1095,7 +1095,7 @@
   "id": "2078c7e015353e21",
   "content_hash": "7973359fb9d1f4b1",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "e77bb422fda554b2": {
@@ -1169,7 +1169,7 @@
   "id": "fd68deadadc0dee5",
   "content_hash": "f9f488bde79efe90",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "d489f2bc12fa717c": {
@@ -1206,7 +1206,7 @@
   "id": "d489f2bc12fa717c",
   "content_hash": "d081f59f7af1a418",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "2fb936555883da97": {
@@ -1245,7 +1245,7 @@
   "id": "2fb936555883da97",
   "content_hash": "1e9db2cd6919b79c",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "b27bd77f5956eabf": {
@@ -1282,7 +1282,7 @@
   "id": "b27bd77f5956eabf",
   "content_hash": "33d31775130d08f0",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "3a84d954a4fc55ea": {
@@ -1324,7 +1324,7 @@
   "id": "3a84d954a4fc55ea",
   "content_hash": "da5e564b1259de63",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "1808642af1771a1b": {
@@ -1366,7 +1366,7 @@
   "id": "1808642af1771a1b",
   "content_hash": "5ef6bd99b540f9bf",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "84eac48d22d24a39": {
@@ -1402,7 +1402,7 @@
   "id": "84eac48d22d24a39",
   "content_hash": "9cebe82af1ea65fb",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "39424e85dba2844a": {
@@ -1439,7 +1439,7 @@
   "id": "39424e85dba2844a",
   "content_hash": "54770d5fefac6189",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "97e053036c3db2be": {
@@ -1476,7 +1476,7 @@
   "id": "97e053036c3db2be",
   "content_hash": "34b239d0f69ec32b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "217562eb3f707bdf": {
@@ -1513,7 +1513,7 @@
   "id": "217562eb3f707bdf",
   "content_hash": "4f90949a497f6177",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "cd7a1e98cdf4365c": {
@@ -1550,7 +1550,7 @@
   "id": "cd7a1e98cdf4365c",
   "content_hash": "d19d9d99a9827852",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "c645eed59395b253": {
@@ -1589,7 +1589,7 @@
   "id": "c645eed59395b253",
   "content_hash": "491aff6415beb344",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "3bcd1cfad19ac0a9": {
@@ -1628,7 +1628,7 @@
   "id": "3bcd1cfad19ac0a9",
   "content_hash": "8f0ceb47a9b68909",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "cadc084332fb5ff1": {
@@ -1667,7 +1667,7 @@
   "id": "cadc084332fb5ff1",
   "content_hash": "b250d1ef39e48089",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "d697dbbcbbd68791": {
@@ -1705,7 +1705,7 @@
   "id": "d697dbbcbbd68791",
   "content_hash": "40f00c3f1352e9c9",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "00e2f2f03fa0f8a3": {
@@ -1785,7 +1785,7 @@
   "id": "46ea43c3e6599d93",
   "content_hash": "5daaace57880aba6",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "c638e648881575cd": {
@@ -2005,7 +2005,7 @@
   "id": "d01860f36002c286",
   "content_hash": "a9978d5f31717fa2",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "f96b7b51cf185932": {
@@ -2040,7 +2040,7 @@
   "id": "f96b7b51cf185932",
   "content_hash": "a0d3f83584da5dd5",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "912e14d2590b35a5": {
@@ -2075,7 +2075,7 @@
   "id": "912e14d2590b35a5",
   "content_hash": "ef087b4a0370221d",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "9507e251d23bfbc2": {
@@ -2114,7 +2114,7 @@
   "id": "9507e251d23bfbc2",
   "content_hash": "bb7ddad161eefdc7",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "7e1ef6971145027a": {
@@ -2263,7 +2263,7 @@
   "id": "128808ae8e8143f3",
   "content_hash": "33ed3b7a5555c825",
   "first_seen": "2026-09-25T09:11:48+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "ddef14251dabcc3c": {
@@ -2302,7 +2302,7 @@
   "id": "ddef14251dabcc3c",
   "content_hash": "7cb266290b85910f",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "9b0d10b7bc5a0458": {
@@ -2337,7 +2337,7 @@
   "id": "9b0d10b7bc5a0458",
   "content_hash": "6cb0069b61a4804c",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "3f07afa568825d73": {
@@ -2381,7 +2381,7 @@
   "id": "3f07afa568825d73",
   "content_hash": "0847226d0d728fcc",
   "first_seen": "2026-09-28T10:17:58+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "6b69f554117dc4ff": {
@@ -2416,7 +2416,7 @@
   "id": "6b69f554117dc4ff",
   "content_hash": "716785840ae228f9",
   "first_seen": "2026-09-29T10:14:15+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "e576f7cf02fdca67": {
@@ -2451,7 +2451,7 @@
   "id": "e576f7cf02fdca67",
   "content_hash": "f64031f238159e49",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "44ac48910cd76c39": {
@@ -2486,7 +2486,7 @@
   "id": "44ac48910cd76c39",
   "content_hash": "956887e7a843c9e5",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "6b6b3ca909ddfa25": {
@@ -2523,7 +2523,7 @@
   "id": "6b6b3ca909ddfa25",
   "content_hash": "738a27f1bc891253",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "b69218cc6f6de9af": {
@@ -2559,7 +2559,7 @@
   "id": "b69218cc6f6de9af",
   "content_hash": "fbd8110c8348ce87",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "d9dcbe3effc9bd2d": {
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2629,7 +2629,7 @@
   "id": "51e11c83c475db15",
   "content_hash": "81f9071b16303c94",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "3a4a1f9175f766de": {
@@ -2664,7 +2664,7 @@
   "id": "3a4a1f9175f766de",
   "content_hash": "e60d76b4322c9ffa",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "877de922b2afac65": {
@@ -2700,7 +2700,7 @@
   "id": "877de922b2afac65",
   "content_hash": "c03b6f350a592fa2",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "98a8ebdf51a41ac3": {
@@ -2735,7 +2735,7 @@
   "id": "98a8ebdf51a41ac3",
   "content_hash": "5766edf8db89d9b8",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "96f0e6e5efe31b57": {
@@ -2770,7 +2770,7 @@
   "id": "96f0e6e5efe31b57",
   "content_hash": "c1281673f32efb10",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "e82c953a146b7753": {
@@ -2842,7 +2842,7 @@
   "id": "4154ef308a70e18e",
   "content_hash": "90a99689c9812d15",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "a497f4d5af470e70": {
@@ -2879,7 +2879,7 @@
   "id": "a497f4d5af470e70",
   "content_hash": "9b551aca128d93af",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "547df9d728581f0f": {
@@ -2914,7 +2914,7 @@
   "id": "547df9d728581f0f",
   "content_hash": "ad8ed37ef6ed597d",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "1f98baedd6ea119c": {
@@ -2951,7 +2951,7 @@
   "id": "1f98baedd6ea119c",
   "content_hash": "4ca42340833b3a17",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "9cd89c5f25a6a5f9": {
@@ -2988,7 +2988,7 @@
   "id": "9cd89c5f25a6a5f9",
   "content_hash": "afe7b6956b466f45",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "d108d0efd9cc4b8c": {
@@ -3025,7 +3025,7 @@
   "id": "d108d0efd9cc4b8c",
   "content_hash": "2346d53386856896",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "cee13ca8de20fcb8": {
@@ -3062,7 +3062,7 @@
   "id": "cee13ca8de20fcb8",
   "content_hash": "20051dc17a9d8b9a",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "e44ca11ca4226ee0": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3141,7 +3141,7 @@
   "company": "E.ON Sverige Aktiebolag",
   "title": "E.ON Graduate Program - Commercial",
   "url": "https://fa-eylc-saasfaeuraprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/499/apply/email",
-  "description": "Välkommen till E.ON - och till en startpunkt för dig som vill växa med energiomställningen. I vårt Graduate Program får du utforska framtidens energilösningar tillsammans med engagerade kollegor, kunder och partners. Här får du möjlighet att utvecklas, bidra med nya perspektiv och vara med och forma hur el och värme produceras, används och återvinns smartare. Om du har nyfikenhet, driv och tror på kraften i att arbeta tillsammans är E.ON platsen för dig.\n \nTraineeprogrammet\nHos oss får du mer än ett traineeprogram - du får en startpunkt för att växa, utforska och vara med och driva energiomställningen framåt. Under 16 månader formar du din utvecklingsresa utifrån både dina intressen och verksamhetens behov. Genom fyra olika placeringar, med möjlighet till en period utomlands, får du lära känna alla delar av E.ON och bygga en bred förståelse för hur vi tillsammans utvecklar smarta energilösningar, skapar värde för våra kunder och bidrar till ett mer hållbart samhälle.\nDu kommer att omges av engagerade kollegor och erfarna ledare som vill se dig lyckas. Genom mentorskap, löpande feedback och nya perspektiv får du både stöd och utmaningar som hjälper dig att utvecklas både professionellt och personligt. På E.ON tror vi på kraften i att arbeta tillsammans, och här får du vara med och bidra till smartare, mer hållbara energilösningar för framtiden.\n \nLäs mer om E.ON Graduate Program: Trainee | E.ON Trainee Program - eon.se  \n \nVi söker\nVi söker dig som har ett intresse för affärsutveckling, ekonomi och kundrelationer och som vill förstå hur vi tillsammans med våra kunder och partners kan skapa långsiktigt värde i energiomställningen. Du har en utbildning på masternivå, exempelvis inom Business & Management, Economics & Industrial Organization, Marketing & Commercial Strategy eller ett annat relevant område med kommersiell inriktning.\nSom trainee med kompetens inom Commercial får du möjlighet att kombinera din teoretiska kunskap med praktisk erfarenhet i en verksamhet där affär, hållbarhet och innovation går hand i hand. Du kommer att få insikt i hur vi utvecklar våra affärer, stärker våra kundrelationer och arbetar med strategier, processer och initiativ som bidrar till både E.ONs och samhällets utveckling.\nVi tror att du är analytisk, nyfiken och motiveras av att förstå både helheten och detaljerna bakom en hållbar affär. Du gillar att samarbeta, ta initiativ, bidra med nya perspektiv och du vill vara med och forma framtidens energilösningar tillsammans med oss.\n \nKrav:\nNyligen avslutat dina studier, eller har upp till 12 månaders arbetslivserfarenhet efter examen, exklusive sommarjobb\nEn utbildning på masternivå, exempelvis inom Business & Management, Economics & Industrial Organization, Marketing & Commercial Strategy eller ett annat relevant område\nKunna arbeta professionellt på både svenska och engelska, i tal och skrift\nEtt stort intresse för energibranschen, hållbarhet och framtidens energilösningar\nNyfikenhet på kundrelationer, ekonomi och affärsutveckling\nPlacering Malmö\n\n \nVåra traineer har till exempel varit involverade i:\n• Utveckling av nya energilösningar och flexibilitetsprodukter för kunder\n• Analys av framtida affärsmöjligheter inom stödtjänstmarknaden\n• Projekt kopplade till E.ONs långsiktiga hållbarhetsarbete\n• Bevakning och analys av energi- och klimatpolitik i Sverige och EU\n• Utveckling av AI-baserade lösningar för omvärldsbevakning och policyanalys\n• Affärs- och produktutveckling inom fjärrvärme och kundnära energilösningar\n \nNär du väljer E.ON väljer du att bli en del av något större. Här får du möjlighet att bidra med dina perspektiv, växa tillsammans med engagerade kollegor och vara med och utveckla smarta energilösningar för framtiden. Vi tror på kraften i att arbeta tillsammans och hos oss får du en viktig roll i energiomställningen från första dagen. Tillsammans skapar vi förutsättningar för ett mer hållbart samhälle.\nÄr du redo att ta nästa steg, utvecklas tillsammans med oss och bidra till framtidens energilösningar? Varmt välkommen med din ansökan senast den 31 oktober!\n \nFör frågor gällande tjänsten vänligen kontakta: \nJosefin Opitz, josefin.opitz@eon.se\nFör fackliga frågor, vänligen kontakta:\nMats Ekblom, +46 705 259188\nAkademikerna, Akademikerna@eon.se\nMattias Andolfsson, Ledarna, mattias.andolfsson@eon.se",
+  "description": "Välkommen till E.ON - och till en startpunkt för dig som vill växa med energiomställningen. I vårt Graduate Program får du utforska framtidens energilösningar tillsammans med engagerade kollegor, kunder och partners. Här får du möjlighet att utvecklas, bidra med nya perspektiv och vara med och forma hur el och värme produceras, används och återvinns smartare. Om du har nyfikenhet, driv och tror på kraften i att arbeta tillsammans är E.ON platsen för dig.\n \nTraineeprogrammet\nHos oss får du mer än ett traineeprogram - du får en startpunkt för att växa, utforska och vara med och driva energiomställningen framåt. Under 16 månader formar du din utvecklingsresa utifrån både dina intressen och verksamhetens behov. Genom fyra olika placeringar, med möjlighet till en period utomlands, får du lära känna alla delar av E.ON och bygga en bred förståelse för hur vi tillsammans utvecklar smarta energilösningar, skapar värde för våra kunder och bidrar till ett mer hållbart samhälle.\nDu kommer att omges av engagerade kollegor och erfarna ledare som vill se dig lyckas. Genom mentorskap, löpande feedback och nya perspektiv får du både stöd och utmaningar som hjälper dig att utvecklas både professionellt och personligt. På E.ON tror vi på kraften i att arbeta tillsammans, och här får du vara med och bidra till smartare, mer hållbara energilösningar för framtiden.\n \nLäs mer om E.ON Graduate Program: Trainee | E.ON Trainee Program - eon.se  \n \nVi söker\nVi söker dig som har ett intresse för affärsutveckling, ekonomi och kundrelationer och som vill förstå hur vi tillsammans med våra kunder och partners kan skapa långsiktigt värde i energiomställningen. Du har en utbildning på masternivå, exempelvis inom Business & Management, Economics & Industrial Organization, Marketing & Commercial Strategy eller ett annat relevant område med kommersiell inriktning.\nSom trainee med kompetens inom Commercial får du möjlighet att kombinera din teoretiska kunskap med praktisk erfarenhet i en verksamhet där affär, hållbarhet och innovation går hand i hand. Du kommer att få insikt i hur vi utvecklar våra affärer, stärker våra kundrelationer och arbetar med strategier, processer och initiativ som bidrar till både E.ONs och samhällets utveckling.\nVi tror att du är analytisk, nyfiken och motiveras av att förstå både helheten och detaljerna bakom en hållbar affär. Du gillar att samarbeta, ta initiativ, bidra med nya perspektiv och du vill vara med och forma framtidens energilösningar tillsammans med oss.\n \nKrav:\nNyligen avslutat dina studier, eller har upp till 12 månaders arbetslivserfarenhet efter examen, exklusive sommarjobb\nEn utbildning på masternivå, exempelvis inom Business & Management, Economics & Industrial Organization, Marketing & Commercial Strategy eller ett annat relevant område\nKunna arbeta professionellt på både svenska och engelska, i tal och skrift\nEtt stort intresse för energibranschen, hållbarhet och framtidens energilösningar\nNyfikenhet på kundrelationer, ekonomi och affärsutveckling\nPlacering Malmö\n\n \nVåra traineer har till exempel varit involverade i:\n• Utveckling av nya energilösningar och flexibilitetsprodukter för kunder\n• Analys av framtida affärsmöjligheter inom stödtjänstmarknaden\n• Projekt kopplade till E.ONs långsiktiga hållbarhetsarbete\n• Bevakning och analys av energi- och klimatpolitik i Sverige och EU\n• Utveckling av AI-baserade lösningar för omvärldsbevakning och policyanalys\n• Affärs- och produktutveckling inom fjärrvärme och kundnära energilösningar\n \nNär du väljer E.ON väljer du att bli en del av något större. Här får du möjlighet att bidra med dina perspektiv, växa tillsammans med engagerade kollegor och vara med och utveckla smarta energilösningar för framtiden. Vi tror på kraften i att arbeta tillsammans och hos oss får du en viktig roll i energiomställningen från första dagen. Tillsammans skapar vi förutsättningar för ett mer hållbart samhälle.\nÄr du redo att ta nästa steg, utvecklas tillsammans med oss och bidra till framtidens energilösningar? Varmt välkommen med din ansökan senast den 31 oktober!\n \nFör frågor gällande tjänsten vänligen kontakta:  \nJosefin Opitz, josefin.opitz@eon.se\nFör fackliga frågor, vänligen kontakta:\nMats Ekblom, +46 705 259188\nAkademikerna, Akademikerna@eon.se\nMattias Andolfsson, Ledarna, mattias.andolfsson@eon.se",
   "posted_at": "2026-10-05T15:20:53+00:00",
   "deadline": "2026-10-31T23:59:59+00:00",
   "pay": null,
@@ -3169,9 +3169,9 @@
   ],
   "enriched": false,
   "id": "1586fb73e8b28f4c",
-  "content_hash": "562df78d6a6c1349",
+  "content_hash": "8e17924b23843978",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "d4b614fb760f25a3": {
@@ -3180,7 +3180,7 @@
   "company": "E.ON Sverige Aktiebolag",
   "title": "E.ON Graduate Program - Engineering",
   "url": "https://fa-eylc-saasfaeuraprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/498/apply/email",
-  "description": "Välkommen till E.ON - och till en startpunkt för dig som vill växa med energiomställningen. I vårt Graduate Program får du utforska framtidens energilösningar tillsammans med engagerade kollegor, kunder och partners. Här får du möjlighet att utvecklas, bidra med nya perspektiv och vara med och forma hur el och värme produceras, används och återvinns smartare. Om du har nyfikenhet, driv och tror på kraften i att arbeta tillsammans är E.ON platsen för dig.\n \nTraineeprogrammet\nHos oss får du mer än ett traineeprogram - du får en startpunkt för att växa, utforska och vara med och driva energiomställningen framåt. Under 16 månader formar du din utvecklingsresa utifrån både dina intressen och verksamhetens behov. Genom fyra olika placeringar, med möjlighet till en period utomlands, får du lära känna alla delar av E.ON och bygga en bred förståelse för hur vi tillsammans utvecklar smarta energilösningar, skapar värde för våra kunder och bidrar till ett mer hållbart samhälle.\nDu kommer att omges av engagerade kollegor och erfarna ledare som vill se dig lyckas. Genom mentorskap, löpande feedback och nya perspektiv får du både stöd och utmaningar som hjälper dig att utvecklas både professionellt och personligt. På E.ON tror vi på kraften i att arbeta tillsammans, och här får du vara med och bidra till smartare, mer hållbara energilösningar för framtiden.\n \nLäs mer om E.ON Graduate Program: Trainee | E.ON Trainee Program - eon.se  \n \nVi söker\nVi söker dig som är nyfiken på hur teknik, energi och hållbarhet kan samspela för att skapa lösningar som gör verklig skillnad. Du har en teknisk utbildning på masternivå, exempelvis inom energisystem, teknisk fysik, industriell ekonomi eller ett annat relevant område, och vill använda din kunskap för att bidra till framtidens energilösningar.\nSom trainee med kompetens inom engineering får du möjlighet att utvecklas i nära samarbete med erfarna kollegor och specialister som delar ditt intresse för teknik, innovation och energiomställning. Du kommer att få inblick i olika delar av vår verksamhet och vara med i projekt och initiativ som bidrar till smartare, mer hållbara och robusta energilösningar för våra kunder och samhället.\nVi ser att du trivs i en miljö där du får kombinera analytiskt tänkande med nyfikenhet och problemlösning. Du gillar att förstå hur saker fungerar, ser möjligheter i komplexa utmaningar och vill vara med och utveckla lösningar som tar oss närmare ett mer hållbart energisystem.\nKrav:\nNyligen avslutat dina studier, eller har upp till 12 månaders arbetslivserfarenhet efter examen, exklusive sommarjobb\nEn utbildning på masternivå, exempelvis inom industriell ekonomi, energisystem, maskinteknik eller annat relevant område\nKunna arbeta professionellt på både svenska och engelska, i tal och skrift\nEtt stort intresse för energibranschen, hållbarhet och framtidens energilösningar\nNyfikenhet på kundrelationer, ekonomi och affärsutveckling\nPlacering Malmö\n\n \n \nVåra traineer har till exempel varit involverade i:\n• Utveckling av nya energilösningar och flexibilitetsprodukter för kunder\n• Analys av framtida affärsmöjligheter inom stödtjänstmarknaden\n• Projekt kopplade till E.ONs långsiktiga hållbarhetsarbete\n• Bevakning och analys av energi- och klimatpolitik i Sverige och EU\n• Utveckling av AI-baserade lösningar för omvärldsbevakning och policyanalys\n• Affärs- och produktutveckling inom fjärrvärme och kundnära energilösningar\n \nNär du väljer E.ON väljer du att bli en del av något större. Här får du möjlighet att bidra med dina perspektiv, växa tillsammans med engagerade kollegor och vara med och utveckla smarta energilösningar för framtiden. Vi tror på kraften i att arbeta tillsammans och hos oss får du en viktig roll i energiomställningen från första dagen. Tillsammans skapar vi förutsättningar för ett mer hållbart samhälle.\nÄr du redo att ta nästa steg, utvecklas tillsammans med oss och bidra till framtidens energilösningar? Varmt välkommen med din ansökan senast den 31 oktober!\n \nFör frågor gällande tjänsten vänligen kontakta: \nJosefin Opitz, josefin.opitz@eon.se\nFör fackliga frågor, vänligen kontakta:\nUnionen, Unionen.EED@eon.se\nAkademikerna, Akademikerna@eon.se\nMattias Andolfsson, Ledarna, mattias.andolfsson@eon.se\nMats Lundberg, SEKO, +46 730 499778",
+  "description": "Välkommen till E.ON - och till en startpunkt för dig som vill växa med energiomställningen. I vårt Graduate Program får du utforska framtidens energilösningar tillsammans med engagerade kollegor, kunder och partners. Här får du möjlighet att utvecklas, bidra med nya perspektiv och vara med och forma hur el och värme produceras, används och återvinns smartare. Om du har nyfikenhet, driv och tror på kraften i att arbeta tillsammans är E.ON platsen för dig.\n \nTraineeprogrammet\nHos oss får du mer än ett traineeprogram - du får en startpunkt för att växa, utforska och vara med och driva energiomställningen framåt. Under 16 månader formar du din utvecklingsresa utifrån både dina intressen och verksamhetens behov. Genom fyra olika placeringar, med möjlighet till en period utomlands, får du lära känna alla delar av E.ON och bygga en bred förståelse för hur vi tillsammans utvecklar smarta energilösningar, skapar värde för våra kunder och bidrar till ett mer hållbart samhälle.\nDu kommer att omges av engagerade kollegor och erfarna ledare som vill se dig lyckas. Genom mentorskap, löpande feedback och nya perspektiv får du både stöd och utmaningar som hjälper dig att utvecklas både professionellt och personligt. På E.ON tror vi på kraften i att arbeta tillsammans, och här får du vara med och bidra till smartare, mer hållbara energilösningar för framtiden.\n \nLäs mer om E.ON Graduate Program: Trainee | E.ON Trainee Program - eon.se  \n \nVi söker\nVi söker dig som är nyfiken på hur teknik, energi och hållbarhet kan samspela för att skapa lösningar som gör verklig skillnad. Du har en teknisk utbildning på masternivå, exempelvis inom energisystem, teknisk fysik, industriell ekonomi eller ett annat relevant område, och vill använda din kunskap för att bidra till framtidens energilösningar.\nSom trainee med kompetens inom engineering får du möjlighet att utvecklas i nära samarbete med erfarna kollegor och specialister som delar ditt intresse för teknik, innovation och energiomställning. Du kommer att få inblick i olika delar av vår verksamhet och vara med i projekt och initiativ som bidrar till smartare, mer hållbara och robusta energilösningar för våra kunder och samhället.\nVi ser att du trivs i en miljö där du får kombinera analytiskt tänkande med nyfikenhet och problemlösning. Du gillar att förstå hur saker fungerar, ser möjligheter i komplexa utmaningar och vill vara med och utveckla lösningar som tar oss närmare ett mer hållbart energisystem.\nKrav:\nNyligen avslutat dina studier, eller har upp till 12 månaders arbetslivserfarenhet efter examen, exklusive sommarjobb\nEn utbildning på masternivå, exempelvis inom industriell ekonomi, energisystem, maskinteknik eller annat relevant område\nKunna arbeta professionellt på både svenska och engelska, i tal och skrift\nEtt stort intresse för energibranschen, hållbarhet och framtidens energilösningar\nNyfikenhet på kundrelationer, ekonomi och affärsutveckling\nPlacering Malmö\n\n \n \nVåra traineer har till exempel varit involverade i:\n• Utveckling av nya energilösningar och flexibilitetsprodukter för kunder\n• Analys av framtida affärsmöjligheter inom stödtjänstmarknaden\n• Projekt kopplade till E.ONs långsiktiga hållbarhetsarbete\n• Bevakning och analys av energi- och klimatpolitik i Sverige och EU\n• Utveckling av AI-baserade lösningar för omvärldsbevakning och policyanalys\n• Affärs- och produktutveckling inom fjärrvärme och kundnära energilösningar\n \nNär du väljer E.ON väljer du att bli en del av något större. Här får du möjlighet att bidra med dina perspektiv, växa tillsammans med engagerade kollegor och vara med och utveckla smarta energilösningar för framtiden. Vi tror på kraften i att arbeta tillsammans och hos oss får du en viktig roll i energiomställningen från första dagen. Tillsammans skapar vi förutsättningar för ett mer hållbart samhälle.\nÄr du redo att ta nästa steg, utvecklas tillsammans med oss och bidra till framtidens energilösningar? Varmt välkommen med din ansökan senast den 31 oktober!\n \nFör frågor gällande tjänsten vänligen kontakta:  \nJosefin Opitz, josefin.opitz@eon.se\nFör fackliga frågor, vänligen kontakta:\nUnionen, Unionen.EED@eon.se\nAkademikerna, Akademikerna@eon.se\nMattias Andolfsson, Ledarna, mattias.andolfsson@eon.se\nMats Lundberg, SEKO, +46 730 499778",
   "posted_at": "2026-10-05T15:20:53+00:00",
   "deadline": "2026-10-31T23:59:59+00:00",
   "pay": null,
@@ -3210,9 +3210,9 @@
   ],
   "enriched": false,
   "id": "d4b614fb760f25a3",
-  "content_hash": "8eb496152a5846e6",
+  "content_hash": "d68c82929d481577",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "c57ae6ad34c8e8c7": {
@@ -3249,7 +3249,7 @@
   "id": "c57ae6ad34c8e8c7",
   "content_hash": "a31cb0fe1feea8da",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  },
  "66b1e55ad7b169b3": {
@@ -3295,7 +3295,82 @@
   "id": "66b1e55ad7b169b3",
   "content_hash": "714e7ed956db3db0",
   "first_seen": "2026-10-08T11:01:42+00:00",
-  "last_seen": "2026-10-08T11:01:42+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
+  "is_open": true
+ },
+ "2ec2a4d580a11a5a": {
+  "source": "jobtech",
+  "source_id": "31568776",
+  "company": "Boliden Mineral AB",
+  "title": "Gen B Graduate Program, Trainee Business Analyst",
+  "url": "https://www.boliden.com/career/gen-b/",
+  "description": "Start your future at one of Europe’s leading mining- and smelting companies and become part of Gen B! Begin a one-year journey designed to challenge and inspire you. As a graduate, you will gain in-depth, hands-on experience across different business areas, functions, and sites in Sweden, Finland, Norway, Portugal or Ireland, depending on your chosen position.  \n \nTo drive change for future generations, we need new ways of thinking, that’s why we encourage you to apply. You are the hearts behind tomorrow.  \n \nA program designed for your future \nFor one year, divided into three periods, you will explore how Boliden operates end to end, and how your own unique background and experience connect to the bigger picture. As a graduate, you are employed in a permanent position from day one and supported by an individual development program. Throughout the year several engaged and experienced colleagues, will guide you in your progress. You will become part of an international network of graduates and colleagues, expanding both your knowledge and connections. Six joint training weeks with top-class lecturers will challenge your thinking and give you the opportunity to further deepen your skills. After graduation you will continue your journey with a mentor for six months. In addition, you will receive practical training in project methodology and Boliden’s production methods, enabling you to apply what you learn directly in our operations.  \nLearn more how you can step into a future where raw material meets your potential.  \n\n\nFind your path \nAs a graduate and part of Gen B, you will be given a unique gateway into Boliden. Whether you want to grow as an expert in business, engineering or tech, you will get the opportunity to grow in the area that excites you the most.  \n\n\nIn this role as a Business Analyst, you'll be part of the Finance organization, working with financial planning, analysis, reporting, and performance management in close collaboration with operational and support functions. You will build a strong understanding of the business through regular interaction with site management, production teams, and operational stakeholders, including visits to operational sites. \n\n\nResponsibilities: \nSupport monthly reporting, forecasting, budgeting, and business reviews \n\n\n\nFollow up on operational and financial KPIs \n\n\n\nAnalyze cost development, profitability, and business performance \n\n\n\nSupport CAPEX and OPEX follow-up and investment evaluations \n\n\n\nPrepare presentations and management reports using Excel and PowerPoint \n\n\n\nAssist Business Controllers and operational managers with decision support \n\n\n\nParticipate in improvement projects related to finance processes, reporting, and digitalization \n\n \nQualifications:  \nBachelor's or Master's degree in Business Administration, Finance, Economics, Industrial Economics, Accounting, or a related field \n\n \nWho you are \nWe think you are a forward thinker and a team thriver, who is naturally curious, and solutions oriented. You communicate with honesty and respect, are eager to take initiative and dedicated to follow through. Above all, you are ready to take responsibility and grow as an expert.  \nWhat you bring \nYou hold a relevant university degree completed in 2025 or later. You can communicate clearly in English, hold a valid driver’s license and are available to start in September 2027. \nHow to apply \nSubmit your application and CV in English. The recruitment process includes assessments, interviews, and a final Assessment Center for selected candidates. \nThe Assessment Center will take place in Stockholm, Sweden, on one day between February 16-19, 2027. Boliden will cover travel and accommodation expenses. Please ensure your availability between February 14-20, 2027, if you progress to the final stage. \n\n\nAbout Boliden \nBoliden is at the forefront of advancing our industry through sustainable solutions and innovation. Every day, we work to reduce our footprint, and drive long-term progress. We are on a journey towards becoming the most sustainable and respected metal supplier in the world. With us, you will be part of a diverse workplace built on care, courage and responsibility. We work together to grow and take the lead. Our priority is your safety, well-being and growth. Make a lasting impact, in your everyday work, for future generations. Let a rock-solid career start with us. \n\n\nLearn more at www.boliden.com. \n\n\nApply today to be part of something truly meaningful! \n\n\nDo you have any questions about your application? Please send an e-mail to genb@boliden.com. \nLast day to apply for this position is November 20th. Selection will be ongoing; we are looking forward to receiving your application as soon as possible. \n\n\nUnion information is available from Ingela Scherling, Saco +46 70 272 08 68, Andreas Mårtensson, Unionen, +46 70 541 83 93 or Peter Markström, Ledarna, +46 910 77 40 09.  \n\n\nLast day to apply for this position is November 20th. Selection will be ongoing; we are looking forward to receiving your application as soon as possible. \n\n\nIf you are a representative of a recruiting firm, please refrain from contacting us about this posting. We appreciate your consideration.",
+  "posted_at": "2026-10-09T00:00:00+00:00",
+  "deadline": "2026-11-20T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5562316850",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Finance",
+   "Excel modelling"
+  ],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "As a graduate, you will gain in-depth, hands-on experience across different business areas, functions, and sites in Sweden, Finland, Norway, Portugal or Ireland, depending on your chosen position.",
+  "bullets": [],
+  "enriched": false,
+  "id": "2ec2a4d580a11a5a",
+  "content_hash": "353e99c4f04dc128",
+  "first_seen": "2026-10-09T11:00:51+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
+  "is_open": true
+ },
+ "8ec427fd81a78ee8": {
+  "source": "jobtech",
+  "source_id": "31571992",
+  "company": "Workwide AB",
+  "title": "Design Coordinator Intern",
+  "url": "https://workwide.se/jobs/design-coordinator-intern/asp?utm_source=arbetsformedlingen",
+  "description": "About InBold: We don't just \"do\" marketing; we engineer impact. InBold is a 360º creative and strategic communications agency with global experience in the advertising and communication business working with both global and local brands. With 47 years of heritage and a footprint stretching from the streets of Copenhagen to the energy of Saigon, InBold is a global powerhouse of 155+ storytellers and creators working across borders with the same mindset - seeking possibilities. At InBold, your career isn't a ladder; it's an engine. If you have the heart and the hustle, we provide the global stage to accelerate your growth. Inbold Creative method: We marry the \"what\" with the \"why\". Our creative process is fueled by insight, facts, trends and data. By blending the objective truth with human emotion, we turn imagination into creative impact. This foundation ensures our work is more than just an idea - it is meaningful, relevant, and results-driven. You as a person: Support the design team in coordinating design projects from briefing to delivery\nReview and quality-check graphic design outputs to ensure alignment with client briefs and brand guidelines\nAssist in managing project timelines, priorities, and deadlines\nJoin meetings with clients to support communication, note-taking, and follow-ups\nCoordinate between designers, shiftleads, and other stakeholders to ensure smooth workflow\nTrack feedback, revisions, and project status updates\nSupport the Shift Leads in daily project management and operational tasks\nHelp maintain organized project documentation and assets\n Requirements Background or interest in Graphic Design, Communication, Marketing, or related fields\nFluent Swedish and English communication skills (written and spoken)\nStrong organizational and time management abilities\nGood attention to detail, especially in reviewing visual/design outputs\nAbility to manage multiple tasks and deadlines in a fast-paced environment\nStrong interpersonal and communication skills\nProactive, responsible, and willing to learn\n Why you'll love working at InBold: Free daily meal in the pantry with colleagues;\nPantry station for tea and coffee lovers;\nHappy Friday with fruits or snacks;\nConvenient office with a nice view near the metro station for your daily commute; \nInteresting activities such as team bonding, food day, etc;\nLaptop/ PC, software and hardware to be provided.\n Working Schedule You will be working in shifts to engage with our clients around the world who operate in different time zones from ours. Shifts will be rotated weekly, and arranged by team leader: Morning shift: 7.00 AM - 3.00 PM\nEvening shift: 3.00 PM - 11.00 PM\n Worth knowing: Report to Shift Leads\nInternship duration: 6 months or more if possible\nProvide internship stamp\nWorking Location: Thanh My Tay Ward, Ho Chi Minh City\nWorking Schedule: Monday to Friday, 7.5 hours per day. \n Hiring Process at InBold: 1. Application Review 2. Online interview with Talent Acquisition Executive 3. Online interview with Global Production Director and Shift Lead 4. Offer & Onboarding Would you like to join us on our journey? If you think you would be an excellent fit for the role, please send us your CV and Portfolio to recruit@inbold.com Personal Information Usage Agreement By submitting your CV to our company, you are allowing us to use your relevant information for the purpose of recruiting. Our company commits to ensure that your provided information will be kept confidential and only utilized to the necessary extent for evaluating and contacting you during the recruitment process.",
+  "posted_at": "2026-10-08T14:14:49+00:00",
+  "deadline": "2026-10-09T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5569592404",
+  "city": "",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Excel modelling"
+  ],
+  "fields": [
+   "Economics & Business",
+   "Design"
+  ],
+  "about": "Why you'll love working at InBold: Free daily meal in the pantry with colleagues;",
+  "bullets": [],
+  "enriched": false,
+  "id": "8ec427fd81a78ee8",
+  "content_hash": "55af627780261cf7",
+  "first_seen": "2026-10-09T11:00:51+00:00",
+  "last_seen": "2026-10-09T11:00:51+00:00",
   "is_open": true
  }
 }
