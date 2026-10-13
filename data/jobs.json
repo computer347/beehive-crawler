@@ -315,7 +315,7 @@
   "id": "3306155384cefff7",
   "content_hash": "c5c80e919572c489",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "c5cdecebe025cd52": {
@@ -352,7 +352,7 @@
   "id": "c5cdecebe025cd52",
   "content_hash": "7cd9c01597a29d09",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "0502060694254c60": {
@@ -389,7 +389,7 @@
   "id": "0502060694254c60",
   "content_hash": "fe2e063883f58962",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "13f9a4d2e7259d8d": {
@@ -501,7 +501,7 @@
   "content_hash": "52cafc16b7c2631c",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-09-30T10:05:38+00:00",
-  "is_open": true
+  "is_open": false
  },
  "d477f897f91031b4": {
   "source": "jobtech",
@@ -762,7 +762,7 @@
   "id": "512b2ddf3d09bfaf",
   "content_hash": "7d300590062c7e40",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "e7f6e4085a0417ab": {
@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -878,7 +878,7 @@
   "id": "5418d519ecf4c0a7",
   "content_hash": "9bd3b723ff60ae5e",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "03dfc6c2b08c0909": {
@@ -915,7 +915,7 @@
   "id": "03dfc6c2b08c0909",
   "content_hash": "9287156d11c9b87b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "f2da3db7d8d654dc": {
@@ -952,7 +952,7 @@
   "id": "f2da3db7d8d654dc",
   "content_hash": "429e0b35473888bc",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "7f207031cf115f12": {
@@ -987,7 +987,7 @@
   "id": "7f207031cf115f12",
   "content_hash": "49e609cee957250b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "711a074d6eeb327f": {
@@ -1023,7 +1023,7 @@
   "id": "711a074d6eeb327f",
   "content_hash": "4f81076ee86c05c4",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "bf2997c93b9868af": {
@@ -1058,7 +1058,7 @@
   "id": "bf2997c93b9868af",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "2078c7e015353e21": {
@@ -1095,7 +1095,7 @@
   "id": "2078c7e015353e21",
   "content_hash": "7973359fb9d1f4b1",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "e77bb422fda554b2": {
@@ -1169,7 +1169,7 @@
   "id": "fd68deadadc0dee5",
   "content_hash": "f9f488bde79efe90",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "d489f2bc12fa717c": {
@@ -1206,7 +1206,7 @@
   "id": "d489f2bc12fa717c",
   "content_hash": "d081f59f7af1a418",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "2fb936555883da97": {
@@ -1245,7 +1245,7 @@
   "id": "2fb936555883da97",
   "content_hash": "1e9db2cd6919b79c",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "b27bd77f5956eabf": {
@@ -1282,7 +1282,7 @@
   "id": "b27bd77f5956eabf",
   "content_hash": "33d31775130d08f0",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "3a84d954a4fc55ea": {
@@ -1324,7 +1324,7 @@
   "id": "3a84d954a4fc55ea",
   "content_hash": "da5e564b1259de63",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "1808642af1771a1b": {
@@ -1366,7 +1366,7 @@
   "id": "1808642af1771a1b",
   "content_hash": "5ef6bd99b540f9bf",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "84eac48d22d24a39": {
@@ -1402,7 +1402,7 @@
   "id": "84eac48d22d24a39",
   "content_hash": "9cebe82af1ea65fb",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "39424e85dba2844a": {
@@ -1439,7 +1439,7 @@
   "id": "39424e85dba2844a",
   "content_hash": "54770d5fefac6189",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "97e053036c3db2be": {
@@ -1476,7 +1476,7 @@
   "id": "97e053036c3db2be",
   "content_hash": "34b239d0f69ec32b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "217562eb3f707bdf": {
@@ -1513,7 +1513,7 @@
   "id": "217562eb3f707bdf",
   "content_hash": "4f90949a497f6177",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "cd7a1e98cdf4365c": {
@@ -1550,7 +1550,7 @@
   "id": "cd7a1e98cdf4365c",
   "content_hash": "d19d9d99a9827852",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "c645eed59395b253": {
@@ -1589,7 +1589,7 @@
   "id": "c645eed59395b253",
   "content_hash": "491aff6415beb344",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "3bcd1cfad19ac0a9": {
@@ -1628,7 +1628,7 @@
   "id": "3bcd1cfad19ac0a9",
   "content_hash": "8f0ceb47a9b68909",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "cadc084332fb5ff1": {
@@ -1667,7 +1667,7 @@
   "id": "cadc084332fb5ff1",
   "content_hash": "b250d1ef39e48089",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "d697dbbcbbd68791": {
@@ -1705,7 +1705,7 @@
   "id": "d697dbbcbbd68791",
   "content_hash": "40f00c3f1352e9c9",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "00e2f2f03fa0f8a3": {
@@ -1785,7 +1785,7 @@
   "id": "46ea43c3e6599d93",
   "content_hash": "5daaace57880aba6",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "c638e648881575cd": {
@@ -2040,7 +2040,7 @@
   "id": "f96b7b51cf185932",
   "content_hash": "a0d3f83584da5dd5",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "912e14d2590b35a5": {
@@ -2076,7 +2076,7 @@
   "content_hash": "ef087b4a0370221d",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-12T11:27:09+00:00",
-  "is_open": true
+  "is_open": false
  },
  "9507e251d23bfbc2": {
   "source": "jobtech",
@@ -2263,7 +2263,7 @@
   "id": "128808ae8e8143f3",
   "content_hash": "33ed3b7a5555c825",
   "first_seen": "2026-09-25T09:11:48+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "ddef14251dabcc3c": {
@@ -2302,7 +2302,7 @@
   "id": "ddef14251dabcc3c",
   "content_hash": "7cb266290b85910f",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "9b0d10b7bc5a0458": {
@@ -2337,7 +2337,7 @@
   "id": "9b0d10b7bc5a0458",
   "content_hash": "6cb0069b61a4804c",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "3f07afa568825d73": {
@@ -2416,7 +2416,7 @@
   "id": "6b69f554117dc4ff",
   "content_hash": "716785840ae228f9",
   "first_seen": "2026-09-29T10:14:15+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "e576f7cf02fdca67": {
@@ -2451,7 +2451,7 @@
   "id": "e576f7cf02fdca67",
   "content_hash": "f64031f238159e49",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "44ac48910cd76c39": {
@@ -2486,7 +2486,7 @@
   "id": "44ac48910cd76c39",
   "content_hash": "956887e7a843c9e5",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "6b6b3ca909ddfa25": {
@@ -2523,7 +2523,7 @@
   "id": "6b6b3ca909ddfa25",
   "content_hash": "738a27f1bc891253",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "b69218cc6f6de9af": {
@@ -2559,7 +2559,7 @@
   "id": "b69218cc6f6de9af",
   "content_hash": "fbd8110c8348ce87",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "d9dcbe3effc9bd2d": {
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2629,7 +2629,7 @@
   "id": "51e11c83c475db15",
   "content_hash": "81f9071b16303c94",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "3a4a1f9175f766de": {
@@ -2664,7 +2664,7 @@
   "id": "3a4a1f9175f766de",
   "content_hash": "e60d76b4322c9ffa",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "877de922b2afac65": {
@@ -2700,7 +2700,7 @@
   "id": "877de922b2afac65",
   "content_hash": "c03b6f350a592fa2",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "98a8ebdf51a41ac3": {
@@ -2735,7 +2735,7 @@
   "id": "98a8ebdf51a41ac3",
   "content_hash": "5766edf8db89d9b8",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "96f0e6e5efe31b57": {
@@ -2770,7 +2770,7 @@
   "id": "96f0e6e5efe31b57",
   "content_hash": "c1281673f32efb10",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "e82c953a146b7753": {
@@ -2842,7 +2842,7 @@
   "id": "4154ef308a70e18e",
   "content_hash": "90a99689c9812d15",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "a497f4d5af470e70": {
@@ -2879,7 +2879,7 @@
   "id": "a497f4d5af470e70",
   "content_hash": "9b551aca128d93af",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "547df9d728581f0f": {
@@ -2914,7 +2914,7 @@
   "id": "547df9d728581f0f",
   "content_hash": "ad8ed37ef6ed597d",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "1f98baedd6ea119c": {
@@ -2951,7 +2951,7 @@
   "id": "1f98baedd6ea119c",
   "content_hash": "4ca42340833b3a17",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "9cd89c5f25a6a5f9": {
@@ -2988,7 +2988,7 @@
   "id": "9cd89c5f25a6a5f9",
   "content_hash": "afe7b6956b466f45",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "d108d0efd9cc4b8c": {
@@ -3025,7 +3025,7 @@
   "id": "d108d0efd9cc4b8c",
   "content_hash": "2346d53386856896",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "cee13ca8de20fcb8": {
@@ -3062,7 +3062,7 @@
   "id": "cee13ca8de20fcb8",
   "content_hash": "20051dc17a9d8b9a",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "e44ca11ca4226ee0": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3171,7 +3171,7 @@
   "id": "1586fb73e8b28f4c",
   "content_hash": "8e17924b23843978",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "d4b614fb760f25a3": {
@@ -3212,7 +3212,7 @@
   "id": "d4b614fb760f25a3",
   "content_hash": "d68c82929d481577",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "c57ae6ad34c8e8c7": {
@@ -3249,7 +3249,7 @@
   "id": "c57ae6ad34c8e8c7",
   "content_hash": "a31cb0fe1feea8da",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "66b1e55ad7b169b3": {
@@ -3295,7 +3295,7 @@
   "id": "66b1e55ad7b169b3",
   "content_hash": "714e7ed956db3db0",
   "first_seen": "2026-10-08T11:01:42+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "2ec2a4d580a11a5a": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "353e99c4f04dc128",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,85 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-10-12T11:27:09+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
+  "is_open": true
+ },
+ "c3ce1fa9d010a7eb": {
+  "source": "jobtech",
+  "source_id": "31588482",
+  "company": "Kapita Investment Group AB",
+  "title": "Praktik inom systemintegration, AI och automatisering",
+  "url": "https://kapita.careers.haileyhr.app",
+  "description": "Vill du utveckla smarta tekniska lösningar som gör verklig skillnad i en verksamhet inom finans?\nKapita Investment Group söker en driven och nyfiken praktikant som vill arbeta med systemintegration, AI och automatisering. Hos oss får du möjlighet att utveckla lösningar som går från idé och kod till driftsättning och faktisk användning i verksamheten. Vi söker dig som gillar att lösa problem, tänka nytt och omsätta tekniska idéer till praktiska resultat.\nOm Kapita Investment Group\nKapita Investment Group är ett progressivt investeringsbolag inom finans, med fokus på investeringar, affärsutveckling och långsiktigt värdeskapande. Vi verkar i en dynamisk och föränderlig bransch där analys, innovation och effektiva processer är centrala delar av verksamheten.\nVårt kontor ligger centralt på Avenyn i Göteborg, där du blir en del av ett dynamiskt team med ett gemensamt engagemang för verksamhetens utveckling. Vi värdesätter initiativförmåga, nyfikenhet och ett lösningsorienterat förhållningssätt. Hos oss uppmuntras nya idéer och egna initiativ, och vi tror på att kombinera affärsmässig förståelse med teknisk innovation.\nNu söker vi dig som vill vara med och bidra till vår fortsatta utveckling och utforska hur teknik och AI kan skapa smartare, mer effektiva och skalbara lösningar inom finans.\nOm praktiken\nSom praktikant hos Kapita Investment Group kommer du att arbeta med att koppla samman våra befintliga system och automatisera arbetsmoment som i dag hanteras manuellt. Du får arbeta med verkliga utmaningar och utveckla lösningar som implementeras och används i verksamheten.\nDu blir delaktig i hela utvecklingsprocessen, från att identifiera behov och utveckla kod till att testa, driftsätta och dokumentera färdiga lösningar. AI används där det tillför konkret värde, exempelvis för att analysera data eller som en integrerad del av ett automatiserat arbetsflöde.\n\n\nDina arbetsuppgifter\nUtveckla API-integrationer mellan våra befintliga system.\nIdentifiera, utveckla och automatisera manuella arbetsflöden.\nIntegrera AI och språkmodeller i automatiserade processer där det skapar konkret nytta.\nUtveckla, testa och driftsätta lösningar i Azure.\nFelsöka, optimera och vidareutveckla integrationer och automatiserade flöden.\nDokumentera tekniska lösningar, implementationer och utvecklingsprocesser.\nBidra med egna idéer kring hur teknik kan effektivisera och förbättra våra interna processer.\n\n\n\nVem söker vi?\nVi söker dig som studerar inom datateknik, Data Science och AI, mjukvaruutveckling, teknisk fysik, automation eller ett närliggande tekniskt område. Du har kommit en bit in i din utbildning och vill utvecklas genom att arbeta med verkliga tekniska utmaningar.\nDu är analytisk, nyfiken och lösningsorienterad. Du tycker om att förstå hur system fungerar, hitta smartare sätt att lösa problem och omsätta idéer till fungerande lösningar. Du behöver inte kunna allt från början, men vi ser gärna att du har byggt egna projekt och vill fortsätta utvecklas genom praktiskt arbete.\nVi söker dig som har\nPågående studier inom IT, datateknik, mjukvaruutveckling, automation eller ett närliggande område.\nPraktisk erfarenhet av att bygga något som använder ett API, som du kan visa upp eller beskriva.\nProgrammeringskunskaper i Python eller TypeScript.\nGrundläggande kunskaper i Git och vana att arbeta i terminalen.\nMycket goda kunskaper i svenska, både muntligt och skriftligt, eftersom svenska är arbetsspråket på kontoret.\nProfessionella kunskaper i engelska, eftersom teknisk dokumentation och många utvecklingsverktyg är på engelska.\n\n\n\nVad erbjuder vi?\nDu kommer att arbeta nära din handledare och få möjlighet att ta ansvar för konkreta uppgifter, utveckla din tekniska kompetens och bidra med egna perspektiv. Vårt dynamiska team och vår ambition att kontinuerligt förbättra verksamheten ger dig möjlighet att se hur tekniska initiativ kan omsättas till praktiska resultat.\nPraktisk information\nPraktikperiod: 3–6 månader.\nErsättning: Praktiken är obetald.\nArbetsplats: På vårt kontor på Avenyn i centrala Göteborg.\nArbetssätt: Praktiken genomförs på plats. Distansarbete erbjuds inte.\nAntal platser: En.\nStartdatum: Enligt överenskommelse.\nSista ansökningsdag: 15 november 2026.\n\n\n\nVi välkomnar i första hand ansökningar från studenter vid Chalmers, exempelvis inom Data Science and AI, Software Engineering and Technology, Datateknik, Systems Control and Mechatronics samt Automation och mekatronik. Även studenter från Göteborgs universitet och yrkeshögskolor är välkomna att söka, särskilt om praktiken kan genomföras inom ramen för en LIA-period.\nAnsökan\nLåter det här som rätt möjlighet för dig? Vi ser fram emot att höra mer om dig och dina tekniska projekt.\nDin ansökan ska innehålla:\nCV.\nPersonligt brev där du berättar om dig själv, ditt tekniska intresse och varför du vill göra praktik hos Kapita Investment Group.\nLänk till din GitHub-profil eller en egen projektsida.\n\n\n\nVi lägger stor vikt vid praktisk erfarenhet, eget driv och förmågan att omsätta kunskap till fungerande lösningar. Praktiken är obetald.",
+  "posted_at": "2026-10-13T10:16:35+00:00",
+  "deadline": "2026-11-12T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5594176710",
+  "city": "Göteborg",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Control systems",
+   "Git",
+   "TypeScript",
+   "Python",
+   "Cloud (AWS)"
+  ],
+  "fields": [
+   "Data Science",
+   "Economics & Business",
+   "Computer Science"
+  ],
+  "about": "Som praktikant hos Kapita Investment Group kommer du att arbeta med att koppla samman våra befintliga system och automatisera arbetsmoment som i dag hanteras manuellt.",
+  "bullets": [],
+  "enriched": false,
+  "id": "c3ce1fa9d010a7eb",
+  "content_hash": "42abfec14a63039d",
+  "first_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
+  "is_open": true
+ },
+ "39fc8808bf036ace": {
+  "source": "jobtech",
+  "source_id": "31585179",
+  "company": "Combitech Aktiebolag",
+  "title": "Exjobb 30 hp: Produktutveckling",
+  "url": "https://www.aplitrak.com/?adid=bC5sdW5kaG9sbS43OTg1Mi4xMzc2NUBzYWFiLmFwbGl0cmFrLmNvbQ",
+  "description": "Vårt utvecklingscenter i Trollhättan har cirka 220 medarbetare inom mekanisk konstruktion, beräkning och analys, produktionsberedning och prototyptillverkning. Här driver vi kundprojekt inom försvars-, fordons- och övrig industri, från mindre uppdrag till större åtaganden med helhetsansvar från idé till färdig lösning.\nVår styrka ligger i både bredd och djup inom våra teknikområden. Genom examensarbeten får vi in nya perspektiv och möjlighet att fördjupa oss inom utvalda områden.\n \n \n\n\nExamensarbetets uppgift \n\nVi erbjuder flera examensarbeten med fokus på avancerade konstruktionsproblem, beräkningstekniska utmaningar eller frågor kopplade till industrialisering och produktion. Innehållet anpassas så långt som möjligt efter era intressen och våra verksamhetsbehov.\nHar du eller ni en egen idé är vi öppna för att diskutera hur den kan matchas mot våra behov. Låter det intressant? Skicka gärna in en ansökan.\n\n\n\n\nVem är du?\n\nVi söker masterstudenter inom maskinteknik med inriktning mot tillämpad mekanik, produktutveckling eller motsvarande. Du är nyfiken, analytisk och vill lösa mekaniska problem genom konstruktion eller beräkning.\nExamensarbetet omfattar 30 högskolepoäng och kan genomföras individuellt eller tillsammans med en annan student. Arbetet genomförs huvudsakligen på vårt kontor i Trollhättan. Arbetet planeras att starta i januari 2027 med målsättning att vara färdigt till sommaren.\n \nVi ser gärna att du är:\n· Nytänkande och analytisk\n· Självständig med god initiativförmåga\n· Kommunikativ och lätt för att samarbeta med andra\n \nEftersom många av våra uppdrag omfattas av försvarssekretess krävs godkänd säkerhetsprövning med registerkontroll.\n \nUrval sker löpande. Vi ser fram emot din ansökan!\n\n\n\n\nKom och gör skillnad\n\nVi tror att man gör ett bättre jobb om man kan fokusera på rätt saker, därför gör vi det lätt att kombinera jobbet med vardagen. Vi satsar på våra medarbetare, de utgör kärnan, hjärnan och hjärtat i vår verksamhet. Dessutom står vi på en stadig grund av högteknologi, forskning och anställningstrygghet med försvars- och säkerhetskoncernen Saab som ägare.\n \nFör oss handlar det om hållbarhet - vi vill bli branschens mest hållbara företag; och för att vara ett hållbart företag i en hållbar framtid behöver vi investera i våra medarbetare. För oss är din återhämtning, dina utvecklingsmöjligheter och din trygghet lika viktigt som företagets framgång - utan våra medarbetare står vi stilla.\n \nVill du veta mer om hur det är att arbeta hos oss? Kolla in våra karriärsidor!\n\n\nKontaktperson: Tomas Sjödin, tomas.sjodin@combitech.com\n \nVi undanber oss rekryteringssamarbeten.",
+  "posted_at": "2026-10-12T14:44:59+00:00",
+  "deadline": "2026-10-26T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5562186790",
+  "city": "Trollhättan",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Mechanical Engineering"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "39fc8808bf036ace",
+  "content_hash": "858e5ef938440274",
+  "first_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-13T11:16:25+00:00",
   "is_open": true
  }
 }
