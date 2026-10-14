@@ -315,7 +315,7 @@
   "id": "3306155384cefff7",
   "content_hash": "c5c80e919572c489",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "c5cdecebe025cd52": {
@@ -352,7 +352,7 @@
   "id": "c5cdecebe025cd52",
   "content_hash": "7cd9c01597a29d09",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "0502060694254c60": {
@@ -389,7 +389,7 @@
   "id": "0502060694254c60",
   "content_hash": "fe2e063883f58962",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "13f9a4d2e7259d8d": {
@@ -762,7 +762,7 @@
   "id": "512b2ddf3d09bfaf",
   "content_hash": "7d300590062c7e40",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "e7f6e4085a0417ab": {
@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -878,7 +878,7 @@
   "id": "5418d519ecf4c0a7",
   "content_hash": "9bd3b723ff60ae5e",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "03dfc6c2b08c0909": {
@@ -915,7 +915,7 @@
   "id": "03dfc6c2b08c0909",
   "content_hash": "9287156d11c9b87b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "f2da3db7d8d654dc": {
@@ -952,7 +952,7 @@
   "id": "f2da3db7d8d654dc",
   "content_hash": "429e0b35473888bc",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "7f207031cf115f12": {
@@ -987,7 +987,7 @@
   "id": "7f207031cf115f12",
   "content_hash": "49e609cee957250b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "711a074d6eeb327f": {
@@ -1023,7 +1023,7 @@
   "id": "711a074d6eeb327f",
   "content_hash": "4f81076ee86c05c4",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "bf2997c93b9868af": {
@@ -1058,7 +1058,7 @@
   "id": "bf2997c93b9868af",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "2078c7e015353e21": {
@@ -1095,7 +1095,7 @@
   "id": "2078c7e015353e21",
   "content_hash": "7973359fb9d1f4b1",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "e77bb422fda554b2": {
@@ -1169,7 +1169,7 @@
   "id": "fd68deadadc0dee5",
   "content_hash": "f9f488bde79efe90",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "d489f2bc12fa717c": {
@@ -1206,7 +1206,7 @@
   "id": "d489f2bc12fa717c",
   "content_hash": "d081f59f7af1a418",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "2fb936555883da97": {
@@ -1245,7 +1245,7 @@
   "id": "2fb936555883da97",
   "content_hash": "1e9db2cd6919b79c",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "b27bd77f5956eabf": {
@@ -1282,7 +1282,7 @@
   "id": "b27bd77f5956eabf",
   "content_hash": "33d31775130d08f0",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "3a84d954a4fc55ea": {
@@ -1324,7 +1324,7 @@
   "id": "3a84d954a4fc55ea",
   "content_hash": "da5e564b1259de63",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "1808642af1771a1b": {
@@ -1366,7 +1366,7 @@
   "id": "1808642af1771a1b",
   "content_hash": "5ef6bd99b540f9bf",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "84eac48d22d24a39": {
@@ -1402,7 +1402,7 @@
   "id": "84eac48d22d24a39",
   "content_hash": "9cebe82af1ea65fb",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "39424e85dba2844a": {
@@ -1439,7 +1439,7 @@
   "id": "39424e85dba2844a",
   "content_hash": "54770d5fefac6189",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "97e053036c3db2be": {
@@ -1476,7 +1476,7 @@
   "id": "97e053036c3db2be",
   "content_hash": "34b239d0f69ec32b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "217562eb3f707bdf": {
@@ -1513,7 +1513,7 @@
   "id": "217562eb3f707bdf",
   "content_hash": "4f90949a497f6177",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "cd7a1e98cdf4365c": {
@@ -1550,7 +1550,7 @@
   "id": "cd7a1e98cdf4365c",
   "content_hash": "d19d9d99a9827852",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "c645eed59395b253": {
@@ -1589,7 +1589,7 @@
   "id": "c645eed59395b253",
   "content_hash": "491aff6415beb344",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "3bcd1cfad19ac0a9": {
@@ -1628,7 +1628,7 @@
   "id": "3bcd1cfad19ac0a9",
   "content_hash": "8f0ceb47a9b68909",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "cadc084332fb5ff1": {
@@ -1667,7 +1667,7 @@
   "id": "cadc084332fb5ff1",
   "content_hash": "b250d1ef39e48089",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "d697dbbcbbd68791": {
@@ -1705,7 +1705,7 @@
   "id": "d697dbbcbbd68791",
   "content_hash": "40f00c3f1352e9c9",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "00e2f2f03fa0f8a3": {
@@ -1785,7 +1785,7 @@
   "id": "46ea43c3e6599d93",
   "content_hash": "5daaace57880aba6",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "c638e648881575cd": {
@@ -2040,7 +2040,7 @@
   "id": "f96b7b51cf185932",
   "content_hash": "a0d3f83584da5dd5",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "912e14d2590b35a5": {
@@ -2263,7 +2263,7 @@
   "id": "128808ae8e8143f3",
   "content_hash": "33ed3b7a5555c825",
   "first_seen": "2026-09-25T09:11:48+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "ddef14251dabcc3c": {
@@ -2302,7 +2302,7 @@
   "id": "ddef14251dabcc3c",
   "content_hash": "7cb266290b85910f",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "9b0d10b7bc5a0458": {
@@ -2337,7 +2337,7 @@
   "id": "9b0d10b7bc5a0458",
   "content_hash": "6cb0069b61a4804c",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "3f07afa568825d73": {
@@ -2416,7 +2416,7 @@
   "id": "6b69f554117dc4ff",
   "content_hash": "716785840ae228f9",
   "first_seen": "2026-09-29T10:14:15+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "e576f7cf02fdca67": {
@@ -2451,7 +2451,7 @@
   "id": "e576f7cf02fdca67",
   "content_hash": "f64031f238159e49",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "44ac48910cd76c39": {
@@ -2486,7 +2486,7 @@
   "id": "44ac48910cd76c39",
   "content_hash": "956887e7a843c9e5",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "6b6b3ca909ddfa25": {
@@ -2523,7 +2523,7 @@
   "id": "6b6b3ca909ddfa25",
   "content_hash": "738a27f1bc891253",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "b69218cc6f6de9af": {
@@ -2559,7 +2559,7 @@
   "id": "b69218cc6f6de9af",
   "content_hash": "fbd8110c8348ce87",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "d9dcbe3effc9bd2d": {
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2629,7 +2629,7 @@
   "id": "51e11c83c475db15",
   "content_hash": "81f9071b16303c94",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "3a4a1f9175f766de": {
@@ -2664,7 +2664,7 @@
   "id": "3a4a1f9175f766de",
   "content_hash": "e60d76b4322c9ffa",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "877de922b2afac65": {
@@ -2700,7 +2700,7 @@
   "id": "877de922b2afac65",
   "content_hash": "c03b6f350a592fa2",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "98a8ebdf51a41ac3": {
@@ -2735,7 +2735,7 @@
   "id": "98a8ebdf51a41ac3",
   "content_hash": "5766edf8db89d9b8",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "96f0e6e5efe31b57": {
@@ -2770,7 +2770,7 @@
   "id": "96f0e6e5efe31b57",
   "content_hash": "c1281673f32efb10",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "e82c953a146b7753": {
@@ -2842,7 +2842,7 @@
   "id": "4154ef308a70e18e",
   "content_hash": "90a99689c9812d15",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "a497f4d5af470e70": {
@@ -2879,7 +2879,7 @@
   "id": "a497f4d5af470e70",
   "content_hash": "9b551aca128d93af",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "547df9d728581f0f": {
@@ -2914,7 +2914,7 @@
   "id": "547df9d728581f0f",
   "content_hash": "ad8ed37ef6ed597d",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "1f98baedd6ea119c": {
@@ -2951,7 +2951,7 @@
   "id": "1f98baedd6ea119c",
   "content_hash": "4ca42340833b3a17",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "9cd89c5f25a6a5f9": {
@@ -2988,7 +2988,7 @@
   "id": "9cd89c5f25a6a5f9",
   "content_hash": "afe7b6956b466f45",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "d108d0efd9cc4b8c": {
@@ -3025,7 +3025,7 @@
   "id": "d108d0efd9cc4b8c",
   "content_hash": "2346d53386856896",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "cee13ca8de20fcb8": {
@@ -3062,7 +3062,7 @@
   "id": "cee13ca8de20fcb8",
   "content_hash": "20051dc17a9d8b9a",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "e44ca11ca4226ee0": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3171,7 +3171,7 @@
   "id": "1586fb73e8b28f4c",
   "content_hash": "8e17924b23843978",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "d4b614fb760f25a3": {
@@ -3212,7 +3212,7 @@
   "id": "d4b614fb760f25a3",
   "content_hash": "d68c82929d481577",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "c57ae6ad34c8e8c7": {
@@ -3249,7 +3249,7 @@
   "id": "c57ae6ad34c8e8c7",
   "content_hash": "a31cb0fe1feea8da",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "66b1e55ad7b169b3": {
@@ -3295,7 +3295,7 @@
   "id": "66b1e55ad7b169b3",
   "content_hash": "714e7ed956db3db0",
   "first_seen": "2026-10-08T11:01:42+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "2ec2a4d580a11a5a": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "353e99c4f04dc128",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3449,7 +3449,7 @@
   "id": "c3ce1fa9d010a7eb",
   "content_hash": "42abfec14a63039d",
   "first_seen": "2026-10-13T11:16:25+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  },
  "39fc8808bf036ace": {
@@ -3484,7 +3484,94 @@
   "id": "39fc8808bf036ace",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-10-13T11:16:25+00:00",
-  "last_seen": "2026-10-13T11:16:25+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
+  "is_open": true
+ },
+ "20a77935887daace": {
+  "source": "ashby",
+  "source_id": "d7ae0191-d5a4-4d46-afc2-e53da45ceeb7",
+  "company": "Epidemic Sound",
+  "title": "CEO Trainee",
+  "url": "https://jobs.ashbyhq.com/epidemic-sound/d7ae0191-d5a4-4d46-afc2-e53da45ceeb7",
+  "description": "Founded in 2009 and headquartered in Stockholm, Epidemic Group is a global creative platform on a mission to reimagine storytelling through music, sound, video, and AI. The group comprises Epidemic Sound, the world's leading soundtracking platform; Soundly, its sound effects platform; Overtone Studios, the group's mood and functional music label; Plenty Labs, an AI-native creative platform for enterprises and creative professionals teams; and Blenda Labs, a next generation video entertainment company. The group is backed by EQT, Blackstone, Creandum, Atwater Capital, Alecta, AMF, and IMAS Foundation.\n\nWhy this role\n\nFor twelve months you will work next to the CEO of Epidemic Group, from the discussion where a decision is made to the follow-up that makes it happen. You will prepare material for the leadership team and the board, keep strategic initiatives moving across the Group, and take on projects of your own over time. Very few people get this view this early, and fewer get the trust that comes with it.\n\n\n\nWhat you will do\n\n - Prepare briefings, analysis and follow-ups for the CEO, the leadership team and the board, and structure decision material on strategic, operational and commercial questions.\n\n - Work directly with leaders across the Group’s businesses to track strategic initiatives, coordinate priorities and keep things moving.\n\n - Take ownership of defined projects set by the CEO.\n\n\n\nWhat you bring\n\n - A Master’s degree (or equivalent), completed or about to be completed, in business, economics, engineering or a related field.\n\n - A track record of leadership, for example through student organisations, case competitions or founding something of your own.\n\n - A proactive, hands-on approach and an analytical mind. You are comfortable moving between big-picture strategy and the details, and you figure things out rather than wait to be told.\n\n - Excellent written and spoken English.\n\n - Strong social skills, and the judgement and discretion to handle confidential and commercially sensitive material.\n\n\n\nThe practicalities\n\nOne-year fixed-term traineeship, on-site at our Stockholm office, reporting directly to the CEO. Start date: as soon as possible.\n\n\n\nEqual opportunity employer\n\nWe believe that bringing people together from different backgrounds, experiences and perspectives makes for a healthy workplace, a more successful business and a better world. We value diversity and encourage everyone to come and soundtrack the world with us.\n\n\n\nApplication\n\nReady to make the world feel your work? Please apply in English. The process includes a logic test, interviews and a case.",
+  "posted_at": "2026-10-13T13:51:49+00:00",
+  "deadline": null,
+  "pay": null,
+  "industry": "",
+  "company_slug": "epidemic-sound",
+  "city": "Stockholm HQ",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "Hybrid",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Excel modelling"
+  ],
+  "fields": [
+   "Economics & Business",
+   "Data Science"
+  ],
+  "about": "For twelve months you will work next to the CEO of Epidemic Group, from the discussion where a decision is made to the follow-up that makes it happen.",
+  "bullets": [
+   "Work directly with leaders across the Group’s businesses to track strategic initiatives, coordinate priorities and keep things moving.",
+   "Take ownership of defined projects set by the CEO.",
+   "A Master’s degree (or equivalent), completed or about to be completed, in business, economics, engineering or a related field."
+  ],
+  "enriched": false,
+  "id": "20a77935887daace",
+  "content_hash": "599d0e0bbb6e9430",
+  "first_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
+  "is_open": true
+ },
+ "e1546330a4ec6600": {
+  "source": "ashby",
+  "source_id": "f4acefd9-7a32-4193-91a7-f493a88159f6",
+  "company": "ICEYE",
+  "title": "AI & Automation Intern – Finance ",
+  "url": "https://jobs.ashbyhq.com/iceye/f4acefd9-7a32-4193-91a7-f493a88159f6",
+  "description": " - AI & Automation Intern – Finance\n\n - Location: Espoo\n\n - Department: Digital Finance \n\n - Reports to: Global Head of Digital Finance \n\n - Employment type:  Internship\n\n - Workplace model: Hybrid\n\n - Employment is subject to applicable security screening (incl. SUPO, where required)\n\n\n\n\nWHY THIS ROLE MATTERS:\n\n\nWe are looking for an AI & Automation Intern to help the Finance team identify, test and implement practical AI solutions. The role is focused on turning everyday Finance challenges into simple, valuable use cases that reduce manual work, improve data quality and support better decision-making.\n\n \n\nThe intern will work closely with Digital Finance and Finance teams, including Controllership, Finance Operations, FP&A, Treasury, Tax and Business Finance, as well as IT, AI, Automation, Data Lake, ERP and Integration teams for the delivery of more complex solutions.\n\n\n\n\nWHO WE ARE\n\n\nICEYE is the world leader in sovereign intelligence from space. We deliver persistent monitoring capabilities to detect and respond to changes in any location on Earth.\n\n \n\nICEYE owns the world's largest and most advanced SAR (synthetic aperture radar) satellite constellation. To our customers we provide intelligence with unmatched quality, latency and revisit times, in any weather, day or night. To governments who choose to operate their own constellation we provide this proven capability as a sovereign system.\n\n \n\nICEYE-built constellations serve customers in defence and intelligence, environmental monitoring, insurance and emergency management. We enable fast decisions that contribute to a safer future.\n\n \n\nFounded and headquartered in Finland, ICEYE operates globally with over 1000 employees across Europe, North America, the Middle East, and Asia-Pacific.\n\n\n\n\nYOUR DAY-TO-DAY RESPONSIBILITIES\n\n \n\n - Identify repetitive Finance activities suitable for AI or automation.\n\n - Gather and document business requirements from Finance users.\n\n - Build self-contained AI solutions for Finance users, such as custom AI assistants (e.g. Claude Projects, custom GPTs), reusable prompt templates and simple workflow automations (e.g. Power Automate).\n\n - Where no-code is not enough, create lightweight tools with the help of AI coding assistants (e.g. simple Python scripts, Excel macros, basic Power Apps).\n\n - Apply AI tools to everyday Finance tasks, such as extracting data from invoices and contracts, summarising reports, drafting variance commentary, reconciliations, forecasting support and cleaning or matching data in Excel.\n\n - Hand over solutions that require integration with ERP, the data lake or other core systems to the relevant IT, AI, Automation, Data Lake, ERP or Integration teams, acting as the Finance-side proxy through to launch.\n\n - Test solutions and collect feedback from users.\n\n - Help assess the value, feasibility and risks of proposed AI use cases.\n\n - Prepare user guides and support adoption within Finance.\n\n - Maintain the Finance AI use-case pipeline and track delivered benefits.\n\n - Ensure solutions follow company requirements for data security, privacy and responsible AI, in coordination with IT.\n\n - Monitor AI market developments and bring relevant ideas to the team.\n\n\n\n\nSCOPE OF THE ROLE\n\n\nThe focus is on quick, practical wins that a single user or team can adopt within days or weeks. Building production systems, system integrations or training machine learning models is out of scope; these are delivered together with IT and the AI, Automation, Data Lake, ERP and Integration teams.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\n \n\n - Student or recent graduate in AI, data science, computer science, finance, economics or a related field.\n\n - Strong interest in both artificial intelligence and business processes.\n\n - Hands-on experience using generative AI tools (e.g. ChatGPT, Claude) for real tasks, and the ability to write clear, structured prompts.\n\n - Experience with, or strong interest in, no-/low-code tools (e.g. Power Automate, Power Apps).\n\n - Good Excel skills (formulas, pivot tables); Power Query is a plus.\n\n - Basic scripting skills (e.g. Python or SQL), or the willingness to build simple scripts with AI coding assistants.\n\n - Awareness of AI limitations: verifying outputs, recognising hallucinations, and handling confidential financial data responsibly.\n\n - Good analytical and problem-solving skills.\n\n - Ability to explain technical topics in clear business language.\n\n - Proactive, curious and comfortable experimenting with new solutions.\n\n - Good command of English.\n\nNice to have\n\n - Experience building an AI assistant that uses company documents as a knowledge source.\n\n - Experience with Power BI or other data visualisation tools.\n\n - Familiarity with financial processes or ERP systems.\n\n - Basic experience with APIs.\n\nWhat success looks like\n\n - Valuable Finance AI use cases are identified and prioritised.\n\n - Working prototypes are created and tested quickly.\n\n - Manual effort is reduced through practical solutions.\n\n - Several AI tools or automations are in regular use by Finance teams by the end of the internship.\n\n - Benefits such as time saved, improved quality or faster insights are measured.\n\n - Effective, well-established collaboration with the AI, Automation, Data Lake, ERP and Integration teams: requirements are handed over clearly, solutions are aligned with company standards, and Finance use cases are successfully delivered together.\n\n \n\n\nAPPLICATION PROCESS\n\n - TA screening\n\n - Hiring Manager interview\n\n - Technical Interview \n\n\n\n\nWORKING AT ICEYE\n\nAt ICEYE, you’ll join a diverse and highly engaged team united by the ambition to make the impossible possible. As a global scale-up, we combine speed and ambition with the opportunity to take real ownership from day one. Your growth, wellbeing, and success are a priority, with continuous professional development, training opportunities, and a culture where collaboration is how we win.\n\n\n\n\nHOW WE WORK (OUR VALUES)\n\nMake the impossible possib",
+  "posted_at": "2026-10-13T14:37:02+00:00",
+  "deadline": null,
+  "pay": null,
+  "industry": "",
+  "company_slug": "iceye",
+  "city": "Espoo",
+  "country": "FI",
+  "type": "Internship",
+  "mode": "Hybrid",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Finance",
+   "Control systems",
+   "Excel modelling",
+   "Python",
+   "Data visualisation",
+   "SQL"
+  ],
+  "fields": [
+   "Economics & Business",
+   "Data Science"
+  ],
+  "about": "",
+  "bullets": [
+   "AI & Automation Intern – Finance",
+   "Location: Espoo",
+   "Department: Digital Finance"
+  ],
+  "enriched": false,
+  "id": "e1546330a4ec6600",
+  "content_hash": "e3f26d5126531eb3",
+  "first_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-14T09:08:09+00:00",
   "is_open": true
  }
 }
