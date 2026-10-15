@@ -315,7 +315,7 @@
   "id": "3306155384cefff7",
   "content_hash": "c5c80e919572c489",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "c5cdecebe025cd52": {
@@ -352,7 +352,7 @@
   "id": "c5cdecebe025cd52",
   "content_hash": "7cd9c01597a29d09",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "0502060694254c60": {
@@ -389,7 +389,7 @@
   "id": "0502060694254c60",
   "content_hash": "fe2e063883f58962",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "13f9a4d2e7259d8d": {
@@ -762,7 +762,7 @@
   "id": "512b2ddf3d09bfaf",
   "content_hash": "7d300590062c7e40",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "e7f6e4085a0417ab": {
@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -878,7 +878,7 @@
   "id": "5418d519ecf4c0a7",
   "content_hash": "9bd3b723ff60ae5e",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "03dfc6c2b08c0909": {
@@ -915,7 +915,7 @@
   "id": "03dfc6c2b08c0909",
   "content_hash": "9287156d11c9b87b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "f2da3db7d8d654dc": {
@@ -952,7 +952,7 @@
   "id": "f2da3db7d8d654dc",
   "content_hash": "429e0b35473888bc",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "7f207031cf115f12": {
@@ -987,7 +987,7 @@
   "id": "7f207031cf115f12",
   "content_hash": "49e609cee957250b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "711a074d6eeb327f": {
@@ -1023,7 +1023,7 @@
   "id": "711a074d6eeb327f",
   "content_hash": "4f81076ee86c05c4",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "bf2997c93b9868af": {
@@ -1058,7 +1058,7 @@
   "id": "bf2997c93b9868af",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "2078c7e015353e21": {
@@ -1095,7 +1095,7 @@
   "id": "2078c7e015353e21",
   "content_hash": "7973359fb9d1f4b1",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "e77bb422fda554b2": {
@@ -1169,7 +1169,7 @@
   "id": "fd68deadadc0dee5",
   "content_hash": "f9f488bde79efe90",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "d489f2bc12fa717c": {
@@ -1206,7 +1206,7 @@
   "id": "d489f2bc12fa717c",
   "content_hash": "d081f59f7af1a418",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "2fb936555883da97": {
@@ -1245,7 +1245,7 @@
   "id": "2fb936555883da97",
   "content_hash": "1e9db2cd6919b79c",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "b27bd77f5956eabf": {
@@ -1282,7 +1282,7 @@
   "id": "b27bd77f5956eabf",
   "content_hash": "33d31775130d08f0",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "3a84d954a4fc55ea": {
@@ -1324,7 +1324,7 @@
   "id": "3a84d954a4fc55ea",
   "content_hash": "da5e564b1259de63",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "1808642af1771a1b": {
@@ -1366,7 +1366,7 @@
   "id": "1808642af1771a1b",
   "content_hash": "5ef6bd99b540f9bf",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "84eac48d22d24a39": {
@@ -1402,7 +1402,7 @@
   "id": "84eac48d22d24a39",
   "content_hash": "9cebe82af1ea65fb",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "39424e85dba2844a": {
@@ -1439,7 +1439,7 @@
   "id": "39424e85dba2844a",
   "content_hash": "54770d5fefac6189",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "97e053036c3db2be": {
@@ -1476,7 +1476,7 @@
   "id": "97e053036c3db2be",
   "content_hash": "34b239d0f69ec32b",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "217562eb3f707bdf": {
@@ -1513,7 +1513,7 @@
   "id": "217562eb3f707bdf",
   "content_hash": "4f90949a497f6177",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "cd7a1e98cdf4365c": {
@@ -1550,7 +1550,7 @@
   "id": "cd7a1e98cdf4365c",
   "content_hash": "d19d9d99a9827852",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "c645eed59395b253": {
@@ -1589,7 +1589,7 @@
   "id": "c645eed59395b253",
   "content_hash": "491aff6415beb344",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "3bcd1cfad19ac0a9": {
@@ -1628,7 +1628,7 @@
   "id": "3bcd1cfad19ac0a9",
   "content_hash": "8f0ceb47a9b68909",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "cadc084332fb5ff1": {
@@ -1667,7 +1667,7 @@
   "id": "cadc084332fb5ff1",
   "content_hash": "b250d1ef39e48089",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "d697dbbcbbd68791": {
@@ -1705,7 +1705,7 @@
   "id": "d697dbbcbbd68791",
   "content_hash": "40f00c3f1352e9c9",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "00e2f2f03fa0f8a3": {
@@ -1785,7 +1785,7 @@
   "id": "46ea43c3e6599d93",
   "content_hash": "5daaace57880aba6",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "c638e648881575cd": {
@@ -2263,7 +2263,7 @@
   "id": "128808ae8e8143f3",
   "content_hash": "33ed3b7a5555c825",
   "first_seen": "2026-09-25T09:11:48+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "ddef14251dabcc3c": {
@@ -2302,7 +2302,7 @@
   "id": "ddef14251dabcc3c",
   "content_hash": "7cb266290b85910f",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "9b0d10b7bc5a0458": {
@@ -2337,7 +2337,7 @@
   "id": "9b0d10b7bc5a0458",
   "content_hash": "6cb0069b61a4804c",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "3f07afa568825d73": {
@@ -2416,7 +2416,7 @@
   "id": "6b69f554117dc4ff",
   "content_hash": "716785840ae228f9",
   "first_seen": "2026-09-29T10:14:15+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "e576f7cf02fdca67": {
@@ -2451,7 +2451,7 @@
   "id": "e576f7cf02fdca67",
   "content_hash": "f64031f238159e49",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "44ac48910cd76c39": {
@@ -2486,7 +2486,7 @@
   "id": "44ac48910cd76c39",
   "content_hash": "956887e7a843c9e5",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "6b6b3ca909ddfa25": {
@@ -2523,7 +2523,7 @@
   "id": "6b6b3ca909ddfa25",
   "content_hash": "738a27f1bc891253",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "b69218cc6f6de9af": {
@@ -2559,7 +2559,7 @@
   "id": "b69218cc6f6de9af",
   "content_hash": "fbd8110c8348ce87",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "d9dcbe3effc9bd2d": {
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2629,7 +2629,7 @@
   "id": "51e11c83c475db15",
   "content_hash": "81f9071b16303c94",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "3a4a1f9175f766de": {
@@ -2664,7 +2664,7 @@
   "id": "3a4a1f9175f766de",
   "content_hash": "e60d76b4322c9ffa",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "877de922b2afac65": {
@@ -2700,7 +2700,7 @@
   "id": "877de922b2afac65",
   "content_hash": "c03b6f350a592fa2",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "98a8ebdf51a41ac3": {
@@ -2735,7 +2735,7 @@
   "id": "98a8ebdf51a41ac3",
   "content_hash": "5766edf8db89d9b8",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "96f0e6e5efe31b57": {
@@ -2770,7 +2770,7 @@
   "id": "96f0e6e5efe31b57",
   "content_hash": "c1281673f32efb10",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "e82c953a146b7753": {
@@ -2842,7 +2842,7 @@
   "id": "4154ef308a70e18e",
   "content_hash": "90a99689c9812d15",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "a497f4d5af470e70": {
@@ -2879,7 +2879,7 @@
   "id": "a497f4d5af470e70",
   "content_hash": "9b551aca128d93af",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "547df9d728581f0f": {
@@ -2914,7 +2914,7 @@
   "id": "547df9d728581f0f",
   "content_hash": "ad8ed37ef6ed597d",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "1f98baedd6ea119c": {
@@ -2951,7 +2951,7 @@
   "id": "1f98baedd6ea119c",
   "content_hash": "4ca42340833b3a17",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "9cd89c5f25a6a5f9": {
@@ -2988,7 +2988,7 @@
   "id": "9cd89c5f25a6a5f9",
   "content_hash": "afe7b6956b466f45",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "d108d0efd9cc4b8c": {
@@ -3025,7 +3025,7 @@
   "id": "d108d0efd9cc4b8c",
   "content_hash": "2346d53386856896",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "cee13ca8de20fcb8": {
@@ -3062,7 +3062,7 @@
   "id": "cee13ca8de20fcb8",
   "content_hash": "20051dc17a9d8b9a",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "e44ca11ca4226ee0": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3171,7 +3171,7 @@
   "id": "1586fb73e8b28f4c",
   "content_hash": "8e17924b23843978",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "d4b614fb760f25a3": {
@@ -3212,7 +3212,7 @@
   "id": "d4b614fb760f25a3",
   "content_hash": "d68c82929d481577",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "c57ae6ad34c8e8c7": {
@@ -3249,7 +3249,7 @@
   "id": "c57ae6ad34c8e8c7",
   "content_hash": "a31cb0fe1feea8da",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "66b1e55ad7b169b3": {
@@ -3295,7 +3295,7 @@
   "id": "66b1e55ad7b169b3",
   "content_hash": "714e7ed956db3db0",
   "first_seen": "2026-10-08T11:01:42+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "2ec2a4d580a11a5a": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "353e99c4f04dc128",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3449,7 +3449,7 @@
   "id": "c3ce1fa9d010a7eb",
   "content_hash": "42abfec14a63039d",
   "first_seen": "2026-10-13T11:16:25+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "39fc8808bf036ace": {
@@ -3484,7 +3484,7 @@
   "id": "39fc8808bf036ace",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-10-13T11:16:25+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "20a77935887daace": {
@@ -3525,7 +3525,7 @@
   "id": "20a77935887daace",
   "content_hash": "599d0e0bbb6e9430",
   "first_seen": "2026-10-14T09:08:09+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  },
  "e1546330a4ec6600": {
@@ -3571,7 +3571,161 @@
   "id": "e1546330a4ec6600",
   "content_hash": "e3f26d5126531eb3",
   "first_seen": "2026-10-14T09:08:09+00:00",
-  "last_seen": "2026-10-14T09:08:09+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
+  "is_open": true
+ },
+ "c655211be0d987ee": {
+  "source": "greenhouse",
+  "source_id": "8138672",
+  "company": "Trustpilot",
+  "title": "Commercial Student Assistant ",
+  "url": "https://corporate.trustpilot.com/careers/job/8138672?gh_jid=8138672",
+  "description": "At Trustpilot, we're on an incredible journey. We're a profitable, high-growth FTSE-250 company with a big vision: to become the universal symbol of trust. We run the world's largest open customer review platform, and while we've come a long way, there's still so much exciting work to do. Come join us at the heart of trust!\n As AI reshapes how consumers search, discover, and choose brands, Trustpilot’s unique dataset of authentic human sentiment is becoming increasingly critical. We are uniquely positioned to define how trust and reputation function in an AI-driven digital economy and we’re building an inclusive environment where curious, ambitious people can do the best work of their careers. To support Trustpilot’s rapid expansion, we’re looking for a Student Assistant to join our DACH Sales Team in Hamburg.\n With us you’ll have the opportunity to try new things and figure out where you want to take your career. We hope we’ve grabbed your attention so far, please keep on reading for more details about the role.\n What you’ll be doing: \n In this role you will be supporting the sales team with both low and high tasks such as:\n• Research and identify potential leads\n• Use lead generation tools to gather contact information\n• Qualify leads based on specific criteria\n• Maintain accurate lead records in the CRM system\n• Collaborate with the sales team for correct lead handoff and knowledge sharing\n• Coordinate customer-facing materials, including documents, presentations, design and other sales collateral\n• Support event planning and coordination, including lead management before and after events, and run email cadences and outreach activities on behalf of the sales team\n We’d like you to be able to work approximately 10-20 hours per week, but we are of course flexible depending on what your study schedule looks like.\n Who you are: \n• You have a positive, proactive mindset and are eager to learn\n• You’re interested in commercial organizations and how they operate\n• You have a strong motivation for sales and business development\n• You can work independently, take ownership of tasks, and meet deadlines\n• You have clear and precise communication skills in both German and English \n• You have good understanding of Google and Microsoft products\n And don’t worry if you don’t tick all the boxes (yet), we’ll get there. As a team we’ll ensure that you have the necessary support to build the skills you need along the way!\n What’s in it for you: \n• An opportunity to work and learn alongside supportive, talented, and passionate people in an international, fast-paced company \n• Regular opportunities to connect and get to know your fellow Trusties, including company-wide celebrations and events, ERG activities, and team socials\n• Opportunity to join the Trustpilot Social Club for a small monthly fee and attend regular social and leisure activities like go-karting, cooking classes, and escape rooms \n• Employee discounts to restaurants and shops \n• Rich learning and development opportunities are supported through the Trustpilot Academy, LinkedIn Learning, and Blinkist\n• An collaborative office where different perspectives and ideas come together - creating an environment where you can learn, challenge yourself and help shape what’s next\n We are: \n• Enthusiastic about what we do. Our sales teams are super collaborative and it’s a fun place to work if you enjoy seeing your hard work recognised and rewarded.\n• Our culture is fast-paced and our employees grow as we do. You’ll have plenty of personal development opportunities thanks to our in-house enablement team and individual career mapping.\n• Ideas people. We like our employees to be creative and always advocate for new ways of working \n Still not sure? \n We are Open to All, which means we want everyone to feel like they can see themselves at Trustpilot. We're keen to hear about your experiences as well as how you can help to create a fantastic culture for our amazing Trusties. So, don't worry if you're looking at this job description and feel like you don't meet all the requirements, we'd still really like to hear from you!\n Keen to join us? Then please apply with your CV and Cover Letter in English as soon as possible.\n#LI-MN1\n About us \n Trustpilot began in 2007 with a simple yet powerful idea that is more relevant today than ever — to be the universal symbol of trust, bringing consumers and businesses together through reviews. Trustpilot is open, independent, and impartial — we help consumers make the right choices and businesses to build trust, grow and improve.\n Today, we have more than 350 million reviews and 60 million monthly active users across the globe, with 149 billion annual Trustpilot brand impressions, and the numbers keep growing. We have more than 1000 employees and we’re headquartered in Copenhagen, with operations in Amsterdam, Denver, Edinburgh, Hamburg, London, Melbourne, Milan and New York. \n We’re driven by connection. It’s at the heart of what we do. Our culture keeps things fresh –– it’s built on the relationships we create. We talk, we laugh, we collaborate and we respect each other. We work across borders and cultures to be the universal symbol of trust in an ever-changing world. With vibrant office locations worldwide and over 50 nationalities, we’re proud to be an equal opportunity workplace with diverse perspectives and ideas. \n Our purpose to help people and businesses help each other is a tall order, but we keep it real. We’re a great bunch of humans, doing awesome stuff, without fuss or pretense. A successful Trustpilot future is driven by you –– we give you the autonomy to shape a career you can be proud of. If you’re ready to grow, let’s go.\n Join us at the heart of trust. \n Trustpilot is committed to creating an inclusive environment where people from all backgrounds can thrive and where different viewpoints and experiences are valued and respected. Trustpilot will consider all applications for employment without regard to ",
+  "posted_at": "2026-08-26T06:47:40-04:00",
+  "deadline": null,
+  "pay": null,
+  "industry": "",
+  "company_slug": "trustpilot",
+  "city": "Copenhagen",
+  "country": "DK",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [],
+  "fields": [
+   "Economics & Business",
+   "Data Science"
+  ],
+  "about": "In this role you will be supporting the sales team with both low and high tasks such as:",
+  "bullets": [
+   "Research and identify potential leads",
+   "Use lead generation tools to gather contact information",
+   "Qualify leads based on specific criteria"
+  ],
+  "enriched": false,
+  "id": "c655211be0d987ee",
+  "content_hash": "fcaaff9dbf018667",
+  "first_seen": "2026-10-15T08:41:22+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
+  "is_open": true
+ },
+ "ada9d911f8a64606": {
+  "source": "jobtech",
+  "source_id": "31127629",
+  "company": "Kapita Investment Group AB",
+  "title": "UX designer - obetald praktik!",
+  "url": "https://kapita.careers.haileyhr.app/sv-SE/job/f6cedc6e-52de-4093-8d22-5c7092b323ce/5e329f8d-9a18-44cc-a2bb-ba556a5558f0/20438344-e888-4429-ab3b-939c46ae9525",
+  "description": "Kapita Investment Group söker UX designer på praktik!\n\n\nStuderar du på universitet/högskola och söker en praktikplats, LIA-period eller vill bygga en stark portfolio inför din framtida karriär? Vi på Kapita Investment Group erbjuder nu flera praktikplatser under sommaren 2026, med möjlighet till förlängning!\n\n\nKapita Investment Group är ett växande investmentbolag med höga ambitioner och starkt driv. Vi sitter mitt på Avenyn i Göteborg och är ett sammansvetsat team där idéer tas på allvar och där varje individ får möjlighet att påverka.\n\n\nVi är inte störst i branschen – och det är vår styrka. Vi är snabba, progressiva och öppna för nya perspektiv.\n\n\nUX Designer (Hybrid)\n\n\nBrinner du för design, användarupplevelse och digitala produkter? Vill du arbeta praktiskt med UX i en miljö där dina idéer faktiskt används?\n\n\nUnder din praktik kommer du att:\n\n\nTa fram wireframes, prototyper och designförslag\nArbeta med användarflöden och förbättra upplevelsen i våra digitala produkter\nDelta i idéarbete och produktutveckling\nSamarbeta med teamet kring designbeslut\n\n\n\nVi söker dig som:\n\n\nHar en portfolio som visar ditt arbete (krav)\nHar grundläggande kunskap inom UX/UI\nÄr självgående och initiativtagande\nVill utvecklas snabbt och ta ansvar\nHar professionell nivå i engelska (krav) Förståelse av FrontEnd delen (underliggande faktiska lagret där “design och det visuella” blir till faktiskt kod) men också BackEnd (den bärande koden) och förståelse för FullStack, API integration och uppbyggnad, Automationer och även CI/CD pipelining, GitHub Actions m.m. lite mera Edag utveckling.  \n\n\n\nHos oss får du:\n\n\nArbeta operativt med verkliga projekt\nUtveckla konkreta färdigheter inom ditt område\nMöjlighet att bygga en stark portfolio\nArbeta nära ett engagerat team\nTa eget ansvar och driva uppgifter självständigt\n\n\n\nI din ansökan vill vi att du inkluderar:\n\n\nCV\nPersonligt brev\nPortfolio eller tidigare arbete\nTidsperiod du kan praktisera\n\n\n\nPraktikperioden är flexibel. Praktikplatser är obetalda.\n\n\nSök redan idag! Vi intervjuar löpande och tillsättning kan ske innan sista ansökningsdag.",
+  "posted_at": "2026-10-15T00:00:00+00:00",
+  "deadline": "2026-11-18T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5594176710",
+  "city": "Göteborg",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "Hybrid",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Git",
+   "Control systems"
+  ],
+  "fields": [
+   "Design",
+   "Economics & Business",
+   "Computer Science"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "ada9d911f8a64606",
+  "content_hash": "fb5ffc6f4ca00b08",
+  "first_seen": "2026-10-15T08:41:22+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
+  "is_open": true
+ },
+ "a5403e9cf0e19451": {
+  "source": "jobtech",
+  "source_id": "31598531",
+  "company": "Bosch Thermoteknik AB",
+  "title": "Internship in Project Management",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155461898-internship-in-project-management",
+  "description": "Company Description\nWelcome to a world, where your ideas lead to something big. Welcome to Bosch!\nBosch Thermoteknik AB in Tranås develops, manufactures, and sells heat pumps for the European market. We are approximately 650 employees and form part of the large Bosch Group, which consists of approximately 417,000 employees worldwide.\nWe work with sustainable simplification of everyday life where the focus is on the environment, innovation, and development. In Tranås there is a production unit and a competence and development center. The heat pumps we manufacture draw energy from different sources - the mountain, the water, or the air. We work to constantly be at the forefront and contribute to sustainable energy and a better environment with the goal of creating a simplified everyday life for our customers. In short, we create technology that is \"Invented for life\".\n\n\nJob Description\nYour contribution to something big\nAs part of the team, you will play an active role in planning, implementing, and monitoring projects.\nYou will also take independent responsibility for project streams and sub-projects and drive them forward in a targeted manner.\nYou will create templates and compelling presentations for our stakeholders and also provide support with administrative tasks.\nWith the help of sound project data analyses, you will identify key areas for improvement and thus actively contribute to our continuous development.\nYou will be actively involved in the development and implementation of new processes and methods in project management.\nYou will independently develop meaningful presentations for project management in PowerPoint, thereby preparing important decisions.\nYou will carefully collect all open issues in OneNote as an OPL (Open Point List) and ensure their transparency.\nYou will precisely monitor the consistent tracking of milestones and deliverables to ensure continuous project progress.\n\n\n\nQualifications\nWhat distinguishes you\nCurrently studying in business administration, economics, engineering, project management, or similar as Master student\nSolution-oriented mindset\nAbility to work independently and to take responsibility for own work\nExperience in proficient in MS Office; basic knowledge of project management methods and tools such as Jira or PowerBI is an advantage\nWorking knowledge of Microsoft Office tools, e.g. Word, Excel, Power Point\nYou are characterized by a reliable, structured, and independent approach as well as clear and open communication; you think analytically, can quickly familiarize yourself with complex issues, and enjoy proactively developing innovative solutions with creative ideas; you enjoy working in a dynamic team\nEnthusiasm: for new projects; you are motivated to continuously develop yourself both personally and professionally through the use of modern methods and digital tools\nExcellent written and verbal communication skills in English - Swedish is an advantage\n\n\n\nAdditional Information\nWhat we offer you\nWe offer monetary compensation to support you during your internship.\nFree accommodation in Tranås is provided\nTo support your well-being, we provide a wellness contribution for use on fitness, sports, or wellness services\nWe cover your travel costs from your residence to Tranås, making relocation easier for you\nYou gain valuable experience working within an international company with global connections\n\nAt Bosch, we care for you, our business, and our environment. Our promise to our associates is rock-solid. We grow together into countless roles, positions, and opportunities and we are interested in developing the “whole” you, not just the “7 to 16” you, because life is all about balance.\nAt Bosch we understand that everyone has their own focus in life, whether it is about new professional challenges, training, and development, or more time for family, friends, and hobbies, whatever your goals are we are flexible. Let ‘s strike a balance. At Bosch, we believe everyone is different and that is what we love. Get inspired by a cooperative, open, respectful, and trustworthy workplace where you can be yourself and be enriched by the perspectives of our community around the globe.\nJoin us and feel the difference. #LikeABosch",
+  "posted_at": "2026-10-15T07:28:40+00:00",
+  "deadline": "2026-11-14T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5562629062",
+  "city": "Tranås",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Excel modelling",
+   "Data analysis"
+  ],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "As part of the team, you will play an active role in planning, implementing, and monitoring projects.",
+  "bullets": [],
+  "enriched": false,
+  "id": "a5403e9cf0e19451",
+  "content_hash": "3fe5220903436ecf",
+  "first_seen": "2026-10-15T08:41:22+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
+  "is_open": true
+ },
+ "fda09d4d8cf95763": {
+  "source": "jobtech",
+  "source_id": "31596423",
+  "company": "NaturalCycles Nordic AB",
+  "title": "Research Operations Intern",
+  "url": "https://career.naturalcycles.com/jobs/8544629-research-operations-intern/applications/new?promotion=2246227-arbetsformedlingen",
+  "description": "Natural Cycles° is a leading women’s health company that developed the world’s first birth control app, used by millions globally. We are a fast growing startup, and we promote an international working environment filled with smart and ambitious colleagues based in Stockholm, Geneva, New York, and remotely. Our mission is to pioneer women’s health through research and passion, empowering every woman with the knowledge she needs to take charge of her health.\nAs a Research Operations Intern, you'll provide hands-on support for our research studies. You'll keep things running smoothly day-to-day by troubleshooting devices, keeping inventory in order, and making sure every participant has a good experience from their first email to their last.\nThis is an entry-level role, ideal if you're early in your career and want to see how hardware trials at Natural Cycles work in practice. You don't need prior experience in clinical research. What matters most is that you're organized, reliable, and enjoy solving practical problems.\nYou'll work closely with the MAD (Medical Algorithm and Data) team and collaborate with Hardware, Finance, IT, and HR. Research and trials workload fluctuates, so we're looking for someone comfortable switching gears to collaborate with other teams if needed.\nPlease note that this is a one-year contract role based in the Stockholm area, with a start date in December.\nWhat you will be doing\n\nTroubleshoot: help participants solve device and app issues, test devices yourself, and figure out what went wrong when something doesn't work. Forward feedback to stakeholders in a structured and organized manner.\n\n\nLook after devices and inventory: keep track of stock, prepare and ship devices and materials, and keep inventory records accurate and up to date.\n\n\nSupport participants by answering questions, scheduling calls when needed, and sending follow-up messages in a clear, professional, and friendly way.\n\n\nKeep track of the details: check that signed documents are collected and stored in accordance with the internal protocol, monitor that participants are sharing data as expected, and flag anything that looks off.\n\n\nHelp with onboarding: schedule participants and prepare materials.\n\n\nRun offboarding: guide participants through the end of a study, collect devices and materials, and coordinate with Finance so compensation is paid.\n\n\nWhat skills and experience we think you have\n\nYou have a track record of taking responsibility and keeping things organized. This can come from a part-time job, volunteering, a student association, organizing events, coaching, or a similar role, paid or unpaid. Technical customer support role experience is a plus.\n\n\nYou're structured and like having systems: checklists, spreadsheets, and clear documentation.\n\n\nYou have strong attention to detail and easily spot small mistakes.\n\n\nYou enjoy troubleshooting and have the patience to help people who aren't comfortable with technology.\n\n\nYou explain things clearly and simply, both in writing and in conversation.\n\n\nYou can juggle several tasks at once without losing track.\n\n\nYou stay focused on priorities, even when plans change.\n\n\nYou're fully proficient in English, spoken and written.\n\n\nYou care about women's health and are curious about research.\n\n\nYou're comfortable with flexible scheduling, collaborating with multiple teams, and a varying workload.\n\n\nYou're based in the Stockholm area and available to start in December for a one-year contract.\n\n\nWhat we offer\n\nFlexible work arrangement - you will be part of a team based in and around Stockholm that values effective collaboration and transparent communication, irrespective of work location.\n\n\nProfessional development - you will work alongside knowledgeable colleagues in the continuous growth and skill enhancement environment.\n\n\nModern technology - you will leverage innovative technologies and tools, within an environment that empowers you to contribute ideas and take ownership of your work.\n\n\nImpactful projects - you will contribute to groundbreaking projects that redefine industry standards and create tangible value.\n\n\nCommitment to quality - you will join a dynamic and progressive organization that prioritizes profitable, long-term product development.\n\n\n Location\nMost trial operations happen on-site, so being in the office regularly is essential. That said, when the work allows for occasional remote days, we’re glad to make use of that flexibility.\n Sounds interesting?\nIf you want to be part of a successful team, we encourage you to apply for this position as soon as possible.\nWe look forward to hearing from you!\n\nHow to apply\nTo apply, just upload your CV and answer the questions on the application form. Keep in mind that we can't accept applications through email because of GDPR, and only applications submitted via the career site (and in English) will be considered.\nAt Natural Cycles we value diversity and inclusion because we know that teams with people from different backgrounds and experiences are stronger. We welcome candidates from all walks of life and are committed to creating an inclusive environment for all employees and candidates.\nNote: We are not looking for consultants or help from recruitment agencies",
+  "posted_at": "2026-10-14T14:12:40+00:00",
+  "deadline": "2027-04-12T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5569527657",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "CAD (SolidWorks)",
+   "Finance"
+  ],
+  "fields": [
+   "Industrial Engineering",
+   "Economics & Business"
+  ],
+  "about": "As a Research Operations Intern, you'll provide hands-on support for our research studies.",
+  "bullets": [],
+  "enriched": false,
+  "id": "fda09d4d8cf95763",
+  "content_hash": "01402484f3b9853a",
+  "first_seen": "2026-10-15T08:41:22+00:00",
+  "last_seen": "2026-10-15T08:41:22+00:00",
   "is_open": true
  }
 }
