@@ -315,7 +315,7 @@
   "id": "3306155384cefff7",
   "content_hash": "c5c80e919572c489",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "c5cdecebe025cd52": {
@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -1058,7 +1058,7 @@
   "id": "bf2997c93b9868af",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "2078c7e015353e21": {
@@ -1785,7 +1785,7 @@
   "id": "46ea43c3e6599d93",
   "content_hash": "5daaace57880aba6",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "c638e648881575cd": {
@@ -2302,7 +2302,7 @@
   "id": "ddef14251dabcc3c",
   "content_hash": "7cb266290b85910f",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "9b0d10b7bc5a0458": {
@@ -2337,7 +2337,7 @@
   "id": "9b0d10b7bc5a0458",
   "content_hash": "6cb0069b61a4804c",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "3f07afa568825d73": {
@@ -2416,7 +2416,7 @@
   "id": "6b69f554117dc4ff",
   "content_hash": "716785840ae228f9",
   "first_seen": "2026-09-29T10:14:15+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "e576f7cf02fdca67": {
@@ -2451,7 +2451,7 @@
   "id": "e576f7cf02fdca67",
   "content_hash": "f64031f238159e49",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "44ac48910cd76c39": {
@@ -2486,7 +2486,7 @@
   "id": "44ac48910cd76c39",
   "content_hash": "956887e7a843c9e5",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "6b6b3ca909ddfa25": {
@@ -2523,7 +2523,7 @@
   "id": "6b6b3ca909ddfa25",
   "content_hash": "738a27f1bc891253",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "b69218cc6f6de9af": {
@@ -2559,7 +2559,7 @@
   "id": "b69218cc6f6de9af",
   "content_hash": "fbd8110c8348ce87",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "d9dcbe3effc9bd2d": {
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2629,7 +2629,7 @@
   "id": "51e11c83c475db15",
   "content_hash": "81f9071b16303c94",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "3a4a1f9175f766de": {
@@ -2664,7 +2664,7 @@
   "id": "3a4a1f9175f766de",
   "content_hash": "e60d76b4322c9ffa",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "877de922b2afac65": {
@@ -2700,7 +2700,7 @@
   "id": "877de922b2afac65",
   "content_hash": "c03b6f350a592fa2",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "98a8ebdf51a41ac3": {
@@ -2735,7 +2735,7 @@
   "id": "98a8ebdf51a41ac3",
   "content_hash": "5766edf8db89d9b8",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "96f0e6e5efe31b57": {
@@ -2770,7 +2770,7 @@
   "id": "96f0e6e5efe31b57",
   "content_hash": "c1281673f32efb10",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "e82c953a146b7753": {
@@ -2842,7 +2842,7 @@
   "id": "4154ef308a70e18e",
   "content_hash": "90a99689c9812d15",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "a497f4d5af470e70": {
@@ -2879,7 +2879,7 @@
   "id": "a497f4d5af470e70",
   "content_hash": "9b551aca128d93af",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "547df9d728581f0f": {
@@ -2914,7 +2914,7 @@
   "id": "547df9d728581f0f",
   "content_hash": "ad8ed37ef6ed597d",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "1f98baedd6ea119c": {
@@ -2988,7 +2988,7 @@
   "id": "9cd89c5f25a6a5f9",
   "content_hash": "afe7b6956b466f45",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "d108d0efd9cc4b8c": {
@@ -3025,7 +3025,7 @@
   "id": "d108d0efd9cc4b8c",
   "content_hash": "2346d53386856896",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "cee13ca8de20fcb8": {
@@ -3062,7 +3062,7 @@
   "id": "cee13ca8de20fcb8",
   "content_hash": "20051dc17a9d8b9a",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "e44ca11ca4226ee0": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3171,7 +3171,7 @@
   "id": "1586fb73e8b28f4c",
   "content_hash": "8e17924b23843978",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "d4b614fb760f25a3": {
@@ -3212,7 +3212,7 @@
   "id": "d4b614fb760f25a3",
   "content_hash": "d68c82929d481577",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "c57ae6ad34c8e8c7": {
@@ -3249,7 +3249,7 @@
   "id": "c57ae6ad34c8e8c7",
   "content_hash": "a31cb0fe1feea8da",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "66b1e55ad7b169b3": {
@@ -3296,7 +3296,7 @@
   "content_hash": "714e7ed956db3db0",
   "first_seen": "2026-10-08T11:01:42+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "2ec2a4d580a11a5a": {
   "source": "jobtech",
@@ -3304,9 +3304,9 @@
   "company": "Boliden Mineral AB",
   "title": "Gen B Graduate Program, Trainee Business Analyst",
   "url": "https://www.boliden.com/career/gen-b/",
-  "description": "Start your future at one of Europe’s leading mining- and smelting companies and become part of Gen B! Begin a one-year journey designed to challenge and inspire you. As a graduate, you will gain in-depth, hands-on experience across different business areas, functions, and sites in Sweden, Finland, Norway, Portugal or Ireland, depending on your chosen position.  \n \nTo drive change for future generations, we need new ways of thinking, that’s why we encourage you to apply. You are the hearts behind tomorrow.  \n \nA program designed for your future \nFor one year, divided into three periods, you will explore how Boliden operates end to end, and how your own unique background and experience connect to the bigger picture. As a graduate, you are employed in a permanent position from day one and supported by an individual development program. Throughout the year several engaged and experienced colleagues, will guide you in your progress. You will become part of an international network of graduates and colleagues, expanding both your knowledge and connections. Six joint training weeks with top-class lecturers will challenge your thinking and give you the opportunity to further deepen your skills. After graduation you will continue your journey with a mentor for six months. In addition, you will receive practical training in project methodology and Boliden’s production methods, enabling you to apply what you learn directly in our operations.  \nLearn more how you can step into a future where raw material meets your potential.  \n\n\nFind your path \nAs a graduate and part of Gen B, you will be given a unique gateway into Boliden. Whether you want to grow as an expert in business, engineering or tech, you will get the opportunity to grow in the area that excites you the most.  \n\n\nIn this role as a Business Analyst, you'll be part of the Finance organization, working with financial planning, analysis, reporting, and performance management in close collaboration with operational and support functions. You will build a strong understanding of the business through regular interaction with site management, production teams, and operational stakeholders, including visits to operational sites. \n\n\nResponsibilities: \nSupport monthly reporting, forecasting, budgeting, and business reviews \n\n\n\nFollow up on operational and financial KPIs \n\n\n\nAnalyze cost development, profitability, and business performance \n\n\n\nSupport CAPEX and OPEX follow-up and investment evaluations \n\n\n\nPrepare presentations and management reports using Excel and PowerPoint \n\n\n\nAssist Business Controllers and operational managers with decision support \n\n\n\nParticipate in improvement projects related to finance processes, reporting, and digitalization \n\n \nQualifications:  \nBachelor's or Master's degree in Business Administration, Finance, Economics, Industrial Economics, Accounting, or a related field \n\n \nWho you are \nWe think you are a forward thinker and a team thriver, who is naturally curious, and solutions oriented. You communicate with honesty and respect, are eager to take initiative and dedicated to follow through. Above all, you are ready to take responsibility and grow as an expert.  \nWhat you bring \nYou hold a relevant university degree completed in 2025 or later. You can communicate clearly in English, hold a valid driver’s license and are available to start in September 2027. \nHow to apply \nSubmit your application and CV in English. The recruitment process includes assessments, interviews, and a final Assessment Center for selected candidates. \nThe Assessment Center will take place in Stockholm, Sweden, on one day between February 16-19, 2027. Boliden will cover travel and accommodation expenses. Please ensure your availability between February 14-20, 2027, if you progress to the final stage. \n\n\nAbout Boliden \nBoliden is at the forefront of advancing our industry through sustainable solutions and innovation. Every day, we work to reduce our footprint, and drive long-term progress. We are on a journey towards becoming the most sustainable and respected metal supplier in the world. With us, you will be part of a diverse workplace built on care, courage and responsibility. We work together to grow and take the lead. Our priority is your safety, well-being and growth. Make a lasting impact, in your everyday work, for future generations. Let a rock-solid career start with us. \n\n\nLearn more at www.boliden.com. \n\n\nApply today to be part of something truly meaningful! \n\n\nDo you have any questions about your application? Please send an e-mail to genb@boliden.com. \nLast day to apply for this position is November 20th. Selection will be ongoing; we are looking forward to receiving your application as soon as possible. \n\n\nUnion information is available from Ingela Scherling, Saco +46 70 272 08 68, Andreas Mårtensson, Unionen, +46 70 541 83 93 or Peter Markström, Ledarna, +46 910 77 40 09.  \n\n\nLast day to apply for this position is November 20th. Selection will be ongoing; we are looking forward to receiving your application as soon as possible. \n\n\nIf you are a representative of a recruiting firm, please refrain from contacting us about this posting. We appreciate your consideration.",
+  "description": "Start your future at one of Europe’s leading mining- and smelting companies and become part of Gen B! Begin a one-year journey designed to challenge and inspire you. As a graduate, you will gain in-depth, hands-on experience across different business areas, functions, and sites in Sweden, Finland, Norway, Portugal or Ireland, depending on your chosen position. \n \nTo drive change for future generations, we need new ways of thinking, that’s why we encourage you to apply. You are the hearts behind tomorrow.  \n \nA program designed for your future \nFor one year, divided into three periods, you will explore how Boliden operates end to end, and how your own unique background and experience connect to the bigger picture. As a graduate, you are employed in a permanent position from day one and supported by an individual development program. Throughout the year several engaged and experienced colleagues, will guide you in your progress. You will become part of an international network of graduates and colleagues, expanding both your knowledge and connections. Six joint training weeks with top-class lecturers will challenge your thinking and give you the opportunity to further deepen your skills. After graduation you will continue your journey with a mentor for six months. In addition, you will receive practical training in project methodology and Boliden’s production methods, enabling you to apply what you learn directly in our operations.  \nLearn more how you can step into a future where raw material meets your potential.  \n\n\nFind your path \nAs a graduate and part of Gen B, you will be given a unique gateway into Boliden. Whether you want to grow as an expert in business, engineering or tech, you will get the opportunity to grow in the area that excites you the most.  \n\n\nIn this role as a Business Analyst, you'll be part of the Finance organization, working with financial planning, analysis, reporting, and performance management in close collaboration with operational and support functions. You will build a strong understanding of the business through regular interaction with site management, production teams, and operational stakeholders, including visits to operational sites. \n\n\nResponsibilities: \nSupport monthly reporting, forecasting, budgeting, and business reviews \n\n\n\nFollow up on operational and financial KPIs \n\n\n\nAnalyze cost development, profitability, and business performance \n\n\n\nSupport CAPEX and OPEX follow-up and investment evaluations \n\n\n\nPrepare presentations and management reports using Excel and PowerPoint \n\n\n\nAssist Business Controllers and operational managers with decision support \n\n\n\nParticipate in improvement projects related to finance processes, reporting, and digitalization \n\n \nQualifications: \nBachelor's or Master's degree in Business Administration, Finance, Economics, Industrial Economics, Accounting, or a related field \n\n \nWho you are \nWe think you are a forward thinker and a team thriver, who is naturally curious, and solutions oriented. You communicate with honesty and respect, are eager to take initiative and dedicated to follow through. Above all, you are ready to take responsibility and grow as an expert. \nWhat you bring \nYou hold a relevant university degree completed in 2025 or later. You can communicate clearly in English, hold a valid driver’s license and are available to start in September 2027. \nHow to apply \nSubmit your application and CV in English. The recruitment process includes assessments, interviews, and a final Assessment Center for selected candidates. \nThe Assessment Center will take place in Stockholm, Sweden, on one day between February 16-19, 2027. Boliden will cover travel and accommodation expenses. Please ensure your availability between February 14-20, 2027, if you progress to the final stage. \n\n\nAbout Boliden \nBoliden is at the forefront of advancing our industry through sustainable solutions and innovation. Every day, we work to reduce our footprint, and drive long-term progress. We are on a journey towards becoming the most sustainable and respected metal supplier in the world. With us, you will be part of a diverse workplace built on care, courage and responsibility. We work together to grow and take the lead. Our priority is your safety, well-being and growth. Make a lasting impact, in your everyday work, for future generations. Let a rock-solid career start with us.\n\n\nLearn more at www.boliden.com. \n\n\nApply today to be part of something truly meaningful! \n\n\nDo you have any questions about your application? Please send an e-mail to genb@boliden.com.\nLast day to apply for this position is November 17th. Selection will be ongoing; we are looking forward to receiving your application as soon as possible. \n\n\nUnion information is available from Ingela Scherling, Saco +46 70 272 08 68, Andreas Mårtensson, Unionen, +46 70 541 83 93 or Peter Markström, Ledarna, +46 910 77 40 09.  \n\n\nLast day to apply for this position is November 20th. Selection will be ongoing; we are looking forward to receiving your application as soon as possible. \n\n\nIf you are a representative of a recruiting firm, please refrain from contacting us about this posting. We appreciate your consideration.",
   "posted_at": "2026-10-09T00:00:00+00:00",
-  "deadline": "2026-11-20T23:59:59+00:00",
+  "deadline": "2026-11-17T23:59:59+00:00",
   "pay": null,
   "industry": "",
   "company_slug": "5562316850",
@@ -3330,9 +3330,9 @@
   "bullets": [],
   "enriched": false,
   "id": "2ec2a4d580a11a5a",
-  "content_hash": "353e99c4f04dc128",
+  "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3484,7 +3484,7 @@
   "id": "39fc8808bf036ace",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-10-13T11:16:25+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "20a77935887daace": {
@@ -3525,7 +3525,7 @@
   "id": "20a77935887daace",
   "content_hash": "599d0e0bbb6e9430",
   "first_seen": "2026-10-14T09:08:09+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "e1546330a4ec6600": {
@@ -3610,7 +3610,7 @@
   "id": "c655211be0d987ee",
   "content_hash": "fcaaff9dbf018667",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "ada9d911f8a64606": {
@@ -3650,7 +3650,7 @@
   "id": "ada9d911f8a64606",
   "content_hash": "fb5ffc6f4ca00b08",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "a5403e9cf0e19451": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3725,7 +3725,7 @@
   "id": "fda09d4d8cf95763",
   "content_hash": "01402484f3b9853a",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  },
  "a16ad04e604209ea": {
@@ -3760,7 +3760,42 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-10-18T08:24:54+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
+  "is_open": true
+ },
+ "100b3ca237dbdd8f": {
+  "source": "jobtech",
+  "source_id": "31612832",
+  "company": "REGION DALARNA",
+  "title": "Studentmedarbetare/HR-administratör till HR-direkt",
+  "url": "https://ltd.heroma.se/prod/ltdpp01/externwebbv2/Ansokan/EW2PageBesvaraFragor.aspx?arenderef=8452729801430228318",
+  "description": "Hos oss i Region Dalarna får du ett meningsfullt arbete där du kan göra skillnad. Tillsammans arbetar vi för ett hållbart Dalarna med utvecklingskraft i länets alla delar.\nOm verksamheten\nVill du ha ett flexibelt extrajobb där du får värdefull erfarenhet inom HR vid sidan av dina studier? Är du serviceinriktad, noggrann och tycker om att ta eget ansvar? Då kan det här vara jobbet för dig. Vi söker två studentmedarbetare som läser termin två under sitt första år på Personal- och arbetslivsprogrammet.\nArbetsuppgifter\nSom studentmedarbetare/HR-administratör blir du en del av HR-direkt, Region Dalarnas supportfunktion för HR-frågor. Arbetsuppgifterna består bland annat av att skanna dokument till våra digitala personakter, publicera platsannonser och hantera andra administrativa uppgifter inom HR. Du arbetar en dag i veckan och planerar arbetstiden utifrån ditt studieschema. I rollen ingår du i ett team tillsammans med ytterligare studentmedarbetare och en teamledare. Vi erbjuder ett självständigt arbete där du samtidigt har nära stöd från kollegor och teamledare. För oss är det viktigt med service, arbetsglädje och teamkänsla. \nSom en del av vårt utvecklingsarbete tar vi vara på möjligheterna med AI och digitalisering för att skapa ett mer effektivt, värdeskapande och tillgängligt HR-stöd. Därför ser vi gärna att du är nyfiken på utveckling och vill bidra till nya arbetssätt.\nUtöver värdefull erfarenhet av HR-arbete får våra studentmedarbetare även förtur till praktikplats inom HR-verksamheten.\nKvalifikationer\nFör rollen krävs att du: \nstuderar andra terminen (årskurs 1) på Personal- och arbetslivsprogrammet \nhar erfarenhet av administrativt arbete och/eller service \nhar möjlighet att arbeta en dag i veckan vid sidan av dina studier \n\nVi söker dig som är noggrann, ansvarstagande och initiativrik. Du arbetar strukturerat och ser värdet i att även de mindre och mer rutinmässiga arbetsuppgifterna blir utförda med hög kvalitet. Du har en god samarbetsförmåga, tycker om att ge service och bidrar till ett positivt arbetsklimat.  \nVi ser också gärna att du är nyfiken, utvecklingsinriktad och intresserad av hur digitalisering och AI kan bidra till att utveckla framtidens HR-arbete. \nStor vikt kommer att läggas vid personliga egenskaper.\nAnsökanHar du skyddade personuppgifter ska du inte ansöka via systemet, utan kontakta rekryterande chef direkt\nVi tar interna referenser på nuvarande och tidigare anställda i Region Dalarna\nPå Att söka jobb hos oss - Region Dalarna kan du läsa mer om Region Dalarna som arbetsgivare, vår värdegrund, arbetsmiljö, förmåner samt vilka kontroller som görs inför anställning\nHär kan du läsa mer om lön och förmåner som anställd i Region Dalarna: Lön, pension och försäkringar - Region Dalarna\nVi har gjort vårt medieval och avböjer kontakt från sälj- och rekryteringsföretag\n\nIntervjuer kan komma att genomföras löpande under ansökningstiden. Vi ser fram emot din ansökan!\nKontakter fritext\nFackliga kontaktuppgifter\nFackförbund - Region Dalarna",
+  "posted_at": "2026-10-19T10:53:02+00:00",
+  "deadline": "2026-11-01T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "2321000180",
+  "city": "Falun",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Data Science"
+  ],
+  "about": "I rollen ingår du i ett team tillsammans med ytterligare studentmedarbetare och en teamledare.",
+  "bullets": [],
+  "enriched": false,
+  "id": "100b3ca237dbdd8f",
+  "content_hash": "cec71d64fd2380bd",
+  "first_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-19T09:25:22+00:00",
   "is_open": true
  }
 }
