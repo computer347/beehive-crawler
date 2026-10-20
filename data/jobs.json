@@ -315,7 +315,7 @@
   "id": "3306155384cefff7",
   "content_hash": "c5c80e919572c489",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "c5cdecebe025cd52": {
@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -1059,7 +1059,7 @@
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-19T09:25:22+00:00",
-  "is_open": true
+  "is_open": false
  },
  "2078c7e015353e21": {
   "source": "jobtech",
@@ -2302,7 +2302,7 @@
   "id": "ddef14251dabcc3c",
   "content_hash": "7cb266290b85910f",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "9b0d10b7bc5a0458": {
@@ -2337,7 +2337,7 @@
   "id": "9b0d10b7bc5a0458",
   "content_hash": "6cb0069b61a4804c",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "3f07afa568825d73": {
@@ -2416,7 +2416,7 @@
   "id": "6b69f554117dc4ff",
   "content_hash": "716785840ae228f9",
   "first_seen": "2026-09-29T10:14:15+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "e576f7cf02fdca67": {
@@ -2451,7 +2451,7 @@
   "id": "e576f7cf02fdca67",
   "content_hash": "f64031f238159e49",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "44ac48910cd76c39": {
@@ -2486,7 +2486,7 @@
   "id": "44ac48910cd76c39",
   "content_hash": "956887e7a843c9e5",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "6b6b3ca909ddfa25": {
@@ -2523,7 +2523,7 @@
   "id": "6b6b3ca909ddfa25",
   "content_hash": "738a27f1bc891253",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "b69218cc6f6de9af": {
@@ -2559,7 +2559,7 @@
   "id": "b69218cc6f6de9af",
   "content_hash": "fbd8110c8348ce87",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "d9dcbe3effc9bd2d": {
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2629,7 +2629,7 @@
   "id": "51e11c83c475db15",
   "content_hash": "81f9071b16303c94",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "3a4a1f9175f766de": {
@@ -2664,7 +2664,7 @@
   "id": "3a4a1f9175f766de",
   "content_hash": "e60d76b4322c9ffa",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "877de922b2afac65": {
@@ -2700,7 +2700,7 @@
   "id": "877de922b2afac65",
   "content_hash": "c03b6f350a592fa2",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "98a8ebdf51a41ac3": {
@@ -2735,7 +2735,7 @@
   "id": "98a8ebdf51a41ac3",
   "content_hash": "5766edf8db89d9b8",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "96f0e6e5efe31b57": {
@@ -2770,7 +2770,7 @@
   "id": "96f0e6e5efe31b57",
   "content_hash": "c1281673f32efb10",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "e82c953a146b7753": {
@@ -2842,7 +2842,7 @@
   "id": "4154ef308a70e18e",
   "content_hash": "90a99689c9812d15",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "a497f4d5af470e70": {
@@ -2879,7 +2879,7 @@
   "id": "a497f4d5af470e70",
   "content_hash": "9b551aca128d93af",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "547df9d728581f0f": {
@@ -2914,7 +2914,7 @@
   "id": "547df9d728581f0f",
   "content_hash": "ad8ed37ef6ed597d",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "1f98baedd6ea119c": {
@@ -2988,7 +2988,7 @@
   "id": "9cd89c5f25a6a5f9",
   "content_hash": "afe7b6956b466f45",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "d108d0efd9cc4b8c": {
@@ -3025,7 +3025,7 @@
   "id": "d108d0efd9cc4b8c",
   "content_hash": "2346d53386856896",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "cee13ca8de20fcb8": {
@@ -3062,7 +3062,7 @@
   "id": "cee13ca8de20fcb8",
   "content_hash": "20051dc17a9d8b9a",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "e44ca11ca4226ee0": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3171,7 +3171,7 @@
   "id": "1586fb73e8b28f4c",
   "content_hash": "8e17924b23843978",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "d4b614fb760f25a3": {
@@ -3212,7 +3212,7 @@
   "id": "d4b614fb760f25a3",
   "content_hash": "d68c82929d481577",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "c57ae6ad34c8e8c7": {
@@ -3249,7 +3249,7 @@
   "id": "c57ae6ad34c8e8c7",
   "content_hash": "a31cb0fe1feea8da",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "66b1e55ad7b169b3": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3484,7 +3484,7 @@
   "id": "39fc8808bf036ace",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-10-13T11:16:25+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "20a77935887daace": {
@@ -3525,7 +3525,7 @@
   "id": "20a77935887daace",
   "content_hash": "599d0e0bbb6e9430",
   "first_seen": "2026-10-14T09:08:09+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "e1546330a4ec6600": {
@@ -3610,7 +3610,7 @@
   "id": "c655211be0d987ee",
   "content_hash": "fcaaff9dbf018667",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "ada9d911f8a64606": {
@@ -3650,7 +3650,7 @@
   "id": "ada9d911f8a64606",
   "content_hash": "fb5ffc6f4ca00b08",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "a5403e9cf0e19451": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3725,7 +3725,7 @@
   "id": "fda09d4d8cf95763",
   "content_hash": "01402484f3b9853a",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "a16ad04e604209ea": {
@@ -3760,7 +3760,7 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  },
  "100b3ca237dbdd8f": {
@@ -3795,7 +3795,112 @@
   "id": "100b3ca237dbdd8f",
   "content_hash": "cec71d64fd2380bd",
   "first_seen": "2026-10-19T09:25:22+00:00",
-  "last_seen": "2026-10-19T09:25:22+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
+  "is_open": true
+ },
+ "ad7948d67f33f347": {
+  "source": "jobtech",
+  "source_id": "31616238",
+  "company": "A68 Redovisning AB",
+  "title": "Junior redovisningsassistent / praktikant deltid – Täby centrum",
+  "url": "https://arbetsformedlingen.se/platsbanken/annonser/31616238",
+  "description": "Studerar du ekonomi eller är i början av din karriär och vill få praktisk erfarenhet av redovisning? Är du noggrann, nyfiken och gillar ordning och reda? Då kanske du är vår nya kollega!\nOm oss\nVi är en mindre och personlig redovisningsbyrå med kontor vid Täby centrum. Vi är ett trevligt team som växer tillsammans med våra kunder och där alla får möjlighet att bidra och utvecklas.\nVåra kunder är små och medelstora företag inom olika branscher samt bostadsrättsföreningar.\nVi arbetar digitalt i BL och Fortnox och hjälper våra kunder att skapa smarta rutiner och effektiva processer som gör bokföringen enklare, smidigare och snabbare.\nHos oss är det viktigt att ha roligt på jobbet, hjälpa varandra och samtidigt leverera hög kvalitet till våra kunder.\nOm tjänsten\nVi söker en junior redovisningsassistent som vill arbeta deltid och kombinera jobbet med exempelvis studier eller annan sysselsättning.\nDu kommer successivt att få lära dig mer om redovisning och ekonomiadministration och bli en del av vårt dagliga arbete.\nArbetsuppgifterna kan bland annat omfatta:\nLöpande bokföring och hantering av verifikationer\nAvstämningar\nArbete i våra digitala redovisningssystem.\nKontakt med kunder och hjälp med deras löpande frågor.\nAtt bidra till att förbättra och förenkla våra arbetsflöden\n\nDu får möjlighet att växa in i rollen och ta mer ansvar i takt med att dina kunskaper utvecklas.\nVem söker vi?\nVi tror att du är en person som:\nÄr noggrann, strukturerad och tycker om siffror.\nÄr positiv, ansvarstagande och har lätt för att lära dig nya saker.\nÄr nyfiken, initiativrik och tycker om att hitta smarta lösningar.\nTrivs i ett mindre team där vi hjälps åt och har nära till skratt.\nVill utvecklas inom redovisning och ekonomi.\n\nDu studerar kanske ekonomi eller har nyligen påbörjat din karriär. Har du viss erfarenhet av löpande bokföring är det positivt, men vi lägger stor vikt vid din inställning, personlighet och vilja att lära.\nErfarenhet av Fortnox eller BL är meriterande.\nDu behöver behärska svenska väl i tal och skrift. Ytterligare språkkunskaper är ett plus.\nVad erbjuder vi?\nHos oss får du mer än bara ett extrajobb. Du får möjlighet att lära dig redovisning i praktiken, arbeta med riktiga kunder och utvecklas tillsammans med erfarna kollegor.\nVi erbjuder en personlig arbetsplats med korta beslutsvägar, varierande arbetsuppgifter och möjlighet att påverka ditt arbete.\nVi är flexibla och försöker hitta ett upplägg som fungerar tillsammans med dina studier eller annan sysselsättning.\nFör rätt person finns goda möjligheter att utvecklas och växa med verksamheten.\nPraktisk information\nOmfattning: Deltid enligt överenskommelse.\nPlacering: Täby centrum.\nTillträde: 1 december eller enligt överenskommelse.\nUrval och intervjuer sker löpande, så vänta inte med din ansökan.\nVi ser fram emot att lära känna dig!\nVi sköter rekryteringen själva och undanber oss kontakt från rekryteringsföretag och annonssäljare.",
+  "posted_at": "2026-10-19T19:43:45+00:00",
+  "deadline": "2026-11-30T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5591677793",
+  "city": "Täby",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "Du kommer successivt att få lära dig mer om redovisning och ekonomiadministration och bli en del av vårt dagliga arbete.",
+  "bullets": [],
+  "enriched": false,
+  "id": "ad7948d67f33f347",
+  "content_hash": "2edeeb4ab859ab27",
+  "first_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
+  "is_open": true
+ },
+ "05aeb9eaf40486ec": {
+  "source": "jobtech",
+  "source_id": "31614290",
+  "company": "BAE Systems Bofors AB",
+  "title": "Examensarbete hos BAE Systems Bofors - Förspänning av gängförband med lim",
+  "url": "https://baesystems.varbi.com/se/what:job/jobID:980982/type:job/where:125/apply:1",
+  "description": "BAE Systems Bofors arbetar med att stärka försvarsförmågan i Sverige och i våra partnerstater världen över. Detta gör vi genom att utveckla, producera och sälja världens mest avancerade försvarsmateriel. \nVarje år gör flera studenter sina examensarbete hos BAE Systems Bofors i Karlskoga. Vi som arbetsgivare ser examensarbete som en möjlighet för oss att lära känna potentiella framtida medarbetare, men också som en chans för dig som student att testa dina kunskaper, lära känna vår organisation och ta steget närmare en anställning.\nTillsättning och tidsomfattning sker i samråd med dig som student.\nExamensarbete på BAE Systems Bofors AB\nVill du göra ditt examensarbete i en högteknologisk miljö där teori möter praktik? På sektionen för strukturmekanik och materialteknik hos BAE Systems Bofors i Karlskoga erbjuder vi spännande examensarbeten där du får möjlighet att arbeta med avancerade simuleringar, experimentella tester och bidra till utvecklingen av framtidens försvarssystem.\nSom examensarbetare hos BAE Systems Bofors blir du en del av en kultur präglad av samarbete, innovation och kunskapsdelning. Din röst är viktig och nya idéer uppmuntras. Du får en konkret inblick i hur det är att arbeta som analysingenjör och möjlighet att bidra till utvecklingen av verkliga produkter och lösningar.\nArbetet sker i nära samarbete med erfarna ingenjörer och experter, och du får tillgång till modern analysutrustning i en dynamisk miljö där både praktiskt och teoretiskt arbete är centralt. För dig som är intresserad av en framtid som analysingenjör är detta en utmärkt möjlighet att få inblick i yrkesrollen och utveckla relevanta färdigheter.\nTitel\nFörspänning av gängförband med lim\nBakgrund\nFör att ett gängförband ska fungera som avsett krävs en tillräckligt hög förspänningskraft, till exempel för att undvika glapp under statisk eller dynamisk belastning. Ofta kan den erforderliga förspänningen bestämmas analytiskt eller med hjälp av FEM. Vid montering styrs dock normalt inte förspänningen direkt, då det är åtdragningsmoment som föreskrivs. Sambandet mellan åtdragningsmoment och förspänningskraft kan beskrivas med en formel som inkluderar bland annat gängstigning, friktion i gänga och anliggningsyta samt geometri.\nProblemet är att friktionskoefficienterna ofta är osäkra och starkt beroende av yttillstånd, smörjning och montageförfarande. Detta gör det svårt att specificera ett moment som ger önskad förspänningskraft med god precision. Osäkerheten ökar ytterligare när gängorna vid montage förses med lim (t.ex. Loctite) för att täta och säkra förbandet, eftersom limmets smörjande effekt i ”vått” tillstånd sällan är känd.\n\nSyfte\nSyftet med examensarbetet är att experimentellt undersöka sambandet mellan åtdragningsmoment och förspänningskraft i ett gängförband mellan två rör där gängorna förses med lim, samt att utvärdera hur detta samband påverkas av demontering/återmontering, sättningar och tidsberoende deformationer.\nEtt ytterligare syfte är att med hjälp av FE‑analys ta fram en modell som kopplar uppmätta töjningar i rörgodset till förspänningskraften, så att mätdata kan tolkas och användas för dimensionering och rekommendationer kring åtdragningsmoment.\n\nInnehåll och arbetsuppgifter\nArbetet planeras att utföras av två studenter och omfattar både experimentella studier och numerisk modellering:\nGenomföra en litteraturstudie kring förspänning av gängförband, friktion (inklusive lim) samt metoder för att indirekt bestämma förspänningskraft med töjningsmätning och FEM.\nPlanera och designa provningen.\nGenomföra provningar med åtdragning, avlastning och uppföljning över tid för att studera samband mellan moment och förspänningskraft, samt effekter av demontering/återmontering, sättning och tidsberoende förändringar.\nTa fram och använda en FE‑modell i ANSYS för att koppla uppmätta töjningar till förspänningskraft och tolka mätdata, samt sammanfatta resultaten.\n\n\nFörväntade resultat\nEtt experimentellt fastställt samband mellan åtdragningsmoment och förspänningskraft för det studerade gängförbandet med lim, inklusive bedömning av spridning och osäkerheter.\nEn FE‑baserad kalibrering som kopplar uppmätta töjningar i rördelarna till förspänningskraft, samt en bedömning av hur känsligt resultatet är för antaganden om kontakttryck och geometri.\nEn analys av hur demontering/återmontering påverkar relationen mellan moment och förspänning.\nEn utvärdering av hur sättningar och eventuell krypdeformation påverkar förspänningskraften över tid.\n\n\nProfil / förkunskaper\nVi söker dig som:\nLäser en civilingenjörs-/masterutbildning inom maskinteknik, teknisk fysik, materialteknik eller närliggande område.\nHar goda kunskaper i hållfasthetslära/strukturmekanik och grundläggande förståelse för spännings- och töjningsanalys.\nHar erfarenhet av eller intresse för FEM, gärna med viss vana av ANSYS eller liknande programvara.\nÄr intresserad av experimentellt arbete, mätteknik och signalbehandling (t.ex. trådtöjningsgivare, datainsamling).\nÄr analytisk, noggrann och trivs med både teoretiskt modellarbete och praktisk provning i labbmiljö.\n\nErfarenhet av gängförband, friktionsproblem eller kontaktmekanik är meriterande men inget krav.\nPraktiskt:\nArbetet utförs hos BAE Systems Bofors i Karlskoga.\nExamensarbetet är planerat att utföras av två studenter (30 hp vardera).\nVill du veta mer om exjobbet?\nKontakta Henrik Jackman: henrik.jackman@baesystems.se\nOm du är redo att ta nästa steg i din karriär, välkommen att skicka in din ansökan med CV, personligt brev och betygsutdrag till BAE Systems Bofors, senast 2026-11-22, och bli en del av ett innovativt team som gör skillnad! Urval och intervjuer sker löpande, och tillsättning av examensarbetet kan komma att ske före sista ansökningsdag. Skicka därför gärna in din ansökan så snart som möjligt!\nVarmt välkommen med din ansökan!",
+  "posted_at": "2026-10-19T13:51:58+00:00",
+  "deadline": "2026-11-22T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5562041904",
+  "city": "Karlskoga",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Mechanical Engineering"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "05aeb9eaf40486ec",
+  "content_hash": "0c3f702d222ea5aa",
+  "first_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
+  "is_open": true
+ },
+ "eb4f219fa1a59427": {
+  "source": "jobtech",
+  "source_id": "31618143",
+  "company": "Akademisk Marknadsanalys Stockholm AB",
+  "title": "Trainee inom finans – bygg din karriär hos oss",
+  "url": "https://arbetsformedlingen.se/platsbanken/annonser/31618143",
+  "description": "Vill du bygga en karriär inom finans och få möjlighet att utvecklas i en entreprenöriell miljö? Akademisk Marknadsanalys söker nu en trainee till vårt team på Kullagatan 8 i Helsingborg.\nHos oss får du en praktisk introduktion till finansmarknaden och möjlighet att utvecklas inom marknadsanalys, investeringar, kundrelationer och finansiell rådgivning.\nVi söker dig som är ambitiös, nyfiken och vill ta ansvar från dag ett. Som trainee blir du en del av vårt team och får successivt ta större ansvar.\nDu kommer bland annat att arbeta med:\nFörberedelse av marknads- och investeringsunderlag\nKundkontakt och relationsbyggande\nMötesbokning och förberedelse inför kundmöten\nAdministration\nFörståelse för aktier, fonder, räntor och andra finansiella instrument\n\nDu får arbeta nära erfarna kollegor och lär dig verksamheten genom praktiskt arbete, utbildning och löpande coachning.\nVi söker dig som:\nHar akademisk examen inom ekonomi, finans, industriell ekonomi eller motsvarande, minst 3 år.\nHar ett genuint intresse för finans och investeringar\nÄr strukturerad och noggrann\nÄr kommunikativ och trivs med människor\nHar ett starkt eget driv och tycker om att ta ansvar\nÄr affärsmässig och resultatorienterad\nVill utvecklas och bygga en långsiktig karriär inom finans\nFlytande svenska i tal och skrift.\n\nDet viktigaste för oss är din ambition, nyfikenhet och vilja att utvecklas.\nAnsökan\nVälkommen med din ansökan redan idag! Vi går igenom urvalet löpande. Märk ansökan med ordet \"Trainee Göteborg\", bifoga ett personligt brev och CV. För mer information eller frågor kontakta Emma Östlund emma.ostlund@akademisk.se.\nOm oss\nAkademisk Marknadsanalys har funnits i 17 år och tillhandahåller en heltäckande kapitalförvaltning, för både privat och företagskunder. Akademisk arbete präglas av högt engagemang och stor respekt för klienternas kapital. Vi erbjuder det bästa inom förmögenhetsrådgivning kombinerat med familjejuridik och skatterådgivning.",
+  "posted_at": "2026-10-20T10:45:35+00:00",
+  "deadline": "2026-11-19T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5567838064",
+  "city": "Helsingborg",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "Som trainee blir du en del av vårt team och får successivt ta större ansvar.",
+  "bullets": [],
+  "enriched": false,
+  "id": "eb4f219fa1a59427",
+  "content_hash": "c1b2b8580b6b80cd",
+  "first_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-20T08:59:43+00:00",
   "is_open": true
  }
 }
