@@ -316,7 +316,7 @@
   "content_hash": "c5c80e919572c489",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-20T08:59:43+00:00",
-  "is_open": true
+  "is_open": false
  },
  "c5cdecebe025cd52": {
   "source": "jobtech",
@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -2302,7 +2302,7 @@
   "id": "ddef14251dabcc3c",
   "content_hash": "7cb266290b85910f",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "9b0d10b7bc5a0458": {
@@ -2337,7 +2337,7 @@
   "id": "9b0d10b7bc5a0458",
   "content_hash": "6cb0069b61a4804c",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "3f07afa568825d73": {
@@ -2417,7 +2417,7 @@
   "content_hash": "716785840ae228f9",
   "first_seen": "2026-09-29T10:14:15+00:00",
   "last_seen": "2026-10-20T08:59:43+00:00",
-  "is_open": true
+  "is_open": false
  },
  "e576f7cf02fdca67": {
   "source": "jobtech",
@@ -2451,7 +2451,7 @@
   "id": "e576f7cf02fdca67",
   "content_hash": "f64031f238159e49",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "44ac48910cd76c39": {
@@ -2486,7 +2486,7 @@
   "id": "44ac48910cd76c39",
   "content_hash": "956887e7a843c9e5",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "6b6b3ca909ddfa25": {
@@ -2523,7 +2523,7 @@
   "id": "6b6b3ca909ddfa25",
   "content_hash": "738a27f1bc891253",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "b69218cc6f6de9af": {
@@ -2559,7 +2559,7 @@
   "id": "b69218cc6f6de9af",
   "content_hash": "fbd8110c8348ce87",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "d9dcbe3effc9bd2d": {
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2629,7 +2629,7 @@
   "id": "51e11c83c475db15",
   "content_hash": "81f9071b16303c94",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "3a4a1f9175f766de": {
@@ -2664,7 +2664,7 @@
   "id": "3a4a1f9175f766de",
   "content_hash": "e60d76b4322c9ffa",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "877de922b2afac65": {
@@ -2700,7 +2700,7 @@
   "id": "877de922b2afac65",
   "content_hash": "c03b6f350a592fa2",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "98a8ebdf51a41ac3": {
@@ -2735,7 +2735,7 @@
   "id": "98a8ebdf51a41ac3",
   "content_hash": "5766edf8db89d9b8",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "96f0e6e5efe31b57": {
@@ -2770,7 +2770,7 @@
   "id": "96f0e6e5efe31b57",
   "content_hash": "c1281673f32efb10",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "e82c953a146b7753": {
@@ -2842,7 +2842,7 @@
   "id": "4154ef308a70e18e",
   "content_hash": "90a99689c9812d15",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "a497f4d5af470e70": {
@@ -2879,7 +2879,7 @@
   "id": "a497f4d5af470e70",
   "content_hash": "9b551aca128d93af",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "547df9d728581f0f": {
@@ -2988,7 +2988,7 @@
   "id": "9cd89c5f25a6a5f9",
   "content_hash": "afe7b6956b466f45",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "d108d0efd9cc4b8c": {
@@ -3025,7 +3025,7 @@
   "id": "d108d0efd9cc4b8c",
   "content_hash": "2346d53386856896",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "cee13ca8de20fcb8": {
@@ -3062,7 +3062,7 @@
   "id": "cee13ca8de20fcb8",
   "content_hash": "20051dc17a9d8b9a",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "e44ca11ca4226ee0": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3171,7 +3171,7 @@
   "id": "1586fb73e8b28f4c",
   "content_hash": "8e17924b23843978",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "d4b614fb760f25a3": {
@@ -3212,7 +3212,7 @@
   "id": "d4b614fb760f25a3",
   "content_hash": "d68c82929d481577",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "c57ae6ad34c8e8c7": {
@@ -3249,7 +3249,7 @@
   "id": "c57ae6ad34c8e8c7",
   "content_hash": "a31cb0fe1feea8da",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "66b1e55ad7b169b3": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3484,7 +3484,7 @@
   "id": "39fc8808bf036ace",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-10-13T11:16:25+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "20a77935887daace": {
@@ -3525,7 +3525,7 @@
   "id": "20a77935887daace",
   "content_hash": "599d0e0bbb6e9430",
   "first_seen": "2026-10-14T09:08:09+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "e1546330a4ec6600": {
@@ -3611,7 +3611,7 @@
   "content_hash": "fcaaff9dbf018667",
   "first_seen": "2026-10-15T08:41:22+00:00",
   "last_seen": "2026-10-20T08:59:43+00:00",
-  "is_open": true
+  "is_open": false
  },
  "ada9d911f8a64606": {
   "source": "jobtech",
@@ -3650,7 +3650,7 @@
   "id": "ada9d911f8a64606",
   "content_hash": "fb5ffc6f4ca00b08",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "a5403e9cf0e19451": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3760,7 +3760,7 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "100b3ca237dbdd8f": {
@@ -3795,7 +3795,7 @@
   "id": "100b3ca237dbdd8f",
   "content_hash": "cec71d64fd2380bd",
   "first_seen": "2026-10-19T09:25:22+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "ad7948d67f33f347": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3874,7 +3874,7 @@
   "company": "Akademisk Marknadsanalys Stockholm AB",
   "title": "Trainee inom finans – bygg din karriär hos oss",
   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31618143",
-  "description": "Vill du bygga en karriär inom finans och få möjlighet att utvecklas i en entreprenöriell miljö? Akademisk Marknadsanalys söker nu en trainee till vårt team på Kullagatan 8 i Helsingborg.\nHos oss får du en praktisk introduktion till finansmarknaden och möjlighet att utvecklas inom marknadsanalys, investeringar, kundrelationer och finansiell rådgivning.\nVi söker dig som är ambitiös, nyfiken och vill ta ansvar från dag ett. Som trainee blir du en del av vårt team och får successivt ta större ansvar.\nDu kommer bland annat att arbeta med:\nFörberedelse av marknads- och investeringsunderlag\nKundkontakt och relationsbyggande\nMötesbokning och förberedelse inför kundmöten\nAdministration\nFörståelse för aktier, fonder, räntor och andra finansiella instrument\n\nDu får arbeta nära erfarna kollegor och lär dig verksamheten genom praktiskt arbete, utbildning och löpande coachning.\nVi söker dig som:\nHar akademisk examen inom ekonomi, finans, industriell ekonomi eller motsvarande, minst 3 år.\nHar ett genuint intresse för finans och investeringar\nÄr strukturerad och noggrann\nÄr kommunikativ och trivs med människor\nHar ett starkt eget driv och tycker om att ta ansvar\nÄr affärsmässig och resultatorienterad\nVill utvecklas och bygga en långsiktig karriär inom finans\nFlytande svenska i tal och skrift.\n\nDet viktigaste för oss är din ambition, nyfikenhet och vilja att utvecklas.\nAnsökan\nVälkommen med din ansökan redan idag! Vi går igenom urvalet löpande. Märk ansökan med ordet \"Trainee Göteborg\", bifoga ett personligt brev och CV. För mer information eller frågor kontakta Emma Östlund emma.ostlund@akademisk.se.\nOm oss\nAkademisk Marknadsanalys har funnits i 17 år och tillhandahåller en heltäckande kapitalförvaltning, för både privat och företagskunder. Akademisk arbete präglas av högt engagemang och stor respekt för klienternas kapital. Vi erbjuder det bästa inom förmögenhetsrådgivning kombinerat med familjejuridik och skatterådgivning.",
+  "description": "Vill du bygga en karriär inom finans och få möjlighet att utvecklas i en entreprenöriell miljö? Akademisk Marknadsanalys söker nu en trainee till vårt team på Kullagatan 8 i Helsingborg.\nHos oss får du en praktisk introduktion till finansmarknaden och möjlighet att utvecklas inom marknadsanalys, investeringar, kundrelationer och finansiell rådgivning.\nVi söker dig som är ambitiös, nyfiken och vill ta ansvar från dag ett. Som trainee blir du en del av vårt team och får successivt ta större ansvar.\nDu kommer bland annat att arbeta med:\nFörberedelse av marknads- och investeringsunderlag\nKundkontakt och relationsbyggande\nMötesbokning och förberedelse inför kundmöten\nAdministration\nFörståelse för aktier, fonder och andra finansiella instrument\n\nDu får arbeta nära erfarna kollegor och lär dig verksamheten genom praktiskt arbete, utbildning och löpande coachning.\nVi söker dig som:\nHar akademisk examen inom ekonomi, finans, industriell ekonomi eller motsvarande, minst 3 år.\nHar ett genuint intresse för finans och investeringar\nÄr strukturerad och noggrann\nÄr kommunikativ och trivs med människor\nHar ett starkt eget driv och tycker om att ta ansvar\nÄr affärsmässig och resultatorienterad\nVill utvecklas och bygga en långsiktig karriär inom finans\nFlytande svenska i tal och skrift.\n\nDet viktigaste för oss är din ambition, nyfikenhet och vilja att utvecklas.\nAnsökan\nVälkommen med din ansökan redan idag! Vi går igenom urvalet löpande. Märk ansökan med ordet \"Trainee Göteborg\", bifoga ett personligt brev och CV. För mer information eller frågor kontakta Emma Östlund emma.ostlund@akademisk.se.\nOm oss\nAkademisk Marknadsanalys har funnits i 17 år och tillhandahåller en heltäckande kapitalförvaltning, för både privat och företagskunder. Akademisk arbete präglas av högt engagemang och stor respekt för klienternas kapital. Vi erbjuder det bästa inom förmögenhetsrådgivning kombinerat med familjejuridik och skatterådgivning.",
   "posted_at": "2026-10-20T10:45:35+00:00",
   "deadline": "2026-11-19T23:59:59+00:00",
   "pay": null,
@@ -3898,9 +3898,81 @@
   "bullets": [],
   "enriched": false,
   "id": "eb4f219fa1a59427",
-  "content_hash": "c1b2b8580b6b80cd",
+  "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-20T08:59:43+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
+  "is_open": true
+ },
+ "d3485f4a9eeaa44a": {
+  "source": "jobtech",
+  "source_id": "31621890",
+  "company": "Energimarknadsinspektionen",
+  "title": "Studentmedarbetare inom dataanalys och energimarknad",
+  "url": "https://energimarknadsinspektionen.varbi.com/se/what:job/jobID:981604/type:job/where:125/apply:1",
+  "description": "Vill du arbeta för väl fungerande energimarknader, med frågor viktiga för samhället i dag och i framtiden? Då är Energimarknadsinspektionen (Ei) arbetsplatsen för dig. Vi påverkar regelutvecklingen och energiomställningen i både Sverige och Europa, och bidrar till aktiva och medvetna energikunder. Vi har en hög IT-standard, och ett utvecklat digitalt och flexibelt arbetssätt, som gör det möjligt att arbeta på olika platser.\nOch vi växer. Vi rekryterar inom en rad olika områden – välkommen att växa tillsammans med oss! \nAvdelningen Grossistmarknader ansvarar för att övervaka marknadsaktörernas handel med el och gas i Sverige. Syftet är att säkerställa att handeln följer reglerna på energimarknaderna och att det exempelvis inte förekommer insiderhandel eller marknadsmissbruk. Många av våra frågor handlar om att genomföra den internationella lagstiftningen inom energiområdet och en stor del av arbetet sker i samarbete med andra europeiska tillsynsmyndigheter. Avdelningen samordnar Ei:s internationella arbete och utvecklingen av det nationella och europeiska regelverket för grossistmarknaden för el och gas.\nNu söker vi dig som studerar och vill få relevant arbetslivserfarenhet vid sidan av studierna inom dataanalys och energimarknader. \nArbetsuppgifter\nSom student arbetar du upp till 25 procent parallellt med dina studier. Du får möjlighet att använda dina kunskaper i praktiken och samtidigt få erfarenhet av att arbeta med frågor inom energimarknaden.\nDina arbetsuppgifter är bland annat att genom olika verktyg analysera data och sammanställa rapporter om priser inom sektorn för energiförsörjning på de europeiska grossistmarknaderna (lägesbildsanalyser).   \nKvalifikationer\nI det här jobbet ska du ha\nen pågående masterutbildning inom nationalekonomi \nmycket goda kunskaper i programmering i Python\ngoda kunskaper i SysPower\nkunskaper i omvärldsanalys, exempelvis policyanalys\ngod förmåga att uttrycka dig i tal och skrift på svenska och engelska \n\nVi ser det som meriterande om du har gjort praktik på myndighet inom energiområdet. \nUtöver din formella kompetens lägger vi stor vikt vid dina personliga egenskaper. I det här jobbet är det viktigt att du\när självgående\nhar god kommunikations- och samarbetsförmåga\nhar helhetssyn och förståelse för verksamhetens behov.\n\nDetta erbjuder vi\nPå Ei arbetar du med aktuella och samhällsviktiga frågor i en organisation med stor påverkan på omvärlden. Hos oss är din kompetens i fokus, och du får goda möjligheter att utvecklas och ta stort eget ansvar. Vi erbjuder ett modernt, tillitsbaserat och flexibelt arbetssätt. Vi erbjuder också möjligheten att lära, växa och bidra med kunskap. Det kan vara i samarbeten med engagerade kollegor här på Ei eller i olika nätverk. Läs gärna om våra förmåner.\nOm Ei\nEnergimarknadsinspektionen (Ei) är en expert- och tillsynsmyndighet med uppdrag att arbeta för väl fungerande energimarknader. Vi har tillsyn över och utvecklar spelreglerna på el-, fjärrvärme- och naturgasmarknaderna och arbetar för att trygga samhällets behov av fungerande energidistribution och handel. Vi arbetar också för att stärka kundernas ställning och driverelpriskollen.se – Sveriges enda oberoende jämförelsesajt för elpriser.\nEi har även till uppgift att bidra till utvecklingen av marknaderna för el och naturgas inom Norden och EU. Det gör vi bland annat genom att delta i nätverk med övriga europeiska tillsynsmyndigheter.\nEi har runt 230 anställda och vi finns i moderna lokaler i Eskilstuna.\nPraktisk information\nVälkommen med din ansökan som ska innehålla ansökningsbrev och CV på svenska. Du ansöker genom att klicka på knappen Ansök. Vi tillämpar sex månaders provanställning vid tillsvidareanställning. Läs eller se film om vårt intressanta uppdrag och hur det är att jobba på Ei.",
+  "posted_at": "2026-10-20T16:39:12+00:00",
+  "deadline": "2026-11-03T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "2021005695",
+  "city": "Eskilstuna",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Python"
+  ],
+  "fields": [
+   "Data Science"
+  ],
+  "about": "Dina arbetsuppgifter är bland annat att genom olika verktyg analysera data och sammanställa rapporter om priser inom sektorn för energiförsörjning på de europeiska grossistmarknaderna…",
+  "bullets": [],
+  "enriched": false,
+  "id": "d3485f4a9eeaa44a",
+  "content_hash": "7c76bb4f5501f8b5",
+  "first_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
+  "is_open": true
+ },
+ "14d9f705e194a68d": {
+  "source": "jobtech",
+  "source_id": "31624031",
+  "company": "HI3G Access AB",
+  "title": "Management-trainee till 3Talent",
+  "url": "https://easyapply.jobs/r/mKlHglm27tqWkm1iuJA1",
+  "description": "Tar du examen 2027 och vill kickstarta din karriär på Tre? Vill du utvecklas inom affärsutveckling, ta dig an nya utmaningar och vara med och forma framtidens telekom? Då kan 3Talent-programmet vara helt rätt väg för dig! \n\nVad är 3Talent? 3Talent är vårt traineeprogram där du får en unik möjlighet att växa in i din yrkesroll samtidigt som du lär känna Tre på djupet. Du får utforska vår verksamhet, förstå vad som driver vår affär framåt och upptäcka hur olika kompetenser och perspektiv bidrar till vår gemensamma utveckling. Redan när du söker väljer du ett av två spår: Technology Management eller Business Management. Oavsett vilket du väljer blir du en del av ett sammansvetsat trainee-team på tre personer där ni utvecklas tillsammans, delar erfarenheter och stöttar varandra genom hela året. Samtidigt får du möjlighet att fördjupa dina kunskaper och växa inom det område som engagerar dig mest.\n\nUnder programmet får du möjlighet att rotera mellan olika verksamhetsområden och arbeta nära våra direktörer. Du blir en del av vårt Strategy & Business Development-team där du tillsammans med härliga kollegor får jobba med strategiska projekt som gör skillnad för företaget och våra kunder. Under traineeåret fortsätter du att utvecklas genom löpande uppföljning, utbildning och personlig coachning anpassad efter dina behov och ambitioner.\n\nMot slutet av traineeprogrammet pratar vi tillsammans om nästa steg i din karriär på Tre. Vårt mål är att du ska hitta en roll där du får utmanas, utvecklas och trivas – och fortsätta växa tillsammans med oss. Traineeprogrammet är starten på din långsiktiga karriär på Tre och efter avslutat program övergår du till en fastanställning hos oss.\n\nVad får du som management-trainee? \n\nLära dig hela affären Du kommer att rotera mellan olika affärsområden, så som konsumentaffären, företagsaffären, Hallon, kundservice och Technology (IT och nät), och få en helhetsbild av hur vi driver våra affärer.\n\nCoachning och utbildning Du får stöd och vägledning från några av våra mest erfarna ledare, och du får ett skräddarsytt utbildningspaket för att utvecklas så snabbt och effektivt som möjligt.\n\nArbeta med verkliga utmaningar Som trainee får du delta i spännande och utmanande projekt inom strategi och affärsutveckling, ofta i samarbete med ledningsgruppen.\n\nSkapa viktiga kontakter Under året kommer du att bygga ett starkt nätverk och skapa värdefulla relationer för din fortsatta karriär på Tre.\n\nEn språngbräda in i karriären Som 3Talent får du en tillsvidareanställning där vi satsar på dig under året, för att vi är övertygade om att du kommer bli ett värdefullt bidrag för Tre, både under året och framöver.\n\nIngå i ett större nätverk Genom våra ägare Investor och CK Hutchinson ingår vi i nätverk där vi delar erfarenheter och utvecklar nya tjänster, produkter och AI-lösningar. Vi samarbetar även nära med Tre Danmark, bland annat inom IT, vilket ger dig möjlighet att utbyta kunskap och bidra till utveckling över landsgränserna.\n\n\nVi söker dig som...\n\nGår ditt sista år på din masterutbildning\n\nOm du söker till Business Management Trainee: exempelvis civilingenjör eller ekonom\n\nOm du söker till Technology Management Trainee: civilingenjör med exempelvis inriktning mot IT, data eller teknik\n\nÄr passionerad, driven och vill utvecklas i ett högt tempo.\n\nÄr nyfiken på att förstå affärsutveckling från grunden och vill bidra med dina idéer till en innovativ arbetsmiljö.\n\nHar ett starkt intresse för att utmana etablerade lösningar och tänker som en \"challenger\".\n\nÄr bekväm med att kommunicera på både svenska och engelska, i tal och skrift. Praktisk information om rekryteringsprocessen \n\nAnsökan är öppen mellan 21 oktober och 11 november\n\nOm du går vidare i rekryteringsprocessen får du genomföra ett logik- och personlighetstest via vår samarbetspartner Alva Labs. Nästa steg är intervju- och casedagarna på vårt huvudkontor i Stockholm antingen den 1 eller 2 december, dit du bjuds in om du går vidare efter testerna. Du som går hela vägen i processen får besked om du erbjuds en plats i programmet strax före jul. För slutkandidater genomför vi även bakgrundskontroll och referenstagning.\n3Talent-programmet startar den 1 september 2027 och pågår till den 31 augusti 2028. Därefter fortsätter din resa på Tre i en roll som matchar din kompetens, dina ambitioner och dina preferenser.\n\n\nVälkommen med din ansökan!",
+  "posted_at": "2026-10-21T08:51:21+00:00",
+  "deadline": "2026-11-11T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5565934899",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "Lära dig hela affären Du kommer att rotera mellan olika affärsområden, så som konsumentaffären, företagsaffären, Hallon, kundservice och Technology (IT och nät), och få en helhetsbild av hur vi…",
+  "bullets": [],
+  "enriched": false,
+  "id": "14d9f705e194a68d",
+  "content_hash": "d81b769af7517056",
+  "first_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-21T08:58:47+00:00",
   "is_open": true
  }
 }
