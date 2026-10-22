@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -2302,7 +2302,7 @@
   "id": "ddef14251dabcc3c",
   "content_hash": "7cb266290b85910f",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "9b0d10b7bc5a0458": {
@@ -2337,7 +2337,7 @@
   "id": "9b0d10b7bc5a0458",
   "content_hash": "6cb0069b61a4804c",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "3f07afa568825d73": {
@@ -2451,7 +2451,7 @@
   "id": "e576f7cf02fdca67",
   "content_hash": "f64031f238159e49",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "44ac48910cd76c39": {
@@ -2486,7 +2486,7 @@
   "id": "44ac48910cd76c39",
   "content_hash": "956887e7a843c9e5",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "6b6b3ca909ddfa25": {
@@ -2523,7 +2523,7 @@
   "id": "6b6b3ca909ddfa25",
   "content_hash": "738a27f1bc891253",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "b69218cc6f6de9af": {
@@ -2559,7 +2559,7 @@
   "id": "b69218cc6f6de9af",
   "content_hash": "fbd8110c8348ce87",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "d9dcbe3effc9bd2d": {
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2629,7 +2629,7 @@
   "id": "51e11c83c475db15",
   "content_hash": "81f9071b16303c94",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "3a4a1f9175f766de": {
@@ -2664,7 +2664,7 @@
   "id": "3a4a1f9175f766de",
   "content_hash": "e60d76b4322c9ffa",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "877de922b2afac65": {
@@ -2700,7 +2700,7 @@
   "id": "877de922b2afac65",
   "content_hash": "c03b6f350a592fa2",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "98a8ebdf51a41ac3": {
@@ -2735,7 +2735,7 @@
   "id": "98a8ebdf51a41ac3",
   "content_hash": "5766edf8db89d9b8",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "96f0e6e5efe31b57": {
@@ -2770,7 +2770,7 @@
   "id": "96f0e6e5efe31b57",
   "content_hash": "c1281673f32efb10",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "e82c953a146b7753": {
@@ -2842,7 +2842,7 @@
   "id": "4154ef308a70e18e",
   "content_hash": "90a99689c9812d15",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "a497f4d5af470e70": {
@@ -2879,7 +2879,7 @@
   "id": "a497f4d5af470e70",
   "content_hash": "9b551aca128d93af",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "547df9d728581f0f": {
@@ -2988,7 +2988,7 @@
   "id": "9cd89c5f25a6a5f9",
   "content_hash": "afe7b6956b466f45",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "d108d0efd9cc4b8c": {
@@ -3025,7 +3025,7 @@
   "id": "d108d0efd9cc4b8c",
   "content_hash": "2346d53386856896",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "cee13ca8de20fcb8": {
@@ -3062,7 +3062,7 @@
   "id": "cee13ca8de20fcb8",
   "content_hash": "20051dc17a9d8b9a",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "e44ca11ca4226ee0": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3171,7 +3171,7 @@
   "id": "1586fb73e8b28f4c",
   "content_hash": "8e17924b23843978",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "d4b614fb760f25a3": {
@@ -3212,7 +3212,7 @@
   "id": "d4b614fb760f25a3",
   "content_hash": "d68c82929d481577",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "c57ae6ad34c8e8c7": {
@@ -3249,7 +3249,7 @@
   "id": "c57ae6ad34c8e8c7",
   "content_hash": "a31cb0fe1feea8da",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "66b1e55ad7b169b3": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3484,7 +3484,7 @@
   "id": "39fc8808bf036ace",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-10-13T11:16:25+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "20a77935887daace": {
@@ -3525,7 +3525,7 @@
   "id": "20a77935887daace",
   "content_hash": "599d0e0bbb6e9430",
   "first_seen": "2026-10-14T09:08:09+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "e1546330a4ec6600": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3760,7 +3760,7 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "100b3ca237dbdd8f": {
@@ -3795,7 +3795,7 @@
   "id": "100b3ca237dbdd8f",
   "content_hash": "cec71d64fd2380bd",
   "first_seen": "2026-10-19T09:25:22+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "ad7948d67f33f347": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3900,7 +3900,7 @@
   "id": "eb4f219fa1a59427",
   "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "d3485f4a9eeaa44a": {
@@ -3937,7 +3937,7 @@
   "id": "d3485f4a9eeaa44a",
   "content_hash": "7c76bb4f5501f8b5",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  },
  "14d9f705e194a68d": {
@@ -3972,7 +3972,79 @@
   "id": "14d9f705e194a68d",
   "content_hash": "d81b769af7517056",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-10-21T08:58:47+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
+  "is_open": true
+ },
+ "284af395742f5996": {
+  "source": "jobtech",
+  "source_id": "31626048",
+  "company": "Bosch Thermoteknik AB",
+  "title": "Internship in Human Resources",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156530019-internship-in-human-resources-",
+  "description": "Company Description\nWelcome to a world, where your ideas lead to something big. Welcome to Bosch!\nBosch Thermoteknik AB in Tranås develops, manufactures, and sells heat pumps for the European market. We are approximately 650 employees and form part of the large Bosch Group, which consists of approximately 417,000 employees worldwide.\nWe work with sustainable simplification of everyday life where the focus is on the environment, innovation, and development. In Tranås there is a production unit and a competence and development center. The heat pumps we manufacture draw energy from different sources - the mountain, the water, or the air. We work to constantly be at the forefront and contribute to sustainable energy and a better environment with the goal of creating a simplified everyday life for our customers. In short, we create technology that is \"Invented for life\".\nJob Description\nYour contribution to something big\nAs an Intern in Human Resources at Bosch Thermoteknik AB, you will support our HR Business Partners with general administrative HR tasks.\nYou will be involved in the recruitment process, including the preparation of agreements and onboarding of new associates\nOrganizing and tracking of various associate trainings will also be part of your area of responsibility\nYou will oversee the intern recruitment, from publishing job advertisements to conducting interviews\nIn addition to these tasks, you will also be responsible for your own project, process or reporting task\n\nDuration of the internship: 6 months, preferably starting in March 2027\nLocation: on-site in our plant in Tranås, Sweden\nQualifications\nWhat distinguishes you\nCurrently studying Business Administration, Social Sciences, Psychology or similar, ideally with a focus on HR\nBasic knowledge in Microsoft Office tools (esp. Excel and PowerPoint)\nExcellent written and verbal communication skills in English\nAbility to take responsibility for own work and apply own initiative to find solutions\nResults-oriented and pro-active attitude\n\nAdditional Information\nWhat we offer you\nMonetary compensation is included to support you during your internship\nWe can offer free accommodation in Tranås\nTo support your well-being, we provide a wellness contribution for use on fitness, sports, or wellness services\nWe cover your travel costs from your residence to Tranås, making relocation easier for you\nYou gain valuable experience working within an international company with global connections\n\n \nAt Bosch, we care for you, our business, and our environment. Our promise to our associates is rock-solid. We grow together into countless roles, positions, and opportunities and we are interested in developing the “whole” you, not just the “7 to 16” you, because life is all about balance.\nAt Bosch we understand that everyone has their own focus in life, whether it is about new professional challenges, training, and development, or more time for family, friends, and hobbies, whatever your goals are we are flexible. Let ‘s strike a balance. At Bosch, we believe everyone is different and that is what we love. Get inspired by a cooperative, open, respectful, and trustworthy workplace where you can be yourself and be enriched by the perspectives of our community around the globe.\nJoin us and feel the difference. #LikeABosch",
+  "posted_at": "2026-10-21T11:42:00+00:00",
+  "deadline": "2026-11-20T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5562629062",
+  "city": "Tranås",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Excel modelling"
+  ],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "As an Intern in Human Resources at Bosch Thermoteknik AB, you will support our HR Business Partners with general administrative HR tasks.",
+  "bullets": [],
+  "enriched": false,
+  "id": "284af395742f5996",
+  "content_hash": "aeddf2ad28d242fc",
+  "first_seen": "2026-10-22T09:01:02+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
+  "is_open": true
+ },
+ "a34336eda1249908": {
+  "source": "jobtech",
+  "source_id": "31626025",
+  "company": "Bosch Thermoteknik AB",
+  "title": "Internship in Electrical Engineering",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156529269-internship-in-electrical-engineering",
+  "description": "Company Description\nWelcome to a world, where your ideas lead to something big. Welcome to Bosch!\nBosch Thermoteknik AB in Tranås develops, manufactures, and sells heat pumps for the European market. We are approximately 650 employees and form part of the large Bosch Group, which consists of approximately 417,000 employees worldwide.\nWe work with sustainable simplification of everyday life where the focus is on the environment, innovation, and development. In Tranås there is a production unit and a competence and development center. The heat pumps we manufacture draw energy from different sources - the mountain, the water, or the air. We work to constantly be at the forefront and contribute to sustainable energy and a better environment with the goal of creating a simplified everyday life for our customers. In short, we create technology that is \"Invented for life\".\nJob Description\nYour contribution to something big\nThe Electrical team at Bosch in Tranås, Sweden is looking for an intern who’s eager to learn and get hands-on experience. You’ll be introduced to cable harness design, building samples and prototypes, electrical testing, and how certification works (LVD and EMC). You’ll primarily support the team with practical and theoretical tasks and, as you grow, you may take ownership of selected topics with guidance from experienced colleagues.\nExamples of tasks:\nSet up heat pumps in our lab, run tests, and help summarize results in clear reports.\nWith support, review internal/external requirements and help translate them into practical electrical requirements (safety, legal, functional, cost).\nBuild simple harness samples and install electrical components in heat pumps.\nJoin lab troubleshooting sessions and assist with analyzing electrical issues.\nAssist with EMC testing in our 5 m SAC EMC chamber and help with smaller EMC tests outside the chamber.\nOccasionally accompany colleagues to external test institutes.\nHelp gather input for time plans.\nSupport purchasing by reviewing specifications and participating in supplier meetings.\nAssist the manager with light administrative tasks.\nPrepare presentations in PowerPoint.\n\n \nDuration of the internship: 6 months preferably starting in March/April 2027\nQualifications\nWhat distinguishes you\nCurrently studying in a field related to electrical engineering, physics, mechatronics, or similar; alternatively, mechanical engineering with interest and some exposure to electrical topics.\nBasic familiarity with test equipment (e.g., multimeters, oscilloscopes, spectrum analyzers) is a plus – if you’re motivated, we’ll teach you.\nCurious, hands-on, and collaborative, with a willingness to learn.\nGood written and verbal communication skills in English.\n\nAdditional Information\nWhat we offer you\nMonetary compensation is included to support you during your internship\nWe can offer free accommodation in Tranås\nTo support your well-being, we provide a wellness contribution for use on fitness, sports, or wellness services\nWe cover your travel costs from your residence to Tranås, making relocation easier for you\nYou gain valuable experience working within an international company with global connections\n\nAt Bosch, we care for you, our business, and our environment. Our promise to our associates is rock-solid. We grow together into countless roles, positions, and opportunities and we are interested in developing the “whole” you, not just the “7 to 16” you, because life is all about balance.\nAt Bosch we understand that everyone has their own focus in life, whether it is about new professional challenges, training, and development, or more time for family, friends, and hobbies, whatever your goals are we are flexible. Let ‘s strike a balance. At Bosch, we believe everyone is different and that is what we love. Get inspired by a cooperative, open, respectful, and trustworthy workplace where you can be yourself and be enriched by the perspectives of our community around the globe.\nJoin us and feel the difference. #LikeABosch",
+  "posted_at": "2026-10-21T11:40:35+00:00",
+  "deadline": "2026-11-20T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5562629062",
+  "city": "Tranås",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Lab measurements"
+  ],
+  "fields": [
+   "Electrical Engineering"
+  ],
+  "about": "Monetary compensation is included to support you during your internship",
+  "bullets": [],
+  "enriched": false,
+  "id": "a34336eda1249908",
+  "content_hash": "728582d6c6b3baa7",
+  "first_seen": "2026-10-22T09:01:02+00:00",
+  "last_seen": "2026-10-22T09:01:02+00:00",
   "is_open": true
  }
 }
