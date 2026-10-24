@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -2302,7 +2302,7 @@
   "id": "ddef14251dabcc3c",
   "content_hash": "7cb266290b85910f",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "9b0d10b7bc5a0458": {
@@ -2337,7 +2337,7 @@
   "id": "9b0d10b7bc5a0458",
   "content_hash": "6cb0069b61a4804c",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "3f07afa568825d73": {
@@ -2452,7 +2452,7 @@
   "content_hash": "f64031f238159e49",
   "first_seen": "2026-09-30T10:05:38+00:00",
   "last_seen": "2026-10-23T08:56:01+00:00",
-  "is_open": true
+  "is_open": false
  },
  "44ac48910cd76c39": {
   "source": "jobtech",
@@ -2486,7 +2486,7 @@
   "id": "44ac48910cd76c39",
   "content_hash": "956887e7a843c9e5",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "6b6b3ca909ddfa25": {
@@ -2524,7 +2524,7 @@
   "content_hash": "738a27f1bc891253",
   "first_seen": "2026-09-30T10:05:38+00:00",
   "last_seen": "2026-10-23T08:56:01+00:00",
-  "is_open": true
+  "is_open": false
  },
  "b69218cc6f6de9af": {
   "source": "jobtech",
@@ -2559,7 +2559,7 @@
   "id": "b69218cc6f6de9af",
   "content_hash": "fbd8110c8348ce87",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "d9dcbe3effc9bd2d": {
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2629,7 +2629,7 @@
   "id": "51e11c83c475db15",
   "content_hash": "81f9071b16303c94",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "3a4a1f9175f766de": {
@@ -2664,7 +2664,7 @@
   "id": "3a4a1f9175f766de",
   "content_hash": "e60d76b4322c9ffa",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "877de922b2afac65": {
@@ -2700,7 +2700,7 @@
   "id": "877de922b2afac65",
   "content_hash": "c03b6f350a592fa2",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "98a8ebdf51a41ac3": {
@@ -2735,7 +2735,7 @@
   "id": "98a8ebdf51a41ac3",
   "content_hash": "5766edf8db89d9b8",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "96f0e6e5efe31b57": {
@@ -2770,7 +2770,7 @@
   "id": "96f0e6e5efe31b57",
   "content_hash": "c1281673f32efb10",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "e82c953a146b7753": {
@@ -2842,7 +2842,7 @@
   "id": "4154ef308a70e18e",
   "content_hash": "90a99689c9812d15",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "a497f4d5af470e70": {
@@ -2879,7 +2879,7 @@
   "id": "a497f4d5af470e70",
   "content_hash": "9b551aca128d93af",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "547df9d728581f0f": {
@@ -2988,7 +2988,7 @@
   "id": "9cd89c5f25a6a5f9",
   "content_hash": "afe7b6956b466f45",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "d108d0efd9cc4b8c": {
@@ -3025,7 +3025,7 @@
   "id": "d108d0efd9cc4b8c",
   "content_hash": "2346d53386856896",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "cee13ca8de20fcb8": {
@@ -3062,7 +3062,7 @@
   "id": "cee13ca8de20fcb8",
   "content_hash": "20051dc17a9d8b9a",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "e44ca11ca4226ee0": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3171,7 +3171,7 @@
   "id": "1586fb73e8b28f4c",
   "content_hash": "8e17924b23843978",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "d4b614fb760f25a3": {
@@ -3212,7 +3212,7 @@
   "id": "d4b614fb760f25a3",
   "content_hash": "d68c82929d481577",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "c57ae6ad34c8e8c7": {
@@ -3249,7 +3249,7 @@
   "id": "c57ae6ad34c8e8c7",
   "content_hash": "a31cb0fe1feea8da",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "66b1e55ad7b169b3": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3484,7 +3484,7 @@
   "id": "39fc8808bf036ace",
   "content_hash": "858e5ef938440274",
   "first_seen": "2026-10-13T11:16:25+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "20a77935887daace": {
@@ -3525,7 +3525,7 @@
   "id": "20a77935887daace",
   "content_hash": "599d0e0bbb6e9430",
   "first_seen": "2026-10-14T09:08:09+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "e1546330a4ec6600": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3760,7 +3760,7 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "100b3ca237dbdd8f": {
@@ -3795,7 +3795,7 @@
   "id": "100b3ca237dbdd8f",
   "content_hash": "cec71d64fd2380bd",
   "first_seen": "2026-10-19T09:25:22+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "ad7948d67f33f347": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3900,7 +3900,7 @@
   "id": "eb4f219fa1a59427",
   "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "d3485f4a9eeaa44a": {
@@ -3937,7 +3937,7 @@
   "id": "d3485f4a9eeaa44a",
   "content_hash": "7c76bb4f5501f8b5",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "14d9f705e194a68d": {
@@ -3972,7 +3972,7 @@
   "id": "14d9f705e194a68d",
   "content_hash": "d81b769af7517056",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "284af395742f5996": {
@@ -4008,7 +4008,7 @@
   "id": "284af395742f5996",
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "a34336eda1249908": {
@@ -4044,7 +4044,7 @@
   "id": "a34336eda1249908",
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "4abdcf409ba10748": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "1cea9a7d76ea280b",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4131,7 +4131,7 @@
   "id": "a95ce12d79fb4275",
   "content_hash": "5653350baebbbb1d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "cf272da6fb5b9a09": {
@@ -4168,7 +4168,7 @@
   "id": "cf272da6fb5b9a09",
   "content_hash": "7a077a650396390f",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "57c9f2d263faff77": {
@@ -4206,7 +4206,7 @@
   "id": "57c9f2d263faff77",
   "content_hash": "1176878e741c4389",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  },
  "3de5a0e4bc3f14d7": {
@@ -4242,7 +4242,184 @@
   "id": "3de5a0e4bc3f14d7",
   "content_hash": "556a1352a82130af",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-23T08:56:01+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
+  "is_open": true
+ },
+ "c258d2c245824aa5": {
+  "source": "jobtech",
+  "source_id": "31638120",
+  "company": "Riksgäldskontoret",
+  "title": "Praktikplats vid Riksgälden – avdelningen Finansiell stabilitet",
+  "url": "https://www.riksgalden.se/sv/om-riksgalden/jobba-hos-oss/lediga-tjanster/?rmpage=job&rmjob=482&utm_medium=talentech_publishing&utm_source=jobtip",
+  "description": "Har du ett intresse för finansiella stabilitetsfrågor och vill lära dig mer om arbetet med att minska risken för allvarliga störningar i det finansiella systemet? Som praktikant på avdelningen Finansiell stabilitet får du erfarenhet av och förståelse för hur en svensk myndighet arbetar för att vara beredd på att kunna hantera en finansiell kris.\nDin praktikplats\nVi erbjuder en praktikplats vid avdelningen Finansiell stabilitet, som består av fyra enheter som på olika vis arbetar med att uppfylla Riksgäldens uppdrag inom finansiell krishantering samt för insättningsgarantin och investerarskyddet. Inom ramen för finansiell krishantering ingår att arbeta med ekonomiska och juridiska frågor för att Riksgälden ska kunna genomföra så kallad resolution av en bank eller en central motpart i händelse av kris. I förberedelsearbetet ingår att planera för hur krishanteringen ska genomföras och finansieras samt att samråda med svenska och internationella myndigheter i det arbetet.\nSom praktikant kommer du att bidra till avdelningens arbete. Här finns många möjligheter och du bistår bl.a. med analyser och datainhämtning. Du kommer att tillhöra enheten för centrala motparter, men arbetsuppgifterna baseras på dels på avdelningens behov, dels på dina tidigare erfarenheter och intressen.\nDin bakgrund och kompetens\nDu är student vid högskola/universitet inom nationalekonomi, företagsekonomi, finansiell ekonomi eller juridik och är i slutskedet av din utbildning. Praktik ingår i utbildningen och den är relevant för din utbildningsinriktning. Vi söker dig som är strukturerad, noggrann, social, samarbetsinriktad och har en hög analytisk förmåga. Du behöver kunna kommunicera väl på svenska och engelska i både tal och skrift.\nBra att veta\nPraktiken omfattar 20 veckor med start under vårterminen 2027 och genomförs på heltid under kontorsarbetstid. Ingen ekonomisk ersättning utgår under praktiken. En säkerhetsintervju genomförs innan slutligt besked om praktikplats kan lämnas.\nOm du är en av slutkandidaterna blir du kontaktad efter att ansökningstiden gått ut och förväntas vara tillgänglig för en digital intervju kort därefter.\nVälkommen med din ansökan om praktik\nKlicka på knappen ”Ansök” nedan. Fyll i formuläret och bifoga (obligatoriskt) följande dokument:\na) CV\nb) LADOK-utdrag med kursernas namn, högskolepoäng och betyg\nc) Intyg att du får högskolepoäng för praktiken och att den är studiemedelsgrundande.\nd) ett personligt brev där beskriver du syftet med praktiken och varför du vill göra den hos just oss.\n\nUtan dessa underlag räknas inte din ansökan som fullständig.\nSkicka in din ansökan om praktikplats senast 15 november. Var uppmärksam på att kommunikationen och kallelse till intervju till kommer att ske via e-post.\n \nOm RiksgäldenRiksgälden spelar en viktig roll i samhällsekonomin och på den svenska finansmarknaden. Vi bidrar till att statens pengar och finansiering hanteras effektivt och att det finansiella systemet är stabilt. Vårt kontor finns i centrala Stockholm och vi är drygt 240 anställda. Vår vision är att tillsammans göra Riksgälden till en förebild både i Sverige och internationellt. Våra värderingar präglas av öppenhet, trygghet och professionalitet i utförande av vårt arbete. Riksgälden strävar efter att vara en hållbar och attraktiv arbetsgivare, där mångfald, olika erfarenheter, kompetens och bakgrunder tas tillvara. Läs mer om Riksgälden på www.riksgalden.se",
+  "posted_at": "2026-10-23T14:18:15+00:00",
+  "deadline": "2026-11-15T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "2021002635",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "Som praktikant på avdelningen Finansiell stabilitet får du erfarenhet av och förståelse för hur en svensk myndighet arbetar för att vara beredd på att kunna hantera en finansiell kris.",
+  "bullets": [],
+  "enriched": false,
+  "id": "c258d2c245824aa5",
+  "content_hash": "f0be991e564c61aa",
+  "first_seen": "2026-10-24T08:29:28+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
+  "is_open": true
+ },
+ "3245c704630c7252": {
+  "source": "jobtech",
+  "source_id": "31639345",
+  "company": "AFRY AB",
+  "title": "Exjobb inom kärnkraftssäkerhet",
+  "url": "https://jobs.smartrecruiters.com/AFRY/744000157485969-exjobb-inom-karnkraftssakerhet?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
+  "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är hängivna experter inom industri, energi- och infrastruktur, som skapar värde för kommande generationer. AFRY har en global räckvidd med djupa rötter i Norden. Tillsammans accelererar vi omställningen till ett mer hållbart samhälle.\n\nJobbeskrivning\nVill du göra ditt examensarbete inom kärnkraftssäkerhet hos ett av världens ledande teknikkonsultbolag? Då kan detta vara möjligheten för dig!\nAFRY Nuclear har varit verksamma inom den svenska kärnkraftsindustrin sedan de första reaktorerna byggdes i Sverige. I dagsläget är vi en av den svenska kärnkraftsindustrins viktigaste partner. Vi hjälper våra kunder att utveckla metoder för hållbar och säker kärnkraft och driver uppdrag i kärnkraftens alla faser – från nybyggnation och modernisering till livstidsförlängning, nedmontering och rivning.\nPå AFRY strävar vi alltid efter att utöka och stärka vår kompetens, och söker nu en eller två civilingenjörsstudenter som vill göra sitt exjobb tillsammans med oss. Exjobbet passar dig som är intresserad av reaktorfysik, kärnfysik, kärnkemi, kärnkraftsäkerhet och/eller miljöteknik. Exempel på tidigare arbeten och förslag är:\nModellering av spridning av radionuklider från en SMR i marin miljö\nLicensiering och krav vid planering av ett mellanlager för radioaktivt avfall\nSpridningsmodellering från utsläpp vid ett hypotetiskt kärnkraftshaveri\nLastföljning och effektreglering med kärnkraft, fokus på SMR\nSveriges uranbehov i framtiden, med en flotta av SMRer\nModellering av väderberoende radionukliddeposition med AFRY Intelligent Scenario Modelling (AISM)\nBedömning av provtagnings- och databehov för omgivningskontroll runt SMR – jämförelse av SMR och fullskaliga kärnkraftverk\nBedömning av risk för den naturliga miljön (icke-mänsklig biota) från SMR, jämförelse med fullskaliga kärnkraftverk\n\nTanken är att exjobben dels tar ett helhetsgrepp om aktuellt specialområde, dels fokuserar djupare inom ett par utvalda områden i samråd med handledaren. Har du en egen idé om ett exjobb diskuterar vi gärna det och ser om det kan vara passande för vår verksamhet och identifierade behov framåt.\nTill stöd kommer det att finnas ett team av olika experter, med en officiell handledare på AFRY inom sektionen kärnkraftsäkerhet och licensiering. Uppstart sker tidigast v.3 2027 och genomförande under våren (motsvarande 30 HP). Placeringsort är på vårt huvudkontor i Solna.\n\nKvalifikationer\nExjobbet riktar sig till dig som är i slutskedet av din civilingenjörsutbildning inom Energisystem, Teknisk Fysik, Elektroteknik, System i teknik och samhälle, Industriell Ekonomi, eller motsvarande. Du har intresse av några av ovan nämnda områden och av att lära känna ett stort internationellt teknik- och ingenjörsföretag. Du kan uttrycka dig obehindrat på både svenska och engelska i såväl tal som skrift. Har du läst kurser inom kärnkraft ser vi det som ett plus. \nSom person är det viktigaste för oss att du känner igen dig i våra värdeord Brave, Devoted, Teamplayers som förenar oss på AFRY. Det betyder att vi gillar att samarbeta och dela med oss av kunskap, att vi är drivna och nyfikna på att hela tiden lära oss nya saker.\n\nYtterligare information\nExjobb hos AFRY Nuclear erbjuder dig möjligheten att fördjupa både din kunskap och förståelse för kärnkraftsindustrin. Förutom att du kommer få samarbeta med erfarna kärnkraftsexperter, kommer du också ges möjlighet att arbeta tillsammans med kollegor från andra kompetensområden.\nExjobb utgör även en grund för en möjlig framtida rekrytering. Som anställd på AFRY erbjuder vi en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag och en förmånsportal med en mängd rabatter. Vi satsar på våra medarbetare och har individuella utvecklingsplaner där du får möjligheten att gå utvecklande kurser och certifieringar inom ramen för din tjänst och dina karriärmål. Vår personalklubb arrangerar sociala aktiviteter på och utanför kontoret. Allt från skidresor, stuguthyrning, sjunga i kör till att spela brädspel – det finns något för alla.\nInför din ansökan: \nVänligen skriv i din ansökan vilka 1-3 områden/förslag som du är mest intresserad av, alternativt din egna idé.\nDet finns möjlighet att söka examensarbetet i par men vänligen skicka in separata ansökningar.\nSista ansökningsdag är 22 november 2026.\nKontaktperson för frågor:\nHans Henriksson, Service Area Manager för Kärnkraftsäkerhet och licensiering\nhans.h.henriksson@afry.com (mailto:hans.h.henriksson@afry.com)\n\nExamensarbetet är inte säkerhetsklassat. Däremot finns krav på drogtest, säkerhetsprövning och registerkontroll för anställning då befattningarna verkar inom säkerhetsklassade områden. För samtliga rekryteringar genomförs referenstagning samt verifiering av utbildning.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
+  "posted_at": "2026-10-23T15:56:16+00:00",
+  "deadline": "2026-12-22T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5561206474",
+  "city": "Solna",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Energy & Environment"
+  ],
+  "about": "Förutom att du kommer få samarbeta med erfarna kärnkraftsexperter, kommer du också ges möjlighet att arbeta tillsammans med kollegor från andra kompetensområden.",
+  "bullets": [],
+  "enriched": false,
+  "id": "3245c704630c7252",
+  "content_hash": "e61dd9f770bbdf73",
+  "first_seen": "2026-10-24T08:29:28+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
+  "is_open": true
+ },
+ "aed461abf42cc158": {
+  "source": "jobtech",
+  "source_id": "31638863",
+  "company": "AFRY AB",
+  "title": "Exjobb: Modellering av Radionuklid-spridning från SEALER-reaktor",
+  "url": "https://jobs.smartrecruiters.com/AFRY/744000157470557-exjobb-modellering-av-radionuklid-spridning-fran-sealer-reaktor?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
+  "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är dedikerade experter inom industri, energi och infrastruktur och skapar värde för kommande generationer. AFRY har nordiska rötter med global räckvidd. Våra gemensamma principer – Result driven, Client centric, Empowering och Accountable – vägleder oss i hur vi arbetar, utvecklas och lyckas tillsammans. Var med och accelerera övergången till ett hållbart samhälle. \n\nJobbeskrivning\nAFRY är Sveriges främsta konsultföretag inom kärnkraftsindustrin och vi strävar alltid efter att utöka och stärka vår kompetens. Vi söker nu en civilingenjörsstudent som är intresserad av att genomföra sitt examensarbete hos oss på AFRY Nuclear. Nedan exjobb är ett förslag från vårt håll som genomförs i samarbete med Chalmers.\nBakgrund, mål och föreslagen metod \nPå senare tid har intresset för kärnkraftverk och mer specifikt små modulära reaktorer (SMR) ökat. En av de svenska aktörerna som visat intresse för att bygga SMR:er är Blykalla, som håller på att utveckla en reaktoer som heter SEALER.\nDetta examensarbete handlar om att undersöka hur radioaktiva ämnen sprids i naturen i händelse av ett svårt reaktorhaveri hos en SEALER-reaktor. I Sverige finns det krav på att det för varje reaktor ska utföras en sannolikhetsbaserad säkerhetsanalys (PSA) på tre nivåer. Nivå 1 beräknar sannolikheten för härdskador, nivå 2 beräknar sannolikheten för radioaktivt utsläpp och nivå 3 beräknar hur ett sådant utsläpp kan spridas. AFRY’s programvara AISM är mycket lämplig för att göra beräkningar på PSA nivå 3, och kommer användas i detta exjobb.\nUnder exjobbet kommer du undersöka hur ett utsläpp från en SEALER-reaktor kan se ut, ta fram en modell i AISM för beräkning av spridning och doser till allmänheten utifrån vädermönster och plats, samt utföra känslighets- och osäkerhetsanalyser. Då det i dagsläget inte finns mycket data på hur ett utsläpp från en SEALER kan komma att se ut behöver du i samråd med den akademiska handledaren lägga upp en plan för hur en kvalificerad uppskattning på källterm kan göras. Själva fokuset för exjobbet kan styras beroende på vart ditt intresse är störst.\n\nKvalifikationer\nDetta examensarbete passar dig som är intresserad av kärnkraft, radiokemi och/eller simuleringar. Du är i slutskedet av din civilingenjörsutbildning och planerar att under våren 2027 genomföra ditt examensarbete motsvarande 30 HP.\nDu studerar fysik, kemi eller energiteknik. Har du läst kurser inom kärnkemi eller kärnkraftssäkerhet är det meriterande. Du kan uttrycka dig obehindrat på både svenska och engelska i såväl tal som skrift.\nSom person är det viktigaste för oss att du känner igen dig i våra värdeord Brave, Devoted, Teamplayers som förenar oss på AFRY. Det betyder att vi gillar att samarbeta och dela med oss av kunskap, att vi är drivna och nyfikna på att hela tiden lära oss nya saker.\nArbetet kommer utföras på vårt kontor i Göteborg i kombination med på Chalmers. Vi ser det som ett stort plus om du har möjlighet att närvara på kontoret minst två dagar i veckan, där du kommer ha din handledare som stöd.\n\nYtterligare information\nExjobb hos AFRY Nuclear erbjuder dig möjligheten att fördjupa både din kunskap och förståelse för kärnkraftsindustrin. Förutom att du kommer få samarbeta med erfarna kärnkraftsexperter, kommer du också ges möjlighet att arbeta tillsammans med kollegor från andra kompetensområden.  \nExamensarbete hos AFRY kan utgöra en grund för en framtida rekrytering. Som anställd hos oss får du ta del av en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag, tjänstepension samt tillhörighet i vår fantastiska personalförening Club AFRY. Här anordnar vi en mängd sociala aktiviteter, allt från skidresor, handledda träningstillfällen, stuguthyrning, gästföreläsningar till att spela brädspel – och mycket, mycket mer.\nSista ansökningsdatum är 6/11 2026. Vi hanterar ansökningarna löpande och tillsättning kan komma att ske innan sista ansökningsdag.\nFör frågor om exjobbet, vänligen kontakta Olle som kommer vara din handledare!\nOlle Lexell, Konsult Nuclear\nOlle.lexell@afry.com (mailto:Olle.lexell@afry.com) \nFör frågor om rekryteringsprocessen, vänligen kontakta Linnea (rekryteringspartner) på linnea.hansson@afry.com\nExamensarbetet är inte säkerhetsklassat. Däremot finns krav på drogtest, säkerhetsprövning och registerkontroll för anställning då befattningarna verkar inom säkerhetsklassade områden. För samtliga rekryteringar genomförs referenstagning samt verifiering av utbildning.\nVi undanber oss direktkontakt med bemannings- och rekryteringsföretag samt säljare av ytterligare jobbannonser.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
+  "posted_at": "2026-10-23T15:15:38+00:00",
+  "deadline": "2026-12-22T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5561206474",
+  "city": "Göteborg",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Energy & Environment"
+  ],
+  "about": "Vi ser det som ett stort plus om du har möjlighet att närvara på kontoret minst två dagar i veckan, där du kommer ha din handledare som stöd.",
+  "bullets": [],
+  "enriched": false,
+  "id": "aed461abf42cc158",
+  "content_hash": "aff177fca0a24261",
+  "first_seen": "2026-10-24T08:29:28+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
+  "is_open": true
+ },
+ "436b59a9a220b2d5": {
+  "source": "jobtech",
+  "source_id": "31637759",
+  "company": "AFRY AB",
+  "title": "Exjobb: Kylsystemdesign för ny kärnkraft i Sverige",
+  "url": "https://jobs.smartrecruiters.com/AFRY/744000157465815-exjobb-kylsystemdesign-for-ny-karnkraft-i-sverige?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
+  "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är dedikerade experter inom industri, energi och infrastruktur och skapar värde för kommande generationer. AFRY har nordiska rötter med global räckvidd. Våra gemensamma principer – Result driven, Client centric, Empowering och Accountable – vägleder oss i hur vi arbetar, utvecklas och lyckas tillsammans. Var med och accelerera övergången till ett hållbart samhälle. \n\nJobbeskrivning\nAFRY är ett av de största konsultföretagen inom kärnkraftsindustrin och vi strävar alltid efter att utöka och stärka vår kompetens. Vi söker nu en civilingenjörsstudent som är intresserad av att genomföra sitt examensarbete hos oss på AFRY Nuclear. Nedan exjobb är ett förslag från vårt håll som genomförs i samarbete med Chalmers.\nBakgrund, mål och föreslagen metod\nRegeringen har nu tagit emot sex ansökningar om statligt stöd för ny kärnkraft från olika aktörer. Blykalla AB, Nucore Energi, Studsvik, Nordic Baseload Power och Videberg Kraft AB har alla lämnat in förslag på nybyggnation. Projekten omfattar både små modulära reaktorer (SMR) och mer konventionella kärnkraftslösningar på såväl befintliga som nya etableringsplatser. Olika reaktorleverantörer finns också med i planeringen som erbjuder lättvattenkylda tryck- och kokarvattenreaktorer samt nya tekniker så som blykylda reaktorer.\nSyftet med studien är att analysera hur olika reaktortekniker, reaktoreffekter och platsspecifika miljöförhållanden påverkar utformningen av kylsystem för de sex föreslagna svenska kärnkraftsprojekten. Studien omfattar flera reaktortyper, däribland kokvattenreaktorer (BWR), tryckvattenreaktorer (PWR), små modulära reaktorer (SMR) och blykylda reaktorer. Genom att undersöka varje etableringsplats utifrån faktorer som tillgång till kylvatten, temperaturvariationer och miljömässiga begränsningar syftar arbetet till att identifiera vilka tekniska och geografiska förutsättningar som styr val och dimensionering av kylsystemen. Studien syftar även till att sätta resultaten i relation till olika prognostiserade framtida scenarier för Sveriges elbehov. Detta för att belysa hur reaktorernas kylkrav och lokalisering kan påverka deras lämplighet och potential att bidra till den framtida elförsörjningen.\nFöreslagen metod inkluderar exergiberäkningar för olika reaktortyper, analys av kyltekniska lösningar samt optimering med hänsyn till miljömässiga begränsningar och framtida elektrifieringsbehov.\n\nKvalifikationer\nDetta examensarbete passar dig som är intresserad av kärnkraft, termodynamik och optimering, och som har god förståelse och intresse för kärnkraftsutbyggnaden i Sverige. Du är i slutskedet av din civilingenjörsutbildning och planerar att under våren 2027 genomföra ditt exjobb motsvarande 30 HP.\nDu studerar masterprogram inom hållbara energisystem eller innovativ och hållbar kemiteknik. Du kan ha läst kandidat i exempelvis kemiteknik, kemiteknik med fysik, maskinteknik och teknisk fysik inklusive kurser inom energiteknik, värme- och kraftverksystem modellering. Du kan uttrycka dig obehindrat på både svenska och engelska i tal och skrift. Har du läst kurser inom kärnkraft och/eller reaktorteknik ser vi det som meriterande.\nSom person är det viktigaste för oss att du känner igen dig i våra värdeord Brave, Devoted, Teamplayers som förenar oss på AFRY. Det betyder att vi gillar att samarbeta och dela med oss av kunskap, att vi är drivna och nyfikna på att hela tiden lära oss nya saker.\nArbetet kommer utföras på vårt kontor i Göteborg i kombination med på Chalmers. Vi ser det som ett stort plus om du har möjlighet att närvara på kontoret minst två dagar i veckan, där du kommer ha din handledare som stöd.\n\nYtterligare information\nExjobb hos AFRY Nuclear erbjuder dig möjligheten att fördjupa både din kunskap och förståelse för kärnkraftsindustrin. Förutom att du kommer få samarbeta med erfarna kärnkraftsexperter, kommer du också ges möjlighet att arbeta tillsammans med kollegor från andra kompetensområden.  \nExamensarbete hos AFRY kan utgöra en grund för en framtida rekrytering. Som anställd hos oss får du ta del av en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag, tjänstepension samt tillhörighet i vår fantastiska personalförening Club AFRY. Här anordnar vi en mängd sociala aktiviteter, allt från skidresor, handledda träningstillfällen, stuguthyrning, gästföreläsningar till att spela brädspel – och mycket, mycket mer.\nSista ansökningsdatum är 6/11 2026. Vi hanterar ansökningarna löpande och tillsättning kan komma att ske innan sista ansökningsdag.\nFör frågor om exjobbet, vänligen kontakta Alexander som kommer vara din handledare!\nAlexander Young, Konsult Nuclear\nalexander.young@afry.com (mailto:alexander.young@afry.com)\nFör frågor om rekryteringsprocessen, vänligen kontakta Linnea (rekryteringspartner) på linnea.hansson@afry.com\nExamensarbetet är inte säkerhetsklassat. Däremot finns krav på drogtest, säkerhetsprövning och registerkontroll för anställning då befattningarna verkar inom säkerhetsklassade områden. För samtliga rekryteringar genomförs referenstagning samt verifiering av utbildning.\nVi undanber oss direktkontakt med bemannings- och rekryteringsföretag samt säljare av ytterligare jobbannonser.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
+  "posted_at": "2026-10-23T13:50:34+00:00",
+  "deadline": "2026-12-22T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5561206474",
+  "city": "Göteborg",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Energy & Environment"
+  ],
+  "about": "Vi ser det som ett stort plus om du har möjlighet att närvara på kontoret minst två dagar i veckan, där du kommer ha din handledare som stöd.",
+  "bullets": [],
+  "enriched": false,
+  "id": "436b59a9a220b2d5",
+  "content_hash": "c73607690f0a0f55",
+  "first_seen": "2026-10-24T08:29:28+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
+  "is_open": true
+ },
+ "e72a18c9c561a77e": {
+  "source": "jobtech",
+  "source_id": "31636646",
+  "company": "Volvo Business Services Aktiebolag",
+  "title": "Volvo Group Graduate Program - Business Dev. & Digitalization Engineer",
+  "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44528639",
+  "description": "Company description:How you’ll contribute \nAs a Business Development & Digitalization Engineer at SP&E / Business & Strategy, you will connect strategy, technology, customer needs, and business opportunities to support the development of software-defined vehicles, digital services, and future transport solutions. Through cross-functional and global collaboration, the role contributes to strategic analysis, early-phase initiatives, stakeholder alignment, and the translation of insights into actionable recommendations that create customer value and enable Volvo Group’s transformation. \n  \nJob description:You will work in a highly collaborative and international environment, building a broad network across Business Areas, engineering organizations, and external partners. Regular interaction with experienced specialists, decision-makers, and senior stakeholders will give you insight into how a global organization and the commercial vehicle industry operate, while developing your communication, stakeholder-management, and leadership potential. You will have opportunities to present your ideas, influence real decisions, and learn through feedback. You will be part of an innovation-driven team where curiosity is encouraged, different perspectives are valued, and your contribution can help shape the future of transport and Volvo Group’s ongoing transformation. \n Key responsibilities:  \n  Conduct strategic and business analyses to identify customer needs, market trends, technology opportunities, and potential new business models.\n Contribute to early-phase initiatives and short-cycle explorations within software-defined vehicles, digital services, transport ecosystems, and internal efficiency.\n Translate complex business and technology topics into clear insights, recommendations, and decision material for relevant stakeholders.\n Collaborate globally across Business Areas, Digital & IT, engineering organizations, joint ventures, and external partners.\n Support alignment between product planning, technology development, business strategy, and execution across organizational boundaries.\n Prepare and present analyses, proposals, and results in cross-functional forums and to senior stakeholders.\n Drive assigned activities with ownership, adaptability, and a continuous-improvement mindset, using feedback and rapid learning to strengthen outcomes. \n  Who are you? \nWe are looking for someone with a strong transformation and collaborative mindset who is eager to learn, explore, and understand the business. You thrive in dynamic environments, embrace new challenges and ambiguity, and take ownership of your own development and growth. With strong analytical skills, you take initiatives and drive tasks forward with determination while bringing fresh perspectives and innovative ideas to the team. You enjoy building relationships and leveraging a global network to create impact while working collaboratively across teams and functions. In addition, you contribute to a culture of continuous learning by actively sharing knowledge, exchanging insights, and supporting the development of others. \n Requirements: \n  Master’s degree in engineering, computer science, industrial engineering/economics, management, information systems\n An interest in commercial vehicles, transport solutions, software, data, AI, digital ecosystems, or business transformation.\n Experience applying engineering, digital, or business knowledge through a thesis, internship, student project, summer job, or extracurricular activity.\n Some experience in Power BI or similar tools  \n Basic understanding of how technology and engineering contribute to customer value and business outcomes.\n Ability to communicate ideas and findings clearly and contribute effectively in cross-functional and international teams. \n  \nTo qualify for the Graduate program, you: \n  Have completed a master’s degree prior to the start of the program but not more than 3 years ago.  \n Should not have more than three years' full-time relevant working experience in the field prior to starting, excluding part-time work during studies.  \n Are fluent in English, both written and verbal.   \n Are willing to travel and participate in international short-term assignments \n  What’s in it for you? \nOur Volvo Group Graduate Program starts in August 2027, and you will be offered a permanent position at TTI with placement in Sweden, Gothenburg.  \n Read more about the Graduate program here\n  An opportunity to work with the latest technology.An exciting and global working environment with experienced colleagues.\n Possibility to gain international experience through a short-term assignment abroad.A competitive salary and permanent position from day one.\n Various workshops and seminars designed to help you grow into your future career at Volvo Group.The possibility to shape your own career with endless career opportunities. \n  The application process  \nThe journey begins! An email confirmation will be sent when you submit your application. After this, it is still possible to update your personal profile by logging into your account. The hiring team will review your application together with the hiring manager. Shortlisted candidates will be contacted with information about the following steps.  \n Last day to apply: 22.11.26\n As part of the recruitment process, a background check as well as alcohol and drug testing may be conducted. You will be informed if applicable. We value your data privacy and therefore do not accept applications via mail.",
+  "posted_at": "2026-10-23T11:25:06+00:00",
+  "deadline": "2026-11-22T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5560295197",
+  "city": "Göteborg",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Data visualisation",
+   "Data analysis"
+  ],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "As a Business Development & Digitalization Engineer at SP&E / Business & Strategy, you will connect strategy, technology, customer needs, and business opportunities to support the development of…",
+  "bullets": [],
+  "enriched": false,
+  "id": "e72a18c9c561a77e",
+  "content_hash": "fec5d49654245f1c",
+  "first_seen": "2026-10-24T08:29:28+00:00",
+  "last_seen": "2026-10-24T08:29:28+00:00",
   "is_open": true
  }
 }
