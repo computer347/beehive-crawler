@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -2302,7 +2302,7 @@
   "id": "ddef14251dabcc3c",
   "content_hash": "7cb266290b85910f",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "9b0d10b7bc5a0458": {
@@ -2337,7 +2337,7 @@
   "id": "9b0d10b7bc5a0458",
   "content_hash": "6cb0069b61a4804c",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "3f07afa568825d73": {
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2842,7 +2842,7 @@
   "id": "4154ef308a70e18e",
   "content_hash": "90a99689c9812d15",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "a497f4d5af470e70": {
@@ -2879,7 +2879,7 @@
   "id": "a497f4d5af470e70",
   "content_hash": "9b551aca128d93af",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "547df9d728581f0f": {
@@ -2988,7 +2988,7 @@
   "id": "9cd89c5f25a6a5f9",
   "content_hash": "afe7b6956b466f45",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "d108d0efd9cc4b8c": {
@@ -3025,7 +3025,7 @@
   "id": "d108d0efd9cc4b8c",
   "content_hash": "2346d53386856896",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "cee13ca8de20fcb8": {
@@ -3062,7 +3062,7 @@
   "id": "cee13ca8de20fcb8",
   "content_hash": "20051dc17a9d8b9a",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "e44ca11ca4226ee0": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3171,7 +3171,7 @@
   "id": "1586fb73e8b28f4c",
   "content_hash": "8e17924b23843978",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "d4b614fb760f25a3": {
@@ -3212,7 +3212,7 @@
   "id": "d4b614fb760f25a3",
   "content_hash": "d68c82929d481577",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "c57ae6ad34c8e8c7": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3760,7 +3760,7 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "100b3ca237dbdd8f": {
@@ -3795,7 +3795,7 @@
   "id": "100b3ca237dbdd8f",
   "content_hash": "cec71d64fd2380bd",
   "first_seen": "2026-10-19T09:25:22+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "ad7948d67f33f347": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3900,7 +3900,7 @@
   "id": "eb4f219fa1a59427",
   "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "d3485f4a9eeaa44a": {
@@ -3937,7 +3937,7 @@
   "id": "d3485f4a9eeaa44a",
   "content_hash": "7c76bb4f5501f8b5",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "14d9f705e194a68d": {
@@ -3972,7 +3972,7 @@
   "id": "14d9f705e194a68d",
   "content_hash": "d81b769af7517056",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "284af395742f5996": {
@@ -4008,7 +4008,7 @@
   "id": "284af395742f5996",
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "a34336eda1249908": {
@@ -4044,7 +4044,7 @@
   "id": "a34336eda1249908",
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "4abdcf409ba10748": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4131,7 +4131,7 @@
   "id": "a95ce12d79fb4275",
   "content_hash": "5653350baebbbb1d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "cf272da6fb5b9a09": {
@@ -4168,7 +4168,7 @@
   "id": "cf272da6fb5b9a09",
   "content_hash": "7a077a650396390f",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "57c9f2d263faff77": {
@@ -4206,7 +4206,7 @@
   "id": "57c9f2d263faff77",
   "content_hash": "1176878e741c4389",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "3de5a0e4bc3f14d7": {
@@ -4242,7 +4242,7 @@
   "id": "3de5a0e4bc3f14d7",
   "content_hash": "556a1352a82130af",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "c258d2c245824aa5": {
@@ -4277,7 +4277,7 @@
   "id": "c258d2c245824aa5",
   "content_hash": "f0be991e564c61aa",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "3245c704630c7252": {
@@ -4312,7 +4312,7 @@
   "id": "3245c704630c7252",
   "content_hash": "e61dd9f770bbdf73",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "aed461abf42cc158": {
@@ -4347,7 +4347,7 @@
   "id": "aed461abf42cc158",
   "content_hash": "aff177fca0a24261",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "436b59a9a220b2d5": {
@@ -4382,7 +4382,7 @@
   "id": "436b59a9a220b2d5",
   "content_hash": "c73607690f0a0f55",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "e72a18c9c561a77e": {
@@ -4419,7 +4419,7 @@
   "id": "e72a18c9c561a77e",
   "content_hash": "fec5d49654245f1c",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "7ae00f5246748da3": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4490,7 +4490,94 @@
   "id": "94710df98f75c84c",
   "content_hash": "6b5d98c35e677409",
   "first_seen": "2026-10-27T09:26:23+00:00",
-  "last_seen": "2026-10-27T09:26:23+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
+  "is_open": true
+ },
+ "def938b14cca9b5b": {
+  "source": "jobtech",
+  "source_id": "31652716",
+  "company": "Familjen Yahya AB",
+  "title": "Praktikant inom IT",
+  "url": "https://onenetwork.se/karriar/jobb/it-praktikant",
+  "description": "Om oss \nPå ONeNetwork Tech arbetar vi med moderna IT-lösningar för att skapa stabila, säkra och skalbara miljöer för våra kunder och internt. Vi brinner för ny teknik, automatisering och kontinuerlig utveckling. Nu söker vi en engagerad praktikant som vill utveckla sina praktiska färdigheter inom IT support, IT-infrastruktur, nätverk, cloud och DevOps tillsammans med vårt erfarna team.\nOm rollen och vad du får göra \nSom praktikant hos oss blir du en viktig del av vårt team och får en dedikerad handledare. Du får möjlighet att omsätta dina teoretiska kunskaper i praktiken och arbeta i relevanta projekt anpassade efter din utbildningsinriktning och dina intressen.\nBeroende på din profil och vad du vill utvecklas inom får du arbeta med:\nIT- och Infrastrukturteknik: Felsökning, hårdvaruhantering, klienthantering och systemadministration.\n\n\nNätverksteknik: Konfigurering och övervakning av routrar, switchar, brandväggar och VPN-lösningar.\n\n\nCloud & Platform: Hantering och administration av molnmiljöer i Microsoft Azure, AWS eller GCP.\n\n\nDevOps & Automatisering: Arbeta med CI/CD-flöden, skript intercept (t.ex. PowerShell, Bash, Python) samt containerteknik (Docker, Kubernetes) och Infrastructure as Code (Terraform).\n\n\n\nVem är du? \nVi söker dig som för närvarande läser en YH-, högskole- eller universitetsutbildning inom IT-teknik, Nätverk, Cloud/Molnteknik eller DevOps och söker praktik/LIA.\nVi ser gärna att du:\nHar ett starkt intresse för modern IT-infrastruktur och ny teknik.\nÄr nyfiken, problemlösande och tycker om att lära dig nya verktyg.\nTalar och skriver flytande i svenska och/eller engelska.\nTrivs i ett samarbetande team där man hjälper varandra.\n\n\n\nVad erbjuder vi?\nEn strukturerad praktikperiod med en engagerad handledare.\nPraktisk erfarenhet i verkliga projekt och moderna IT-miljöer.\nEn god inblick i branschen och möjligheter till framtida nätverkande (och ev. anställning efter avslutad utbildning).\n\n\n\nAnsökan \nLåter detta som rätt steg för dig? \nSkicka in din ansökan bestående av CV och ett kort brev där du berättar om din utbildning, vad du vill fokusera på under praktiken samt vilken period din praktik omfattar.\nVarmt välkommen med din ansökan!",
+  "posted_at": "2026-10-27T21:23:15+00:00",
+  "deadline": "2026-11-26T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5592965148",
+  "city": "",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Cloud (AWS)",
+   "Docker",
+   "Python"
+  ],
+  "fields": [
+   "Computer Science"
+  ],
+  "about": "Som praktikant hos oss blir du en viktig del av vårt team och får en dedikerad handledare.",
+  "bullets": [],
+  "enriched": false,
+  "id": "def938b14cca9b5b",
+  "content_hash": "ddcefd77ed5e0c2f",
+  "first_seen": "2026-10-28T10:08:15+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
+  "is_open": true
+ },
+ "feb9a7e5e7a79365": {
+  "source": "jobtech",
+  "source_id": "31652060",
+  "company": "Ericsson AB",
+  "title": "AI Learning Solutions Intern",
+  "url": "https://jobs.ericsson.com/job-invite/793086/",
+  "description": "About this opportunity: \nWould you like to turn AI ideas into useful tools for learning and knowledge sharing? Join Learning Innovation / Expert Learning Lab (ELL) to explore how AI can help people find answers, share expertise and learn when they need it, in the flow of work. We are looking for two candidates who enjoy building, testing and improving digital solutions with real users. \n\n\nYou will gain hands-on experience across applied AI, software prototyping, user experience and learning design, with cross-functional mentoring and meaningful ownership from the start. The two interns can bring complementary technical and UX/learning strengths, while both contribute practical programming skills. \nThese two positions are based in Stockholm and are fixed-term roles on 75-100% for around a year, starting as soon as possible.\n\n\n\n\nWhat you will do: \nWorking with colleagues, users and subject-matter experts, you will turn ideas into testable solutions. You will build, configure and test AI agents and prototypes, primarily using Microsoft Copilot Studio, and explore lightweight integrations, data connections and automation. Alongside the technical work, you will help shape use cases, conversation flows and interactions that make complex expert knowledge understandable and actionable. \n\n\nYou will try prototypes with users, gather feedback and improve them through small experiments and pilots. This means troubleshooting, considering accessibility and learning objectives, and making thoughtful trade-offs around usability, data access, privacy and security. You will also create simple onboarding guidance and document configurations, design decisions, test findings and lessons learned, including approaches that did not work. Your contribution will leave reusable prototypes, methods and recommendations that others can build on. \n \nThe skills you bring\n-  You have studied/are studying computer science, software engineering, information systems, UX/HCI, cognitive science, learning design, service design or a related subject at university or higher-education level. \n-  You have practical programming experience in at least one language, such as Python or TypeScript, basic knowledge of logic, data structures and APIs, and at least one functioning digital prototype, application, automation or comparable technical project. \n-  Coursework and personal projects count; you should be able to explain your own contribution. \n-  You bring systematic problem-solving, analytical thinking and the ability to work independently when requirements are still taking shape. \n-  You have a basic understanding of usability, accessibility and human-centred design, and preferably learning principles such as clear objectives, practice, feedback and cognitive load. \n-  You can simplify complex information, collaborate with users and experts, and exercise sound judgement about privacy, security and responsible AI. \n-  Fluency in spoken and written English and Swedish is required. \n-  You communicate clearly and collaborate effectively with partners across different industries and academic institutions. \n\n\nPreferred skills:\n-  Experience with Copilot Studio, Power Platform or Microsoft 365 is a plus, not a prerequisite. \n-  Git, LLMs, AI agents, retrieval, automation, digital learning design, onboarding or immersive learning are also useful. \n-  Curiosity about how emerging technologies, such as extended reality (XR), can support learning is a plus. \n\n\n\n\nWhat you can learn here \nYou can develop skills in user research and usability testing and SharePoint. We value curiosity, openness to feedback and the willingness to learn through experimentation.",
+  "posted_at": "2026-10-27T16:20:45+00:00",
+  "deadline": "2026-11-07T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5560566258",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "User research",
+   "Control systems",
+   "AI-assisted coding",
+   "TypeScript",
+   "Python",
+   "LLM applications"
+  ],
+  "fields": [
+   "Data Science",
+   "Design",
+   "Computer Science"
+  ],
+  "about": "You will gain hands-on experience across applied AI, software prototyping, user experience and learning design, with cross-functional mentoring and meaningful ownership from the start.",
+  "bullets": [
+   "Coursework and personal projects count; you should be able to explain your own contribution.",
+   "You bring systematic problem-solving, analytical thinking and the ability to work independently when requirements are still taking shape.",
+   "You can simplify complex information, collaborate with users and experts, and exercise sound judgement about privacy, security and responsible AI."
+  ],
+  "enriched": false,
+  "id": "feb9a7e5e7a79365",
+  "content_hash": "156283bd152b0f2c",
+  "first_seen": "2026-10-28T10:08:15+00:00",
+  "last_seen": "2026-10-28T10:08:15+00:00",
   "is_open": true
  }
 }
