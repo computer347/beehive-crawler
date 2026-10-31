@@ -799,7 +799,7 @@
   "id": "e7f6e4085a0417ab",
   "content_hash": "ffff0479ee071a88",
   "first_seen": "2026-09-24T11:21:14+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "63c1445138d20f54": {
@@ -2302,7 +2302,7 @@
   "id": "ddef14251dabcc3c",
   "content_hash": "7cb266290b85910f",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "9b0d10b7bc5a0458": {
@@ -2337,7 +2337,7 @@
   "id": "9b0d10b7bc5a0458",
   "content_hash": "6cb0069b61a4804c",
   "first_seen": "2026-09-26T08:55:36+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "3f07afa568825d73": {
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2842,7 +2842,7 @@
   "id": "4154ef308a70e18e",
   "content_hash": "90a99689c9812d15",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "a497f4d5af470e70": {
@@ -2879,7 +2879,7 @@
   "id": "a497f4d5af470e70",
   "content_hash": "9b551aca128d93af",
   "first_seen": "2026-10-02T10:08:47+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "547df9d728581f0f": {
@@ -2988,7 +2988,7 @@
   "id": "9cd89c5f25a6a5f9",
   "content_hash": "afe7b6956b466f45",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "d108d0efd9cc4b8c": {
@@ -3025,7 +3025,7 @@
   "id": "d108d0efd9cc4b8c",
   "content_hash": "2346d53386856896",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "cee13ca8de20fcb8": {
@@ -3062,7 +3062,7 @@
   "id": "cee13ca8de20fcb8",
   "content_hash": "20051dc17a9d8b9a",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "e44ca11ca4226ee0": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3171,7 +3171,7 @@
   "id": "1586fb73e8b28f4c",
   "content_hash": "8e17924b23843978",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "d4b614fb760f25a3": {
@@ -3212,7 +3212,7 @@
   "id": "d4b614fb760f25a3",
   "content_hash": "d68c82929d481577",
   "first_seen": "2026-10-06T10:53:56+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "c57ae6ad34c8e8c7": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3760,7 +3760,7 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "100b3ca237dbdd8f": {
@@ -3795,7 +3795,7 @@
   "id": "100b3ca237dbdd8f",
   "content_hash": "cec71d64fd2380bd",
   "first_seen": "2026-10-19T09:25:22+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "ad7948d67f33f347": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3900,7 +3900,7 @@
   "id": "eb4f219fa1a59427",
   "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "d3485f4a9eeaa44a": {
@@ -3937,7 +3937,7 @@
   "id": "d3485f4a9eeaa44a",
   "content_hash": "7c76bb4f5501f8b5",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "14d9f705e194a68d": {
@@ -3972,7 +3972,7 @@
   "id": "14d9f705e194a68d",
   "content_hash": "d81b769af7517056",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "284af395742f5996": {
@@ -4008,7 +4008,7 @@
   "id": "284af395742f5996",
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "a34336eda1249908": {
@@ -4044,7 +4044,7 @@
   "id": "a34336eda1249908",
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "4abdcf409ba10748": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4131,7 +4131,7 @@
   "id": "a95ce12d79fb4275",
   "content_hash": "5653350baebbbb1d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "cf272da6fb5b9a09": {
@@ -4168,7 +4168,7 @@
   "id": "cf272da6fb5b9a09",
   "content_hash": "7a077a650396390f",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "57c9f2d263faff77": {
@@ -4206,7 +4206,7 @@
   "id": "57c9f2d263faff77",
   "content_hash": "1176878e741c4389",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "3de5a0e4bc3f14d7": {
@@ -4242,7 +4242,7 @@
   "id": "3de5a0e4bc3f14d7",
   "content_hash": "556a1352a82130af",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "c258d2c245824aa5": {
@@ -4277,7 +4277,7 @@
   "id": "c258d2c245824aa5",
   "content_hash": "f0be991e564c61aa",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "3245c704630c7252": {
@@ -4312,7 +4312,7 @@
   "id": "3245c704630c7252",
   "content_hash": "e61dd9f770bbdf73",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "aed461abf42cc158": {
@@ -4347,7 +4347,7 @@
   "id": "aed461abf42cc158",
   "content_hash": "aff177fca0a24261",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "436b59a9a220b2d5": {
@@ -4382,7 +4382,7 @@
   "id": "436b59a9a220b2d5",
   "content_hash": "c73607690f0a0f55",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "e72a18c9c561a77e": {
@@ -4419,7 +4419,7 @@
   "id": "e72a18c9c561a77e",
   "content_hash": "fec5d49654245f1c",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "7ae00f5246748da3": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4490,7 +4490,7 @@
   "id": "94710df98f75c84c",
   "content_hash": "6b5d98c35e677409",
   "first_seen": "2026-10-27T09:26:23+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "def938b14cca9b5b": {
@@ -4529,7 +4529,7 @@
   "id": "def938b14cca9b5b",
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-10-28T10:08:15+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "feb9a7e5e7a79365": {
@@ -4577,7 +4577,7 @@
   "id": "feb9a7e5e7a79365",
   "content_hash": "156283bd152b0f2c",
   "first_seen": "2026-10-28T10:08:15+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "ce2b0850d462aa4b": {
@@ -4614,7 +4614,7 @@
   "id": "ce2b0850d462aa4b",
   "content_hash": "5bb55777b0791cf8",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  },
  "eb89c946085ac4c6": {
@@ -4654,7 +4654,94 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-10-30T10:33:50+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
+  "is_open": true
+ },
+ "fc2fd0909073dd88": {
+  "source": "ashby",
+  "source_id": "1b8f590b-fd9a-4c7a-ae0d-6e15f0bed42f",
+  "company": "ICEYE",
+  "title": "ICEYE Engineering Intern Lab 2027",
+  "url": "https://jobs.ashbyhq.com/iceye/1b8f590b-fd9a-4c7a-ae0d-6e15f0bed42f",
+  "description": "ICEYE ENGINEERING INTERN LAB 2027\n\n\n\n\nGet paid to build the future of space.\n\n\n\nJoin ICEYE, the company operating the world’s largest Synthetic Aperture Radar (SAR) satellite constellation, for a fully paid, onsite internship where AI meets real-world engineering. The ICEYE Engineering Internship Program (“The ICEYE Intern Lab”) is designed for talented students in computer science, engineering, hardware, data science, and AI who want to apply their skills to meaningful challenges in earth observation, sensor technology, and intelligent systems.\n\n\n\nWith a flexible term of 3–6 months, interns work onsite at ICEYE’s engineering offices (Finland, Spain or Poland), collaborating directly with hardware, software, and operations teams on mission-driven projects. We seek Master’s and Bachelor’s students with strong AI tool fluency, curiosity, and a hands-on builder mindset.\n\n\n\nYou’ll be embedded in one of ICEYE’s engineering teams as a contributing team member for the duration of the program, contributing to real satellite and analytics projects (not simulations) that advance ICEYE’s mission to make the world safer and more resilient through persistent monitoring.\n\n\n\nThis second cohort officially launches in May 2027, with opportunities for early placement available.\n\n\n\nApplication Deadline: December 21, 2026\nDecision Timeline: Offers to be made on a rolling basis with final decisions made by February 15, 2027\n\nCohort start date: May 2027\n\n\n\nQualifications:\n\n\nEducation\n\n\n - Currently enrolled as a Bachelor's student (3rd year or later) or Master's student in Computer Science, Computer Engineering, Artificial Intelligence, Data Science, Electrical Engineering, Mechanical Engineering, Aerospace, or a closely related field.\n\n - Recent university graduates are also eligible.\n\n - Must be eligible to work onsite in Finland, Spain or Poland (EU/EEA citizen, or able to secure an appropriate visa with the support of ICEYE).\n   \n   \n\nTechnical Skills\n\n\nOur teams and projects span many different disciplines, but they are all highly technical and hands-on. Here is an example of technical skills needed in certain areas:\n\n - For software engineering roles: strong programming proficiency in Python, Go, Rust, and/or C++\n\n - For data science roles: computer vision, LLM,  and/or classical machine learning experience. Python as a key programming language; data processing, analysis, or visualization tools (e.g., NumPy, Pandas, Matplotlib)\n\n - All: Deep experience using AI coding assistants (e.g., Claude Code, Devin, Cursor, etc.) to enhance productivity, especially learning how to use agentic workflows.\n\n - All: Understanding of software development practices: version control (Git), testing, debugging, and documentation.\n   \n\n\nAI Mindset\n\n\n - AI development tool literacy (e.g. AI IDE or coding agents)\n\n - Demonstrated curiosity about how AI can accelerate real-world engineering.\n\n - Comfortable experimenting with AI-first workflows and prompt-based problem solving.\n\n - Willingness to learn new tools quickly and apply them to open-ended technical challenges\n\n\n\nYou …\n\n\n - have strong communication skills and ability to work in multidisciplinary teams (hardware, software, operations).\n\n - are not afraid to ask a lot of questions.\n\n - are proactive, resourceful, and a hands-on problem solver.\n\n - are able to manage time effectively in a fast-paced, high-impact environment.\n\n - are comfortable giving and receiving feedback, and presenting work during weekly reviews and demo days.\n   \n   \n\nICEYE Gives …\n\n\n - Salary 1 000 - 3 300€ /month based on location and years of study\n\n - Flights/transportation to your ICEYE office location\n\n - Housing\n\n - Work visa (if needed)\n\n\n\n\nRecruitment process\n\n\n 1. Application: Submit your CV and answer a few short questions instead of a cover letter (about 30 minutes).\n\n 2. Peer Interview (30 min): A conversation with a former ICEYE intern about how you work, learn and collaborate.\n\n 3. Team matching: We match you with the engineering team that best fits your skills and interests.\n\n 4. Technical Interview with your future team (60 min): A short problem-solving exercise and a conversation with the team lead. We care more about how you approach the problem than about getting a perfect answer.\n\n 5. Decisions and offer",
+  "posted_at": "2026-10-22T14:13:57+00:00",
+  "deadline": null,
+  "pay": null,
+  "industry": "",
+  "company_slug": "iceye",
+  "city": "Espoo",
+  "country": "FI",
+  "type": "Internship",
+  "mode": "Hybrid",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Python",
+   "AI-assisted coding",
+   "Machine learning",
+   "LLM applications",
+   "Git",
+   "Embedded C"
+  ],
+  "fields": [
+   "Data Science",
+   "Computer Science"
+  ],
+  "about": "",
+  "bullets": [
+   "Recent university graduates are also eligible.",
+   "Must be eligible to work onsite in Finland, Spain or Poland (EU/EEA citizen, or able to secure an appropriate visa with the support of ICEYE).",
+   "For software engineering roles : strong programming proficiency in Python, Go, Rust, and/or C++"
+  ],
+  "enriched": false,
+  "id": "fc2fd0909073dd88",
+  "content_hash": "3ceda89bdce9683c",
+  "first_seen": "2026-10-31T10:02:03+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
+  "is_open": true
+ },
+ "23fe38f659311b9d": {
+  "source": "jobtech",
+  "source_id": "31667693",
+  "company": "Avanzera AB",
+  "title": "Studentjobb -  ekonomiassistent på deltid till St1 Sverige AB",
+  "url": "https://jobb.avanzera.se/jobb/1804/annons",
+  "description": "Vårt uppdrag:\n\r\nÄr du ekonomistudent och vill kombinera dina studier med ett relevant extrajobb där du får praktisk erfarenhet inom ekonomi? Då kan det här vara en intressant möjlighet för dig.\n\nSt1 Sverige AB söker nu en ekonomiassistent på deltid till sitt kundreskontrateam. Här får du möjlighet att bli en del av ett sammansvetsat team, utveckla dina kunskaper inom ekonomi och samtidigt få värdefull erfarenhet från en större internationell koncern.\n\nOm St1: \nSt1 är ett energibolag verksamt i Finland, Sverige, Norge och Storbritannien.\nSt1s energiportfölj omfattar oljeprodukter, biogas, hållbart flygbränsle (SAF), förnybar diesel (HVO) och solenergi. St1 driver även flera energiomställningsprojekt.\nSt1 har cirka 1 150 stationer i Finland, Sverige och Norge. Stationsnätverket erbjuder marknadsplatser med drivmedel, ett växande antal laddstationer för elfordon, biogastankning för tung trafik, biltvättar samt fristående butiker och restauranger. St1 har fler än 1 000 medarbetare.\nwww.st1.se\n\r\n\r\nArbetsuppgifter:\n\r\nSom ekonomiassistent blir du en del av St1:s kundreskontrateam, som idag består av fem personer. Du kommer framför allt att stötta teamet i det löpande arbetet med kundreskontran för de svenska bolagen inom St1-koncernen.\n\nRollen passar dig som fortfarande har en bra bit kvar av dina studier och vill ha ett långsiktigt extrajobb vid sidan av dem. Behovet varierar under månaden och är som störst under de två första veckorna. Under perioder med högre arbetsbelastning, exempelvis kring jul och påsk, kan behovet öka. Under sommaren finns möjlighet att arbeta upp till 100 procent, vilket innebär möjlighet till sommarjobb på heltid.\n\nEftersom detta är ett längre konsultuppdrag kommer du att vara anställd hos oss på Avanzera och arbeta ute hos St1 i deras trevliga kontorslokaler i Bromma.\n\nÄr du nyfiken på vad våra konsulter säger om hur det är att arbeta hos oss? Gå gärna in och läs vad våra medarbetare har gett oss för omdömen på Reco: https://www.reco.se/avanzera-ab \n\n\nDina arbetsuppgifter:\n\n•\tHantera kundreskontran för de svenska bolagen inom St1-koncernen.\n•\tHantera in- och utbetalningsfiler.\n•\tStötta teamet i det löpande arbetet inom kundreskontra.\n\nDu kommer att arbeta i en miljö där ekonomi och system hänger tätt ihop, vilket gör rollen särskilt intressant för dig som är nyfiken på både ekonomiprocesser och de system som stödjer dem.\n\r\n\r\nDin bakgrund:\n\r\nVi söker dig som:\n•\tLäser en kandidatutbildning inom ekonomi och har minst 1,5 år kvar av dina studier.\n•\tHar möjlighet att arbeta cirka 20–50 procent per vecka, med störst tillgänglighet under de två första veckorna i månaden.\n•\tHar goda kunskaper i engelska, både i tal och skrift, eftersom engelska är koncernspråk inom St1.\n\nDet är meriterande men inte ett krav om du:\n•\tHar tidigare erfarenhet av ekonomiarbete.\n•\tHar goda kunskaper i Excel.\n•\tErfarenhet av D365.\n•\tHar ett intresse för IT, system och ekonomiprocesser.\n\nDu behöver däremot inte kunna allt från början. För oss är det minst lika viktigt att du är nyfiken, vill lära dig och har lätt för att sätta dig in i nya arbetsuppgifter och system.\n\nPersonliga egenskaper:\nFör att trivas och lyckas i rollen tror vi att du är lättlärd, lyhörd, noggrann och prestigelös. Du tycker om att arbeta strukturerat och har ett gott öga för detaljer. Du hjälper gärna till där det behövs och uppskattar att arbeta tillsammans med andra.\n\nTeamet arbetar nära varandra och vi tror därför att du är en person som bidrar till ett gott samarbete och en positiv stämning.\n\nVad vi erbjuder:\nDet här är en fin möjlighet för dig som vill börja bygga din erfarenhet inom ekonomi redan under studietiden.\nDu får arbeta praktiskt med kundreskontra i en större organisation, lära dig mer om ekonomiprocesser och system och bli en del av ett erfaret team där du får möjlighet att utvecklas över tid.\n\nTjänsten är dessutom flexibel och går att kombinera med dina studier, samtidigt som det finns möjlighet att arbeta mer under perioder då du har större tillgänglighet.\n\nLåter det här som något för dig? Skicka gärna in din ansökan redan idag. Vi arbetar med urval löpande och ser fram emot att få berätta mer om rollen och möjligheten att bli en del av teamet på St1.\n\nNyckelord: Student, Studentjobb, Ekonomiassistent, extrajobb. \n\n\r\n\r\nOm oss:\n\r\nAvanzera grundades 1998. Hos oss får du en personlig konsultchef som är med dig genom hela resan från intervju till uppföljning av uppdraget. Vi lägger stor vikt vid personliga relationer och att vårt samarbete ska bli bra och långsiktigt. \n\nNågot som är viktigt för dig som ser dig omkring efter ett nytt jobb är att vi är ett auktoriserat rekryterings- och bemanningsföretag genom Kompetensföretagen vilket innebär att vi har kollektivavtal och försäkringar vilket är en trygghet för dig bland annat genom att du har tjänstepension. En annan trygghet är att vi varit verksamma i mer än 20 år i branschen vilket borgar för att vi arbetar med långsiktiga relationer med både kunder och våra anställda. Vi är det enda bemanningsföretaget som uppmanar alla kunder och anställda att lämna omdömen om oss genom Reco. Här kan du läsa omdömen från våra anställda och våra kunder https://www.reco.se/avanzera-ab. Hoppas att du snart är en av dem som ger oss ett omdöme.",
+  "posted_at": "2026-10-30T15:45:49+00:00",
+  "deadline": "2026-11-30T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5565201182",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Excel modelling"
+  ],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "Du kommer framför allt att stötta teamet i det löpande arbetet med kundreskontran för de svenska bolagen inom St1-koncernen.",
+  "bullets": [
+   "\tHantera kundreskontran för de svenska bolagen inom St1-koncernen.",
+   "\tHantera in- och utbetalningsfiler.",
+   "\tStötta teamet i det löpande arbetet inom kundreskontra."
+  ],
+  "enriched": false,
+  "id": "23fe38f659311b9d",
+  "content_hash": "d54083e320f2a058",
+  "first_seen": "2026-10-31T10:02:03+00:00",
+  "last_seen": "2026-10-31T10:02:03+00:00",
   "is_open": true
  }
 }
