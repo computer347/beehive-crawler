@@ -763,7 +763,7 @@
   "content_hash": "7d300590062c7e40",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "e7f6e4085a0417ab": {
   "source": "jobtech",
@@ -879,7 +879,7 @@
   "content_hash": "9bd3b723ff60ae5e",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "03dfc6c2b08c0909": {
   "source": "jobtech",
@@ -916,7 +916,7 @@
   "content_hash": "9287156d11c9b87b",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "f2da3db7d8d654dc": {
   "source": "jobtech",
@@ -953,7 +953,7 @@
   "content_hash": "429e0b35473888bc",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "7f207031cf115f12": {
   "source": "jobtech",
@@ -988,7 +988,7 @@
   "content_hash": "49e609cee957250b",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "711a074d6eeb327f": {
   "source": "jobtech",
@@ -1024,7 +1024,7 @@
   "content_hash": "4f81076ee86c05c4",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "bf2997c93b9868af": {
   "source": "jobtech",
@@ -1096,7 +1096,7 @@
   "content_hash": "7973359fb9d1f4b1",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "e77bb422fda554b2": {
   "source": "jobtech",
@@ -1170,7 +1170,7 @@
   "content_hash": "f9f488bde79efe90",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "d489f2bc12fa717c": {
   "source": "jobtech",
@@ -1207,7 +1207,7 @@
   "content_hash": "d081f59f7af1a418",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "2fb936555883da97": {
   "source": "jobtech",
@@ -1246,7 +1246,7 @@
   "content_hash": "1e9db2cd6919b79c",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "b27bd77f5956eabf": {
   "source": "jobtech",
@@ -1283,7 +1283,7 @@
   "content_hash": "33d31775130d08f0",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "3a84d954a4fc55ea": {
   "source": "jobtech",
@@ -1325,7 +1325,7 @@
   "content_hash": "da5e564b1259de63",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "1808642af1771a1b": {
   "source": "jobtech",
@@ -1367,7 +1367,7 @@
   "content_hash": "5ef6bd99b540f9bf",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "84eac48d22d24a39": {
   "source": "jobtech",
@@ -1403,7 +1403,7 @@
   "content_hash": "9cebe82af1ea65fb",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "39424e85dba2844a": {
   "source": "jobtech",
@@ -1440,7 +1440,7 @@
   "content_hash": "54770d5fefac6189",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "97e053036c3db2be": {
   "source": "jobtech",
@@ -1477,7 +1477,7 @@
   "content_hash": "34b239d0f69ec32b",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "217562eb3f707bdf": {
   "source": "jobtech",
@@ -1514,7 +1514,7 @@
   "content_hash": "4f90949a497f6177",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "cd7a1e98cdf4365c": {
   "source": "jobtech",
@@ -1551,7 +1551,7 @@
   "content_hash": "d19d9d99a9827852",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "c645eed59395b253": {
   "source": "jobtech",
@@ -1590,7 +1590,7 @@
   "content_hash": "491aff6415beb344",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "3bcd1cfad19ac0a9": {
   "source": "jobtech",
@@ -1629,7 +1629,7 @@
   "content_hash": "8f0ceb47a9b68909",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "cadc084332fb5ff1": {
   "source": "jobtech",
@@ -1668,7 +1668,7 @@
   "content_hash": "b250d1ef39e48089",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "d697dbbcbbd68791": {
   "source": "jobtech",
@@ -1706,7 +1706,7 @@
   "content_hash": "40f00c3f1352e9c9",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "00e2f2f03fa0f8a3": {
   "source": "jobtech",
@@ -2264,7 +2264,7 @@
   "content_hash": "33ed3b7a5555c825",
   "first_seen": "2026-09-25T09:11:48+00:00",
   "last_seen": "2026-10-18T08:24:54+00:00",
-  "is_open": true
+  "is_open": false
  },
  "ddef14251dabcc3c": {
   "source": "jobtech",
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3760,7 +3760,7 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "100b3ca237dbdd8f": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3900,7 +3900,7 @@
   "id": "eb4f219fa1a59427",
   "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "d3485f4a9eeaa44a": {
@@ -3937,7 +3937,7 @@
   "id": "d3485f4a9eeaa44a",
   "content_hash": "7c76bb4f5501f8b5",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "14d9f705e194a68d": {
@@ -3972,7 +3972,7 @@
   "id": "14d9f705e194a68d",
   "content_hash": "d81b769af7517056",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "284af395742f5996": {
@@ -4008,7 +4008,7 @@
   "id": "284af395742f5996",
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "a34336eda1249908": {
@@ -4044,7 +4044,7 @@
   "id": "a34336eda1249908",
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "4abdcf409ba10748": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4131,7 +4131,7 @@
   "id": "a95ce12d79fb4275",
   "content_hash": "5653350baebbbb1d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "cf272da6fb5b9a09": {
@@ -4168,7 +4168,7 @@
   "id": "cf272da6fb5b9a09",
   "content_hash": "7a077a650396390f",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "57c9f2d263faff77": {
@@ -4206,7 +4206,7 @@
   "id": "57c9f2d263faff77",
   "content_hash": "1176878e741c4389",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "3de5a0e4bc3f14d7": {
@@ -4242,7 +4242,7 @@
   "id": "3de5a0e4bc3f14d7",
   "content_hash": "556a1352a82130af",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "c258d2c245824aa5": {
@@ -4277,7 +4277,7 @@
   "id": "c258d2c245824aa5",
   "content_hash": "f0be991e564c61aa",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "3245c704630c7252": {
@@ -4312,7 +4312,7 @@
   "id": "3245c704630c7252",
   "content_hash": "e61dd9f770bbdf73",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "aed461abf42cc158": {
@@ -4347,7 +4347,7 @@
   "id": "aed461abf42cc158",
   "content_hash": "aff177fca0a24261",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "436b59a9a220b2d5": {
@@ -4382,7 +4382,7 @@
   "id": "436b59a9a220b2d5",
   "content_hash": "c73607690f0a0f55",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "e72a18c9c561a77e": {
@@ -4419,7 +4419,7 @@
   "id": "e72a18c9c561a77e",
   "content_hash": "fec5d49654245f1c",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "7ae00f5246748da3": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4490,7 +4490,7 @@
   "id": "94710df98f75c84c",
   "content_hash": "6b5d98c35e677409",
   "first_seen": "2026-10-27T09:26:23+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "def938b14cca9b5b": {
@@ -4529,7 +4529,7 @@
   "id": "def938b14cca9b5b",
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-10-28T10:08:15+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "feb9a7e5e7a79365": {
@@ -4577,7 +4577,7 @@
   "id": "feb9a7e5e7a79365",
   "content_hash": "156283bd152b0f2c",
   "first_seen": "2026-10-28T10:08:15+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "ce2b0850d462aa4b": {
@@ -4614,7 +4614,7 @@
   "id": "ce2b0850d462aa4b",
   "content_hash": "5bb55777b0791cf8",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "eb89c946085ac4c6": {
@@ -4654,7 +4654,7 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "fc2fd0909073dd88": {
@@ -4700,7 +4700,7 @@
   "id": "fc2fd0909073dd88",
   "content_hash": "3ceda89bdce9683c",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "23fe38f659311b9d": {
@@ -4741,7 +4741,7 @@
   "id": "23fe38f659311b9d",
   "content_hash": "d54083e320f2a058",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  },
  "b7b7e83811bd9251": {
@@ -4783,7 +4783,226 @@
   "id": "b7b7e83811bd9251",
   "content_hash": "f3da8d89eed4020c",
   "first_seen": "2026-11-02T11:49:32+00:00",
-  "last_seen": "2026-11-02T11:49:32+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
+  "is_open": true
+ },
+ "8134c83ba1d67ea7": {
+  "source": "smartrecruiters",
+  "source_id": "744000159144119",
+  "company": "Konecranes",
+  "title": "Trainee, Business Analyst",
+  "url": "https://jobs.smartrecruiters.com/Konecranes/744000159144119-trainee-business-analyst",
+  "description": "Are you studying industrial engineering or business management and looking to gain valuable experience in business analysis and strategy in an international work environment? We might have the perfect opportunity for you! \nWe are looking for a Business Analyst Trainee to join our Strategy team in Espoo. You will support the team in gathering and summarising information and preparing materials that support management decision-making. \n Key responsibilities: \n• Creating impactful presentations and management materials by gathering and summarising information on different business topics \n• Assisting with data analysis and reporting for strategy work and ongoing projects \n• Supporting strategy and strategic projects, including topics related to artificial intelligence \n• Contributing to market intelligence activities and preparing a weekly newsletter \n You will work with colleagues and stakeholders across different teams and business areas. We are looking for someone who is curious, eager to learn, comfortable exploring new subjects and reaching out to others to find the information and perspective needed. \n You can be based in Espoo or Hyvinkää, with Espoo as the main location for the team. We work in a hybrid model, with an expectation to work on-site three days per week.\n What kind of talent are we looking for? \n This role is ideal for a student who is eager to learn more about business analysis and strategy. You are welcome to Konecranes as yourself, but we especially value curiosity, a proactive approach, good teamwork skills and the ability to adapt to new topics. As our work environment is highly international, good English skills and confidence in working in an international environment are important. \n In addition, we hope you have: \n• Ongoing master's studies in Industrial Engineering, Business Management or a related field \n• Basic understanding of project management, data analysis and management reporting through your studies or previous work experience \n• Interest in Geopolitics and Artificial Intelligence\n• Good Microsoft Office skills \n• Good written and spoken English \n Familiarity with SharePoint or Power BI and previous experience in similar tasks are considered an advantage. \n Why join Konecranes? \n At Konecranes, you will get to develop your professional skills and apply your academic knowledge in practice. As a Business Analyst Trainee, you will gain hands-on experience and develop your skills in areas such as business analysis, project management, data analysis, reporting and market intelligence. \n You will also get an inside view of how strategy work is done in an international company and how topics such as artificial intelligence can be used as part of strategy work. At Konecranes, we want to foster an environment where people enjoy their work, feel respected and trusted, and have opportunities to learn and develop. \n Interested? \n Please submit your application together with a portfolio or work sample showcasing your skills, for example, a data analysis, Power BI report or relevant university project, by 15.11.2026 at the latest via the Apply link below. You can add additional attachments, such as your application and portfolio, on the second page of the application form. We will start reviewing applications during the application period and may fill the role once we find the right candidate. \nFor further information, please contact Emilia Sasi, Talent Acquisition Specialist via phone (+358 50 525 6655) during the following times: 6.11 between 9:30-10:30 EET and 10.11 between 13:00-14:00 EET.\nWhat to do while I wait for the application period to end? \nDid you know that Konecranes has an Instagram account where we give tips for job hunting and information about our open positions? Go check out the account and be sure to follow us! We would love to connect with you on social media! You can find the account from here: https://www.instagram.com/konecranes_careers \n Konecranes moves what matters . We are a global leader in material handling solutions, serving a broad range of customers across multiple industries. We consistently set the industry benchmark, from everyday improvements to the breakthroughs at moments that matter most, because we know we can always find a safer, more productive and sustainable way. That's why, with 16 000+ professionals in over 50 countries, we are trusted every day to lift, handle and move what the world needs.\nKonecranes is committed to ensuring that all employees and job applicants are treated fairly in an environment which is free from any form of discrimination.",
+  "posted_at": "2026-11-02T13:40:35+00:00",
+  "deadline": null,
+  "pay": null,
+  "industry": "",
+  "company_slug": "konecranes",
+  "city": "Hyvinkää or Espoo",
+  "country": "FI",
+  "type": "Graduate",
+  "mode": "Hybrid",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Data analysis",
+   "Data visualisation"
+  ],
+  "fields": [
+   "Economics & Business",
+   "Data Science"
+  ],
+  "about": "You will support the team in gathering and summarising information and preparing materials that support management decision-making.",
+  "bullets": [
+   "Creating impactful presentations and management materials by gathering and summarising information on different business topics",
+   "Assisting with data analysis and reporting for strategy work and ongoing projects",
+   "Supporting strategy and strategic projects, including topics related to artificial intelligence"
+  ],
+  "enriched": false,
+  "id": "8134c83ba1d67ea7",
+  "content_hash": "678d070d149f1c22",
+  "first_seen": "2026-11-03T11:28:02+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
+  "is_open": true
+ },
+ "bc568d7d093379ea": {
+  "source": "jobtech",
+  "source_id": "31676757",
+  "company": "ICA Sverige AB",
+  "title": "Sommarjobb inom ekonomi på ICA Affärsservice",
+  "url": "https://karriar.icagruppen.se/se/sv/job/R0031776?utm_source=arbetsformedlingen",
+  "description": "Pluggar du ekonomi och vill omsätta dina kunskaper i praktiken i sommar?\nHos oss på ICA Affärsservice får du chansen att skaffa värdefull arbetslivserfarenhet, lära dig mer om ekonomi i en stor organisation och samtidigt bli en del av ett team med engagerade kollegor. Med ca 300 medarbetare och hantering av över 900 kunder är ICA Affärsservice Västerås största (och en av Nordens största) lokala leverantör av ekonomi- och lönetjänster. Ett perfekt sommarjobb för dig som vill bygga CV, utvecklas och få en spännande inblick i ICA!\n \nOm jobbet\nUnder sommaren 2027 söker vi flera sommarvikarier till ICA Affärsservice i Västerås. Beroende på din bakgrund och vilket område du arbetar inom kan du exempelvis få jobba med:\n Butiksekonomi: bokföring och avstämningar för ICA-butiker.\nKoncernekonomi: bland annat in- och utbetalningar inom vår likvidgrupp.\nShared Service Center Hub: leverantörs- och kundreskontra, kundservice eller masterdata.\n \nOavsett område blir du en del av ett team där du får stöd av erfarna kollegor och möjlighet att lära dig mycket på kort tid.\n \nÄr du den vi söker?\nVi söker framför allt dig som:\nstuderar ekonomi på högskola eller universitet, alternativt har erfarenhet av liknande arbetsuppgifter\nkan arbeta under semesterperioden juni–augusti 2027\nhar goda kunskaper i Excel\nhar goda kunskaper i svenska, både i tal och skrift\n \nÖnskvärt att du är analytisk, nyfiken och strukturerad, med hög ambition och drivkraft att arbeta självständigt.\n Därför ska du välja ICA\nHär får du inte bara ett sommarjobb. Du får möjlighet att bygga erfarenhet inför framtiden, skapa nya kontakter och lära känna olika delar av ekonomiområdet.\n \nEfter sommaren finns dessutom möjlighet att bli en del av vår resurspool tillsammans med vår bemanningspartner och arbeta extra när behov uppstår under året.\nOch självklart får du många härliga kollegor att dela både arbetsdagar, lärande och skratt med på vårt kontor i centrala Västerås.\n \nLäs mer om livet på ICA här: https://www.icagruppen.se/karriar/#!/livet-pa-ica .\n \nVad händer nu?\nAnställningen är en visstidsanställning under juni–augusti 2027, med start i juni eller enligt överenskommelse.\n \nSista ansökningsdag: 17 december 2026. Urval sker löpande.\n \nHar du frågor om tjänsten? Kontakta:\nEva-Lena Nilsén, eva.lena.nilsen@ica.se Desiréeh Ozlati, desireeh.ozlati@ica.se\n \nICA ska spegla våra kunder och samhället och vi strävar därför efter att anställa människor med olika bakgrund, kompetenser, kunskap och erfarenheter.\nOm rollen kräver, behöver du genomgå tester och bakgrundskontroller innan anställning. Drogtestning av slutkandidat genomförs för alla roller.",
+  "posted_at": "2026-11-03T09:00:40+00:00",
+  "deadline": "2026-12-17T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5560210261",
+  "city": "Västerås",
+  "country": "SE",
+  "type": "Summer job",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Excel modelling"
+  ],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "bc568d7d093379ea",
+  "content_hash": "98e42f524c9c4b25",
+  "first_seen": "2026-11-03T11:28:02+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
+  "is_open": true
+ },
+ "ffe2c2c0478a0b1d": {
+  "source": "jobtech",
+  "source_id": "31673013",
+  "company": "Vattenfall AB",
+  "title": "Examensarbete - Optimering av taktiska investeringsportföljen avseende",
+  "url": "https://easyapply.jobs/r/GKzzdcG27x4ujG2DZqbL",
+  "description": "Företagsbeskrivning\n\nVattenfall är ett ledande europeiskt energiföretag med 12 miljoner kunder och cirka 21 000 anställda. Vi är övertygade om att det finns en väg att bygga en framtid där alla kan välja fossilfria sätt att transportera, producera och leva.\n\nJobbeskrivning\n\nÄr du student och vill använda dina kunskaper för att bidra till verkliga lösningar inom energiomställningen? Hos oss får du möjlighet att genomföra ditt examensarbete nära verksamheten, tillsammans med erfarna specialister och med utmaningar där dina idéer och perspektiv kan göra skillnad.\nAvdelningen Asset Portfolio inom Vattenfall Eldistribution AB ansvarar för förvaltning och utveckling av den taktiska anläggningsåtgärdsportföljen. I förvaltningsansvaret ingår att prioritera de anläggningsåtgärder som bäst bidrar till bolagets mål, minskar risker i anläggningarna och säkerställer elnätets funktion. Men hur väljer man då rätt investeringar när behoven är större än de tillgängliga resurserna? I takt med samhällets elektrifiering ökar behovet av investeringar i elnätet. Samtidigt behöver ett stort antal investeringsbehov vägas mot varandra utifrån flera perspektiv, såsom risk, kostnad, nytta, tillgängliga resurser och möjlighet att genomföra investeringarna. Det skapar ett komplext beslutsproblem där flera mål och begränsningar behöver hanteras samtidigt.\nI detta examensarbete får du undersöka hur optimeringsbaserade metoder kan tillämpas för att skapa en optimal och genomförbar investeringsportfölj. Arbetet innebär att utveckla och utvärdera ett optimeringsbaserat angreppssätt som exempelvis tar hänsyn till riskreduktion, investeringskostnad, budget, resursbehov och genomförbarhet. Arbetet kan även omfatta scenario- och känslighetsanalyser för att undersöka hur osäkerheter och förändrade förutsättningar påverkar portföljens sammansättning.\nMålet med examensarbetet är att bidra till utvecklingen av ett transparent och datadrivet beslutsstöd för taktisk investeringsplanering, där optimering kan hjälpa till att identifiera hur begränsade resurser kan användas på bästa möjliga sätt, inom ramen för definierade randvillkor.\nDetta uppdrag är ämnat för 1–2 studenter.\n\nKvalifikationer\n\nVi söker student/studenter som snart avslutar sina akademiska studier och som vill omsätta sina kunskaper i praktiken genom ett examenarbete hos Vattenfall. Du är även någon som identifierar sig med våra principer: Aktiv, Öppen, Positiv och Säkerhet.\nVidare ser vi att du uppfyller följande:\nstuderar en civilingenjörsutbildning, exempelvis inom industriell ekonomi, informationsteknik, datateknik, energiteknik eller liknande\nhar goda kunskaper inom programmering (meriterande)\när flytande i både svenska och engelska i tal ock skrift\nhar god analytisk förmåga och vana att arbeta med kvalitativa och kvantitativa metoder\nhar god förmåga att lösa komplexa problem, gärna med hjälp av data och modeller\när nyfiken och har god förmåga att sätta dig in i komplexa processer och identifiera mönster, samband och utvecklingsmöjligheter\n\nOmfattning: 30hp.\n\nYtterligare information\nUppdraget startar: 2027-01-15 eller vid överenskommelse\nPlaceringsort: Solna, Stockholm\nAnsökan – bifoga en fil som innehåller ditt CV och en kopia av dina betyg. Observera att man endast kan bifoga en fil i ansökan, därmed är det viktigt att informationen är samlad i en och samma fil.\nSista ansökningsdag är 2026-11-30. Vi tillämpar löpande urval och platsen kan tillsättas innan sista ansökningsdag, så vänta inte med att skicka in din ansökan. \nKontaktperson och handledare på Vattenfall: Sofia Mattus, sofia.mattus@vattenfall.com, +46702482812\n\nMångfald och inkludering – i allt vi gör \nPå Vattenfall värdesätter vi att vara aktiva, positiva, öppna och säkerhetsmedvetna. Vi söker medarbetare som delar vår vision och kan bidra till att stärka vår företagskultur. Vi är övertygade om att mångfald bidrar till att bygga ett mer lönsamt och tilltalande företag och strävar efter att vara goda förebilder när det gäller mångfald. Vattenfall arbetar aktivt för att alla medarbetare ska ha samma möjligheter och rättigheter oavsett ålder, etnisk eller kulturell bakgrund, könstillhörighet, religion/tro, sexuell läggning eller funktionsvariation. Läs mer om hur vi arbetar med mångfald och inkludering här.       \nVattenfall är en del av Sveriges kritiska infrastruktur, därmed är många av våra tjänster säkerhetsklassade. Är denna tjänst säkerhetsklassad kommer säkerhetsprövning genomföras innan anställning, i enlighet med säkerhetsskyddslagen.",
+  "posted_at": "2026-11-02T12:56:36+00:00",
+  "deadline": "2026-11-30T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5560362138",
+  "city": "Solna",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Electrical Engineering"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "ffe2c2c0478a0b1d",
+  "content_hash": "b0510c91c2be3356",
+  "first_seen": "2026-11-03T11:28:02+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
+  "is_open": true
+ },
+ "00f8585cc49c03e9": {
+  "source": "jobtech",
+  "source_id": "31677007",
+  "company": "Akademisk Marknadsanalys Stockholm AB",
+  "title": "Trainee inom finans – bygg din karriär hos oss",
+  "url": "https://arbetsformedlingen.se/platsbanken/annonser/31677007",
+  "description": "Vill du bygga en karriär inom finans och få möjlighet att utvecklas i en entreprenöriell miljö? Akademisk Marknadsanalys söker nu en trainee till vårt team på Bangårdsgatan 13 i Uppsala.\nHos oss får du en praktisk introduktion till finansmarknaden och möjlighet att utvecklas inom marknadsanalys, investeringar, kundrelationer och finansiell rådgivning.\nVi söker dig som är ambitiös, nyfiken och vill ta ansvar från dag ett. Som trainee blir du en del av vårt team och får successivt ta större ansvar.\nDu kommer bland annat att arbeta med:\nFörberedelse av marknads- och investeringsunderlag\nKundkontakt och relationsbyggande\nMötesbokning och förberedelse inför kundmöten\nAdministration\nFörståelse för aktier, fonder och andra finansiella instrument\n\nDu får arbeta nära erfarna kollegor och lär dig verksamheten genom praktiskt arbete, utbildning och löpande coachning.\nVi söker dig som:\nHar akademisk examen inom ekonomi, finans, industriell ekonomi eller motsvarande, minst 3 år.\nHar ett genuint intresse för finans och investeringar\nÄr strukturerad och noggrann\nÄr kommunikativ och trivs med människor\nHar ett starkt eget driv och tycker om att ta ansvar\nÄr affärsmässig och resultatorienterad\nVill utvecklas och bygga en långsiktig karriär inom finans\nFlytande svenska i tal och skrift.\n\nDet viktigaste för oss är din ambition, nyfikenhet och vilja att utvecklas.\nAnsökan\nVälkommen med din ansökan redan idag! Vi går igenom urvalet löpande. Märk ansökan med ordet \"Trainee Göteborg\", bifoga ett personligt brev och CV. För mer information eller frågor kontakta Emma Östlund emma.ostlund@akademisk.se.\nOm oss\nAkademisk Marknadsanalys har funnits i 17 år och tillhandahåller en heltäckande kapitalförvaltning, för både privat och företagskunder. Akademisk arbete präglas av högt engagemang och stor respekt för klienternas kapital. Vi erbjuder det bästa inom förmögenhetsrådgivning kombinerat med familjejuridik och skatterådgivning.",
+  "posted_at": "2026-11-03T09:31:35+00:00",
+  "deadline": "2026-12-03T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5567838064",
+  "city": "Uppsala",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "Som trainee blir du en del av vårt team och får successivt ta större ansvar.",
+  "bullets": [],
+  "enriched": false,
+  "id": "00f8585cc49c03e9",
+  "content_hash": "26e151521f494ddb",
+  "first_seen": "2026-11-03T11:28:02+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
+  "is_open": true
+ },
+ "32a92c72104454f3": {
+  "source": "jobtech",
+  "source_id": "31673323",
+  "company": "Arla Foods AB",
+  "title": "F15 Graduate Programme 2027",
+  "url": "https://jobs.arla.com/gb/en/job/111614/F15-Graduate-Programme-2027",
+  "description": "Are you eager to influence the future direction of Arla Foods? Do you envision yourself as a future leader?\nHow will you make an impact?\nThe Arla F15 Graduate Programme is a two-year, international development programme designed for graduates who want to learn quickly, explore different areas of a global business and grow into future leadership opportunities.\nThrough three eight-month rotations, you will work on meaningful business projects, build an international network and develop the confidence, skills and experience to make an impact at Arla. Business areas for projects may include Marketing, Sales, HR, Strategy, Sustainability, Business Development, and Supply Chain. We will match you with a suitable department based on business needs and your profile, offering you the chance to learn and make a difference. Your F15 Graduate journey begins on 1st September 2027.\n\n\nFirst rotation (8 months - Aarhus, Denmark) Based at one of our offices in Aarhus you will be assigned a strategically important project somewhere in the business.\nSecond rotation (8 months - Outside Denmark) You will have more influence over your second project assignment, which will give you the opportunity to continue growing in a meaningful way whilst adding real value to Arla.\nThird rotation (8 months - Any Arla market) You will collaborate with the business to source potential high impact projects for your third rotation. You will have the most influence over projects during your final rotation.\n\n \nWhat will make you a successful F15 Graduate?\nTo apply for the F15 Graduate Programme, please ensure that you meet the following criteria\nYou should either be in the process of completing, or have completed, a bachelor’s or master’s degree between September 2025 and September 2027. We welcome diverse educational backgrounds but seek candidates with a strong drive towards a business-focused career.\nInternational experience gained from working, studying or volunteering abroad is an advantage.\nPreferably at least one year of relevant work experience from student jobs or a minimum of six months of internship experience.\nYou are globally mobile and willing to go on one or two rotations abroad during the two-year programme. As your first rotation is based in Aarhus, Denmark you will need to relocate unless you already reside in the local area. Arla Foods will support you with this relocation.\n\n \nThis programme will suit graduates who have leadership aspirations and an ambitious mindset, which combines strategic thinking with a passion for results. A global mindset is essential, as is the ability to build positive relationships and strong influencing skills. The ideal candidate should be curious, competitive, and open to change, demonstrating resilience, while also being humble, self-aware, and open to feedback.\nThroughout the rotations you will receive a variety of development opportunities every step of the way. To ensure your professional and personal development, you will benefit from\nResponsibilities from day one, enabling on-the-job learning in three different areas\nGraduate development camps, taking place in different markets with your graduate colleagues\nOne-to-one mentoring and sparring from senior leaders\nBe part of a supportive graduate community across all Arla Futures programmes \n\n\n\nImportant information before applying\nThe application period for the F15 Graduate Programme runs from 2nd November 2026 until 2359 CET on 3rd January 2027. Before applying, please ensure you have prepared your CV and cover letter in English. You will be asked a series of questions on the application page, so we recommend that you start the application process from a computer instead of a mobile phone.\nFor additional information, read more about the F15 Graduate Programme on our website. Here, you can get inspiration from some of our previous and current F15s and learn more about the programme. You can also read more about what to expect from the recruitment process on our website.\nShape the Future of Dairy\nArla is a global leader in the dairy industry, committed to enabling good food choices that make life better, providing people with nourishment, while taking care at every step to ensure Arla is a choice they can feel good about. If you are looking to shape the future with an ambitious global cooperative that truly cares about your growth, where everyone feels valued and empowered, and collaboration is the core of culture, Arla is a choice you can feel good about.",
+  "posted_at": "2026-11-02T13:26:15+00:00",
+  "deadline": "2026-11-17T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5565794400",
+  "city": "Solna",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English"
+  ],
+  "skills": [],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "Through three eight-month rotations, you will work on meaningful business projects, build an international network and develop the confidence, skills and experience to make an impact at Arla.",
+  "bullets": [],
+  "enriched": false,
+  "id": "32a92c72104454f3",
+  "content_hash": "c0d712ab093b8135",
+  "first_seen": "2026-11-03T11:28:02+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
+  "is_open": true
+ },
+ "dba1e8c9eacb026f": {
+  "source": "jobtech",
+  "source_id": "31673446",
+  "company": "Arla Foods AB",
+  "title": "Supply Chain Graduate Programme 2027",
+  "url": "https://jobs.arla.com/gb/en/job/111615/Supply-Chain-Graduate-Programme-2027",
+  "description": "Are you eager to build an international career across our end-to-end Supply Chain, powering renowned dairy brands such as Lurpak, Arla and Castello? Do you want responsibility from day one and the chance to lead strategic projects that shape how we plan, produce and move sustainable dairy? As a Supply Chain Graduate, you will gain broad, hands-on experience across our end-to-end Supply Chain, build a strong international network and accelerate your development towards future leadership roles in Arla.\n \nAbout the Supply Chain Graduate Programme\nThe 2-year Supply Chain Graduate Programme offers an end-to-end perspective of Supply Chain with four rotations of 6 months each. You will develop your project leadership skills while gaining hands-on experience in Logistics, Production, Planning and Engineering & Technology. You will work on strategic projects in areas such as sustainability and digitalization and get the full perspective of Arla’s Supply Chain – from farm to fridge. This opportunity lets you explore your leadership potential, accelerating your career towards a leading role in our Global Supply Chain function to help shape the future of sustainable dairy.\n \nWe are looking for graduates to join the programme at one of our production sites in Denmark, Sweden, United Kingdom, and Germany. You will spend 18 months at your primary location and have a 6-month rotation abroad during the programme. We will assign you to the local site where we see the best fit for your development opportunities.\n \nAs a graduate in Supply Chain, you will be exposed to production sites, distribution centers, and warehouses. You and your fellow Supply Chain graduates will work on strategically important projects at your respective sites, all focusing on the same overall topics - such as sustainability, digitalization and lean optimization, among much more. The rotations are structured as follows\nFirst rotation You will start at an operations site working in either Production or Logistics.\nSecond rotation In your second rotation, you will stay in the same location and work in Planning.\nThird rotation In this rotation, you will go abroad to a different country and work with a co-graduate in Engineering & Technology.\nFourth rotation In the last rotation, you will return to your first location and work in either Production or Logistics.\n\n \nHow you will make an impact as a Supply Chain Graduate\nAs part of our Supply Chain Graduate Programme, you will receive a variety of development opportunities every step of the way. To ensure your professional and personal development, you will benefit from\nReal responsibilities from day one enabling on-the-job learning\nLeadership development camps, taking place in different markets with your graduate colleagues\nOne-to-one mentoring from senior leaders\nAn impactful graduate experience and access to a global graduate network\n\n \nAcross your four rotations you will\nLead and deliver projects that improve safety, quality, service, costs and sustainability\nWork with data, digitalization and automation to optimize processes\nGain an understanding of the full Supply Chain\nBuild stakeholder management and change leadership skills in diverse, international teams\n\n \nAre you our next Supply Chain graduate?   \nTo apply for the Supply Chain Graduate Programme, please ensure that you can tick off the following boxes\nYou are completing or have completed a bachelor’s or master’s degree between September 2025 and September 2027, preferably within supply chain, engineering, food/dairy science, operations, logistics, production or a related field\nYou have a strong interest in end-to-end supply chain, processes and operations with general business acumen and commercial interest being an advantage\nPreferably minimum one year of relevant work experience from student jobs or minimum 6 months of internship\nYou are globally mobile and willing to go abroad for 6 months during the 2-year programme\nInternational experience and cross-cultural understanding gained from working, studying or volunteering abroad will be considered a plus\nYou are fluent in English. Furthermore, it is an advantage if you speak Danish, German or Swedish\n\n \nAdditionally, we are looking for personal qualifications including\nClear leadership aspirations and the drive to deliver results\nA global, curious mindset with strong relationship-building and influencing skills\nCuriosity, openness to change, and resilience with a continuous interest in learning\nHumbleness, self-awareness and receptiveness to feedback\n\n \nImportant information before application\nThe application period for the Supply Chain Graduate Programme runs from November 2nd 2026 to January 3rd 2027. Before applying, please make sure that you have already prepared your CV and cover letter in English. You will be asked different questions on the application page, thus we recommend that you start the application process from a computer instead of a mobile phone.\n \nFor additional information, read more about the Supply Chain Graduate Programme on our website. Here, you can get inspiration from some of our previous and current graduates and learn more about the programme. You can also read more about what to expect from the recruitment process.\n \nShape the Future of Dairy \nArla is a global leader in the dairy industry, committed to enabling good food choices that make life better, providing people with nourishment, while taking care at every step to ensure Arla is a choice they can feel good about. If you are looking to shape the future with an ambitious global cooperative that truly cares about your growth, where everyone feels valued and empowered, and collaboration is the core of culture, Arla is a choice you can feel good about.",
+  "posted_at": "2026-11-02T13:38:23+00:00",
+  "deadline": "2026-11-17T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5565794400",
+  "city": "Solna",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Control systems"
+  ],
+  "fields": [
+   "Industrial Engineering"
+  ],
+  "about": "As a Supply Chain Graduate, you will gain broad, hands-on experience across our end-to-end Supply Chain, build a strong international network and accelerate your development towards future leadership…",
+  "bullets": [],
+  "enriched": false,
+  "id": "dba1e8c9eacb026f",
+  "content_hash": "9d5880c4d3f9e7c5",
+  "first_seen": "2026-11-03T11:28:02+00:00",
+  "last_seen": "2026-11-03T11:28:02+00:00",
   "is_open": true
  }
 }
