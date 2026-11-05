@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2843,7 +2843,7 @@
   "content_hash": "90a99689c9812d15",
   "first_seen": "2026-10-02T10:08:47+00:00",
   "last_seen": "2026-10-31T10:02:03+00:00",
-  "is_open": true
+  "is_open": false
  },
  "a497f4d5af470e70": {
   "source": "jobtech",
@@ -2880,7 +2880,7 @@
   "content_hash": "9b551aca128d93af",
   "first_seen": "2026-10-02T10:08:47+00:00",
   "last_seen": "2026-10-31T10:02:03+00:00",
-  "is_open": true
+  "is_open": false
  },
  "547df9d728581f0f": {
   "source": "jobtech",
@@ -2989,7 +2989,7 @@
   "content_hash": "afe7b6956b466f45",
   "first_seen": "2026-10-03T09:31:24+00:00",
   "last_seen": "2026-10-31T10:02:03+00:00",
-  "is_open": true
+  "is_open": false
  },
  "d108d0efd9cc4b8c": {
   "source": "jobtech",
@@ -3026,7 +3026,7 @@
   "content_hash": "2346d53386856896",
   "first_seen": "2026-10-03T09:31:24+00:00",
   "last_seen": "2026-10-31T10:02:03+00:00",
-  "is_open": true
+  "is_open": false
  },
  "cee13ca8de20fcb8": {
   "source": "jobtech",
@@ -3063,7 +3063,7 @@
   "content_hash": "20051dc17a9d8b9a",
   "first_seen": "2026-10-03T09:31:24+00:00",
   "last_seen": "2026-10-31T10:02:03+00:00",
-  "is_open": true
+  "is_open": false
  },
  "e44ca11ca4226ee0": {
   "source": "jobtech",
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3651,7 +3651,7 @@
   "content_hash": "fb5ffc6f4ca00b08",
   "first_seen": "2026-10-15T08:41:22+00:00",
   "last_seen": "2026-10-21T08:58:47+00:00",
-  "is_open": true
+  "is_open": false
  },
  "a5403e9cf0e19451": {
   "source": "jobtech",
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3760,7 +3760,7 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "100b3ca237dbdd8f": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3900,7 +3900,7 @@
   "id": "eb4f219fa1a59427",
   "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "d3485f4a9eeaa44a": {
@@ -3972,7 +3972,7 @@
   "id": "14d9f705e194a68d",
   "content_hash": "d81b769af7517056",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "284af395742f5996": {
@@ -4008,7 +4008,7 @@
   "id": "284af395742f5996",
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "a34336eda1249908": {
@@ -4044,7 +4044,7 @@
   "id": "a34336eda1249908",
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "4abdcf409ba10748": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4131,7 +4131,7 @@
   "id": "a95ce12d79fb4275",
   "content_hash": "5653350baebbbb1d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "cf272da6fb5b9a09": {
@@ -4168,7 +4168,7 @@
   "id": "cf272da6fb5b9a09",
   "content_hash": "7a077a650396390f",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "57c9f2d263faff77": {
@@ -4206,7 +4206,7 @@
   "id": "57c9f2d263faff77",
   "content_hash": "1176878e741c4389",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "3de5a0e4bc3f14d7": {
@@ -4242,7 +4242,7 @@
   "id": "3de5a0e4bc3f14d7",
   "content_hash": "556a1352a82130af",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "c258d2c245824aa5": {
@@ -4277,7 +4277,7 @@
   "id": "c258d2c245824aa5",
   "content_hash": "f0be991e564c61aa",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "3245c704630c7252": {
@@ -4312,7 +4312,7 @@
   "id": "3245c704630c7252",
   "content_hash": "e61dd9f770bbdf73",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "aed461abf42cc158": {
@@ -4347,7 +4347,7 @@
   "id": "aed461abf42cc158",
   "content_hash": "aff177fca0a24261",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "436b59a9a220b2d5": {
@@ -4358,7 +4358,7 @@
   "url": "https://jobs.smartrecruiters.com/AFRY/744000157465815-exjobb-kylsystemdesign-for-ny-karnkraft-i-sverige?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
   "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är dedikerade experter inom industri, energi och infrastruktur och skapar värde för kommande generationer. AFRY har nordiska rötter med global räckvidd. Våra gemensamma principer – Result driven, Client centric, Empowering och Accountable – vägleder oss i hur vi arbetar, utvecklas och lyckas tillsammans. Var med och accelerera övergången till ett hållbart samhälle. \n\nJobbeskrivning\nAFRY är ett av de största konsultföretagen inom kärnkraftsindustrin och vi strävar alltid efter att utöka och stärka vår kompetens. Vi söker nu en civilingenjörsstudent som är intresserad av att genomföra sitt examensarbete hos oss på AFRY Nuclear. Nedan exjobb är ett förslag från vårt håll som genomförs i samarbete med Chalmers.\nBakgrund, mål och föreslagen metod\nRegeringen har nu tagit emot sex ansökningar om statligt stöd för ny kärnkraft från olika aktörer. Blykalla AB, Nucore Energi, Studsvik, Nordic Baseload Power och Videberg Kraft AB har alla lämnat in förslag på nybyggnation. Projekten omfattar både små modulära reaktorer (SMR) och mer konventionella kärnkraftslösningar på såväl befintliga som nya etableringsplatser. Olika reaktorleverantörer finns också med i planeringen som erbjuder lättvattenkylda tryck- och kokarvattenreaktorer samt nya tekniker så som blykylda reaktorer.\nSyftet med studien är att analysera hur olika reaktortekniker, reaktoreffekter och platsspecifika miljöförhållanden påverkar utformningen av kylsystem för de sex föreslagna svenska kärnkraftsprojekten. Studien omfattar flera reaktortyper, däribland kokvattenreaktorer (BWR), tryckvattenreaktorer (PWR), små modulära reaktorer (SMR) och blykylda reaktorer. Genom att undersöka varje etableringsplats utifrån faktorer som tillgång till kylvatten, temperaturvariationer och miljömässiga begränsningar syftar arbetet till att identifiera vilka tekniska och geografiska förutsättningar som styr val och dimensionering av kylsystemen. Studien syftar även till att sätta resultaten i relation till olika prognostiserade framtida scenarier för Sveriges elbehov. Detta för att belysa hur reaktorernas kylkrav och lokalisering kan påverka deras lämplighet och potential att bidra till den framtida elförsörjningen.\nFöreslagen metod inkluderar exergiberäkningar för olika reaktortyper, analys av kyltekniska lösningar samt optimering med hänsyn till miljömässiga begränsningar och framtida elektrifieringsbehov.\n\nKvalifikationer\nDetta examensarbete passar dig som är intresserad av kärnkraft, termodynamik och optimering, och som har god förståelse och intresse för kärnkraftsutbyggnaden i Sverige. Du är i slutskedet av din civilingenjörsutbildning och planerar att under våren 2027 genomföra ditt exjobb motsvarande 30 HP.\nDu studerar masterprogram inom hållbara energisystem eller innovativ och hållbar kemiteknik. Du kan ha läst kandidat i exempelvis kemiteknik, kemiteknik med fysik, maskinteknik och teknisk fysik inklusive kurser inom energiteknik, värme- och kraftverksystem modellering. Du kan uttrycka dig obehindrat på både svenska och engelska i tal och skrift. Har du läst kurser inom kärnkraft och/eller reaktorteknik ser vi det som meriterande.\nSom person är det viktigaste för oss att du känner igen dig i våra värdeord Brave, Devoted, Teamplayers som förenar oss på AFRY. Det betyder att vi gillar att samarbeta och dela med oss av kunskap, att vi är drivna och nyfikna på att hela tiden lära oss nya saker.\nArbetet kommer utföras på vårt kontor i Göteborg i kombination med på Chalmers. Vi ser det som ett stort plus om du har möjlighet att närvara på kontoret minst två dagar i veckan, där du kommer ha din handledare som stöd.\n\nYtterligare information\nExjobb hos AFRY Nuclear erbjuder dig möjligheten att fördjupa både din kunskap och förståelse för kärnkraftsindustrin. Förutom att du kommer få samarbeta med erfarna kärnkraftsexperter, kommer du också ges möjlighet att arbeta tillsammans med kollegor från andra kompetensområden.  \nExamensarbete hos AFRY kan utgöra en grund för en framtida rekrytering. Som anställd hos oss får du ta del av en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag, tjänstepension samt tillhörighet i vår fantastiska personalförening Club AFRY. Här anordnar vi en mängd sociala aktiviteter, allt från skidresor, handledda träningstillfällen, stuguthyrning, gästföreläsningar till att spela brädspel – och mycket, mycket mer.\nSista ansökningsdatum är 6/11 2026. Vi hanterar ansökningarna löpande och tillsättning kan komma att ske innan sista ansökningsdag.\nFör frågor om exjobbet, vänligen kontakta Alexander som kommer vara din handledare!\nAlexander Young, Konsult Nuclear\nalexander.young@afry.com (mailto:alexander.young@afry.com)\nFör frågor om rekryteringsprocessen, vänligen kontakta Linnea (rekryteringspartner) på linnea.hansson@afry.com\nExamensarbetet är inte säkerhetsklassat. Däremot finns krav på drogtest, säkerhetsprövning och registerkontroll för anställning då befattningarna verkar inom säkerhetsklassade områden. För samtliga rekryteringar genomförs referenstagning samt verifiering av utbildning.\nVi undanber oss direktkontakt med bemannings- och rekryteringsföretag samt säljare av ytterligare jobbannonser.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
   "posted_at": "2026-10-23T13:50:34+00:00",
-  "deadline": "2026-12-22T23:59:59+00:00",
+  "deadline": "2027-01-03T23:59:59+00:00",
   "pay": null,
   "industry": "",
   "company_slug": "5561206474",
@@ -4382,7 +4382,7 @@
   "id": "436b59a9a220b2d5",
   "content_hash": "c73607690f0a0f55",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "e72a18c9c561a77e": {
@@ -4419,7 +4419,7 @@
   "id": "e72a18c9c561a77e",
   "content_hash": "fec5d49654245f1c",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "7ae00f5246748da3": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4490,7 +4490,7 @@
   "id": "94710df98f75c84c",
   "content_hash": "6b5d98c35e677409",
   "first_seen": "2026-10-27T09:26:23+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "def938b14cca9b5b": {
@@ -4529,7 +4529,7 @@
   "id": "def938b14cca9b5b",
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-10-28T10:08:15+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "feb9a7e5e7a79365": {
@@ -4577,7 +4577,7 @@
   "id": "feb9a7e5e7a79365",
   "content_hash": "156283bd152b0f2c",
   "first_seen": "2026-10-28T10:08:15+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "ce2b0850d462aa4b": {
@@ -4614,7 +4614,7 @@
   "id": "ce2b0850d462aa4b",
   "content_hash": "5bb55777b0791cf8",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "eb89c946085ac4c6": {
@@ -4654,7 +4654,7 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "fc2fd0909073dd88": {
@@ -4700,7 +4700,7 @@
   "id": "fc2fd0909073dd88",
   "content_hash": "3ceda89bdce9683c",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "23fe38f659311b9d": {
@@ -4741,7 +4741,7 @@
   "id": "23fe38f659311b9d",
   "content_hash": "d54083e320f2a058",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "b7b7e83811bd9251": {
@@ -4783,7 +4783,7 @@
   "id": "b7b7e83811bd9251",
   "content_hash": "f3da8d89eed4020c",
   "first_seen": "2026-11-02T11:49:32+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "8134c83ba1d67ea7": {
@@ -4826,7 +4826,7 @@
   "content_hash": "678d070d149f1c22",
   "first_seen": "2026-11-03T11:28:02+00:00",
   "last_seen": "2026-11-04T11:44:17+00:00",
-  "is_open": true
+  "is_open": false
  },
  "bc568d7d093379ea": {
   "source": "jobtech",
@@ -4862,7 +4862,7 @@
   "id": "bc568d7d093379ea",
   "content_hash": "98e42f524c9c4b25",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "ffe2c2c0478a0b1d": {
@@ -4897,7 +4897,7 @@
   "id": "ffe2c2c0478a0b1d",
   "content_hash": "b0510c91c2be3356",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "00f8585cc49c03e9": {
@@ -4932,7 +4932,7 @@
   "id": "00f8585cc49c03e9",
   "content_hash": "26e151521f494ddb",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "32a92c72104454f3": {
@@ -4966,7 +4966,7 @@
   "id": "32a92c72104454f3",
   "content_hash": "c0d712ab093b8135",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  },
  "dba1e8c9eacb026f": {
@@ -5002,7 +5002,280 @@
   "id": "dba1e8c9eacb026f",
   "content_hash": "9d5880c4d3f9e7c5",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-04T11:44:17+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
+  "is_open": true
+ },
+ "5a2c85b82799d60e": {
+  "source": "smartrecruiters",
+  "source_id": "744000159815209",
+  "company": "Konecranes",
+  "title": "Trainee, Business Analyst",
+  "url": "https://jobs.smartrecruiters.com/Konecranes/744000159815209-trainee-business-analyst",
+  "description": "Are you studying industrial engineering or business management and looking to gain valuable experience in business analysis and strategy in an international work environment? We might have the perfect opportunity for you! \nWe are looking for a Business Analyst Trainee to join our Strategy team in Espoo for a one year fixed-term contract. You will support the team in gathering and summarising information and preparing materials that support management decision-making. \n Key responsibilities: \n• Creating impactful presentations and management materials by gathering and summarising information on different business topics \n• Assisting with data analysis and reporting for strategy work and ongoing projects \n• Supporting strategy and strategic projects, including topics related to artificial intelligence \n• Contributing to market intelligence activities and preparing a weekly newsletter \n You will work with colleagues and stakeholders across different teams and business areas. We are looking for someone who is curious, eager to learn, comfortable exploring new subjects and reaching out to others to find the information and perspective needed. \n You can be based in Espoo or Hyvinkää, with Espoo as the main location for the team. We work in a hybrid model, with an expectation to work on-site three days per week.\n What kind of talent are we looking for? \n This role is ideal for a student who is eager to learn more about business analysis and strategy. You are welcome to Konecranes as yourself, but we especially value curiosity, a proactive approach, good teamwork skills and the ability to adapt to new topics. As our work environment is highly international, good English skills and confidence in working in an international environment are important. \n In addition, we hope you have: \n• Ongoing master's studies in Industrial Engineering, Business Management or a related field \n• Basic understanding of project management, data analysis and management reporting through your studies or previous work experience \n• Interest in Geopolitics and Artificial Intelligence\n• Good Microsoft Office skills \n• Good written and spoken English \n Familiarity with SharePoint or Power BI and previous experience in similar tasks are considered an advantage. \n Why join Konecranes? \n At Konecranes, you will get to develop your professional skills and apply your academic knowledge in practice. As a Business Analyst Trainee, you will gain hands-on experience and develop your skills in areas such as business analysis, project management, data analysis, reporting and market intelligence. \n You will also get an inside view of how strategy work is done in an international company and how topics such as artificial intelligence can be used as part of strategy work. At Konecranes, we want to foster an environment where people enjoy their work, feel respected and trusted, and have opportunities to learn and develop. \n Interested? \n Please submit your application together with a portfolio or work sample showcasing your skills, for example, a data analysis, Power BI report or relevant university project, by 15.11.2026 at the latest via the Apply link below. You can add additional attachments, such as your application and portfolio, on the second page of the application form. We will start reviewing applications during the application period and may fill the role once we find the right candidate. \nFor further information, please contact Emilia Sasi, Talent Acquisition Specialist via phone (+358 50 525 6655) during the following times: 6.11 between 9:30-10:30 EET and 10.11 between 13:00-14:00 EET.\nWhat to do while I wait for the application period to end? \nDid you know that Konecranes has an Instagram account where we give tips for job hunting and information about our open positions? Go check out the account and be sure to follow us! We would love to connect with you on social media! You can find the account from here: https://www.instagram.com/konecranes_careers \n Konecranes moves what matters . We are a global leader in material handling solutions, serving a broad range of customers across multiple industries. We consistently set the industry benchmark, from everyday improvements to the breakthroughs at moments that matter most, because we know we can always find a safer, more productive and sustainable way. That's why, with 16 000+ professionals in over 50 countries, we are trusted every day to lift, handle and move what the world needs.\nKonecranes is committed to ensuring that all employees and job applicants are treated fairly in an environment which is free from any form of discrimination.",
+  "posted_at": "2026-11-05T09:16:53+00:00",
+  "deadline": null,
+  "pay": null,
+  "industry": "",
+  "company_slug": "konecranes",
+  "city": "Hyvinkää or Espoo",
+  "country": "FI",
+  "type": "Graduate",
+  "mode": "Hybrid",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Data analysis",
+   "Data visualisation"
+  ],
+  "fields": [
+   "Economics & Business",
+   "Data Science"
+  ],
+  "about": "You will support the team in gathering and summarising information and preparing materials that support management decision-making.",
+  "bullets": [
+   "Creating impactful presentations and management materials by gathering and summarising information on different business topics",
+   "Assisting with data analysis and reporting for strategy work and ongoing projects",
+   "Supporting strategy and strategic projects, including topics related to artificial intelligence"
+  ],
+  "enriched": false,
+  "id": "5a2c85b82799d60e",
+  "content_hash": "4a55bc5a9b541639",
+  "first_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
+  "is_open": true
+ },
+ "05aadacd4cad0f51": {
+  "source": "jobtech",
+  "source_id": "31688681",
+  "company": "Experis AB",
+  "title": "Nyexaminerad ingenjör i Linköping? Här börjar din framtid!",
+  "url": "https://www.aplitrak.com/?adid=RFR5c2FuLjkwNzU0LjEzNzY1QG1hbnBvd2VyZ3JvdXBub3JkaWNzLmFwbGl0cmFrLmNvbQ",
+  "description": "Har du nyligen tagit ingenjörsexamen och är redo att omsätta dina kunskaper i praktiken? Gillar du teknik, problemlösning och att förstå hur saker fungerar och hänger ihop? Genom Experis Academy får du möjlighet att bli anställd från dag ett och ta steget mot en spännande karriär inom avancerad teknik.\nTillsammans med en ledande högteknologisk aktör inom försvarsindustrin får du genom ett skräddarsytt utbildningsprogram utveckla din kompetens och påbörja resan mot att bli specialist inom ditt område.\nDu behöver inte kunna allt från början. Vi söker din potential, ditt teknikintresse och din vilja att utvecklas.\nUtbildningen startar i januari 2027 i Linköping och pågår i 3 månader. Därefter följer en 12 månaders specialiseringsperiod hos vår samarbetspartner, där du får använda och utveckla dina kunskaper i praktiken.\n\n\nVar med och utveckla teknik som gör skillnad!\n\nHär får du arbeta i en högteknologisk miljö där avancerad teknik, innovation, kvalitet och säkerhet står i centrum.\nTillsammans med erfarna kollegor får du arbeta med komplexa tekniska produkter och system. Beroende på din bakgrund, dina intressen och verksamhetens behov kan du utvecklas inom exempelvis system, mekanik, elektronik, mjukvara, konstruktion, analys, kvalitet eller säkerhet.\nDet här är en möjlighet att få en stark start på ingenjörskarriären, bygga värdefull erfarenhet och på sikt utvecklas till specialist inom ditt område.\n\n\nSteg 1 - Utbildning genom Experis Academy\n\nDin anställning inleds med en intensivutbildning genom Experis Academy som förbereder dig för ditt kommande uppdrag.\nExperis Academy är en del av konsultbolaget Experis och kombinerar utbildning, kompetensutveckling och praktisk erfarenhet för att skapa en tydlig väg från studier till arbetsliv.\n\n\nDet här får du genom Experis Academy:\n\nAnställning och lön från dag ett - både under utbildning och specialisering.\nKompetensutveckling - bygg vidare på din akademiska bakgrund.\nCoachning och handledning under din utveckling.\n12 månaders specialisering hos vår samarbetspartner.\nMöjlighet att bygga erfarenhet, nätverk och framtida specialistkompetens.\n\n\nSteg 2 - Din utveckling som ingenjör\n\n\nEfter utbildningen påbörjar du din specialiseringsperiod hos vår samarbetspartner i Linköping. Här får du använda dina kunskaper i verkliga projekt och utvecklas tillsammans med erfarna kollegor.\nDina arbetsuppgifter kan exempelvis handla om tekniska analyser, konstruktion, systemarbete, kvalitetssäkring, dokumentation, verifiering, problemlösning eller utveckling av avancerade tekniska produkter och system.\nDu får även möjlighet att samarbeta mellan olika discipliner, exempelvis mekanik, elektronik, mjukvara, konstruktion och produktion. På så sätt får du en bred förståelse för verksamheten samtidigt som du hittar det område där just dina styrkor kommer bäst till sin rätt.\n\n\nVem kan ansöka?\n\nVi söker dig som är nyexaminerad eller befinner dig i början av din ingenjörskarriär. För oss väger din motivation, nyfikenhet och vilja att lära tyngre än hur mycket arbetslivserfarenhet du har.\nDu gillar teknik och problemlösning, arbetar strukturerat och analytiskt och trivs med att samarbeta med andra.\n\n\nVi tror att du:\n\nHar en högre teknisk utbildning, exempelvis inom maskinteknik, elektroteknik, mekatronik, datateknik, teknisk fysik, mjukvara eller motsvarande.\nÄr nyexaminerad eller tidigt i din karriär.\nHar ett analytiskt och strukturerat arbetssätt.\nÄr nyfiken på hur produkter, system och tekniska lösningar fungerar.\nVill utvecklas och på sikt bygga en specialistkompetens.\n\nErfarenhet från examensarbete, universitetsprojekt, praktik eller sommarjobb är meriterande, men du behöver inte ha flera års arbetslivserfarenhet.\nVi söker potential, inte färdiga specialister.\n\n\nPraktisk information\n\nUtbildningsstart: Februari 2027\nUtbildnings- och specialiseringsort: Linköping\nOmfattning: Heltid\nSista ansökningsdag: 20 november 2026\n\nUrval sker löpande, så skicka gärna in din ansökan så snart som möjligt. Vi tar inte emot ansökningar via e-post. Vid frågor är du välkommen att kontakta academy@se.experis.com.\n\n\nVälkommen till Experis Academy!\n\nPå Manpower, Experis och Jefferson Wells värnar vi om en trygg och transparent rekryteringsprocess. Vi kommer aldrig att be dig om betalning, bankuppgifter eller annan känslig personlig information i samband med en jobbansökan eller rekrytering. Om du får misstänkta meddelanden som sägs komma från oss ber vi dig att kontakta oss på contactcenter@manpower.se.",
+  "posted_at": "2026-11-05T10:29:31+00:00",
+  "deadline": "2026-11-21T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5568551104",
+  "city": "Linköping",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Computer Science",
+   "Mechanical Engineering",
+   "Electrical Engineering"
+  ],
+  "about": "Dina arbetsuppgifter kan exempelvis handla om tekniska analyser, konstruktion, systemarbete, kvalitetssäkring, dokumentation, verifiering, problemlösning eller utveckling av avancerade tekniska…",
+  "bullets": [],
+  "enriched": false,
+  "id": "05aadacd4cad0f51",
+  "content_hash": "53703d24abeb3f72",
+  "first_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
+  "is_open": true
+ },
+ "d1001b3c4ebb0648": {
+  "source": "jobtech",
+  "source_id": "31688668",
+  "company": "Experis AB",
+  "title": "Nyexaminerad ingenjör i Stockholm? Här börjar din framtid!",
+  "url": "https://www.aplitrak.com/?adid=RFR5c2FuLjkzMTA1LjEzNzY1QG1hbnBvd2VyZ3JvdXBub3JkaWNzLmFwbGl0cmFrLmNvbQ",
+  "description": "Har du nyligen tagit ingenjörsexamen och är redo att omsätta dina kunskaper i praktiken? Gillar du teknik, problemlösning och att förstå hur saker fungerar och hänger ihop? Genom Experis Academy får du möjlighet att bli anställd från dag ett och ta steget mot en spännande karriär inom avancerad teknik.\n \n \nTillsammans med en ledande högteknologisk aktör inom försvarsindustrin får du genom ett skräddarsytt utbildningsprogram utveckla din kompetens och påbörja resan mot att bli specialist inom ditt område.\nDu behöver inte kunna allt från början. Vi söker din potential, ditt teknikintresse och din vilja att utvecklas.\nUtbildningen startar i november 2026 i Stockholm och pågår i 3 månader. Därefter följer en 12 månaders specialiseringsperiod hos vår samarbetspartner, där du får använda och utveckla dina kunskaper i praktiken.\n\n\nVar med och utveckla teknik som gör skillnad!\n\nHär får du arbeta i en högteknologisk miljö där avancerad teknik, innovation, kvalitet och säkerhet står i centrum.\nTillsammans med erfarna kollegor får du arbeta med komplexa tekniska produkter och system. Beroende på din bakgrund, dina intressen och verksamhetens behov kan du utvecklas inom exempelvis system, mekanik, elektronik, mjukvara, konstruktion, analys, kvalitet eller säkerhet.\nDet här är en möjlighet att få en stark start på ingenjörskarriären, bygga värdefull erfarenhet och på sikt utvecklas till specialist inom ditt område.\n\n\nSteg 1 - Utbildning genom Experis Academy\n\nDin anställning inleds med en intensivutbildning genom Experis Academy som förbereder dig för ditt kommande uppdrag.\nExperis Academy är en del av konsultbolaget Experis och kombinerar utbildning, kompetensutveckling och praktisk erfarenhet för att skapa en tydlig väg från studier till arbetsliv.\n\n\nDet här får du genom Experis Academy:\n\nAnställning och lön från dag ett - både under utbildning och specialisering.\nKompetensutveckling - bygg vidare på din akademiska bakgrund.\nCoachning och handledning under din utveckling.\n12 månaders specialisering hos vår samarbetspartner.\nMöjlighet att bygga erfarenhet, nätverk och framtida specialistkompetens.\n\n\nSteg 2 - Din utveckling som ingenjör\n\n\nEfter utbildningen påbörjar du din specialiseringsperiod hos vår samarbetspartner i Stockholm. Här får du använda dina kunskaper i verkliga projekt och utvecklas tillsammans med erfarna kollegor.\nDina arbetsuppgifter kan exempelvis handla om tekniska analyser, konstruktion, systemarbete, kvalitetssäkring, dokumentation, verifiering, problemlösning eller utveckling av avancerade tekniska produkter och system.\nDu får även möjlighet att samarbeta mellan olika discipliner, exempelvis mekanik, elektronik, mjukvara, konstruktion och produktion. På så sätt får du en bred förståelse för verksamheten samtidigt som du hittar det område där just dina styrkor kommer bäst till sin rätt.\n\n\nVem kan ansöka?\n\nVi söker dig som är nyexaminerad eller befinner dig i början av din ingenjörskarriär. För oss väger din motivation, nyfikenhet och vilja att lära tyngre än hur mycket arbetslivserfarenhet du har.\nDu gillar teknik och problemlösning, arbetar strukturerat och analytiskt och trivs med att samarbeta med andra.\n\n\nVi tror att du:\n\nHar en högre teknisk utbildning, exempelvis inom maskinteknik, elektroteknik, mekatronik, datateknik, teknisk fysik, mjukvara eller motsvarande.\nÄr nyexaminerad eller tidigt i din karriär.\nHar ett analytiskt och strukturerat arbetssätt.\nÄr nyfiken på hur produkter, system och tekniska lösningar fungerar.\nVill utvecklas och på sikt bygga en specialistkompetens.\n\nErfarenhet från examensarbete, universitetsprojekt, praktik eller sommarjobb är meriterande, men du behöver inte ha flera års arbetslivserfarenhet.\nVi söker potential, inte färdiga specialister.\n\n\nPraktisk information\n\nUtbildningsstart: Februari 2027\nUtbildnings- och specialiseringsort: Stockholm\nOmfattning: Heltid\nSista ansökningsdag: 20 november 2026\n\nUrval sker löpande, så skicka gärna in din ansökan så snart som möjligt. Vi tar inte emot ansökningar via e-post. Vid frågor är du välkommen att kontakta academy@se.experis.com.\n\n\nVälkommen till Experis Academy!\n\nPå Manpower, Experis och Jefferson Wells värnar vi om en trygg och transparent rekryteringsprocess. Vi kommer aldrig att be dig om betalning, bankuppgifter eller annan känslig personlig information i samband med en jobbansökan eller rekrytering. Om du får misstänkta meddelanden som sägs komma från oss ber vi dig att kontakta oss på contactcenter@manpower.se.",
+  "posted_at": "2026-11-05T10:27:04+00:00",
+  "deadline": "2026-11-21T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5568551104",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Computer Science",
+   "Mechanical Engineering",
+   "Electrical Engineering"
+  ],
+  "about": "Dina arbetsuppgifter kan exempelvis handla om tekniska analyser, konstruktion, systemarbete, kvalitetssäkring, dokumentation, verifiering, problemlösning eller utveckling av avancerade tekniska…",
+  "bullets": [],
+  "enriched": false,
+  "id": "d1001b3c4ebb0648",
+  "content_hash": "2d3a2b449cd4d981",
+  "first_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
+  "is_open": true
+ },
+ "8ebd286e1ab4059a": {
+  "source": "jobtech",
+  "source_id": "31685035",
+  "company": "Kapita Investment Group AB",
+  "title": "Utvecklare på praktik: systemintegration och automation",
+  "url": "https://kapita.careers.haileyhr.app/sv-SE/job/f6cedc6e-52de-4093-8d22-5c7092b323ce/b8ac3002-86d1-4aae-a7ff-4c927b41a7c1/7c5c9b89-7479-4fe4-8170-92ef59ca15bf",
+  "description": "Vill du bygga integrationer och automationer som faktiskt tas i drift?\nKapita Investment Group är ett investmentbolag med kontor mitt i Göteborg. Vi utvecklar våra egna digitala system och söker nu en praktikant som vill koppla ihop dem och automatisera arbete som idag görs för hand.\nOm praktiken\nStuderar du på universitet, högskola eller yrkeshögskola och söker en praktikplats? Hos oss skriver du kod som kopplar ihop riktiga system och tas i drift. Du arbetar nära utvecklarna som bygger systemen och tar det du bygger hela vägen, från första raden kod till driftsättning i Azure.\nAI använder vi där det gör nytta i ett flöde, till exempel för att analysera data som ett steg i kedjan. Rollen handlar om att bygga integrationer och flöden i kod. Den handlar inte om att träna maskininlärningsmodeller och inte om industriell automation.\nDet här kommer du att arbeta med\nBygga API-integrationer mellan våra system\nAutomatisera manuella arbetsflöden, med AI som ett steg i kedjan där det gör nytta\nUtveckla, testa och driftsätta lösningar i Azure\nFelsöka och vidareutveckla integrationer och flöden som redan är i drift\nDokumentera det du bygger så att andra kan ta över\nBidra med egna idéer om vad som kan automatiseras\n\nVem vi söker\nDu är nyfiken på hur system hänger ihop och vill se det du bygger användas på riktigt. Du läser dokumentation, testar dig fram och frågar när du har kört fast. Du kan planera ditt arbete och leverera. Du är självgående och tar initiativ. Du ser praktiken som en chans att bygga något som används varje dag, inte bara ännu en skoluppgift.\nKrav\nPågående utbildning inom datateknik, mjukvaruutveckling, data science, teknisk fysik eller ett närliggande område\nHar byggt något som anropar ett API och kan visa eller beskriva det\nProgrammerar i Python eller TypeScript\nKan Git och är van vid att arbeta i terminalen\nTalar och skriver svenska och engelska obehindrat\nKan vara på plats minst tre dagar i veckan\n\nMeriterande\nHar byggt något mot en språkmodells API\nErfarenhet av Azure, AWS eller annan molnplattform\nCI/CD, till exempel GitHub Actions\nErfarenhet av Next.js eller React\nGrundläggande databaskunskap, till exempel SQL\nEgna projekt utanför skolan, gärna något du har satt i drift själv eller automationer du använder\n\nVad du får hos oss\nRiktiga uppdrag som tas i drift och används varje dag\nEn handledare och korta beslutsvägar\nEget ansvar för konkreta integrationer och flöden\nErfarenhet av hela kedjan från kod till drift, något få hinner prova under utbildningen\n\nPraktisk information\nPraktikperiod: 3 till 6 månader. Praktiken kan genomföras som LIA eller som praktik inom din utbildning.\nOmfattning: Minst tre dagar i veckan på plats, gärna mer.\nErsättning: Praktiken är obetald.\nArbetsplats: Vårt kontor mitt i Göteborg.\nAntal platser: En.\nStart: Enligt överenskommelse.\nSista ansökningsdag: 15 november 2026. Vi går igenom ansökningar löpande och platsen kan tillsättas innan dess.\n\nVi välkomnar i första hand studenter vid Chalmers. Även studenter från Göteborgs universitet och yrkeshögskolor är välkomna, särskilt om praktiken kan göras som LIA.\nAnsökan\nAnsök via länken nedan med CV, personligt brev och länk till din GitHub eller en egen projektsida.",
+  "posted_at": "2026-11-04T14:02:30+00:00",
+  "deadline": "2026-11-15T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5594176710",
+  "city": "Göteborg",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Control systems",
+   "Cloud (AWS)",
+   "Git",
+   "TypeScript",
+   "SQL",
+   "React"
+  ],
+  "fields": [
+   "Computer Science",
+   "Data Science",
+   "Economics & Business"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "8ebd286e1ab4059a",
+  "content_hash": "891bff21aeb573c5",
+  "first_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
+  "is_open": true
+ },
+ "75daf09d262b7cd4": {
+  "source": "jobtech",
+  "source_id": "31685055",
+  "company": "Kapita Investment Group AB",
+  "title": "UI/UX designer på praktik",
+  "url": "https://kapita.careers.haileyhr.app/sv-SE/job/f6cedc6e-52de-4093-8d22-5c7092b323ce/f3657796-37c8-4288-b4e2-246115262eb8/a4f5fd60-8f63-4272-b6d6-8baa850cbf42",
+  "description": "Brinner du för design och vill se dina idéer användas på riktigt?\nKapita Investment Group är ett investmentbolag med kontor mitt i Göteborg. Vi utvecklar våra egna digitala system och söker nu två praktikanter inom UI/UX design som vill vara med och forma dem.\nOm praktiken\nStuderar du på universitet, högskola eller yrkeshögskola och söker en praktikplats? Hos oss arbetar du med riktiga system som används varje dag, både interna verktyg som våra medarbetare arbetar i och digitala tjänster som möter våra kunder. Du underhåller inte bara det som redan finns. Du får vara kreativ, bli utmanad och utvecklas.\nDu arbetar nära utvecklarna som bygger systemen och följer din design hela vägen, från första skiss till färdig funktion i drift. Du behöver vara lyhörd och närvarande för att identifiera behov och synergier. Tillsammans vill vi skapa bästa möjliga upplevelse, både för oss i våra interna system och för våra kunder.\nDet här kommer du att arbeta med\nTa fram och vidareutveckla användargränssnitt och flöden i både befintliga och nya system\nSkissa, ta fram wireframes och klickbara prototyper i Figma\nTesta lösningar med användare och förbättra utifrån deras feedback\nBygga vidare på gemensamma komponenter och mönster så att systemen hänger ihop\nLämna över design till utvecklare och följa upp att resultatet blir som tänkt\nDelta i idéarbete kring nya funktioner\n\nVem vi söker\nDu har ett genuint intresse för design och ett kreativt tänk. Du är mottaglig för feedback och ser den som en del av arbetet. Du kan planera ditt arbete, hålla deadlines och leverera. Du är självgående, tar initiativ och vill utvecklas snabbt. Du är nyfiken på vad som händer med din design när den ska byggas. Du ser praktiken som en plattform för att bygga vidare på din portfolio med arbete som faktiskt används.\nKrav\nPågående utbildning inom UI/UX, interaktionsdesign, digital design eller ett närliggande område\nEn portfolio som visar upp dina tidigare eller pågående projekt. Skolprojekt räknas. Vi vill se vad du har gjort, vilken del som var din och hur du kom fram till resultatet.\nVana att arbeta i Figma\nTalar och skriver svenska och engelska obehindrat\nKan vara på plats minst tre dagar i veckan\n\nMeriterande\nHar arbetat med variabler, design tokens och komponenter med varianter i Figma\nGrundläggande kunskaper i HTML, CSS och JavaScript. Du behöver inte vara utvecklare, men det hjälper att förstå hur det du designar faktiskt byggs.\nFörstår hur design blir kod, till exempel CSS-variabler, relativa enheter som rem samt flexbox och grid\nKänner till färgformat som OKLCH och hur man bygger en färgskala\nDesignar alla tillstånd i ett gränssnitt, även tomt, laddar och fel\nHar designat formulär, tabeller och filter för system med mycket data\nVana vid VS Code och GitHub\nVet hur designarbete går till i ett team: ta emot krav, presentera förslag, ta emot feedback och lämna över till utvecklare. Till exempel från praktik, LIA eller uppdrag.\n\nVad du får hos oss\nRiktiga uppdrag som går i drift och används varje dag\nEn handledare och korta beslutsvägar\nEget ansvar för konkreta delar av våra system\nArbete till din portfolio som visar verkliga resultat, inte bara skolprojekt\n\nPraktisk information\nPraktikperiod: 3 till 6 månader. Praktiken kan genomföras som LIA eller som praktik inom din utbildning.\nOmfattning: Minst tre dagar i veckan på plats, gärna mer.\nErsättning: Praktiken är obetald.\nArbetsplats: Vårt kontor mitt i Göteborg.\nAntal platser: Två.\nStart: Enligt överenskommelse.\nSista ansökningsdag: 13 november 2026. Vi går igenom ansökningar löpande och platserna kan tillsättas innan dess.\n\nAnsökan\nAnsök via länken nedan med CV, personligt brev och länk till din portfolio.",
+  "posted_at": "2026-11-04T14:05:50+00:00",
+  "deadline": "2026-12-13T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5594176710",
+  "city": "Göteborg",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Figma",
+   "TypeScript",
+   "Git"
+  ],
+  "fields": [
+   "Design"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "75daf09d262b7cd4",
+  "content_hash": "b8d3d7694262135b",
+  "first_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
+  "is_open": true
+ },
+ "318ccd4f140162d1": {
+  "source": "jobtech",
+  "source_id": "31686729",
+  "company": "Familjen Yahya AB",
+  "title": "Praktikplats / Examensarbete  Automation & Systems Developer",
+  "url": "https://onenetwork.se/karriar/jobb/praktikplats-examensarbete-automation-systems-developer",
+  "description": "Söker du praktikplats eller examensarbete inom industriell automation, robotik eller cybersäkerhet? Utveckla mjukvara för styrsystem, SCADA och realtidssystem i C# och Linux hos OneNetwork Tech.\n\n\nOm tjänsten\nVill du accelerera din karriär och omvandla teoretisk kunskap till praktiska lösningar? Hos OneNetwork Tech erbjuder vi utmanande och givande praktikplatser (LIA) och examensarbeten (Thesis work) för studenter från högskola, universitet eller yrkeshögskola (YH).\nHos oss får du möjlighet att utveckla avancerad mjukvara inom industriell automation, robotik och cybersäkerhet. Du blir en del av vårt team där du får kombinera teoretisk analys med praktisk programmering, prestandamätning och systemarkitektur i affärs- och samhällskritiska miljöer.\n\n\nArbetsuppgifter\nUtveckla och integrera mjukvarulösningar för styrsystem och industriell automation i C# och Linux.\nArbeta praktiskt med PLC-system (t.ex. Siemens, WAGO, Mitsubishi, ABB, Rockwell) och SCADA-system.\nKonfigurera, testa och optimera kommunikation i realtidssystem och lågnivåmjukvara.\nUtforska och implementera säkerhetskoncept (Cybersecurity) för industriella styrsystem och nätverk.\nDokumentera, analysera och presentera dina tekniska resultat och mätningar på ett strukturerat sätt.\n\n\n\nKvalifikationer\nPågående utbildning (Kandidat-, Master-, Civilingenjörsutbildning eller YH-utbildning) inom Datateknik, Teknisk Fysik, Elektroteknik, Automation eller motsvarande.\nGoda programmeringskunskaper, företrädesvis i C#.\nErfarenhet av eller förståelse för olika PLC-plattformar (Siemens, WAGO, Mitsubishi, ABB e.d.) samt SCADA-system.\nErfarenhet av eller ett starkt intresse för Linux och operativsystem.\nEtt genuint intresse för realtidssystem, industriell automation och kommunikationsprotokoll.\nAnalytiskt tänkande och förmåga att kommunicera tekniska resultat på ett klart och tydligt sätt.\n\n\n\nMeriterande\nErfarenhet av inbyggda system (Embedded Systems), middleware eller MCU-drivna plattformar.\nKunskap inom CI/CD, cross-compilation, systemportning eller prestandatestning.\nErfarenhet av eller intresse för cybersäkerhet inom OT/ICS (Operational Technology).\nErfarenhet av Rockwell Automation eller robotprogrammering.\n\n\n\nVi erbjuder\nEtt skarpt och utvecklande projekt anpassat för din praktikperiod eller ditt examensarbete.\nDedikerad handledning från erfarna ingenjörer och utvecklare.\nTillgång till modern hårdvara, laboratoriemiljöer och utvecklingsverktyg.\nMöjlighet till fortsatt anställning eller konsultroll efter avslutad praktik/examensarbete.\n\n\n\nKompetenserIndustrial Automation\nPLC\nSiemens\nSCADA\nC#\nLinux\nReal-Time Systems\nEmbedded Systems\nCybersecurity\nRobotics\nWAGO\nMitsubishi\nOT Security\n Så ansöker du\nBifoga CV, betygsutdrag samt ett kort personligt brev där du beskriver din utbildning, vilken period din praktik/ditt examensarbete gäller samt om ditt huvudfokus ligger inom Automation, Robotik eller Cybersäkerhet. Urval sker löpande.",
+  "posted_at": "2026-11-04T17:59:40+00:00",
+  "deadline": "2026-12-04T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5592965148",
+  "city": "",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Control systems",
+   "PLC programming",
+   "Embedded C"
+  ],
+  "fields": [
+   "Computer Science"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "318ccd4f140162d1",
+  "content_hash": "c8ae5f5d4d5a7ebc",
+  "first_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
+  "is_open": true
+ },
+ "4f521ebd7769aa44": {
+  "source": "jobtech",
+  "source_id": "31688596",
+  "company": "Cejn Aktiebolag",
+  "title": "Produktchef trainee",
+  "url": "https://cejnab.varbi.com/se/what:job/jobID:987461/type:job/where:125/apply:1",
+  "description": "CEJN AB söker traineer – framtidens produktchefer och segmentschefer inom Air-Tech och Fluid-Tech\nHar du ett stort teknikintresse, ett affärsmässigt tänkande och en vilja att utvecklas i en internationell miljö?\nCEJN fortsätter att växa och nu söker vi framtidens produktchefer och segmentschefer till våra divisioner Air-Tech och Fluid-Tech. Vi erbjuder dig möjligheten att genom en traineeperiod växa in i en roll där teknik, marknad och affärsutveckling möts.\nHos CEJN får du möjlighet att utvecklas i ett internationellt företag med tekniskt avancerade produkter och en stark innovationskultur. Du får successivt bygga den kunskap och erfarenhet som krävs för att ta ett självständigt ansvar som produktchef eller segmentschef.\nOm rollen\nSom trainee får du möjlighet att successivt utvecklas mot en roll som produktchef eller segmentschef inom någon av våra divisioner. Du arbetar nära erfarna kollegor och får en bred förståelse för våra produkter, kunder och marknader.\nBeroende på inriktning kommer du bland annat att arbeta med att:\nMarknadsföra och utveckla vårt produktprogram tillsammans med våra 19 globala säljbolag.\nArbeta med sortimentsutveckling och lönsamhetsfrågor inom ditt produktområde.\nUtveckla affärsmöjligheter inom ett specifikt marknadssegment.\nStötta våra säljbolag i deras marknadsaktiviteter.\nMedverka vid kundbesök och möten med distributörer och OEM-kunder.\nSamarbeta med inköp och medverka vid leverantörsförhandlingar.\n\nDu får successivt ta ett större ansvar och arbeta självständigt utifrån uppsatta mål, strategier och budget.\nVem är du?\nVi söker dig som är nyfiken, driven och har ett genuint intresse för både teknik och affärer. Du gillar att förstå kunders behov, se möjligheter och hitta lösningar som skapar värde.\nDu är kreativ, initiativrik och trivs med att samarbeta med andra. Samtidigt har du förmågan att arbeta självständigt, ta ansvar och driva ditt arbete framåt. Du är kommunikativ och har lätt för att bygga goda och långsiktiga relationer.\nVi tror att du har en högskoleutbildning inom teknik, mekanik, marknadsföring eller motsvarande kompetens. Erfarenhet av produktledning, affärsutveckling eller marknadsarbete inom industrin är meriterande, liksom kunskap inom pneumatik, hydraulik och vätskehantering.\nDet viktigaste är dock din potential, ditt engagemang och din vilja att utvecklas i rollen.\nVad erbjuder vi?\nHos CEJN får du möjlighet att utvecklas i ett internationellt företag med tekniskt avancerade produkter och en stark innovationskultur. Du får successivt bygga den kunskap och erfarenhet som krävs för att ta ett självständigt ansvar som produktchef eller segmentschef.\nDu får arbeta nära både produktutveckling och marknad, ha kontakt med vår globala säljorganisation och möta kunder och samarbetspartners runt om i världen. Resor ingår som en naturlig del av arbetet.\nÖvrigt\nTjänsterna är tillsvidareanställningar med placering i Skövde och tillträde enligt överenskommelse.\nFör mer information om tjänsterna, kontakta Ove Gustafsson, divisionschef, via ove.gustafsson@cejn.com eller telefon 0708-477 598.\nAnsökan\nSkicka din ansökan med CV och personligt brev där du berättar varför du söker tjänsten senast den 29 november 2026.\nVi gör urval och intervjuer löpande, så vänta inte med din ansökan!\nCEJN AB i Skövde utgör basen för CEJN-gruppen. Här sker utveckling, produktion och marknadsföring av snabbkopplingar för tryckluft, hydraulik och vätskor. Försäljningen utgörs till 85% av export till ett 25-tal länder i huvudsak via våra 19 försäljningsbolag. CEJN-gruppen har totalt 800 anställda, varav drygt 525 i Skövde.",
+  "posted_at": "2026-11-05T10:23:04+00:00",
+  "deadline": "2026-11-29T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5560624123",
+  "city": "Skövde",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Mechanical Engineering"
+  ],
+  "about": "Som trainee får du möjlighet att successivt utvecklas mot en roll som produktchef eller segmentschef inom någon av våra divisioner.",
+  "bullets": [],
+  "enriched": false,
+  "id": "4f521ebd7769aa44",
+  "content_hash": "8df416817240adb3",
+  "first_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-05T11:43:35+00:00",
   "is_open": true
  }
 }
