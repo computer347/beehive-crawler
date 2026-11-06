@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2915,7 +2915,7 @@
   "content_hash": "ad8ed37ef6ed597d",
   "first_seen": "2026-10-02T10:08:47+00:00",
   "last_seen": "2026-10-20T08:59:43+00:00",
-  "is_open": true
+  "is_open": false
  },
  "1f98baedd6ea119c": {
   "source": "jobtech",
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3760,7 +3760,7 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "100b3ca237dbdd8f": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3900,7 +3900,7 @@
   "id": "eb4f219fa1a59427",
   "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "d3485f4a9eeaa44a": {
@@ -3972,7 +3972,7 @@
   "id": "14d9f705e194a68d",
   "content_hash": "d81b769af7517056",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "284af395742f5996": {
@@ -4008,7 +4008,7 @@
   "id": "284af395742f5996",
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "a34336eda1249908": {
@@ -4044,7 +4044,7 @@
   "id": "a34336eda1249908",
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "4abdcf409ba10748": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4131,7 +4131,7 @@
   "id": "a95ce12d79fb4275",
   "content_hash": "5653350baebbbb1d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "cf272da6fb5b9a09": {
@@ -4168,7 +4168,7 @@
   "id": "cf272da6fb5b9a09",
   "content_hash": "7a077a650396390f",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "57c9f2d263faff77": {
@@ -4206,7 +4206,7 @@
   "id": "57c9f2d263faff77",
   "content_hash": "1176878e741c4389",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "3de5a0e4bc3f14d7": {
@@ -4242,7 +4242,7 @@
   "id": "3de5a0e4bc3f14d7",
   "content_hash": "556a1352a82130af",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "c258d2c245824aa5": {
@@ -4277,7 +4277,7 @@
   "id": "c258d2c245824aa5",
   "content_hash": "f0be991e564c61aa",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "3245c704630c7252": {
@@ -4312,7 +4312,7 @@
   "id": "3245c704630c7252",
   "content_hash": "e61dd9f770bbdf73",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "aed461abf42cc158": {
@@ -4323,7 +4323,7 @@
   "url": "https://jobs.smartrecruiters.com/AFRY/744000157470557-exjobb-modellering-av-radionuklid-spridning-fran-sealer-reaktor?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
   "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är dedikerade experter inom industri, energi och infrastruktur och skapar värde för kommande generationer. AFRY har nordiska rötter med global räckvidd. Våra gemensamma principer – Result driven, Client centric, Empowering och Accountable – vägleder oss i hur vi arbetar, utvecklas och lyckas tillsammans. Var med och accelerera övergången till ett hållbart samhälle. \n\nJobbeskrivning\nAFRY är Sveriges främsta konsultföretag inom kärnkraftsindustrin och vi strävar alltid efter att utöka och stärka vår kompetens. Vi söker nu en civilingenjörsstudent som är intresserad av att genomföra sitt examensarbete hos oss på AFRY Nuclear. Nedan exjobb är ett förslag från vårt håll som genomförs i samarbete med Chalmers.\nBakgrund, mål och föreslagen metod \nPå senare tid har intresset för kärnkraftverk och mer specifikt små modulära reaktorer (SMR) ökat. En av de svenska aktörerna som visat intresse för att bygga SMR:er är Blykalla, som håller på att utveckla en reaktoer som heter SEALER.\nDetta examensarbete handlar om att undersöka hur radioaktiva ämnen sprids i naturen i händelse av ett svårt reaktorhaveri hos en SEALER-reaktor. I Sverige finns det krav på att det för varje reaktor ska utföras en sannolikhetsbaserad säkerhetsanalys (PSA) på tre nivåer. Nivå 1 beräknar sannolikheten för härdskador, nivå 2 beräknar sannolikheten för radioaktivt utsläpp och nivå 3 beräknar hur ett sådant utsläpp kan spridas. AFRY’s programvara AISM är mycket lämplig för att göra beräkningar på PSA nivå 3, och kommer användas i detta exjobb.\nUnder exjobbet kommer du undersöka hur ett utsläpp från en SEALER-reaktor kan se ut, ta fram en modell i AISM för beräkning av spridning och doser till allmänheten utifrån vädermönster och plats, samt utföra känslighets- och osäkerhetsanalyser. Då det i dagsläget inte finns mycket data på hur ett utsläpp från en SEALER kan komma att se ut behöver du i samråd med den akademiska handledaren lägga upp en plan för hur en kvalificerad uppskattning på källterm kan göras. Själva fokuset för exjobbet kan styras beroende på vart ditt intresse är störst.\n\nKvalifikationer\nDetta examensarbete passar dig som är intresserad av kärnkraft, radiokemi och/eller simuleringar. Du är i slutskedet av din civilingenjörsutbildning och planerar att under våren 2027 genomföra ditt examensarbete motsvarande 30 HP.\nDu studerar fysik, kemi eller energiteknik. Har du läst kurser inom kärnkemi eller kärnkraftssäkerhet är det meriterande. Du kan uttrycka dig obehindrat på både svenska och engelska i såväl tal som skrift.\nSom person är det viktigaste för oss att du känner igen dig i våra värdeord Brave, Devoted, Teamplayers som förenar oss på AFRY. Det betyder att vi gillar att samarbeta och dela med oss av kunskap, att vi är drivna och nyfikna på att hela tiden lära oss nya saker.\nArbetet kommer utföras på vårt kontor i Göteborg i kombination med på Chalmers. Vi ser det som ett stort plus om du har möjlighet att närvara på kontoret minst två dagar i veckan, där du kommer ha din handledare som stöd.\n\nYtterligare information\nExjobb hos AFRY Nuclear erbjuder dig möjligheten att fördjupa både din kunskap och förståelse för kärnkraftsindustrin. Förutom att du kommer få samarbeta med erfarna kärnkraftsexperter, kommer du också ges möjlighet att arbeta tillsammans med kollegor från andra kompetensområden.  \nExamensarbete hos AFRY kan utgöra en grund för en framtida rekrytering. Som anställd hos oss får du ta del av en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag, tjänstepension samt tillhörighet i vår fantastiska personalförening Club AFRY. Här anordnar vi en mängd sociala aktiviteter, allt från skidresor, handledda träningstillfällen, stuguthyrning, gästföreläsningar till att spela brädspel – och mycket, mycket mer.\nSista ansökningsdatum är 6/11 2026. Vi hanterar ansökningarna löpande och tillsättning kan komma att ske innan sista ansökningsdag.\nFör frågor om exjobbet, vänligen kontakta Olle som kommer vara din handledare!\nOlle Lexell, Konsult Nuclear\nOlle.lexell@afry.com (mailto:Olle.lexell@afry.com) \nFör frågor om rekryteringsprocessen, vänligen kontakta Linnea (rekryteringspartner) på linnea.hansson@afry.com\nExamensarbetet är inte säkerhetsklassat. Däremot finns krav på drogtest, säkerhetsprövning och registerkontroll för anställning då befattningarna verkar inom säkerhetsklassade områden. För samtliga rekryteringar genomförs referenstagning samt verifiering av utbildning.\nVi undanber oss direktkontakt med bemannings- och rekryteringsföretag samt säljare av ytterligare jobbannonser.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
   "posted_at": "2026-10-23T15:15:38+00:00",
-  "deadline": "2026-12-22T23:59:59+00:00",
+  "deadline": "2027-01-04T23:59:59+00:00",
   "pay": null,
   "industry": "",
   "company_slug": "5561206474",
@@ -4347,7 +4347,7 @@
   "id": "aed461abf42cc158",
   "content_hash": "aff177fca0a24261",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "436b59a9a220b2d5": {
@@ -4382,7 +4382,7 @@
   "id": "436b59a9a220b2d5",
   "content_hash": "c73607690f0a0f55",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "e72a18c9c561a77e": {
@@ -4419,7 +4419,7 @@
   "id": "e72a18c9c561a77e",
   "content_hash": "fec5d49654245f1c",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "7ae00f5246748da3": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4490,7 +4490,7 @@
   "id": "94710df98f75c84c",
   "content_hash": "6b5d98c35e677409",
   "first_seen": "2026-10-27T09:26:23+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "def938b14cca9b5b": {
@@ -4529,7 +4529,7 @@
   "id": "def938b14cca9b5b",
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-10-28T10:08:15+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "feb9a7e5e7a79365": {
@@ -4577,7 +4577,7 @@
   "id": "feb9a7e5e7a79365",
   "content_hash": "156283bd152b0f2c",
   "first_seen": "2026-10-28T10:08:15+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "ce2b0850d462aa4b": {
@@ -4614,7 +4614,7 @@
   "id": "ce2b0850d462aa4b",
   "content_hash": "5bb55777b0791cf8",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "eb89c946085ac4c6": {
@@ -4654,7 +4654,7 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "fc2fd0909073dd88": {
@@ -4700,7 +4700,7 @@
   "id": "fc2fd0909073dd88",
   "content_hash": "3ceda89bdce9683c",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "23fe38f659311b9d": {
@@ -4741,7 +4741,7 @@
   "id": "23fe38f659311b9d",
   "content_hash": "d54083e320f2a058",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "b7b7e83811bd9251": {
@@ -4783,7 +4783,7 @@
   "id": "b7b7e83811bd9251",
   "content_hash": "f3da8d89eed4020c",
   "first_seen": "2026-11-02T11:49:32+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "8134c83ba1d67ea7": {
@@ -4862,7 +4862,7 @@
   "id": "bc568d7d093379ea",
   "content_hash": "98e42f524c9c4b25",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "ffe2c2c0478a0b1d": {
@@ -4897,7 +4897,7 @@
   "id": "ffe2c2c0478a0b1d",
   "content_hash": "b0510c91c2be3356",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "00f8585cc49c03e9": {
@@ -4932,7 +4932,7 @@
   "id": "00f8585cc49c03e9",
   "content_hash": "26e151521f494ddb",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "32a92c72104454f3": {
@@ -4966,7 +4966,7 @@
   "id": "32a92c72104454f3",
   "content_hash": "c0d712ab093b8135",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "dba1e8c9eacb026f": {
@@ -5002,7 +5002,7 @@
   "id": "dba1e8c9eacb026f",
   "content_hash": "9d5880c4d3f9e7c5",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "5a2c85b82799d60e": {
@@ -5044,7 +5044,7 @@
   "id": "5a2c85b82799d60e",
   "content_hash": "4a55bc5a9b541639",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "05aadacd4cad0f51": {
@@ -5081,7 +5081,7 @@
   "id": "05aadacd4cad0f51",
   "content_hash": "53703d24abeb3f72",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "d1001b3c4ebb0648": {
@@ -5118,7 +5118,7 @@
   "id": "d1001b3c4ebb0648",
   "content_hash": "2d3a2b449cd4d981",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "8ebd286e1ab4059a": {
@@ -5162,7 +5162,7 @@
   "id": "8ebd286e1ab4059a",
   "content_hash": "891bff21aeb573c5",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "75daf09d262b7cd4": {
@@ -5201,7 +5201,7 @@
   "id": "75daf09d262b7cd4",
   "content_hash": "b8d3d7694262135b",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "318ccd4f140162d1": {
@@ -5240,7 +5240,7 @@
   "id": "318ccd4f140162d1",
   "content_hash": "c8ae5f5d4d5a7ebc",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  },
  "4f521ebd7769aa44": {
@@ -5275,7 +5275,122 @@
   "id": "4f521ebd7769aa44",
   "content_hash": "8df416817240adb3",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-05T11:43:35+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
+  "is_open": true
+ },
+ "ee1700d7e2ea1737": {
+  "source": "ashby",
+  "source_id": "813ac772-0e4f-468e-add1-baaf0eff36d3",
+  "company": "ICEYE",
+  "title": "Stock Coordinator Intern",
+  "url": "https://jobs.ashbyhq.com/iceye/813ac772-0e4f-468e-add1-baaf0eff36d3",
+  "description": "Role highlights:\n\n\n\n - Stock Coordinator Intern\n\n - Location: Espoo, Finland\n\n - Department:  Global Manufacturing Organisation\n\n - Reports to: [title of manager]\n\n - Employment type: Internship\n\n - Workplace model: Office\n\n - Employment is subject to applicable security screening (incl. SUPO, where required)\n\n - We are unable to support relocation for this role. \n   \n\nWhy this role matters:\n\n\n\nAs a Stock Coordinator Intern, you’ll keep ICEYE’s materials accurate and ready for production.\n\n\n\nEvery component that ends up in a satellite is stored, counted and moved by our team, so your work directly supports our production and our missions.\n\n\n\nYou will support our daily stock management, help us keep stock quality high and take part in continuous improvement projects. Along the way, you will also be introduced to our inbound and outbound processes, giving you a broader view of ICEYE logistics operations and the chance to learn and support them as a whole. Our team will train you on our systems and procedures, and you will receive daily support while gradually taking more ownership.\n\n\n\nWho We Are\n\n\nICEYE is the world leader in sovereign intelligence from space. We deliver persistent monitoring capabilities to detect and respond to changes in any location on Earth.\n\n\n\nICEYE owns the world's largest and most advanced SAR (synthetic aperture radar) satellite constellation. To our customers we provide intelligence with unmatched quality, latency and revisit times, in any weather, day or night. To governments who choose to operate their own constellation we provide this proven capability as a sovereign system.\n\n\n\nICEYE-built constellations serve customers in defence and intelligence, environmental monitoring, insurance and emergency management. We enable fast decisions that contribute to a safer future.\n\n\n\nFounded and headquartered in Finland, ICEYE operates globally with over 1000 employees across Europe, North America, the Middle East, and Asia-Pacific.\n\n \n\n\n\nYour day-to-day responsibilities \n\n \n\n - Support daily stock management by receiving, storing and picking materials correctly\n\n - Help keep stock quality high and counts accurate, so the system always matches what is on the shelf\n\n - Raise issues early and clearly\n\n - Learn our inbound and outbound processes and support them as part of ICEYE logistics operations\n\n - Take part in continuous improvement projects and, over the internship, start suggesting and driving improvements\n\n\n\n\nWhat we’re looking for\n\n\n\nNo previous experience is required. If you are precise, service minded and curious about how material flows in a space company, we will train you and help you get started.\n\n\n\nMust haves:\n\n\n - Current studies or recent graduation in logistics, supply chain, engineering or a related field\n\n - Good IT skills, including Excel and/or Google Sheets, and a willingness to learn new systems\n\n - Readiness for hands-on work, such as moving light to medium items, printing labels and organising shelves\n\n - High attention to detail\n\n - Fluent spoken and written English\n\n\n\nNice to haves:\n\n\n - Fluent Finnish\n\n - Experience working in a warehouse, logistics or goods receiving environment, including familiarity with inbound and outbound processes\n\n - Experience with an enterprise resource planning (ERP) or warehouse management system (WMS), such as NetSuite or SAP\n\n - Experience with simple material handling equipment, such as pallet jacks and cargo dollies\n\n\n\nApplication Process\n\n - Outline the stages of this role, including task stages.\n\n\n\n\nWORKING AT ICEYE\n\nAt ICEYE, you’ll join a diverse and highly engaged team united by the ambition to make the impossible possible. As a global scale-up, we combine speed and ambition with the opportunity to take real ownership from day one. Your growth, wellbeing, and success are a priority, with continuous professional development, training opportunities, and a culture where collaboration is how we win.\n\n\nHOW WE WORK (OUR VALUES)\n\nMake the impossible possible: We set ambitious goals and stay calm under pressure. We bring grit, optimism, and ownership when things get hard, and we keep moving until we find a way.\n\n - Be curious: Go deep, ask questions, listen carefully, and think critically. Understand the “why” behind decisions.\n\n - See the big picture: Stay close to what’s happening across the company so you can make better decisions. Consider how your work affects others.\n\n - Drive effective teamwork: Create psychological safety, invite different perspectives, and build inclusive teams. There are no bad questions.\n\n - Act as one team: We win together. We match tasks to the right owner and stay agile as priorities shift.\n\n - Have fun:  What we do matters—and it should be enjoyable. Celebrate progress, take pride in results, and share the wins.\n   \n\n\nBENEFITS\n\nOur benefits are designed to support your health and wellbeing, at work and beyond. We keep improving them based on employee feedback, and offerings vary by location. Talent Attraction will confirm what applies for this role and location during the process.\n\nBase salary range for this position is dependent on experience, and will be negotiated individually.\n\n\n\n\nOUR COMMITMENT TO DIVERSITY, EQUITY, AND INCLUSION\n\nWe want ICEYE to be a place where people can be themselves and do great work. Different backgrounds and perspectives make us stronger, which is why we work to create an environment where people feel included, respected, and able to speak up. Whatever your background, we want you to bring your authentic self to the table.\n\nWe’re committed to fair, inclusive hiring and equal opportunity. Everyone is welcome to apply. If you need any adjustments or support during the recruitment process, tell us—we’ll do our best to help.\n\nApply now to start your ICEYE journey, and help us continue to make the impossible possible together. Read more about ICEYE and working with us at iceye.com http://iceye.com.\n\n",
+  "posted_at": "2026-11-06T08:59:02+00:00",
+  "deadline": null,
+  "pay": null,
+  "industry": "",
+  "company_slug": "iceye",
+  "city": "Espoo",
+  "country": "FI",
+  "type": "Internship",
+  "mode": "Hybrid",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Excel modelling"
+  ],
+  "fields": [
+   "Industrial Engineering"
+  ],
+  "about": "Every component that ends up in a satellite is stored, counted and moved by our team, so your work directly supports our production and our missions.",
+  "bullets": [
+   "Stock Coordinator Intern",
+   "Location: Espoo, Finland",
+   "Department: Global Manufacturing Organisation"
+  ],
+  "enriched": false,
+  "id": "ee1700d7e2ea1737",
+  "content_hash": "b63440ca4777c7c4",
+  "first_seen": "2026-11-06T11:41:06+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
+  "is_open": true
+ },
+ "2b3662a61fe8e635": {
+  "source": "jobtech",
+  "source_id": "31693663",
+  "company": "REGION SKÅNE",
+  "title": "Studentmedarbetare, Energisystem, till Regional utveckling i Malmö",
+  "url": "https://recruit.visma.com/spa/public/apply?guidAssignment=e4eb32d9-dd51-42d2-accd-92234b61cef5&publishCode=PB&TK=d54f9f82-252a-44e1-a85d-1002252e0ca1",
+  "description": "Gör skillnad. Varje dag.\r\n\r\nÄr du student med ett stort intresse för energiförsörjning och vill bidra till hållbara energilösningar i Skåne? Välkommen till oss på Regional utveckling som nu söker studentmedarbetare med fokus på att stärka Skånes energiförsörjning!\r\n\r\nVårt uppdrag är att utifrån politiska beslut främja utveckling, hållbar tillväxt och sysselsättning för hela Skåne. Vi verkar som motor och samlad kraft för den regionala utvecklingen. Avdelningen är indelad i tio enheter som arbetar inom bland annat infrastruktur, digitalisering, innovation, planering, miljö, klimat, hälsa, näringslivsutveckling, investeringsfrämjande, internationalisering och samhällsanalys.\r\n\r\nEnheten för grön omställning och friluftsliv finns både i Kristianstad och Malmö, där din huvudplacering är i Malmö. Hos oss arbetar vi såväl strategiskt som operativt med gröna omställningsfrågor, såsom energi, vatten, biobaserad och cirkulär ekonomi, samt utveckling av rekreativa leder.\r\n\r\nSom studentmedarbetare i Region Skåne erbjuder vi dig en arbetsplats i ständig utveckling där du får möjlighet att praktisera dina akademiska kunskaper i utvecklings- och förbättringsarbete men också bidra i det operativa arbetet. Projektet studentmedarbetare syftar till att underlätta övergången från studier till arbete för dig som student och samtidigt stärka Region Skånes betydelse som framtida arbetsgivare.  \r\n\r\n1 plats(er). \r\n\r\nARBETSUPPGIFTER\r\nSom studentmedarbetare är du med och stöttar vårt arbete kring energifrågor och får samtidigt möjlighet att själv utvecklas. Arbetsuppgifterna kan exempelvis inkludera; stöd vid exempelvis planering och genomförande av möten och evenemang, men även utredning/analys samt rapportering av avgränsade frågeställningar på energiområdet. \r\n\r\nDu arbetar i ett team med engagerade kollegor från flera olika enheter på Regional utveckling. Du arbetar primärt med frågor kopplat till Skånes Effektkommission. I det regionala utvecklingsarbetet samarbetar vi med andra samhällsaktörer så som näringsliv, kommuner, länsstyrelse, nationella myndigheter och akademin. \r\n\r\nVårt arbete syftar till att främja energieffektivisering, energiflexibilitet, utbyggnad av elnätet, samt en utökad tillförsel av el, genom mer fossilfri elproduktion.\r\n\r\nDetta är en studentmedarbetartjänst vilket innebär att du kommer arbeta max 15 timmar i veckan efter överenskommelse under max ett år.\r\n\r\nKVALIFIKATIONER\r\nVi välkomnar dig som har läst minst 120 högskolepoäng inom ett relevant område, exempelvis energi och miljö, samhällsvetenskap, statsvetenskap, nationalekonomi, samhällsplanering, hållbar utveckling eller motsvarande. Du har minst ett år kvar av dina studier samt goda språkkunskaper i svenska i såväl tal som skrift. Förutom din elektroniska ansökan behöver du bifoga ett Ladokutdrag som styrker att du har läst minst 120 högskolepoäng av en pågående utbildning inom relevant område för tjänsten.\r\n\r\nFör tjänsten som studentmedarbetare krävs även att du:\r\n• Har god förmåga att söka, bearbeta och sammanställa information från olika källor.\r\n• Är strukturerad och noggrann, med förmåga att dokumentera möten och hålla ordning på information och uppgifter.\r\n• Kan arbeta självständigt med avgränsade uppgifter och samtidigt samarbeta med kollegor.\r\n• Har god förmåga att planera och prioritera arbetsuppgifter samt hålla överenskomna tidsramar.\r\n• Vana vid Microsoft 365 eller motsvarande digitala verktyg för dokumentation, planering och presentationer.\r\n\r\nDet är meriterande med:  \r\n• Kunskap om och intresse för energisystemet och energiomställningen.\r\n• Grundläggande kunskap om elsystemet, energipolitik, energimarknader, energiförsörjning eller offentliga styrmedel.\r\n• Erfarenhet av att arrangera möten, seminarier, workshops eller andra evenemang.\r\n• Erfarenhet av mötesanteckningar, rapportskrivning, informationssammanställning eller enklare utredningsarbete.\r\n• Erfarenhet av arbete inom offentlig sektor, en organisation, ett projekt eller en verksamhet med många samverkansparter.\r\n\r\nLönespannet för studentmedarebatre är 23 000  24 500 kr. \r\nLänk till aktuellt kollektivavtal hittar du här: \r\nHuvudöverenskommelse (HÖK T) med AkademikerAlliansen - SKR: https://skr.se/kollektivavtal/huvudoverenskommelsehok/huvudoverenskommelsehoktmedakademikeralliansen.8206.html  \r\nÖverenskommelse om Bestämmelser för studentmedarbetare, Studentmedarbetaravtalet:\r\nhttps://skr.se/kollektivavtal/lonekollektivavtalvidsidanavhok/overenskommelseombestammelserforstudentmedarbetarestudentmedarbetaravtalet.8236.html\r\nAllmänna bestämmelser (AB) - SKR: https://skr.se/kollektivavtal/allmannabestammelserab.655.html\r\n\r\nI denna rekrytering tillämpas löpande urval. Varmt välkommen med din ansökan!  \r\n\r\nAnställningsform: Tidsbegränsad anställning.\r\nVaraktighet:, tillträde: Tillträde enligt överenskommelse.\r\nOmfattning: Max 15 h/vecka\r\n\r\nRegion Skåne finns till för att alla som bor i Skåne ska må bra och känna framtidstro. Genom gränslösa samarbeten och omtanke skapas de bästa förutsättningar för ett hälsosamt liv  inom näringsliv, kollektivtrafik, kultur och hälso- och sjukvård  i Skåne. Tillsammans gör vi livet mera möjligt. \r\n\r\nKoncernkontoret är regionstyrelsens förvaltning och Region Skånes huvudkontor vars uppdrag är att leda, driva, samordna, följa upp och utveckla regionens verksamhet. Koncernkontorets drygt 950 medarbetare arbetar med regionens hälso- och sjukvård, det regionala utvecklingsuppdraget samt regionala stödfunktioner. Våra arbetsplatser finns främst på Rådhuset i Kristianstad och på Dockplatsen i Malmö.\r\n\r\nPå  https://www.skane.se/ledigajobb kan du se i vilket skede Region Skånes rekryteringar befinner sig och hur många som har sökt tjänsterna. \r\n\r\nOm du har skyddade personuppgifter ska du kontakta den kontaktperson som finns angiven i annonsen så att din ansökan blir hanterad enligt särskilda rutiner.\r\nNär du söker ett jobb hos Region Skåne blir din ansökan en allmän handling enligt offentlighetsprincipen. Uppgifterna behandlas och sparas enligt da",
+  "posted_at": "2026-11-06T01:35:47+00:00",
+  "deadline": "2026-11-29T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "2321000255",
+  "city": "Malmö",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Electrical Engineering",
+   "Economics & Business"
+  ],
+  "about": "Detta är en studentmedarbetartjänst vilket innebär att du kommer arbeta max 15 timmar i veckan efter överenskommelse under max ett år.",
+  "bullets": [
+   "Har god förmåga att söka, bearbeta och sammanställa information från olika källor.",
+   "Är strukturerad och noggrann, med förmåga att dokumentera möten och hålla ordning på information och uppgifter.",
+   "Kan arbeta självständigt med avgränsade uppgifter och samtidigt samarbeta med kollegor."
+  ],
+  "enriched": false,
+  "id": "2b3662a61fe8e635",
+  "content_hash": "c22c37d0313ad5e8",
+  "first_seen": "2026-11-06T11:41:06+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
+  "is_open": true
+ },
+ "51e682cde671c095": {
+  "source": "jobtech",
+  "source_id": "31692126",
+  "company": "Trafikverket",
+  "title": "Vill du utvecklas inom systemutveckling? Bli studentmedarbetare",
+  "url": "https://trv.heroma.se/prod/TRVpp01/ExternWebbV2/LedigaJobb/EW2PageAnnons.aspx?arenderef=8470874175917609204",
+  "description": "Är du intresserad av en framtid inom systemutveckling? Hos oss får du möjlighet att bygga praktisk erfarenhet vid sidan av dina studier som studentmedarbetare i ett utvecklingsteam.\nArbetsuppgifter\nSom studentmedarbetare hos oss kommer du att vara en del av ett utvecklingsteam där du får vara med att förbättra våra system.\nDu kommer att arbeta med programmering där uppgiften är att modernisera de statistikrapporter som vi inom telekom använder idag. Arbetet kommer att resultera i en förståelse för hur våran leverans fungerar och vara med att förbättra leveransen.\nDu kommer att arbeta med verkliga uppgifter där du får stöd av erfarna kollegor. Det ger dig en möjlighet att omsätta kunskaperna från dina studier i praktiken och samtidigt utveckla din kompetens inom systemutveckling.\nArbetet innefattar stora friheter där du får använda dina kunskaper att ta fram moderna statistikrapporter genom att använda Angular.\nAnställningen pågår under terminen med eventuell möjlighet till förlängning ytterligare terminer.\nKvalifikationer\nVem är du?\nDu är lösningsorienterad och har förmågan att sätta dig in i olika arbetsuppgifter. Du motiveras av ett aktivt medarbetarskap där du på ett målmedvetet sätt tar ansvar för dina arbetsuppgifter samtidigt som du är uppmärksam på hur du är en del av och bidrar till helheten genom att samverka med andra.\nDu studerar heltid på högskolenivå inom IT och har avklarat minst 120 högskolepoäng\nDu får inte ha påbörjat forskarutbildning\nDu har genom dina studier eller på annat sätt skaffat dig grundläggande kunskaper inom programmering\nÖvrig information\nSom en del av vårt team kommer du att arbeta 25 %, vilket motsvarar ungefär 10 timmar i veckan. Anställningen pågår under en termin i taget. Vi förstår vikten av att anpassa arbetstiderna efter dina studier och därför kommer vi tillsammans att diskutera arbetstider för att säkerställa att det passar dig och dina studier.\n#studentmedarbetare\nAnsökan\nOm du har skyddade personuppgifter ska du kontakta ansvarig chef för rekryteringen så att din ansökan blir hanterad enligt särskilda rutiner. Du hittar namn och kontaktuppgifter till chefen i annonsen.\nDetta är en cv-fri rekrytering. Vi vill att de ska vara lätt att söka jobb, så du söker genom att svara på några frågor. Däremot vill vi att du bifogar ett aktuellt resultatintyg för dina studier.\nFör en träffsäker och objektiv rekrytering använder vi urvalsfrågor istället för CV samt webbaserade tester i vårat urval. Testerna är ett objektivt verktyg helt oberoende av ålder, kön, etnicitet etc. som gör att de är rättvisa och motverkar diskriminering. Det innebär att alla sökanden bedöms på samma sätt. Testerna kommer att skickas via mail (noreply@heroma.se) efter att ansökningstiden har gått ut så ha därför koll på din mail.\nFör att undvika att du missar viktig information om din ansökan behöver du se till att hålla dig uppdaterad via Min karriärsida! Vi använder främst mail (från mejladress: noreply@heroma.se) för att göra utskick och kallelser. Kolla din inkorg och även skräppost/SPAM regelbundet under denna tid för att vara säker på att du får all information från oss! Du kan med fördel även lägga till den mejladressen i dina mejlkontakter.\nPå Trafikverket jobbar vi med att göra Sverige närmare. Vi tror på att en förening av olika erfarenheter, bakgrunder och perspektiv är den bästa grunden för att bygga en arbetsplats fri från diskriminering och en miljö där alla trivs och gör sitt bästa. Vi tror på mångfald där den gemensamma nämnaren är pålitlighet, engagemang och mod. För det är så vi bäst representerar vårt samhälle.",
+  "posted_at": "2026-11-05T15:50:56+00:00",
+  "deadline": "2026-11-19T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "2021006297",
+  "city": "Borlänge",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Computer Science"
+  ],
+  "about": "Du kommer att arbeta med programmering där uppgiften är att modernisera de statistikrapporter som vi inom telekom använder idag.",
+  "bullets": [],
+  "enriched": false,
+  "id": "51e682cde671c095",
+  "content_hash": "5302dac5423547d6",
+  "first_seen": "2026-11-06T11:41:06+00:00",
+  "last_seen": "2026-11-06T11:41:06+00:00",
   "is_open": true
  }
 }
