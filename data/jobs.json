@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3760,7 +3760,7 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "100b3ca237dbdd8f": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3900,7 +3900,7 @@
   "id": "eb4f219fa1a59427",
   "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "d3485f4a9eeaa44a": {
@@ -3972,7 +3972,7 @@
   "id": "14d9f705e194a68d",
   "content_hash": "d81b769af7517056",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "284af395742f5996": {
@@ -4008,7 +4008,7 @@
   "id": "284af395742f5996",
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "a34336eda1249908": {
@@ -4044,7 +4044,7 @@
   "id": "a34336eda1249908",
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "4abdcf409ba10748": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4131,7 +4131,7 @@
   "id": "a95ce12d79fb4275",
   "content_hash": "5653350baebbbb1d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "cf272da6fb5b9a09": {
@@ -4168,7 +4168,7 @@
   "id": "cf272da6fb5b9a09",
   "content_hash": "7a077a650396390f",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "57c9f2d263faff77": {
@@ -4206,7 +4206,7 @@
   "id": "57c9f2d263faff77",
   "content_hash": "1176878e741c4389",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "3de5a0e4bc3f14d7": {
@@ -4242,7 +4242,7 @@
   "id": "3de5a0e4bc3f14d7",
   "content_hash": "556a1352a82130af",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "c258d2c245824aa5": {
@@ -4277,7 +4277,7 @@
   "id": "c258d2c245824aa5",
   "content_hash": "f0be991e564c61aa",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "3245c704630c7252": {
@@ -4312,7 +4312,7 @@
   "id": "3245c704630c7252",
   "content_hash": "e61dd9f770bbdf73",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "aed461abf42cc158": {
@@ -4419,7 +4419,7 @@
   "id": "e72a18c9c561a77e",
   "content_hash": "fec5d49654245f1c",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "7ae00f5246748da3": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4490,7 +4490,7 @@
   "id": "94710df98f75c84c",
   "content_hash": "6b5d98c35e677409",
   "first_seen": "2026-10-27T09:26:23+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "def938b14cca9b5b": {
@@ -4529,7 +4529,7 @@
   "id": "def938b14cca9b5b",
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-10-28T10:08:15+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "feb9a7e5e7a79365": {
@@ -4614,7 +4614,7 @@
   "id": "ce2b0850d462aa4b",
   "content_hash": "5bb55777b0791cf8",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "eb89c946085ac4c6": {
@@ -4654,7 +4654,7 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "fc2fd0909073dd88": {
@@ -4700,7 +4700,7 @@
   "id": "fc2fd0909073dd88",
   "content_hash": "3ceda89bdce9683c",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "23fe38f659311b9d": {
@@ -4741,7 +4741,7 @@
   "id": "23fe38f659311b9d",
   "content_hash": "d54083e320f2a058",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "b7b7e83811bd9251": {
@@ -4783,7 +4783,7 @@
   "id": "b7b7e83811bd9251",
   "content_hash": "f3da8d89eed4020c",
   "first_seen": "2026-11-02T11:49:32+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "8134c83ba1d67ea7": {
@@ -4862,7 +4862,7 @@
   "id": "bc568d7d093379ea",
   "content_hash": "98e42f524c9c4b25",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "ffe2c2c0478a0b1d": {
@@ -4897,7 +4897,7 @@
   "id": "ffe2c2c0478a0b1d",
   "content_hash": "b0510c91c2be3356",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "00f8585cc49c03e9": {
@@ -4932,7 +4932,7 @@
   "id": "00f8585cc49c03e9",
   "content_hash": "26e151521f494ddb",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "32a92c72104454f3": {
@@ -4966,7 +4966,7 @@
   "id": "32a92c72104454f3",
   "content_hash": "c0d712ab093b8135",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "dba1e8c9eacb026f": {
@@ -5002,7 +5002,7 @@
   "id": "dba1e8c9eacb026f",
   "content_hash": "9d5880c4d3f9e7c5",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "5a2c85b82799d60e": {
@@ -5081,7 +5081,7 @@
   "id": "05aadacd4cad0f51",
   "content_hash": "53703d24abeb3f72",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "d1001b3c4ebb0648": {
@@ -5118,7 +5118,7 @@
   "id": "d1001b3c4ebb0648",
   "content_hash": "2d3a2b449cd4d981",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "8ebd286e1ab4059a": {
@@ -5162,7 +5162,7 @@
   "id": "8ebd286e1ab4059a",
   "content_hash": "891bff21aeb573c5",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "75daf09d262b7cd4": {
@@ -5201,7 +5201,7 @@
   "id": "75daf09d262b7cd4",
   "content_hash": "b8d3d7694262135b",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "318ccd4f140162d1": {
@@ -5240,7 +5240,7 @@
   "id": "318ccd4f140162d1",
   "content_hash": "c8ae5f5d4d5a7ebc",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "4f521ebd7769aa44": {
@@ -5275,7 +5275,7 @@
   "id": "4f521ebd7769aa44",
   "content_hash": "8df416817240adb3",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "ee1700d7e2ea1737": {
@@ -5315,7 +5315,7 @@
   "id": "ee1700d7e2ea1737",
   "content_hash": "b63440ca4777c7c4",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "2b3662a61fe8e635": {
@@ -5355,7 +5355,7 @@
   "id": "2b3662a61fe8e635",
   "content_hash": "c22c37d0313ad5e8",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "51e682cde671c095": {
@@ -5390,7 +5390,7 @@
   "id": "51e682cde671c095",
   "content_hash": "5302dac5423547d6",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "8a31d954d7104b5d": {
@@ -5428,7 +5428,7 @@
   "id": "8a31d954d7104b5d",
   "content_hash": "6b5e69eb5d223bb0",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  },
  "fab3144eb31f4147": {
@@ -5467,7 +5467,92 @@
   "id": "fab3144eb31f4147",
   "content_hash": "3fc6a5ba4f05c583",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-08T10:53:27+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
+  "is_open": true
+ },
+ "453b92707c1ce553": {
+  "source": "ashby",
+  "source_id": "de5a67b2-af22-41a1-b615-32213e65160c",
+  "company": "ICEYE",
+  "title": "ICEYE Intern Lab: Product Management",
+  "url": "https://jobs.ashbyhq.com/iceye/de5a67b2-af22-41a1-b615-32213e65160c",
+  "description": "Role highlights\n\n - Role: Product Intern, ICEYE Intern Lab\n\n - Location: Espoo, Finland (onsite), potentially with some travel\n\n - Department: Product Management\n\n - Employment type: Fixed-term, fully paid internship (3-6 months, flexible)\n\n - Start: April / early May 2027\n\n - Employment is subject to applicable security screening (incl. SUPO, where required)\n   \n\n\nWHY THIS ROLE IS DIFFERENT\n\nFew people get to start their product career in space. You will.\n\nICEYE Intern Lab is a fully paid, onsite internship for high-potential students who want to see what great product work looks like on real problems. You don't need product management experience to apply. We're looking for curious, fast-learning students with a strong academic record, ideally in a technical field, and a hands-on builder mindset.\n\nYou'll join one of our Product teams as a contributing team member, working on a live project (not a simulation) with a dedicated manager and a mentor. You'll work closely with engineers, scientists and senior leaders, and your work will shape how customers use satellite data to make decisions that matter.\n\nThe internship is fast and demanding, and it will stretch you. After 90 days, your manager and HRBP review your progress and discuss potential full-time opportunities where there is an approved opening.\n\nSpots are limited and we review applications on a rolling basis, so apply early.\n\n\n\n\nWHO WE ARE\n\nICEYE is the world leader in sovereign intelligence from space. We deliver persistent monitoring capabilities to detect and respond to changes in any location on Earth.\n\nICEYE owns the world's largest and most advanced SAR (synthetic aperture radar) satellite constellation, giving customers intelligence with unmatched quality, latency and revisit times, in any weather, day or night. ICEYE-built constellations serve customers in defence and intelligence, environmental monitoring, insurance and emergency management.\n\nFounded and headquartered in Finland, ICEYE operates globally with over 1000 employees across Europe, North America, the Middle East and Asia-Pacific.\n\n\n\n\nYOUR DAY-TO-DAY RESPONSIBILITIES\n\n - Own a defined piece of a live product project, and help decide what the team builds next and why\n\n - Talk to customers, users and internal experts to understand their problems, and turn what you learn into clear requirements\n\n - Work with engineers and designers from defining a problem through to shipping and measuring the result\n\n - Use data and AI tools to analyse problems, set priorities and explain the tradeoffs behind your recommendations\n\n - Work with sales, solutions, operations and other teams to get what you build into customers' hands\n\n - Present your findings and plans in weekly reviews and demo days\n\n - Learn the technical domain of your team, from satellites and ground systems to the software customers run\n   \n\n\nWHAT WE'RE LOOKING FOR\n\nMust haves\n\n - Currently enrolled as a Bachelor's student (3rd year or later) or Master's student, ideally in a technical field such as engineering, computer science, data science or physics; recent graduates are also eligible\n\n - A strong academic record and a track record of standing out, for example through projects, internships or student communities\n\n - You can break down a problem, design an analysis and test your assumptions with data\n\n - You learn fast and are comfortable digging into how complex systems work with engineers\n\n - You take ownership and can move work forward without formal authority\n\n - Comfortable using AI tools (for example AI assistants and coding agents) to accelerate research, analysis and problem solving\n\n - Strong communication skills and the ability to work in multidisciplinary teams\n\n - Fluent written and spoken English\n\n - Eligible to work onsite in Finland (EU/EEA citizen, or able to secure an appropriate visa with ICEYE's support)\n   \n\nNice to haves\n\n - Business or product exposure, for example a startup, consulting or product team internship, or working closely with a product team as an engineer, analyst or designer\n\n - Experience with SQL, Python or other data tools\n\n - Interest in space, defence or other mission-critical industries\n\nYou...\n\n - are not afraid to ask a lot of questions\n\n - are proactive, resourceful and a hands-on problem solver\n\n - manage your time well in a fast-paced, high-impact environment\n\n - are comfortable giving and receiving feedback\n\n\n\nWHAT ICEYE GIVES\n\n - A paid internship with a dedicated manager and a mentor\n\n - Live projects with real customer impact\n\n - Relocation support and work visa support, if needed.\n\n - A 90-day review and a conversation about full-time opportunities where there is an approved opening\n   \n\n\n\n\nRECRUITMENT PROCESS\n\nApplications close on 20.12.2026. We review applications on a rolling basis, so apply early. The internship starts in April/May 2027.\n\n 1. Application: Submit your CV and answer a few short questions instead of a cover letter (about 30 minutes).\n\n 2. Mentor conversation (30 min): A chat with your future mentor about how you work, learn and collaborate.\n\n 3. Product team interview (60 min): A conversation with the Product team, including a short practical exercise. We care more about how you approach the problem than about getting a perfect answer.\n\n 4. Final interview (30min): A conversation with VP, Product Management or CPO to double click on expectations and culture fit.\n\n 5. Decision and offer.\n    \n\n\n\nWORKING AT ICEYE\n\nAt ICEYE, you'll join a diverse and highly engaged team united by the ambition to make the impossible possible. As a global scale-up, we combine speed and ambition with the opportunity to take real ownership from day one. Your growth, wellbeing and success are a priority, with continuous learning and a culture where collaboration is how we win.\n\nHow we work (our values)\n\n - Make the impossible possible: We set ambitious goals, stay calm under pressure, and keep moving until we find a way.\n\n - Be curious: Go deep, ask questions, listen",
+  "posted_at": "2026-11-09T08:37:02+00:00",
+  "deadline": null,
+  "pay": null,
+  "industry": "",
+  "company_slug": "iceye",
+  "city": "Espoo",
+  "country": "FI",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Product management",
+   "SQL",
+   "Python"
+  ],
+  "fields": [
+   "Data Science",
+   "Economics & Business",
+   "Computer Science"
+  ],
+  "about": "You'll join one of our Product teams as a contributing team member, working on a live project (not a simulation) with a dedicated manager and a mentor.",
+  "bullets": [
+   "Role: Product Intern, ICEYE Intern Lab",
+   "Location: Espoo, Finland (onsite), potentially with some travel",
+   "Department: Product Management"
+  ],
+  "enriched": false,
+  "id": "453b92707c1ce553",
+  "content_hash": "518aa941ac5e4e5d",
+  "first_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
+  "is_open": true
+ },
+ "6d98ce56bedf8ed1": {
+  "source": "jobtech",
+  "source_id": "31703471",
+  "company": "Poolia AB",
+  "title": "Sommarjobb 2027 - Ekonomiassistent på Poolia i Jönköping",
+  "url": "https://karriar.poolia.se/jobs/8688062-sommarjobb-2027-ekonomiassistent-pa-poolia-i-jonkoping/applications/new?promotion=2286656-arbetsformedlingen",
+  "description": "Ekonomistudenter, se hit! Vi söker nu dig som vill ha ett spännande och meriterande sommarjobb inför sommaren 2027. Vi samarbetar med olika företag runt om i Jönköping och söker därför dig som är ambitiös och vill ta chansen att bygga på ditt CV samt skaffa dig erfarenheter under sommaren 2027.\n\nVi söker dig som går första eller andra året på en tre- eller fyrårig ekonomiutbildning och är tillgänglig omkring mellan vecka 24 och 33 kommande sommar. Anmäl ditt intresse genom att skicka in en ansökan redan nu, vi har olika möjligheter inom ekonomi som vi matchar mot din ansökan. Urval och intervjuer sker under november till januari 2026/2027. Varmt välkommen med din ansökan redan idag!\n\nOm tjänsten\nArbetsuppgifterna kommer att variera beroende på roll och arbetsplats. Vi på Poolia arbetar brett inom ekonomi vilket innebär att vi söker konsulter för roller inom hela ekonomiflödet.\nExempel på vanligt förekommande arbetsuppgifter är:\n• Löpande bokföring\n• Kund- och leverantörreskontra\n• Fakturaskanning\n• Ekonomisupport\n• Löneadministration\n• Allmän administration\n\nVi efterfrågar en variation av olika erfarenheter och kompetenser, därav är det av stor vikt att det framgår tydligt i din ansökan vilka arbetslivserfarenheter och kunskaper du besitter.\n\nVem är du?\nVi söker dig som studerar första eller andra året på en eftergymnasial utbildning inom ekonomi. Med fördel första året på en treårig högskoleutbildning eller första till andra året på en civilekonomutbildning. Vi förväntar oss god datorvana och goda kunskaper i Office-paketet, i synnerhet Excel. Därtill talar och skriver du flytande på både svenska och engelska.\nFör att passa i en roll inom ekonomi bör du vara analytisk, strukturerad och ansvarstagande. Du har en god kommunikativ förmåga och besitter en naturlig känsla för service. Din ambition ligger i att få utvecklas och skaffa dig mer erfarenhet hos någon av våra samarbetspartners.\n\nOm Poolia\nVi på Poolia tillhör de företag i Sverige som har absolut längst erfarenhet av rekrytering och konsultlösningar inom ekonomi. Detta gör att vi kan erbjuda dig unika möjligheter oavsett vad du vill jobba med inom ekonomins hela spektra. Som konsult hos oss blir du en del av Poolia Jönköpings breda nätverk, vilket innefattas av bland annat ett stort antal ekonomer i olika roller och befattningar runt om i Jönköpings län.\nSom konsult kommer du lära känna Louice som arbetar som konsultchef hos oss på Poolia, likaså våra bemannings- och rekryteringsassistenter Alexandra och Nahom. Vårt största fokus är tillgänglighet och transparens. Du som konsult ska alltid känna dig sedd och få snabba svar på dina frågor. Utöver det så besöker vi dig på din arbetsplats och följer din utveckling.\n\nVarmt välkommen med din ansökan. Vi ser fram emot att få träffa dig!",
+  "posted_at": "2026-11-09T11:13:05+00:00",
+  "deadline": "2027-01-10T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5564267655",
+  "city": "Jönköping",
+  "country": "SE",
+  "type": "Summer job",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Excel modelling"
+  ],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "",
+  "bullets": [
+   "Löpande bokföring",
+   "Kund- och leverantörreskontra",
+   "Fakturaskanning"
+  ],
+  "enriched": false,
+  "id": "6d98ce56bedf8ed1",
+  "content_hash": "7bc546d99a38142f",
+  "first_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-09T12:19:08+00:00",
   "is_open": true
  }
 }
