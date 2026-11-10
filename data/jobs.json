@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3760,7 +3760,7 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "100b3ca237dbdd8f": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3900,7 +3900,7 @@
   "id": "eb4f219fa1a59427",
   "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "d3485f4a9eeaa44a": {
@@ -3972,7 +3972,7 @@
   "id": "14d9f705e194a68d",
   "content_hash": "d81b769af7517056",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "284af395742f5996": {
@@ -4008,7 +4008,7 @@
   "id": "284af395742f5996",
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "a34336eda1249908": {
@@ -4044,7 +4044,7 @@
   "id": "a34336eda1249908",
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "4abdcf409ba10748": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4131,7 +4131,7 @@
   "id": "a95ce12d79fb4275",
   "content_hash": "5653350baebbbb1d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "cf272da6fb5b9a09": {
@@ -4168,7 +4168,7 @@
   "id": "cf272da6fb5b9a09",
   "content_hash": "7a077a650396390f",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "57c9f2d263faff77": {
@@ -4206,7 +4206,7 @@
   "id": "57c9f2d263faff77",
   "content_hash": "1176878e741c4389",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "3de5a0e4bc3f14d7": {
@@ -4242,7 +4242,7 @@
   "id": "3de5a0e4bc3f14d7",
   "content_hash": "556a1352a82130af",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "c258d2c245824aa5": {
@@ -4277,7 +4277,7 @@
   "id": "c258d2c245824aa5",
   "content_hash": "f0be991e564c61aa",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "3245c704630c7252": {
@@ -4288,7 +4288,7 @@
   "url": "https://jobs.smartrecruiters.com/AFRY/744000157485969-exjobb-inom-karnkraftssakerhet?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
   "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är hängivna experter inom industri, energi- och infrastruktur, som skapar värde för kommande generationer. AFRY har en global räckvidd med djupa rötter i Norden. Tillsammans accelererar vi omställningen till ett mer hållbart samhälle.\n\nJobbeskrivning\nVill du göra ditt examensarbete inom kärnkraftssäkerhet hos ett av världens ledande teknikkonsultbolag? Då kan detta vara möjligheten för dig!\nAFRY Nuclear har varit verksamma inom den svenska kärnkraftsindustrin sedan de första reaktorerna byggdes i Sverige. I dagsläget är vi en av den svenska kärnkraftsindustrins viktigaste partner. Vi hjälper våra kunder att utveckla metoder för hållbar och säker kärnkraft och driver uppdrag i kärnkraftens alla faser – från nybyggnation och modernisering till livstidsförlängning, nedmontering och rivning.\nPå AFRY strävar vi alltid efter att utöka och stärka vår kompetens, och söker nu en eller två civilingenjörsstudenter som vill göra sitt exjobb tillsammans med oss. Exjobbet passar dig som är intresserad av reaktorfysik, kärnfysik, kärnkemi, kärnkraftsäkerhet och/eller miljöteknik. Exempel på tidigare arbeten och förslag är:\nModellering av spridning av radionuklider från en SMR i marin miljö\nLicensiering och krav vid planering av ett mellanlager för radioaktivt avfall\nSpridningsmodellering från utsläpp vid ett hypotetiskt kärnkraftshaveri\nLastföljning och effektreglering med kärnkraft, fokus på SMR\nSveriges uranbehov i framtiden, med en flotta av SMRer\nModellering av väderberoende radionukliddeposition med AFRY Intelligent Scenario Modelling (AISM)\nBedömning av provtagnings- och databehov för omgivningskontroll runt SMR – jämförelse av SMR och fullskaliga kärnkraftverk\nBedömning av risk för den naturliga miljön (icke-mänsklig biota) från SMR, jämförelse med fullskaliga kärnkraftverk\n\nTanken är att exjobben dels tar ett helhetsgrepp om aktuellt specialområde, dels fokuserar djupare inom ett par utvalda områden i samråd med handledaren. Har du en egen idé om ett exjobb diskuterar vi gärna det och ser om det kan vara passande för vår verksamhet och identifierade behov framåt.\nTill stöd kommer det att finnas ett team av olika experter, med en officiell handledare på AFRY inom sektionen kärnkraftsäkerhet och licensiering. Uppstart sker tidigast v.3 2027 och genomförande under våren (motsvarande 30 HP). Placeringsort är på vårt huvudkontor i Solna.\n\nKvalifikationer\nExjobbet riktar sig till dig som är i slutskedet av din civilingenjörsutbildning inom Energisystem, Teknisk Fysik, Elektroteknik, System i teknik och samhälle, Industriell Ekonomi, eller motsvarande. Du har intresse av några av ovan nämnda områden och av att lära känna ett stort internationellt teknik- och ingenjörsföretag. Du kan uttrycka dig obehindrat på både svenska och engelska i såväl tal som skrift. Har du läst kurser inom kärnkraft ser vi det som ett plus. \nSom person är det viktigaste för oss att du känner igen dig i våra värdeord Brave, Devoted, Teamplayers som förenar oss på AFRY. Det betyder att vi gillar att samarbeta och dela med oss av kunskap, att vi är drivna och nyfikna på att hela tiden lära oss nya saker.\n\nYtterligare information\nExjobb hos AFRY Nuclear erbjuder dig möjligheten att fördjupa både din kunskap och förståelse för kärnkraftsindustrin. Förutom att du kommer få samarbeta med erfarna kärnkraftsexperter, kommer du också ges möjlighet att arbeta tillsammans med kollegor från andra kompetensområden.\nExjobb utgör även en grund för en möjlig framtida rekrytering. Som anställd på AFRY erbjuder vi en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag och en förmånsportal med en mängd rabatter. Vi satsar på våra medarbetare och har individuella utvecklingsplaner där du får möjligheten att gå utvecklande kurser och certifieringar inom ramen för din tjänst och dina karriärmål. Vår personalklubb arrangerar sociala aktiviteter på och utanför kontoret. Allt från skidresor, stuguthyrning, sjunga i kör till att spela brädspel – det finns något för alla.\nInför din ansökan: \nVänligen skriv i din ansökan vilka 1-3 områden/förslag som du är mest intresserad av, alternativt din egna idé.\nDet finns möjlighet att söka examensarbetet i par men vänligen skicka in separata ansökningar.\nSista ansökningsdag är 22 november 2026.\nKontaktperson för frågor:\nHans Henriksson, Service Area Manager för Kärnkraftsäkerhet och licensiering\nhans.h.henriksson@afry.com (mailto:hans.h.henriksson@afry.com)\n\nExamensarbetet är inte säkerhetsklassat. Däremot finns krav på drogtest, säkerhetsprövning och registerkontroll för anställning då befattningarna verkar inom säkerhetsklassade områden. För samtliga rekryteringar genomförs referenstagning samt verifiering av utbildning.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
   "posted_at": "2026-10-23T15:56:16+00:00",
-  "deadline": "2026-12-22T23:59:59+00:00",
+  "deadline": "2027-01-09T23:59:59+00:00",
   "pay": null,
   "industry": "",
   "company_slug": "5561206474",
@@ -4312,7 +4312,7 @@
   "id": "3245c704630c7252",
   "content_hash": "e61dd9f770bbdf73",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "aed461abf42cc158": {
@@ -4419,7 +4419,7 @@
   "id": "e72a18c9c561a77e",
   "content_hash": "fec5d49654245f1c",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "7ae00f5246748da3": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4490,7 +4490,7 @@
   "id": "94710df98f75c84c",
   "content_hash": "6b5d98c35e677409",
   "first_seen": "2026-10-27T09:26:23+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "def938b14cca9b5b": {
@@ -4529,7 +4529,7 @@
   "id": "def938b14cca9b5b",
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-10-28T10:08:15+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "feb9a7e5e7a79365": {
@@ -4614,7 +4614,7 @@
   "id": "ce2b0850d462aa4b",
   "content_hash": "5bb55777b0791cf8",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "eb89c946085ac4c6": {
@@ -4654,7 +4654,7 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "fc2fd0909073dd88": {
@@ -4700,7 +4700,7 @@
   "id": "fc2fd0909073dd88",
   "content_hash": "3ceda89bdce9683c",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "23fe38f659311b9d": {
@@ -4741,7 +4741,7 @@
   "id": "23fe38f659311b9d",
   "content_hash": "d54083e320f2a058",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "b7b7e83811bd9251": {
@@ -4783,7 +4783,7 @@
   "id": "b7b7e83811bd9251",
   "content_hash": "f3da8d89eed4020c",
   "first_seen": "2026-11-02T11:49:32+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "8134c83ba1d67ea7": {
@@ -4862,7 +4862,7 @@
   "id": "bc568d7d093379ea",
   "content_hash": "98e42f524c9c4b25",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "ffe2c2c0478a0b1d": {
@@ -4897,7 +4897,7 @@
   "id": "ffe2c2c0478a0b1d",
   "content_hash": "b0510c91c2be3356",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "00f8585cc49c03e9": {
@@ -4932,7 +4932,7 @@
   "id": "00f8585cc49c03e9",
   "content_hash": "26e151521f494ddb",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "32a92c72104454f3": {
@@ -4966,7 +4966,7 @@
   "id": "32a92c72104454f3",
   "content_hash": "c0d712ab093b8135",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "dba1e8c9eacb026f": {
@@ -5002,7 +5002,7 @@
   "id": "dba1e8c9eacb026f",
   "content_hash": "9d5880c4d3f9e7c5",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "5a2c85b82799d60e": {
@@ -5081,7 +5081,7 @@
   "id": "05aadacd4cad0f51",
   "content_hash": "53703d24abeb3f72",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "d1001b3c4ebb0648": {
@@ -5118,7 +5118,7 @@
   "id": "d1001b3c4ebb0648",
   "content_hash": "2d3a2b449cd4d981",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "8ebd286e1ab4059a": {
@@ -5162,7 +5162,7 @@
   "id": "8ebd286e1ab4059a",
   "content_hash": "891bff21aeb573c5",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "75daf09d262b7cd4": {
@@ -5201,7 +5201,7 @@
   "id": "75daf09d262b7cd4",
   "content_hash": "b8d3d7694262135b",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "318ccd4f140162d1": {
@@ -5240,7 +5240,7 @@
   "id": "318ccd4f140162d1",
   "content_hash": "c8ae5f5d4d5a7ebc",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "4f521ebd7769aa44": {
@@ -5275,7 +5275,7 @@
   "id": "4f521ebd7769aa44",
   "content_hash": "8df416817240adb3",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "ee1700d7e2ea1737": {
@@ -5315,7 +5315,7 @@
   "id": "ee1700d7e2ea1737",
   "content_hash": "b63440ca4777c7c4",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "2b3662a61fe8e635": {
@@ -5355,7 +5355,7 @@
   "id": "2b3662a61fe8e635",
   "content_hash": "c22c37d0313ad5e8",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "51e682cde671c095": {
@@ -5390,7 +5390,7 @@
   "id": "51e682cde671c095",
   "content_hash": "5302dac5423547d6",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "8a31d954d7104b5d": {
@@ -5428,7 +5428,7 @@
   "id": "8a31d954d7104b5d",
   "content_hash": "6b5e69eb5d223bb0",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "fab3144eb31f4147": {
@@ -5467,7 +5467,7 @@
   "id": "fab3144eb31f4147",
   "content_hash": "3fc6a5ba4f05c583",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "453b92707c1ce553": {
@@ -5511,7 +5511,7 @@
   "id": "453b92707c1ce553",
   "content_hash": "518aa941ac5e4e5d",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  },
  "6d98ce56bedf8ed1": {
@@ -5552,7 +5552,77 @@
   "id": "6d98ce56bedf8ed1",
   "content_hash": "7bc546d99a38142f",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-09T12:19:08+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
+  "is_open": true
+ },
+ "5d99e6ba89f83f4f": {
+  "source": "jobtech",
+  "source_id": "31708542",
+  "company": "AFRY AB",
+  "title": " Examensarbete: AI-baserad marktäckeanalys från geospatial bilddata",
+  "url": "https://jobs.smartrecruiters.com/AFRY/744000160834292--examensarbete-ai-baserad-marktackeanalys-fran-geospatial-bilddata?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
+  "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är dedikerade experter inom industri, energi och infrastruktur och skapar värde för kommande generationer. AFRY har nordiska rötter med global räckvidd. Våra gemensamma principer – Result driven, Client centric, Empowering och Accountable – vägleder oss i hur vi arbetar, utvecklas och lyckas tillsammans. Var med och accelerera övergången till ett hållbart samhälle. \n\nJobbeskrivning\nBakgrund\nAktuell och tillförlitlig information om terräng och marktäcke är viktig för bland annat kartering, miljöanalys och lägesförståelse. I miljöer där befintligt kartunderlag är begränsat, inaktuellt eller saknas finns ett behov av metoder som snabbt kan omvandla tillgängliga bilddata till användbar geografisk information för att skapa en nulägesbild och fatta välgrundade beslut. \nUtvecklingen inom datorseende och maskininlärning skapar nya möjligheter att automatiskt analysera geospatial bilddata och identifiera olika typer av marktäcke. AI-baserade metoder kan exempelvis användas för att klassificera vegetation, vatten, bebyggelse, vägar och öppen mark och därigenom bidra till att skapa eller uppdatera kartunderlag i miljö med föränderliga förhållanden.  \n \nMål och syfte \nSyftet med examensarbetet är att undersöka och utvärdera AI-baserade metoder för automatisk klassificering av marktäcke från geospatial bilddata. Arbetet ska studera relevanta metoder inom Land Use/Land Cover (LULC), exempelvis bildklassificering och semantisk segmentering. \nMålet är att utveckla ett proof of concept för en eller flera metoder, utvärdera deras prestanda och begränsningar samt lämna rekommendationer för fortsatt utveckling och användning vid skapande och uppdatering av kartunderlag. \n \n\nKvalifikationer\nVi söker dig som \n\nStuderar på högskole- eller universitetsnivå inom exempelvis Datavetenskap, AI/ML, Systemvetenskap, mjukvaruteknik eller motsvarande ingenjörsutbildning\n\n\nIntresse för artificiell intelligens, digitalisering och informationshantering \n\n\nErfarenhet av att använda AI som verktyg, exempelvis inom programmering och mjukvaruutveckling \n\n\nGod kommunikativ förmåga i svenska och engelska, både i tal och skrift \n\n\nPersonliga egenskaper  \n\nSjälvständig och initiativtagande\n\n\nAnalytisk och nyfiken\n\n\nStrukturerad med god problemlösningsförmåga\n\n\nKreativ och intresserad av att utforska nya arbetssätt och tekniska möjligheter\n\n\nIntresse för försvarsbranschen \n\n\nDu kommer ha handledare inom AFRY. \nDetta examensarbete kan genomföras som ensamarbete eller samarbete mellan två studenter, där en lämplig uppdelning i arbetsområden bestäms i samråd utifrån utbildningsinriktning och intresse.  Om ni är två studenter som önskar skriva ihop – skicka då gärna in separata ansökningar med en kommentar om detta i er respektive ansökan.  \nHar du en egen idé om ett examensarbete diskuterar vi gärna det och ser om det kan vara passande för vår verksamhet och identifierade behov framåt. \nTidplan \nUppstart efter överenskommelse, men förslagsvis mitten av januari 2027 och genomförande under våren (motsvarande 30 hp). Exjobbet utförs till största del på vårt huvudkontor i Solna, med viss möjlighet att arbeta på distans. \nSäkerhetsprövning:\nSäkerhetsprövning med registerkontroll kan komma att genomföras då vi har säkerhetsklassad verksamhet inom Defense AFRY.\n\nYtterligare information\nExjobbet utgör en grund för en möjlig framtida anställning hos AFRY. Som anställd på AFRY erbjuder vi en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag och en förmånsportal med en mängd rabatter. Vår personalklubb arrangerar sociala aktiviteter på och utanför kontoret. Allt från skidresor, sjunga i kör till att spela brädspel – det finns något för alla.\nVårt arbete med mångfald är också ständigt pågående, en mix av personligheter och bakgrunder gör oss ännu starkare, mer kreativa och framgångsrika ute på marknaden. Dessutom finns det många sätt att vidareutveckla sig hos oss! Vi satsar på våra medarbetare och har individuella utvecklingsplaner där du får möjligheten att gå utvecklande kurser och certifieringar inom ramen för din tjänst och dina karriärmål.\nNyfiken på att även gå traineeprogram? Läs mer här och anmäl intresse redan nu för start hösten 2027:\nTraineeprogram Defense Följ länk: https://afry.com/sv/traineeprogram-defense\nVi vill att din ansökan består av ett personligt brev samt CV. Beskriv vem du är och vad som gör dig lämpad för detta exjobb hos AFRY! \nSista ansökningsdag är 7 december 2026.\n \nKontaktperson för frågor:\nNiklas Rickenberg, Systems Engineer Defense Infrastructure, nicklas.rickenberg@afry.com\n \n\nVi kan ej ta emot ansökningar via e-post. Sök via länken.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
+  "posted_at": "2026-11-10T10:53:52+00:00",
+  "deadline": "2027-01-09T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5561206474",
+  "city": "Solna",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Data Science"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "5d99e6ba89f83f4f",
+  "content_hash": "922449ad468b8921",
+  "first_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
+  "is_open": true
+ },
+ "73dd0e98be16d9fa": {
+  "source": "jobtech",
+  "source_id": "31708526",
+  "company": "AFRY AB",
+  "title": "Examensarbete: Analys av prestanda hos lokala AI-modeller ",
+  "url": "https://jobs.smartrecruiters.com/AFRY/744000160831290-examensarbete-analys-av-prestanda-hos-lokala-ai-modeller-?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
+  "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är dedikerade experter inom industri, energi och infrastruktur och skapar värde för kommande generationer. AFRY har nordiska rötter med global räckvidd. Våra gemensamma principer – Result driven, Client centric, Empowering och Accountable – vägleder oss i hur vi arbetar, utvecklas och lyckas tillsammans. Var med och accelerera övergången till ett hållbart samhälle. \n\nJobbeskrivning\nBakgrund  \nAI har blivit ett allt viktigare hjälpmedel inom flera branscher, inte minst inom mjukvaruutveckling. Samtidigt kan användningen av tredjepartsmodeller och externa AI-tjänster medföra risker kopplade till datasäkerhet, sekretess och digital suveränitet. Dessa frågor är särskilt viktiga inom försvarsindustrin, där höga krav ställs på hur känslig information hanteras och var data bearbetas. \nDetta examensarbete kommer därför att undersöka open-source AI-modeller som kan köras lokalt. Arbetet kommer att genomföras med en experimentell metod där open-source-modeller med varierande antal parametrar och från olika leverantörer testas och jämförs. \nMål och syfte \nSyftet med examensarbetet är att utvärdera prestanda och lämplighet hos open-source AI-modeller som körs lokalt, med särskilt fokus på användning i miljöer med höga krav på datasäkerhet och sekretess. Målet är att jämföra olika modeller utifrån relevanta prestandamått och identifiera vilka faktorer som påverkar deras förmåga att användas för mjukvaruutveckling i en lokal miljö med höga säkerhetskrav.  \nMöjliga inriktningar:  \n\nPrestanda och beräkningskapacitet \n\n\nHårdvara och systemmiljö \n\n\nVerksamhetsnytta och kravställning \n\n\nSäkerhet vid lokal AI-drift \n\n\nStandardiserad testmetodik och benchmarking \n\n\n \n\nKvalifikationer\nVi söker dig som \n\nStuderar på högskole- eller universitetsnivå inom exempelvis Datavetenskap, AI/ML, Systemvetenskap, mjukvaruteknik eller motsvarande ingenjörsutbildning. \n\n\nIntresse för artificiell intelligens, digitalisering och informationshantering \n\n\nErfarenhet av att använda AI som verktyg, exempelvis inom programmering och mjukvaruutveckling \n\n\nGod kommunikativ förmåga i svenska och engelska, både i tal och skrift \n\n\nPersonliga egenskaper  \n\nSjälvständig och initiativtagande.  \n\n\nAnalytisk och nyfiken.   \n\n\nStrukturerad med god problemlösningsförmåga.  \n\n\nKreativ och intresserad av att utforska nya arbetssätt och tekniska möjligheter. \n\n\nIntresse för försvarsbranschen \n\n\nDu kommer ha handledare inom AFRY. \nDetta examensarbete kan genomföras som ensamarbete eller samarbete mellan två studenter, där en lämplig uppdelning i arbetsområden bestäms i samråd utifrån utbildningsinriktning och intresse.  Om ni är två studenter som önskar skriva ihop – skicka då gärna in separata ansökningar med en kommentar om detta i er respektive ansökan.  \nHar du en egen idé om ett examensarbete diskuterar vi gärna det och ser om det kan vara passande för vår verksamhet och identifierade behov framåt. \nTidplan \nUppstart efter överenskommelse, men förslagsvis mitten av januari 2027 och genomförande under våren (motsvarande 30 hp). Exjobbet utförs till största del på vårt huvudkontor i Solna, med viss möjlighet att arbeta på distans. \nSäkerhetsprövning:\nSäkerhetsprövning med registerkontroll kan komma att genomföras då vi har säkerhetsklassad verksamhet inom Defense AFRY.\n\nYtterligare information\nExjobbet utgör en grund för en möjlig framtida anställning hos AFRY. Som anställd på AFRY erbjuder vi en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag och en förmånsportal med en mängd rabatter. Vår personalklubb arrangerar sociala aktiviteter på och utanför kontoret. Allt från skidresor, sjunga i kör till att spela brädspel – det finns något för alla.\nVårt arbete med mångfald är också ständigt pågående, en mix av personligheter och bakgrunder gör oss ännu starkare, mer kreativa och framgångsrika ute på marknaden. Dessutom finns det många sätt att vidareutveckla sig hos oss! Vi satsar på våra medarbetare och har individuella utvecklingsplaner där du får möjligheten att gå utvecklande kurser och certifieringar inom ramen för din tjänst och dina karriärmål.\nNyfiken på att även gå traineeprogram? Läs mer här och anmäl intresse redan nu för start hösten 2027:\nTraineeprogram Defense Följ länk: https://afry.com/sv/traineeprogram-defense\nVi vill att din ansökan består av ett personligt brev samt CV. Beskriv vem du är och vad som gör dig lämpad för detta exjobb hos AFRY! \nSista ansökningsdag är 7 december 2026.\n \nKontaktperson för frågor:\nEmil Schönning, Software Architect Defense Infrastructure, emil.schonning@afry.com \n \n\nVi kan ej ta emot ansökningar via e-post. Sök via länken.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
+  "posted_at": "2026-11-10T10:52:05+00:00",
+  "deadline": "2027-01-09T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5561206474",
+  "city": "Solna",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Data Science"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "73dd0e98be16d9fa",
+  "content_hash": "d62359fc2196b435",
+  "first_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-10T11:56:51+00:00",
   "is_open": true
  }
 }
