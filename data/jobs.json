@@ -2115,7 +2115,7 @@
   "content_hash": "bb7ddad161eefdc7",
   "first_seen": "2026-09-24T11:21:14+00:00",
   "last_seen": "2026-10-11T10:25:49+00:00",
-  "is_open": true
+  "is_open": false
  },
  "7e1ef6971145027a": {
   "source": "lever",
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3760,7 +3760,7 @@
   "id": "a16ad04e604209ea",
   "content_hash": "2675ff1bf7fe7b8e",
   "first_seen": "2026-10-16T08:35:55+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "100b3ca237dbdd8f": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3900,7 +3900,7 @@
   "id": "eb4f219fa1a59427",
   "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "d3485f4a9eeaa44a": {
@@ -3972,7 +3972,7 @@
   "id": "14d9f705e194a68d",
   "content_hash": "d81b769af7517056",
   "first_seen": "2026-10-21T08:58:47+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "284af395742f5996": {
@@ -4008,7 +4008,7 @@
   "id": "284af395742f5996",
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "a34336eda1249908": {
@@ -4044,7 +4044,7 @@
   "id": "a34336eda1249908",
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "4abdcf409ba10748": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4131,7 +4131,7 @@
   "id": "a95ce12d79fb4275",
   "content_hash": "5653350baebbbb1d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "cf272da6fb5b9a09": {
@@ -4277,7 +4277,7 @@
   "id": "c258d2c245824aa5",
   "content_hash": "f0be991e564c61aa",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "3245c704630c7252": {
@@ -4312,7 +4312,7 @@
   "id": "3245c704630c7252",
   "content_hash": "e61dd9f770bbdf73",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "aed461abf42cc158": {
@@ -4419,7 +4419,7 @@
   "id": "e72a18c9c561a77e",
   "content_hash": "fec5d49654245f1c",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "7ae00f5246748da3": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4490,7 +4490,7 @@
   "id": "94710df98f75c84c",
   "content_hash": "6b5d98c35e677409",
   "first_seen": "2026-10-27T09:26:23+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "def938b14cca9b5b": {
@@ -4529,7 +4529,7 @@
   "id": "def938b14cca9b5b",
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-10-28T10:08:15+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "feb9a7e5e7a79365": {
@@ -4614,7 +4614,7 @@
   "id": "ce2b0850d462aa4b",
   "content_hash": "5bb55777b0791cf8",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "eb89c946085ac4c6": {
@@ -4654,7 +4654,7 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "fc2fd0909073dd88": {
@@ -4700,7 +4700,7 @@
   "id": "fc2fd0909073dd88",
   "content_hash": "3ceda89bdce9683c",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "23fe38f659311b9d": {
@@ -4741,7 +4741,7 @@
   "id": "23fe38f659311b9d",
   "content_hash": "d54083e320f2a058",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "b7b7e83811bd9251": {
@@ -4783,7 +4783,7 @@
   "id": "b7b7e83811bd9251",
   "content_hash": "f3da8d89eed4020c",
   "first_seen": "2026-11-02T11:49:32+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "8134c83ba1d67ea7": {
@@ -4862,7 +4862,7 @@
   "id": "bc568d7d093379ea",
   "content_hash": "98e42f524c9c4b25",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "ffe2c2c0478a0b1d": {
@@ -4897,7 +4897,7 @@
   "id": "ffe2c2c0478a0b1d",
   "content_hash": "b0510c91c2be3356",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "00f8585cc49c03e9": {
@@ -4932,7 +4932,7 @@
   "id": "00f8585cc49c03e9",
   "content_hash": "26e151521f494ddb",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "32a92c72104454f3": {
@@ -4966,7 +4966,7 @@
   "id": "32a92c72104454f3",
   "content_hash": "c0d712ab093b8135",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "dba1e8c9eacb026f": {
@@ -5002,7 +5002,7 @@
   "id": "dba1e8c9eacb026f",
   "content_hash": "9d5880c4d3f9e7c5",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "5a2c85b82799d60e": {
@@ -5081,7 +5081,7 @@
   "id": "05aadacd4cad0f51",
   "content_hash": "53703d24abeb3f72",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "d1001b3c4ebb0648": {
@@ -5118,7 +5118,7 @@
   "id": "d1001b3c4ebb0648",
   "content_hash": "2d3a2b449cd4d981",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "8ebd286e1ab4059a": {
@@ -5162,7 +5162,7 @@
   "id": "8ebd286e1ab4059a",
   "content_hash": "891bff21aeb573c5",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "75daf09d262b7cd4": {
@@ -5201,7 +5201,7 @@
   "id": "75daf09d262b7cd4",
   "content_hash": "b8d3d7694262135b",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "318ccd4f140162d1": {
@@ -5240,7 +5240,7 @@
   "id": "318ccd4f140162d1",
   "content_hash": "c8ae5f5d4d5a7ebc",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "4f521ebd7769aa44": {
@@ -5275,7 +5275,7 @@
   "id": "4f521ebd7769aa44",
   "content_hash": "8df416817240adb3",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "ee1700d7e2ea1737": {
@@ -5315,7 +5315,7 @@
   "id": "ee1700d7e2ea1737",
   "content_hash": "b63440ca4777c7c4",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "2b3662a61fe8e635": {
@@ -5355,7 +5355,7 @@
   "id": "2b3662a61fe8e635",
   "content_hash": "c22c37d0313ad5e8",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "51e682cde671c095": {
@@ -5390,7 +5390,7 @@
   "id": "51e682cde671c095",
   "content_hash": "5302dac5423547d6",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "8a31d954d7104b5d": {
@@ -5428,7 +5428,7 @@
   "id": "8a31d954d7104b5d",
   "content_hash": "6b5e69eb5d223bb0",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "fab3144eb31f4147": {
@@ -5467,7 +5467,7 @@
   "id": "fab3144eb31f4147",
   "content_hash": "3fc6a5ba4f05c583",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "453b92707c1ce553": {
@@ -5511,7 +5511,7 @@
   "id": "453b92707c1ce553",
   "content_hash": "518aa941ac5e4e5d",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "6d98ce56bedf8ed1": {
@@ -5552,7 +5552,7 @@
   "id": "6d98ce56bedf8ed1",
   "content_hash": "7bc546d99a38142f",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "5d99e6ba89f83f4f": {
@@ -5560,8 +5560,8 @@
   "source_id": "31708542",
   "company": "AFRY AB",
   "title": " Examensarbete: AI-baserad marktäckeanalys från geospatial bilddata",
-  "url": "https://jobs.smartrecruiters.com/AFRY/744000160834292--examensarbete-ai-baserad-marktackeanalys-fran-geospatial-bilddata?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
-  "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är dedikerade experter inom industri, energi och infrastruktur och skapar värde för kommande generationer. AFRY har nordiska rötter med global räckvidd. Våra gemensamma principer – Result driven, Client centric, Empowering och Accountable – vägleder oss i hur vi arbetar, utvecklas och lyckas tillsammans. Var med och accelerera övergången till ett hållbart samhälle. \n\nJobbeskrivning\nBakgrund\nAktuell och tillförlitlig information om terräng och marktäcke är viktig för bland annat kartering, miljöanalys och lägesförståelse. I miljöer där befintligt kartunderlag är begränsat, inaktuellt eller saknas finns ett behov av metoder som snabbt kan omvandla tillgängliga bilddata till användbar geografisk information för att skapa en nulägesbild och fatta välgrundade beslut. \nUtvecklingen inom datorseende och maskininlärning skapar nya möjligheter att automatiskt analysera geospatial bilddata och identifiera olika typer av marktäcke. AI-baserade metoder kan exempelvis användas för att klassificera vegetation, vatten, bebyggelse, vägar och öppen mark och därigenom bidra till att skapa eller uppdatera kartunderlag i miljö med föränderliga förhållanden.  \n \nMål och syfte \nSyftet med examensarbetet är att undersöka och utvärdera AI-baserade metoder för automatisk klassificering av marktäcke från geospatial bilddata. Arbetet ska studera relevanta metoder inom Land Use/Land Cover (LULC), exempelvis bildklassificering och semantisk segmentering. \nMålet är att utveckla ett proof of concept för en eller flera metoder, utvärdera deras prestanda och begränsningar samt lämna rekommendationer för fortsatt utveckling och användning vid skapande och uppdatering av kartunderlag. \n \n\nKvalifikationer\nVi söker dig som \n\nStuderar på högskole- eller universitetsnivå inom exempelvis Datavetenskap, AI/ML, Systemvetenskap, mjukvaruteknik eller motsvarande ingenjörsutbildning\n\n\nIntresse för artificiell intelligens, digitalisering och informationshantering \n\n\nErfarenhet av att använda AI som verktyg, exempelvis inom programmering och mjukvaruutveckling \n\n\nGod kommunikativ förmåga i svenska och engelska, både i tal och skrift \n\n\nPersonliga egenskaper  \n\nSjälvständig och initiativtagande\n\n\nAnalytisk och nyfiken\n\n\nStrukturerad med god problemlösningsförmåga\n\n\nKreativ och intresserad av att utforska nya arbetssätt och tekniska möjligheter\n\n\nIntresse för försvarsbranschen \n\n\nDu kommer ha handledare inom AFRY. \nDetta examensarbete kan genomföras som ensamarbete eller samarbete mellan två studenter, där en lämplig uppdelning i arbetsområden bestäms i samråd utifrån utbildningsinriktning och intresse.  Om ni är två studenter som önskar skriva ihop – skicka då gärna in separata ansökningar med en kommentar om detta i er respektive ansökan.  \nHar du en egen idé om ett examensarbete diskuterar vi gärna det och ser om det kan vara passande för vår verksamhet och identifierade behov framåt. \nTidplan \nUppstart efter överenskommelse, men förslagsvis mitten av januari 2027 och genomförande under våren (motsvarande 30 hp). Exjobbet utförs till största del på vårt huvudkontor i Solna, med viss möjlighet att arbeta på distans. \nSäkerhetsprövning:\nSäkerhetsprövning med registerkontroll kan komma att genomföras då vi har säkerhetsklassad verksamhet inom Defense AFRY.\n\nYtterligare information\nExjobbet utgör en grund för en möjlig framtida anställning hos AFRY. Som anställd på AFRY erbjuder vi en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag och en förmånsportal med en mängd rabatter. Vår personalklubb arrangerar sociala aktiviteter på och utanför kontoret. Allt från skidresor, sjunga i kör till att spela brädspel – det finns något för alla.\nVårt arbete med mångfald är också ständigt pågående, en mix av personligheter och bakgrunder gör oss ännu starkare, mer kreativa och framgångsrika ute på marknaden. Dessutom finns det många sätt att vidareutveckla sig hos oss! Vi satsar på våra medarbetare och har individuella utvecklingsplaner där du får möjligheten att gå utvecklande kurser och certifieringar inom ramen för din tjänst och dina karriärmål.\nNyfiken på att även gå traineeprogram? Läs mer här och anmäl intresse redan nu för start hösten 2027:\nTraineeprogram Defense Följ länk: https://afry.com/sv/traineeprogram-defense\nVi vill att din ansökan består av ett personligt brev samt CV. Beskriv vem du är och vad som gör dig lämpad för detta exjobb hos AFRY! \nSista ansökningsdag är 7 december 2026.\n \nKontaktperson för frågor:\nNiklas Rickenberg, Systems Engineer Defense Infrastructure, nicklas.rickenberg@afry.com\n \n\nVi kan ej ta emot ansökningar via e-post. Sök via länken.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
+  "url": "https://jobs.smartrecruiters.com/AFRY/744000160864320--examensarbete-ai-baserad-marktackeanalys-fran-geospatial-bilddata?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
+  "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är dedikerade experter inom industri, energi och infrastruktur och skapar värde för kommande generationer. AFRY har nordiska rötter med global räckvidd. Våra gemensamma principer – Result driven, Client centric, Empowering och Accountable – vägleder oss i hur vi arbetar, utvecklas och lyckas tillsammans. Var med och accelerera övergången till ett hållbart samhälle. \n\nJobbeskrivning\nBakgrund\nAktuell och tillförlitlig information om terräng och marktäcke är viktig för bland annat kartering, miljöanalys och lägesförståelse. I miljöer där befintligt kartunderlag är begränsat, inaktuellt eller saknas finns ett behov av metoder som snabbt kan omvandla tillgängliga bilddata till användbar geografisk information för att skapa en nulägesbild och fatta välgrundade beslut. \nUtvecklingen inom datorseende och maskininlärning skapar nya möjligheter att automatiskt analysera geospatial bilddata och identifiera olika typer av marktäcke. AI-baserade metoder kan exempelvis användas för att klassificera vegetation, vatten, bebyggelse, vägar och öppen mark och därigenom bidra till att skapa eller uppdatera kartunderlag i miljö med föränderliga förhållanden.  \n \nMål och syfte \nSyftet med examensarbetet är att undersöka och utvärdera AI-baserade metoder för automatisk klassificering av marktäcke från geospatial bilddata. Arbetet ska studera relevanta metoder inom Land Use/Land Cover (LULC), exempelvis bildklassificering och semantisk segmentering. \nMålet är att utveckla ett proof of concept för en eller flera metoder, utvärdera deras prestanda och begränsningar samt lämna rekommendationer för fortsatt utveckling och användning vid skapande och uppdatering av kartunderlag. \n \n\nKvalifikationer\nVi söker dig som \n\nStuderar på högskole- eller universitetsnivå inom exempelvis Datavetenskap, AI/ML, Systemvetenskap, mjukvaruteknik eller motsvarande ingenjörsutbildning\n\n\nIntresse för artificiell intelligens, digitalisering och informationshantering \n\n\nErfarenhet av att använda AI som verktyg, exempelvis inom programmering och mjukvaruutveckling \n\n\nGod kommunikativ förmåga i svenska och engelska, både i tal och skrift \n\n\nPersonliga egenskaper  \n\nSjälvständig och initiativtagande\n\n\nAnalytisk och nyfiken\n\n\nStrukturerad med god problemlösningsförmåga\n\n\nKreativ och intresserad av att utforska nya arbetssätt och tekniska möjligheter\n\n\nIntresse för försvarsbranschen \n\n\nDu kommer ha handledare inom AFRY. \nDetta examensarbete kan genomföras som ensamarbete eller samarbete mellan två studenter, där en lämplig uppdelning i arbetsområden bestäms i samråd utifrån utbildningsinriktning och intresse.  Om ni är två studenter som önskar skriva ihop – skicka då gärna in separata ansökningar med en kommentar om detta i er respektive ansökan.  \nHar du en egen idé om ett examensarbete diskuterar vi gärna det och ser om det kan vara passande för vår verksamhet och identifierade behov framåt. \nTidplan \nUppstart efter överenskommelse, men förslagsvis mitten av januari 2027 och genomförande under våren (motsvarande 30 hp). Exjobbet utförs till största del på vårt huvudkontor i Solna, med viss möjlighet att arbeta på distans. \nSäkerhetsprövning:\nSäkerhetsprövning med registerkontroll kan komma att genomföras då vi har säkerhetsklassad verksamhet inom Defense AFRY.\n\nYtterligare information\nExjobbet utgör en grund för en möjlig framtida anställning hos AFRY. Som anställd på AFRY erbjuder vi en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag och en förmånsportal med en mängd rabatter. Vår personalklubb arrangerar sociala aktiviteter på och utanför kontoret. Allt från skidresor, sjunga i kör till att spela brädspel – det finns något för alla.\nVårt arbete med mångfald är också ständigt pågående, en mix av personligheter och bakgrunder gör oss ännu starkare, mer kreativa och framgångsrika ute på marknaden. Dessutom finns det många sätt att vidareutveckla sig hos oss! Vi satsar på våra medarbetare och har individuella utvecklingsplaner där du får möjligheten att gå utvecklande kurser och certifieringar inom ramen för din tjänst och dina karriärmål.\nNyfiken på att även gå traineeprogram? Läs mer här och anmäl intresse redan nu för start hösten 2027:\nTraineeprogram Defense Följ länk: https://afry.com/sv/traineeprogram-defense\nVi vill att din ansökan består av ett personligt brev samt CV. Beskriv vem du är och vad som gör dig lämpad för detta exjobb hos AFRY! \nSista ansökningsdag är 7 december 2026.\n \nKontaktperson för frågor:\nNiklas Rickenberg, Systems Engineer Defense Infrastructure, niklas.rickenberg@afry.com\n \n\nVi kan ej ta emot ansökningar via e-post. Sök via länken.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
   "posted_at": "2026-11-10T10:53:52+00:00",
   "deadline": "2027-01-09T23:59:59+00:00",
   "pay": null,
@@ -5587,7 +5587,7 @@
   "id": "5d99e6ba89f83f4f",
   "content_hash": "922449ad468b8921",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  },
  "73dd0e98be16d9fa": {
@@ -5622,7 +5622,232 @@
   "id": "73dd0e98be16d9fa",
   "content_hash": "d62359fc2196b435",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-10T11:56:51+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
+  "is_open": true
+ },
+ "0aaf9f75abb5c53c": {
+  "source": "jobtech",
+  "source_id": "31716266",
+  "company": "StudentConsulting Sweden AB (publ)",
+  "title": "Extrajobb som ekonomiassistent i Helsingborg!",
+  "url": "https://www.studentconsulting.com/sv/lediga-jobb/helsingborg/extrajobb-som-ekonomiassistent-i-helsingborg/88165",
+  "description": "Är du noggrann, effektiv och har ett intresse för ekonomi? Vill du få värdefull erfarenhet inom fakturahantering och samtidigt arbeta extra vid sidan av dina studier? Då kan detta vara rätt möjlighet för dig!\nVi söker nu en ekonomiassistent på timmar till vår kund i Helsingborg. Du kommer att arbeta med hantering av leverantörsfakturor där fokus ligger på att kontrollera och korrigera uppgifter som registreras i system. Det handlar om stora fakturaflöden och ett arbete där noggrannhet, effektivitet och förståelse för processen är viktig.\nArbetsuppgifter\nI rollen arbetar du främst med leverantörsreskontra och hantering av fakturor som fastnat i systemet på grund av olika avvikelser. Dina arbetsuppgifter kommer bland annat att bestå av att:\nKontrollera och korrigera uppgifter på leverantörsfakturor.\nSäkerställa att fakturor kopplas till rätt bolag och leverantör.\nKontrollera belopp och andra uppgifter så att underlaget blir korrekt.\nFölja upp saknad information.\nHantera avvikelser och se till att fakturorna kan gå vidare för betalning.\nBidra till ett jämnt och effektivt flöde i fakturahanteringen.\n\nArbetet innebär till stor del att arbeta i system och hantera stora mängder information. Det är viktigt att du trivs med administrativa uppgifter, kan hålla ett högt tempo och har en vilja att arbeta undan och minska de köer som uppstår.\nStudentConsulting ansvarar för rekryteringsprocessen och slutgiltig kandidat kommer bli anställda av oss och arbeta som uthyrd medarbetare till vår kund i Helsingborg.\nDet finns även möjlighet till sommarjobb och på sikt kan uppdraget utvecklas med fler arbetsuppgifter inom ekonomi och administration. För rätt person finns goda möjligheter att växa med uppdraget och få en bredare inblick i verksamhetens ekonomiprocesser\nDETTA SÖKER VI\nVi söker dig som är noggrann, strukturerad och trivs med att ta ansvar. Du behöver inte ha lång erfarenhet av ekonomi, leverantörsreskontra eller fakturahantering, men det är viktigt att du har ett intresse för området och en grundläggande förståelse för vad fakturor och betalningar innebär.\nVi tror att du:\nHar ett intresse för ekonomi, redovisning och administration.\nÄr noggrann och förstår vikten av att rätt uppgifter registreras.\nÄr effektiv, självgående och trivs med att arbeta för att bli av med\nÄr positiv, nyfiken och har lätt för att ta dig an nya arbetsuppgifter.\n\nDet är meriterande om du studerar ekonomi eller har tidigare erfarenhet av administrativt arbete, fakturahantering, leverantörsreskontra eller redovisning.\nKrav:\nStudier på minst 50 % två år framöver.\nTillgänglig att arbeta 2 vardagar i veckan\nHar 2 referenser\n\nVi genomför också en bakgrundskontroll i rekryteringsprocessen.\nVarmt välkommen med din ansökan!",
+  "posted_at": "2026-11-11T12:25:05+00:00",
+  "deadline": "2026-12-16T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5566747449",
+  "city": "Helsingborg",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "Du kommer att arbeta med hantering av leverantörsfakturor där fokus ligger på att kontrollera och korrigera uppgifter som registreras i system.",
+  "bullets": [],
+  "enriched": false,
+  "id": "0aaf9f75abb5c53c",
+  "content_hash": "2e4a9eac97325a66",
+  "first_seen": "2026-11-11T11:33:50+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
+  "is_open": true
+ },
+ "e16c08d2abf084f0": {
+  "source": "jobtech",
+  "source_id": "31715733",
+  "company": "Manpower Aktiebolag",
+  "title": "Studentmedarbetare inom Accounting till globalt lastbilsföretag",
+  "url": "https://www.aplitrak.com/?adid=Y2htb2xsLjU1OTkyLjEzNzY1QG1hbnBvd2VyZ3JvdXBub3JkaWNzLmFwbGl0cmFrLmNvbQ",
+  "description": "Flexibelt deltidsuppdrag för ekonomiintresserad student\n\nFör kunds räkning söker vi en noggrann och serviceinriktad student inom ekonomi som vill kombinera sina studier med praktisk erfarenhet inom redovisning och ekonomiadministration. Uppdraget passar dig som har kommit en bit in i din utbildning och vill utvecklas långsiktigt i en internationell verksamhet med erfarna kollegor.\n\n\nStart: Enligt överenskommelse\nSlut: Långsiktigt uppdrag\nOmfattning: Deltid under terminerna, heltid under sommaren\nPlats: Bäckebol\n<img src=\"https://sae3ndp007.blob.core.windows.net/swe/703ef5ba-9ff8-43d1-81d4-ba45c622b815png\">\n\n\nUppdragsbeskrivning\n\nSom studentmedarbetare inom Accounting kommer du att stötta ekonomiavdelningen i det dagliga arbetet och bidra till att skapa effektiva rutiner och hög kvalitet i ekonomiprocesserna.\nDu arbetar nära erfarna kollegor och avlastar främst inom löpande ekonomiadministration och redovisningsrelaterade arbetsuppgifter. Rollen ger en bred introduktion till ekonomifunktionen och passar dig som vill omsätta teoretiska kunskaper i praktiken.\nArbetsuppgifterna kan bland annat omfatta:\nLöpande administration inom ekonomi och redovisning\nHantering och uppföljning av ekonomiska underlag\nStöd i samband med månadsbokslut\nRegistrering, avstämningar och övriga administrativa uppgifter\nSamarbete med kollegor inom ekonomiavdelningen\nEn viktig del av uppdraget är att vara tillgänglig under de två första arbetsdagarna varje månad då arbetsbelastningen är som högst i samband med bokslutsarbete.\n\n\nVem passar för uppdraget?\n\n\nVi söker dig som:\nStuderar en kandidatutbildning inom ekonomi, redovisning eller motsvarande\nHar genomfört minst ett års heltidsstudier\nHar minst ett till två år kvar av dina studier\nKan arbeta deltid parallellt med studierna\nKan arbeta de två första arbetsdagarna varje månad(bokslutstider)\nHar möjlighet att arbeta heltid under sommarmånaderna\nHar goda kunskaper i svenska och engelska\nHar goda kunskaper i Microsoft Excel\nSom person är du noggrann, ansvarstagande och strukturerad. Du trivs med administrativa arbetsuppgifter, har lätt för att samarbeta och tycker om att lära dig nya saker.\n\n\nMeriterande\n\nTidigare erfarenhet av ekonomiadministration eller redovisning\nSommarjobb eller deltidsarbete inom ekonomi\nErfarenhet av affärssystem eller ekonomisystem\nErfarenhet av fakturahantering\nKunskap inom bokföring eller avstämningsarbete\nPågående studier med inriktning mot redovisning eller revision\n\n\nSå ansöker du\n\n\nAnsök genom att registrera ditt CV, gärna i Word format. Urval sker löpande. Vi tar inte emot ansökningar via mail pg GDPR. Har du frågor om uppdraget eller om rollen som konsult är du välkommen att kontakta ansvarig konsultchef Carl Henric Möller på 031 617234.\nVi går igenom ansökningarna löpande och i konsultvärlden går processerna oftast snabbt. Rollen kan komma att tillsättas innan sista ansökningsdatum, vänta därför inte med att skicka in din ansökan.\n\n\nVarför Manpower\n\nManpower är Sveriges mest välkända bemanningsföretag, både bland jobbsökare och företag. Det gör att vi har många uppdrag året runt, och vi letar ständigt efter nya talanger som vill bli konsulter hos oss! Som konsult erbjuds du en trygg anställning med kollektivavtal, månadslön, försäkringar, tjänstepension och goda möjligheter till utveckling. Läs mer om hur det är att vara konsult på Manpower: https://www.manpower.se/sv/jobbsokande/jobba-som-konsult.\nPå Manpower, Experis och Jefferson Wells värnar vi om en trygg och transparent rekryteringsprocess. Vi kommer aldrig att be dig om betalning, bankuppgifter eller annan känslig personlig information i samband med en jobbansökan eller rekrytering. Om du får misstänkta meddelanden som sägs komma från oss ber vi dig att kontakta oss på contactcenter@manpower.se.",
+  "posted_at": "2026-11-11T11:23:08+00:00",
+  "deadline": "2026-11-25T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5563481588",
+  "city": "Göteborg",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Finance",
+   "Excel modelling"
+  ],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "e16c08d2abf084f0",
+  "content_hash": "24fcc3eece9e58f3",
+  "first_seen": "2026-11-11T11:33:50+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
+  "is_open": true
+ },
+ "c72cf1e20f58ea54": {
+  "source": "jobtech",
+  "source_id": "31715662",
+  "company": "Manpower Aktiebolag",
+  "title": "Studentmedarbetare inom Accounting till globalt lastbilsföretag",
+  "url": "https://www.aplitrak.com/?adid=Y2htb2xsLjEyOTY2LjEzNzY1QG1hbnBvd2VyZ3JvdXBub3JkaWNzLmFwbGl0cmFrLmNvbQ",
+  "description": "Flexibelt deltidsuppdrag för ekonomiintresserad student\n\nFör kunds räkning söker vi en noggrann och serviceinriktad student inom ekonomi som vill kombinera sina studier med praktisk erfarenhet inom redovisning och ekonomiadministration. Uppdraget passar dig som har kommit en bit in i din utbildning och vill utvecklas långsiktigt i en internationell verksamhet med erfarna kollegor.\n\n\nStart: Enligt överenskommelse\nSlut: Långsiktigt uppdrag\nOmfattning: Deltid under terminerna, heltid under sommaren\nPlats: Bäckebol\n<img src=\"https://manpowergroupapps.sharepoint.com/sites/SE-INTRA-Stod-och-verktyg/Bilder_fr_annonser/Forms/AllItems.aspx?id=/sites/SE-INTRA-Stod-och-verktyg/Bilder_fr_annonser/Manpower&viewid=9db1383a-9924-4e06-aa06-12786c50ff33#:~:text=URL (Read only)-,https://sae3ndp007.blob.core.windows.net/swe/703ef5ba-9ff8-43d1-81d4-ba45c622b815png,-\">\n\n\nUppdragsbeskrivning\n\nSom studentmedarbetare inom Accounting kommer du att stötta ekonomiavdelningen i det dagliga arbetet och bidra till att skapa effektiva rutiner och hög kvalitet i ekonomiprocesserna.\nDu arbetar nära erfarna kollegor och avlastar främst inom löpande ekonomiadministration och redovisningsrelaterade arbetsuppgifter. Rollen ger en bred introduktion till ekonomifunktionen och passar dig som vill omsätta teoretiska kunskaper i praktiken.\nArbetsuppgifterna kan bland annat omfatta:\nLöpande administration inom ekonomi och redovisning\nHantering och uppföljning av ekonomiska underlag\nStöd i samband med månadsbokslut\nRegistrering, avstämningar och övriga administrativa uppgifter\nSamarbete med kollegor inom ekonomiavdelningen\nEn viktig del av uppdraget är att vara tillgänglig under de två första arbetsdagarna varje månad då arbetsbelastningen är som högst i samband med bokslutsarbete.\n\n\nVem passar för uppdraget?\n\n\nVi söker dig som:\nStuderar en kandidatutbildning inom ekonomi, redovisning eller motsvarande\nHar genomfört minst ett års heltidsstudier\nHar minst ett till två år kvar av dina studier\nKan arbeta deltid parallellt med studierna\nKan arbeta de två första arbetsdagarna varje månad(bokslutstider)\nHar möjlighet att arbeta heltid under sommarmånaderna\nHar goda kunskaper i svenska och engelska\nHar goda kunskaper i Microsoft Excel\nSom person är du noggrann, ansvarstagande och strukturerad. Du trivs med administrativa arbetsuppgifter, har lätt för att samarbeta och tycker om att lära dig nya saker.\n\n\nMeriterande\n\nTidigare erfarenhet av ekonomiadministration eller redovisning\nSommarjobb eller deltidsarbete inom ekonomi\nErfarenhet av affärssystem eller ekonomisystem\nErfarenhet av fakturahantering\nKunskap inom bokföring eller avstämningsarbete\nPågående studier med inriktning mot redovisning eller revision\n\n\nSå ansöker du\n\n\nAnsök genom att registrera ditt CV, gärna i Word format. Urval sker löpande. Vi tar inte emot ansökningar via mail pg GDPR. Har du frågor om uppdraget eller om rollen som konsult är du välkommen att kontakta ansvarig konsultchef Carl Henric Möller på 031 617234.\nVi går igenom ansökningarna löpande och i konsultvärlden går processerna oftast snabbt. Rollen kan komma att tillsättas innan sista ansökningsdatum, vänta därför inte med att skicka in din ansökan.\n\n\nVarför Manpower\n\nManpower är Sveriges mest välkända bemanningsföretag, både bland jobbsökare och företag. Det gör att vi har många uppdrag året runt, och vi letar ständigt efter nya talanger som vill bli konsulter hos oss! Som konsult erbjuds du en trygg anställning med kollektivavtal, månadslön, försäkringar, tjänstepension och goda möjligheter till utveckling. Läs mer om hur det är att vara konsult på Manpower: https://www.manpower.se/sv/jobbsokande/jobba-som-konsult.\nPå Manpower, Experis och Jefferson Wells värnar vi om en trygg och transparent rekryteringsprocess. Vi kommer aldrig att be dig om betalning, bankuppgifter eller annan känslig personlig information i samband med en jobbansökan eller rekrytering. Om du får misstänkta meddelanden som sägs komma från oss ber vi dig att kontakta oss på contactcenter@manpower.se.",
+  "posted_at": "2026-11-11T11:15:42+00:00",
+  "deadline": "2026-11-25T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5563481588",
+  "city": "Göteborg",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Finance",
+   "Excel modelling"
+  ],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "c72cf1e20f58ea54",
+  "content_hash": "5483f8c24c225e5a",
+  "first_seen": "2026-11-11T11:33:50+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
+  "is_open": true
+ },
+ "5f86fbe890d1ba80": {
+  "source": "jobtech",
+  "source_id": "31715544",
+  "company": "Manpower Aktiebolag",
+  "title": "Studentmedarbetare inom Accounting till globalt lastbilsföretag",
+  "url": "https://www.aplitrak.com/?adid=Y2htb2xsLjE2OTgzLjEzNzY1QG1hbnBvd2VyZ3JvdXBub3JkaWNzLmFwbGl0cmFrLmNvbQ",
+  "description": "Flexibelt deltidsuppdrag för ekonomiintresserad student\n\nFör kunds räkning söker vi en noggrann och serviceinriktad student inom ekonomi som vill kombinera sina studier med praktisk erfarenhet inom redovisning och ekonomiadministration. Uppdraget passar dig som har kommit en bit in i din utbildning och vill utvecklas långsiktigt i en internationell verksamhet med erfarna kollegor.\n\n\nStart: Enligt överenskommelse\nSlut: Långsiktigt uppdrag\nOmfattning: Deltid under terminerna, heltid under sommaren\nPlats: Bäckebol\n<img src=\"https://manpowergroupapps.sharepoint.com/sites/SE-INTRA-Stod-och-verktyg/Bilder_fr_annonser/Forms/AllItems.aspx?id=/sites/SE-INTRA-Stod-och-verktyg/Bilder_fr_annonser/Manpower&viewid=9db1383a-9924-4e06-aa06-12786c50ff33#:~:text=URL (Read only)-,https://sae3ndp007.blob.core.windows.net/swe/703ef5ba-9ff8-43d1-81d4-ba45c622b815png,-\">\n\n\nUppdragsbeskrivning\n\nSom studentmedarbetare inom Accounting kommer du att stötta ekonomiavdelningen i det dagliga arbetet och bidra till att skapa effektiva rutiner och hög kvalitet i ekonomiprocesserna.\nDu arbetar nära erfarna kollegor och avlastar främst inom löpande ekonomiadministration och redovisningsrelaterade arbetsuppgifter. Rollen ger en bred introduktion till ekonomifunktionen och passar dig som vill omsätta teoretiska kunskaper i praktiken.\nArbetsuppgifterna kan bland annat omfatta:\nLöpande administration inom ekonomi och redovisning\nHantering och uppföljning av ekonomiska underlag\nStöd i samband med månadsbokslut\nRegistrering, avstämningar och övriga administrativa uppgifter\nSamarbete med kollegor inom ekonomiavdelningen\nEn viktig del av uppdraget är att vara tillgänglig under de två första arbetsdagarna varje månad då arbetsbelastningen är som högst i samband med bokslutsarbete.\n\n\nVem passar för uppdraget?\n\n\nVi söker dig som:\nStuderar en kandidatutbildning inom ekonomi, redovisning eller motsvarande\nHar genomfört minst ett års heltidsstudier\nHar minst ett till två år kvar av dina studier\nKan arbeta deltid parallellt med studierna\nKan arbeta de två första arbetsdagarna varje månad(bokslutstider)\nHar möjlighet att arbeta heltid under sommarmånaderna\nHar goda kunskaper i svenska och engelska\nHar goda kunskaper i Microsoft Excel\nSom person är du noggrann, ansvarstagande och strukturerad. Du trivs med administrativa arbetsuppgifter, har lätt för att samarbeta och tycker om att lära dig nya saker.\n\n\nMeriterande\n\nTidigare erfarenhet av ekonomiadministration eller redovisning\nSommarjobb eller deltidsarbete inom ekonomi\nErfarenhet av affärssystem eller ekonomisystem\nErfarenhet av fakturahantering\nKunskap inom bokföring eller avstämningsarbete\nPågående studier med inriktning mot redovisning eller revision\n\n\nSå ansöker du\n\n\nAnsök genom att registrera ditt CV, gärna i Word format. Urval sker löpande. Vi tar inte emot ansökningar via mail pg GDPR. Har du frågor om uppdraget eller om rollen som konsult är du välkommen att kontakta ansvarig konsultchef Carl Henric Möller på 031 617234.\nVi går igenom ansökningarna löpande och i konsultvärlden går processerna oftast snabbt. Rollen kan komma att tillsättas innan sista ansökningsdatum, vänta därför inte med att skicka in din ansökan.\n\n\nVarför Manpower\n\nManpower är Sveriges mest välkända bemanningsföretag, både bland jobbsökare och företag. Det gör att vi har många uppdrag året runt, och vi letar ständigt efter nya talanger som vill bli konsulter hos oss! Som konsult erbjuds du en trygg anställning med kollektivavtal, månadslön, försäkringar, tjänstepension och goda möjligheter till utveckling. Läs mer om hur det är att vara konsult på Manpower: https://www.manpower.se/sv/jobbsokande/jobba-som-konsult.\nPå Manpower, Experis och Jefferson Wells värnar vi om en trygg och transparent rekryteringsprocess. Vi kommer aldrig att be dig om betalning, bankuppgifter eller annan känslig personlig information i samband med en jobbansökan eller rekrytering. Om du får misstänkta meddelanden som sägs komma från oss ber vi dig att kontakta oss på contactcenter@manpower.se.",
+  "posted_at": "2026-11-11T11:06:34+00:00",
+  "deadline": "2026-11-25T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5563481588",
+  "city": "Göteborg",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Finance",
+   "Excel modelling"
+  ],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "5f86fbe890d1ba80",
+  "content_hash": "5483f8c24c225e5a",
+  "first_seen": "2026-11-11T11:33:50+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
+  "is_open": true
+ },
+ "5d96c3a60f8b8264": {
+  "source": "jobtech",
+  "source_id": "31710241",
+  "company": "MW Sverige AB",
+  "title": "Examensarbete inom autonoma marina system – MW Group VT 2027",
+  "url": "https://mwgroup.zerolime.se/ams/?d401941a-5d56-46b5-98f4-9e52014862cf",
+  "description": "Om MW Group\nMW Group är en växande nordisk industrigrupp inom civilt och militärtförsvar, säkerhet och kritisk infrastruktur. Vår affärsidé är att vara en Nordic NATO trusted company group, med uppdraget Serving a Strong Society. Våra bolag levererar förmågor som stärker samhällets motståndskraft och det militära försvaret i Norden och Baltikum. \nKoncernen grundades 2012 och har i dag omkring 500 medarbetare i Norden. Den består av ett tiotal decentraliserade rörelsedrivande bolag. Verksamheten spänner över säker IT och cyberresiliens, nishade produkter, geospatial intelligens, försvarslogistik, tränings- och skjutbaneinfrastruktur, strategisk rådgivning och avancerad industriell tillverkning. Bland bolagen finns link22, eCiceron, MW Field Services, Arbonaut, LogSec, Kontregarde, Alumbra och Richardssons.\nBakom MW Group står långsiktiga privata ägare, med Neptunia Invest som huvudägare och Ramsbury Invest som delägare. Det ger oss en stabil grund för att fortsätta växa, både organiskt och genom förvärv.\nVarför examensarbete inom autonoma marina system hos oss?\nAutonoma och fjärrstyrda farkoster får en allt viktigare roll inom försvar, säkerhet och samhällskritisk verksamhet. Utvecklingen skapar nya möjligheter att använda befintliga marina plattformar för obemannade uppdrag, utan att behöva utveckla helt nya farkoster från grunden.\nMW Group vill undersöka hur mindre befintliga sjögående farkoster kan utrustas med eftermonterade system för autonom och fjärrstyrd drift. En central utmaning är att säkerställa att det nya styrsystemet samverkar tillförlitligt med farkostens befintliga framdrivning och styrning – även vid kommunikationsbortfall, tekniska fel och manuellt övertagande.\nVi söker därför en examensarbetare som vill bidra till att utveckla och verifiera tekniska principer för eftermonterad autonom styrning av mindre marina farkoster.\nRollen\nUnder vårterminen 2027 genomför du ett examensarbete med fokus på kravställning, systemintegration och verifiering av autonoma styrsystem för mindre sjögående farkoster.\nSom referensplattform används en kommersiellt tillgänglig Sea-Doo/vattenskoter tillsammans med open source-baserad hård- och mjukvara. Du kommer att undersöka hur ett eftermonterat styrsystem kan integreras med farkostens befintliga gränssnitt och hur olika övervaknings- och säkerhetsprinciper fungerar under definierade drift- och felscenarier.\nMålet är att ta fram en metodik och ett tekniskt beslutsunderlag som kan användas vid fortsatt utveckling av autonoma och fjärrstyrda marina plattformar. Arbetet ska även undersöka vilka av de testade principerna som kan överföras till andra mindre farkoster.\nExempel på arbetsuppgifter:\nKartlägga befintliga lösningar och tekniska gränssnitt för eftermonterad autonom styrning.\nIdentifiera funktions- och säkerhetskrav för autonom och fjärrstyrd drift.\nUndersöka och dokumentera gränssnittet mellan styrsystem och befintlig framdrivning och styrning.\nGenomföra risk- och felanalys med hjälp av FMEA (Failure Mode and Effects Analysis).\nVälja och jämföra olika principer för systemövervakning och feldetektering.\nUtveckla en teknisk demonstrator baserad på en Sea-Doo/vattenskoter och open source-komponenter.\nGenomföra kontrollerade laboratorietester med definierade felscenarier.\nMäta och analysera exempelvis fördröjning, feldetektering, noggrannhet och återhämtning.\nUtvärdera vilka tekniska principer som kan användas på andra mindre marina farkoster.\nSammanställa resultat och rekommendationer för MW Groups fortsatta produktutveckling.\n\nVem vi söker\nVi söker dig som studerar på civilingenjörs- eller masterprogram inom exempelvis:\nMaskinteknik\nElektroteknik\nMekatronik\nTeknisk fysik\nDatateknik\nRobotik, automation eller reglerteknik\n\nVi tror att du:\nHar ett starkt tekniskt intresse och tycker om att kombinera teoretisk analys med praktiskt utvecklingsarbete.\nHar kunskaper inom programmering och teknisk systemintegration.\nHar intresse för inbyggda system, mikrokontrollers och hårdvarunära utveckling.\nHar förståelse för eller intresse av reglerteknik, sensorer och kommunikationssystem.\nÄr analytisk, strukturerad och har förmåga att självständigt driva ett tekniskt projekt.\nÄr nyfiken på autonoma system, robotik och obemannade farkoster.\nHar ett intresse för försvar, säkerhet och teknik som bidrar till ett starkare samhälle.\n\nDet är meriterande om du har erfarenhet av open source-baserade utvecklingsplattformar, elektronikkonstruktion, marina system, robotik eller praktiskt arbete med prototyper och demonstratorer.\nVi erbjuder\nDu får möjlighet att arbeta med en konkret teknisk utmaning inom ett område med stor utvecklingspotential. MW Group erbjuder en industriell koppling till examensarbetet, tillgång till en fysisk referensplattform och möjlighet att arbeta nära tekniska frågeställningar med direkt relevans för framtida marina förmågor.\nDu får praktisk erfarenhet av systemintegration, autonom teknik, riskanalys och verifiering. Ditt arbete kommer att bidra med kunskap och beslutsunderlag för MW Groups fortsatta utveckling inom autonoma och fjärrstyrda marina system.\nPraktisk information\nPeriod: Vårterminen 2027\nPlacering: MW Group, Stockholm\nOmfattning: Examensarbete på master- eller civilingenjörsnivå\nÄr du intresserad? Skicka ditt CV, en kort presentation av dig själv och gärna några rader om varför examensarbetet intresserar dig till MW Group.\nFrågor besvaras av: TA-Ansvarig Nils Olofsson De-Millo, 070 429 97 16, nils.olofsson.demillo@mw.group",
+  "posted_at": "2026-11-10T13:47:58+00:00",
+  "deadline": "2026-12-10T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5568925415",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Control systems"
+  ],
+  "fields": [
+   "Mechanical Engineering",
+   "Electrical Engineering",
+   "Computer Science"
+  ],
+  "about": "Du kommer att undersöka hur ett eftermonterat styrsystem kan integreras med farkostens befintliga gränssnitt och hur olika övervaknings- och säkerhetsprinciper fungerar under definierade drift- och…",
+  "bullets": [],
+  "enriched": false,
+  "id": "5d96c3a60f8b8264",
+  "content_hash": "875efa33fee802a1",
+  "first_seen": "2026-11-11T11:33:50+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
+  "is_open": true
+ },
+ "ce32a09ecffbd3ba": {
+  "source": "jobtech",
+  "source_id": "31710080",
+  "company": "MW Sverige AB",
+  "title": "Trainee inom Försvar och M&A – MW Group söker trainees till augusti 2027",
+  "url": "https://mwgroup.zerolime.se/ams/?9c05fcca-1750-4aff-8dc6-dfdf7d95acec",
+  "description": "Om MW Group\nMW Group är en växande nordisk industrigrupp inom civilt och militärtförsvar, säkerhet och kritisk infrastruktur. Vår affärsidé är att vara en Nordic NATO trusted company group, med uppdraget Serving a Strong Society. Våra bolag levererar förmågor som stärker samhällets motståndskraft och det militära försvaret i Norden och Baltikum. \nKoncernen grundades 2012 och har i dag omkring 500 medarbetare i Norden. Den består av ett tiotal decentraliserade rörelsedrivande bolag. Verksamheten spänner över säker IT och cyberresiliens, nishade produkter, geospatial intelligens, försvarslogistik, tränings- och skjutbaneinfrastruktur, strategisk rådgivning och avancerad industriell tillverkning. Bland bolagen finns link22, eCiceron, MW Field Services, Arbonaut, LogSec, Kontregarde, Alumbra och Richardssons.\nBakom MW Group står långsiktiga privata ägare, med Neptunia Invest som huvudägare och Ramsbury Invest som delägare. Det ger oss en stabil grund för att fortsätta växa, både organiskt och genom förvärv.\nVarför trainee inom M&A hos oss?\nDen nordiska försvars- och säkerhetsbranschen är mitt i en kraftig omvandling. Efterfrågan ökar snabbt, Sverige och Finland har gått med i Nato, och många små och medelstora specialistbolag behöver skala, resurser och tillgång till marknaden för att ta nästa steg. MW Group har en uttalad strategi att vara en drivande kraft i konsolideringen av branschen. Under 2026 har vi bland annat förvärvat Alumbra Stockholm, Richardssons och link22.\nVi förvärvar lönsamma bolag med starka team som redan levererar till, eller har potential att leverera till, försvar, myndigheter och kritisk infrastruktur. Efter förvärvet behåller bolagen sin identitet och ledning, och vi bidrar med strategiskt stöd och koncernens samlade styrka.\nRollen\nVi söker två trainees som börjar i augusti 2027. Under det första året ingår du i koncernens M&A-team och arbetar nära VD, koncernledning och styrelse. Du blir en del av hela förvärvsprocessen: att hitta och bearbeta bolag, analysera och värdera dem, genomföra due diligence, förhandla och slutligen integrera dem i gruppen. Du får ansvar tidigt, följer affärerna från start till mål och lär dig hur en försvarsindustriell koncern byggs.\nEfter M&A-perioden är ambitionen att du antingen stannar kvar inom M&A inom och tar mer en mer självständig roll eller går vidare till en ledande roll i något av våra portföljbolag, inom exempelvis affärsutveckling, ekonomi eller operativ ledning. Där får du ta ansvar för att utveckla de bolag du lärt känna inifrån. Som två trainees i samma kull har ni varandra att bolla idéer med, utmana och utvecklas tillsammans med.\nExempel på arbetsuppgifter\nKartlägga marknaden och identifiera förvärvskandidater inom försvar, säkerhet och kritisk infrastruktur i Norden och övriga Europa.\nHålla kontakt med bolagsägare och bygga en pipeline av affärsmöjligheter.\nGöra finansiell analys och värdering (DCF, multiplar, LBO-logik) samt skriva investerings-PM.\nDelta i due diligence och samordna externa rådgivare inom juridik, skatt och finans.\nFörbereda underlag till styrelse och investeringskommitté.\nPlanera och genomföra integration av förvärvade bolag.\nFölja upp portföljbolagens resultat, rapportering och utveckling.\nAnalysera branschen: försvarsbudgetar, upphandlingar, Nato-krav och konkurrenter.\n\nVem vi söker\nDu har eller tar under våren 2027 en masterexamen i ekonomi, finans, industriell ekonomi eller motsvarande.\nDu har starkt analytiskt sinne och god förståelse för hur resultaträkning, balansräkning och kassaflöde hänger ihop.\nDu kan vanliga värderingsmetoder och trivs med att bygga modeller.\nDu skriver tydligt och strukturerat för styrelse, ledning och externa parter.\nDu har driv, hög arbetskapacitet och stor integritet.\nDu är genuint intresserad av försvar, säkerhet, teknik och företagande, och motiveras av att bidra till ett starkare samhälle.\nDu har ambitionen att på sikt ta en ledande position.\nVi ser det som meriterande om du har erfarenhet och/eller intresse från M&A, corporate finance, private equity eller management consulting, har militär bakgrund eller erfarenhet från försvarssektorn, har varit utomlands, har startat eget, eller har gjort något utöver det vanliga vid sidan av studierna.\nDu talar och skriver flytande svenska och engelska.\n\nSäkerhetsprövning\nTjänsten kan komma att bli placerad i säkerhetsklass. Det innebär att säkerhetsprövning och eventuell registerkontroll genomförs innan anställning. Möjlighet att säkerhetsklassas och Svenskt medborgarskap krävs.\nVi erbjuder\nDu får en unik inblick i hur en nordisk försvarskoncern byggs genom förvärv, nära samarbete med erfarna entreprenörer, ägare och styrelseledamöter, och en tydlig väg mot ledande befattningar inom MW Group. \nPraktisk information\nStartdatum: augusti 2027\nPlacering: Stockholm\nSista ansökningsdag: 2027-03-31. Urval sker löpande.\nFrågor besvaras av Nils Olofsson De-Millo\nTA-ansvarig MW Group\nnils.olofsson.demillo@mw.group\n070 429 97 16",
+  "posted_at": "2026-11-10T13:39:41+00:00",
+  "deadline": "2026-12-10T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5568925415",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Finance"
+  ],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "ce32a09ecffbd3ba",
+  "content_hash": "60707c048c242245",
+  "first_seen": "2026-11-11T11:33:50+00:00",
+  "last_seen": "2026-11-11T11:33:50+00:00",
   "is_open": true
  }
 }
