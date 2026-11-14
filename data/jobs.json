@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3687,7 +3687,7 @@
   "id": "a5403e9cf0e19451",
   "content_hash": "3fe5220903436ecf",
   "first_seen": "2026-10-15T08:41:22+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "fda09d4d8cf95763": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3900,7 +3900,7 @@
   "id": "eb4f219fa1a59427",
   "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "d3485f4a9eeaa44a": {
@@ -4008,7 +4008,7 @@
   "id": "284af395742f5996",
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "a34336eda1249908": {
@@ -4044,7 +4044,7 @@
   "id": "a34336eda1249908",
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "4abdcf409ba10748": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4131,7 +4131,7 @@
   "id": "a95ce12d79fb4275",
   "content_hash": "5653350baebbbb1d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "cf272da6fb5b9a09": {
@@ -4312,7 +4312,7 @@
   "id": "3245c704630c7252",
   "content_hash": "e61dd9f770bbdf73",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "aed461abf42cc158": {
@@ -4419,7 +4419,7 @@
   "id": "e72a18c9c561a77e",
   "content_hash": "fec5d49654245f1c",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "7ae00f5246748da3": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4490,7 +4490,7 @@
   "id": "94710df98f75c84c",
   "content_hash": "6b5d98c35e677409",
   "first_seen": "2026-10-27T09:26:23+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "def938b14cca9b5b": {
@@ -4530,7 +4530,7 @@
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-10-28T10:08:15+00:00",
   "last_seen": "2026-11-13T11:42:30+00:00",
-  "is_open": true
+  "is_open": false
  },
  "feb9a7e5e7a79365": {
   "source": "jobtech",
@@ -4654,7 +4654,7 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "fc2fd0909073dd88": {
@@ -4700,7 +4700,7 @@
   "id": "fc2fd0909073dd88",
   "content_hash": "3ceda89bdce9683c",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "23fe38f659311b9d": {
@@ -4783,7 +4783,7 @@
   "id": "b7b7e83811bd9251",
   "content_hash": "f3da8d89eed4020c",
   "first_seen": "2026-11-02T11:49:32+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "8134c83ba1d67ea7": {
@@ -4862,7 +4862,7 @@
   "id": "bc568d7d093379ea",
   "content_hash": "98e42f524c9c4b25",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "ffe2c2c0478a0b1d": {
@@ -4897,7 +4897,7 @@
   "id": "ffe2c2c0478a0b1d",
   "content_hash": "b0510c91c2be3356",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "00f8585cc49c03e9": {
@@ -4966,7 +4966,7 @@
   "id": "32a92c72104454f3",
   "content_hash": "c0d712ab093b8135",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "dba1e8c9eacb026f": {
@@ -5002,7 +5002,7 @@
   "id": "dba1e8c9eacb026f",
   "content_hash": "9d5880c4d3f9e7c5",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "5a2c85b82799d60e": {
@@ -5081,7 +5081,7 @@
   "id": "05aadacd4cad0f51",
   "content_hash": "53703d24abeb3f72",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "d1001b3c4ebb0648": {
@@ -5118,7 +5118,7 @@
   "id": "d1001b3c4ebb0648",
   "content_hash": "2d3a2b449cd4d981",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "8ebd286e1ab4059a": {
@@ -5275,7 +5275,7 @@
   "id": "4f521ebd7769aa44",
   "content_hash": "8df416817240adb3",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "ee1700d7e2ea1737": {
@@ -5315,7 +5315,7 @@
   "id": "ee1700d7e2ea1737",
   "content_hash": "a54ff07da94fe546",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "2b3662a61fe8e635": {
@@ -5355,7 +5355,7 @@
   "id": "2b3662a61fe8e635",
   "content_hash": "c22c37d0313ad5e8",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "51e682cde671c095": {
@@ -5390,7 +5390,7 @@
   "id": "51e682cde671c095",
   "content_hash": "5302dac5423547d6",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "8a31d954d7104b5d": {
@@ -5428,7 +5428,7 @@
   "id": "8a31d954d7104b5d",
   "content_hash": "6b5e69eb5d223bb0",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "fab3144eb31f4147": {
@@ -5467,7 +5467,7 @@
   "id": "fab3144eb31f4147",
   "content_hash": "3fc6a5ba4f05c583",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "453b92707c1ce553": {
@@ -5511,7 +5511,7 @@
   "id": "453b92707c1ce553",
   "content_hash": "518aa941ac5e4e5d",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "6d98ce56bedf8ed1": {
@@ -5552,7 +5552,7 @@
   "id": "6d98ce56bedf8ed1",
   "content_hash": "7bc546d99a38142f",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "5d99e6ba89f83f4f": {
@@ -5563,7 +5563,7 @@
   "url": "https://jobs.smartrecruiters.com/AFRY/744000160864320--examensarbete-ai-baserad-marktackeanalys-fran-geospatial-bilddata?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
   "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är dedikerade experter inom industri, energi och infrastruktur och skapar värde för kommande generationer. AFRY har nordiska rötter med global räckvidd. Våra gemensamma principer – Result driven, Client centric, Empowering och Accountable – vägleder oss i hur vi arbetar, utvecklas och lyckas tillsammans. Var med och accelerera övergången till ett hållbart samhälle. \n\nJobbeskrivning\nBakgrund\nAktuell och tillförlitlig information om terräng och marktäcke är viktig för bland annat kartering, miljöanalys och lägesförståelse. I miljöer där befintligt kartunderlag är begränsat, inaktuellt eller saknas finns ett behov av metoder som snabbt kan omvandla tillgängliga bilddata till användbar geografisk information för att skapa en nulägesbild och fatta välgrundade beslut. \nUtvecklingen inom datorseende och maskininlärning skapar nya möjligheter att automatiskt analysera geospatial bilddata och identifiera olika typer av marktäcke. AI-baserade metoder kan exempelvis användas för att klassificera vegetation, vatten, bebyggelse, vägar och öppen mark och därigenom bidra till att skapa eller uppdatera kartunderlag i miljö med föränderliga förhållanden.  \n \nMål och syfte \nSyftet med examensarbetet är att undersöka och utvärdera AI-baserade metoder för automatisk klassificering av marktäcke från geospatial bilddata. Arbetet ska studera relevanta metoder inom Land Use/Land Cover (LULC), exempelvis bildklassificering och semantisk segmentering. \nMålet är att utveckla ett proof of concept för en eller flera metoder, utvärdera deras prestanda och begränsningar samt lämna rekommendationer för fortsatt utveckling och användning vid skapande och uppdatering av kartunderlag. \n \n\nKvalifikationer\nVi söker dig som \n\nStuderar på högskole- eller universitetsnivå inom exempelvis Datavetenskap, AI/ML, Systemvetenskap, mjukvaruteknik eller motsvarande ingenjörsutbildning\n\n\nIntresse för artificiell intelligens, digitalisering och informationshantering \n\n\nErfarenhet av att använda AI som verktyg, exempelvis inom programmering och mjukvaruutveckling \n\n\nGod kommunikativ förmåga i svenska och engelska, både i tal och skrift \n\n\nPersonliga egenskaper  \n\nSjälvständig och initiativtagande\n\n\nAnalytisk och nyfiken\n\n\nStrukturerad med god problemlösningsförmåga\n\n\nKreativ och intresserad av att utforska nya arbetssätt och tekniska möjligheter\n\n\nIntresse för försvarsbranschen \n\n\nDu kommer ha handledare inom AFRY. \nDetta examensarbete kan genomföras som ensamarbete eller samarbete mellan två studenter, där en lämplig uppdelning i arbetsområden bestäms i samråd utifrån utbildningsinriktning och intresse.  Om ni är två studenter som önskar skriva ihop – skicka då gärna in separata ansökningar med en kommentar om detta i er respektive ansökan.  \nHar du en egen idé om ett examensarbete diskuterar vi gärna det och ser om det kan vara passande för vår verksamhet och identifierade behov framåt. \nTidplan \nUppstart efter överenskommelse, men förslagsvis mitten av januari 2027 och genomförande under våren (motsvarande 30 hp). Exjobbet utförs till största del på vårt huvudkontor i Solna, med viss möjlighet att arbeta på distans. \nSäkerhetsprövning:\nSäkerhetsprövning med registerkontroll kan komma att genomföras då vi har säkerhetsklassad verksamhet inom Defense AFRY.\n\nYtterligare information\nExjobbet utgör en grund för en möjlig framtida anställning hos AFRY. Som anställd på AFRY erbjuder vi en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag och en förmånsportal med en mängd rabatter. Vår personalklubb arrangerar sociala aktiviteter på och utanför kontoret. Allt från skidresor, sjunga i kör till att spela brädspel – det finns något för alla.\nVårt arbete med mångfald är också ständigt pågående, en mix av personligheter och bakgrunder gör oss ännu starkare, mer kreativa och framgångsrika ute på marknaden. Dessutom finns det många sätt att vidareutveckla sig hos oss! Vi satsar på våra medarbetare och har individuella utvecklingsplaner där du får möjligheten att gå utvecklande kurser och certifieringar inom ramen för din tjänst och dina karriärmål.\nNyfiken på att även gå traineeprogram? Läs mer här och anmäl intresse redan nu för start hösten 2027:\nTraineeprogram Defense Följ länk: https://afry.com/sv/traineeprogram-defense\nVi vill att din ansökan består av ett personligt brev samt CV. Beskriv vem du är och vad som gör dig lämpad för detta exjobb hos AFRY! \nSista ansökningsdag är 7 december 2026.\n \nKontaktperson för frågor:\nNiklas Rickenberg, Systems Engineer Defense Infrastructure, niklas.rickenberg@afry.com\n \n\nVi kan ej ta emot ansökningar via e-post. Sök via länken.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
   "posted_at": "2026-11-10T10:53:52+00:00",
-  "deadline": "2027-01-11T23:59:59+00:00",
+  "deadline": "2027-01-12T23:59:59+00:00",
   "pay": null,
   "industry": "",
   "company_slug": "5561206474",
@@ -5587,7 +5587,7 @@
   "id": "5d99e6ba89f83f4f",
   "content_hash": "922449ad468b8921",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "73dd0e98be16d9fa": {
@@ -5622,7 +5622,7 @@
   "id": "73dd0e98be16d9fa",
   "content_hash": "d62359fc2196b435",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "0aaf9f75abb5c53c": {
@@ -5657,7 +5657,7 @@
   "id": "0aaf9f75abb5c53c",
   "content_hash": "2e4a9eac97325a66",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "e16c08d2abf084f0": {
@@ -5695,7 +5695,7 @@
   "id": "e16c08d2abf084f0",
   "content_hash": "24fcc3eece9e58f3",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "c72cf1e20f58ea54": {
@@ -5733,7 +5733,7 @@
   "id": "c72cf1e20f58ea54",
   "content_hash": "5483f8c24c225e5a",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "5f86fbe890d1ba80": {
@@ -5771,7 +5771,7 @@
   "id": "5f86fbe890d1ba80",
   "content_hash": "5483f8c24c225e5a",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "5d96c3a60f8b8264": {
@@ -5810,7 +5810,7 @@
   "id": "5d96c3a60f8b8264",
   "content_hash": "875efa33fee802a1",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "ce32a09ecffbd3ba": {
@@ -5847,7 +5847,7 @@
   "id": "ce32a09ecffbd3ba",
   "content_hash": "60707c048c242245",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "d0abdf58c186ff21": {
@@ -5894,7 +5894,7 @@
   "id": "d0abdf58c186ff21",
   "content_hash": "295952901dfbf969",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "b4ab5f10559e385d": {
@@ -5932,7 +5932,7 @@
   "id": "b4ab5f10559e385d",
   "content_hash": "756b90579fe7bbcc",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  },
  "6b3fee58de6af4ed": {
@@ -5968,7 +5968,157 @@
   "id": "6b3fee58de6af4ed",
   "content_hash": "7ec3f1221a751bb4",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-13T11:42:30+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
+  "is_open": true
+ },
+ "5e4a3fb7a8f10d4f": {
+  "source": "jobtech",
+  "source_id": "31731059",
+  "company": "Familjen Yahya AB",
+  "title": "Praktikant inom IT",
+  "url": "https://verkely.se/jobs/bb7cb1b9-9a59-4142-ae7a-1276aab7e0b7",
+  "description": "Om oss \nPå ONeNetwork Tech arbetar vi med moderna IT-lösningar för att skapa stabila, säkra och skalbara miljöer för våra kunder och internt. Vi brinner för ny teknik, automatisering och kontinuerlig utveckling. Nu söker vi en engagerad praktikant som vill utveckla sina praktiska färdigheter inom IT support, IT-infrastruktur, nätverk, cloud och DevOps tillsammans med vårt erfarna team.\nOm rollen och vad du får göra \nSom praktikant hos oss blir du en viktig del av vårt team och får en dedikerad handledare. Du får möjlighet att omsätta dina teoretiska kunskaper i praktiken och arbeta i relevanta projekt anpassade efter din utbildningsinriktning och dina intressen.\nBeroende på din profil och vad du vill utvecklas inom får du arbeta med:\nIT- och Infrastrukturteknik: Felsökning, hårdvaruhantering, klienthantering och systemadministration.\n\n\nNätverksteknik: Konfigurering och övervakning av routrar, switchar, brandväggar och VPN-lösningar.\n\n\nCloud & Platform: Hantering och administration av molnmiljöer i Microsoft Azure, AWS eller GCP.\n\n\nDevOps & Automatisering: Arbeta med CI/CD-flöden, skript intercept (t.ex. PowerShell, Bash, Python) samt containerteknik (Docker, Kubernetes) och Infrastructure as Code (Terraform).\n\n\n\nVem är du? \nVi söker dig som för närvarande läser en YH-, högskole- eller universitetsutbildning inom IT-teknik, Nätverk, Cloud/Molnteknik eller DevOps och söker praktik/LIA.\nVi ser gärna att du:\nHar ett starkt intresse för modern IT-infrastruktur och ny teknik.\nÄr nyfiken, problemlösande och tycker om att lära dig nya verktyg.\nTalar och skriver flytande i svenska och/eller engelska.\nTrivs i ett samarbetande team där man hjälper varandra.\n\n\n\nVad erbjuder vi?\nEn strukturerad praktikperiod med en engagerad handledare.\nPraktisk erfarenhet i verkliga projekt och moderna IT-miljöer.\nEn god inblick i branschen och möjligheter till framtida nätverkande (och ev. anställning efter avslutad utbildning).\n\n\n\nAnsökan \nLåter detta som rätt steg för dig? \nSkicka in din ansökan bestående av CV och ett kort brev där du berättar om din utbildning, vad du vill fokusera på under praktiken samt vilken period din praktik omfattar.\nVarmt välkommen med din ansökan!",
+  "posted_at": "2026-11-14T10:08:55+00:00",
+  "deadline": "2026-12-14T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5592965148",
+  "city": "",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Cloud (AWS)",
+   "Docker",
+   "Python"
+  ],
+  "fields": [
+   "Computer Science"
+  ],
+  "about": "Som praktikant hos oss blir du en viktig del av vårt team och får en dedikerad handledare.",
+  "bullets": [],
+  "enriched": false,
+  "id": "5e4a3fb7a8f10d4f",
+  "content_hash": "ddcefd77ed5e0c2f",
+  "first_seen": "2026-11-14T11:05:12+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
+  "is_open": true
+ },
+ "1ac3b7d39223c017": {
+  "source": "jobtech",
+  "source_id": "31729848",
+  "company": "Fortifikationsverket",
+  "title": "Examensarbete inom produktutveckling: Framtidens stötvågsbarriär",
+  "url": "http://web103.reachmee.com/ext/I005/1013/main?site=6&validator=61e84dc0c178c1f5fd4ebfb8b7ac37be&lang=SE&rmpage=job&rmjob=2522&utm_medium=talentech_publishing&utm_source=jobtip",
+  "description": "Fortifikationsverket i Eskilstuna erbjuder nu möjligheten att genomföra examensarbete under våren 2027! Vi söker två engagerade studenter som vill bidra i utvecklingen av nästa generations skyddssystem för Sveriges försvar. Tillsammans får ni möjlighet att utforska nya tekniska lösningar och utforma en förstudie för framtidens stötvågsbarriär – med sikte på år 2035.\nFortifikationsverket äger, utvecklar och förvaltar försvarsfastigheter. Hos oss bidrar du till något av det viktigaste vi har – ett tryggt och fritt Sverige.\nOm examensarbetet\nFortifikationsverket är en myndighet med samhällsviktig verksamhet som bokstavligen lägger grunden för Sveriges försvar. Vi utvecklar den fortifikatoriska kompetensen för samhällets behov och har ansvar för teknik och utveckling inom fortifikation och fastigheter. En central del av vårt uppdrag är att utveckla framtidens skyddslösningar för försvarsanläggningar. Förändrade hotbilder och nya tekniska möjligheter ställer allt högre krav på hur vi utformar och bygger skyddande konstruktioner.\nExamensarbetet går ut på att göra en teknisk förstudie om hur framtidens stötvågsbarriärer ska utformas. Exempelvis behöver traditionella skydd inne i berg utmanas. Vi vill att studien undersöker det genom att utforska nya material, innovativa konstruktioner samt olika skyddstekniker mot den moderna hotbilden. Examensarbetet ska även beakta hållbarhetsperspektivet.\nArbetet har ett tydligt framtids- och innovationsperspektiv och här är exempel på områden som förstudien syftar till:\nNya tekniska koncept och konstruktionsprinciper.\nAlternativa material och skyddstekniker.\nRekommendationer för fortsatt produktutveckling med sikte på 2035.\n\nResultatet ska användas av Fortifikationsverket som underlag för att planera framtida teknikutveckling och eventuell industrialisering.\nKvalifikationer\nVi söker två studenter som studerar på avancerad nivå, exempelvis inom civilingenjörs- eller masterutbildning med inriktning produktutveckling, materialteknik, byggteknik eller liknande. Du behöver ha goda kunskaper inom 3D-modellering. Erfarenhet av CAD-verktyg, BIM och/eller försvarsindustrin/området är meriterande.\nDet är krav att ha mycket goda kunskaper i svenska, både i tal och skrift, samt att kunna läsa och förstå teknisk dokumentation på engelska. Svenskt medborgarskap är ett krav för att genomföra examensarbetet hos oss.\nVi lägger stor vikt vid dina personliga egenskaper. Vi tror att du är analytisk och lösningsorienterad med god förmåga att tänka utanför etablerade ramar. Vi söker dig som är kreativ och kan konkretisera dina idéer och har ett strukturerat arbetssätt. Du trivs med att samarbeta med andra och är samtidigt självgående och ansvarstagande.\nVad erbjuder vi dig?\nDet här är en möjlighet för dig som har ett stort intresse för produktutveckling. Arbetet kommer innebära att utmana etablerade konstruktionsprinciper, material och tekniker. Hos oss får du möjlighet att kombinera produktutveckling, problemlösning och teknisk innovation inom ett område som är viktigt för Sveriges försvarsförmåga. Som student driver du självständigt arbetet framåt och har löpande avstämningar med handledare från Fortifikationsverket i Eskilstuna. Resultatet redovisas i en skriftlig rapport och en muntlig presentation.\nAnmälan\nVälkommen att skicka in din intresseanmälan senast den 4 december 2026 som ska vara skriven på svenska och innehålla följande:     \nCV som innehåller beskrivning av din utbildning och eventuell tidigare relevant arbetserfarenhet.\nPersonligt brev med en presentation av dig, dina kompetenser och en motivering till varför du vill genomföra examensarbetet hos oss.\nAktuellt betygsutdrag.\nNär i tid du kan genomföra examensarbetet.\n\nExamensarbetet planeras att genomföras under vårterminen 2027.\nPersonuppgifter behandlas enligt dataskyddsförordningen (GDPR). Din ansökan är en allmän handling enligt offentlighetsprincipen. För att få göra examensarbete hos oss måste du genomgå en säkerhetsprövning eftersom arbetet helt eller delvis kommer utföras i Fortifikationsverkets lokaler i Eskilstuna.\nVid frågor välkommen att kontakta Emil Eriksson, 010-44 44 113, emil.eriksson@fortifikationsverket.se\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
+  "posted_at": "2026-11-13T16:38:05+00:00",
+  "deadline": "2026-12-04T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "2021004607",
+  "city": "Eskilstuna",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "CAD (SolidWorks)"
+  ],
+  "fields": [
+   "Mechanical Engineering"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "1ac3b7d39223c017",
+  "content_hash": "4d48383a7a75bc88",
+  "first_seen": "2026-11-14T11:05:12+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
+  "is_open": true
+ },
+ "756113be98a4e706": {
+  "source": "jobtech",
+  "source_id": "31731068",
+  "company": "Familjen Yahya AB",
+  "title": "Praktikplats / Examensarbete  Automation & Systems Developer",
+  "url": "https://verkely.se/jobs/05373c89-c86e-4838-bd6d-6158c5a95d4f",
+  "description": "Söker du praktikplats eller examensarbete inom industriell automation, robotik eller cybersäkerhet? Utveckla mjukvara för styrsystem, SCADA och realtidssystem i C# och Linux hos OneNetwork Tech.\n\n\nOm tjänsten\nVill du accelerera din karriär och omvandla teoretisk kunskap till praktiska lösningar? Hos OneNetwork Tech erbjuder vi utmanande och givande praktikplatser (LIA) och examensarbeten (Thesis work) för studenter från högskola, universitet eller yrkeshögskola (YH).\nHos oss får du möjlighet att utveckla avancerad mjukvara inom industriell automation, robotik och cybersäkerhet. Du blir en del av vårt team där du får kombinera teoretisk analys med praktisk programmering, prestandamätning och systemarkitektur i affärs- och samhällskritiska miljöer.\n\n\nArbetsuppgifter\nUtveckla och integrera mjukvarulösningar för styrsystem och industriell automation i C# och Linux.\nArbeta praktiskt med PLC-system (t.ex. Siemens, WAGO, Mitsubishi, ABB, Rockwell) och SCADA-system.\nKonfigurera, testa och optimera kommunikation i realtidssystem och lågnivåmjukvara.\nUtforska och implementera säkerhetskoncept (Cybersecurity) för industriella styrsystem och nätverk.\nDokumentera, analysera och presentera dina tekniska resultat och mätningar på ett strukturerat sätt.\n\n\n\nKvalifikationer\nPågående utbildning (Kandidat-, Master-, Civilingenjörsutbildning eller YH-utbildning) inom Datateknik, Teknisk Fysik, Elektroteknik, Automation eller motsvarande.\nGoda programmeringskunskaper, företrädesvis i C#.\nErfarenhet av eller förståelse för olika PLC-plattformar (Siemens, WAGO, Mitsubishi, ABB e.d.) samt SCADA-system.\nErfarenhet av eller ett starkt intresse för Linux och operativsystem.\nEtt genuint intresse för realtidssystem, industriell automation och kommunikationsprotokoll.\nAnalytiskt tänkande och förmåga att kommunicera tekniska resultat på ett klart och tydligt sätt.\n\n\n\nMeriterande\nErfarenhet av inbyggda system (Embedded Systems), middleware eller MCU-drivna plattformar.\nKunskap inom CI/CD, cross-compilation, systemportning eller prestandatestning.\nErfarenhet av eller intresse för cybersäkerhet inom OT/ICS (Operational Technology).\nErfarenhet av Rockwell Automation eller robotprogrammering.\n\n\n\nVi erbjuder\nEtt skarpt och utvecklande projekt anpassat för din praktikperiod eller ditt examensarbete.\nDedikerad handledning från erfarna ingenjörer och utvecklare.\nTillgång till modern hårdvara, laboratoriemiljöer och utvecklingsverktyg.\nMöjlighet till fortsatt anställning eller konsultroll efter avslutad praktik/examensarbete.\n\n\n\nKompetenserIndustrial Automation\nPLC\nSiemens\nSCADA\nC#\nLinux\nReal-Time Systems\nEmbedded Systems\nCybersecurity\nRobotics\nWAGO\nMitsubishi\nOT Security\n Så ansöker du\nBifoga CV, betygsutdrag samt ett kort personligt brev där du beskriver din utbildning, vilken period din praktik/ditt examensarbete gäller samt om ditt huvudfokus ligger inom Automation, Robotik eller Cybersäkerhet. Urval sker löpande.",
+  "posted_at": "2026-11-14T10:19:45+00:00",
+  "deadline": "2026-12-14T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5592965148",
+  "city": "",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Control systems",
+   "PLC programming",
+   "Embedded C"
+  ],
+  "fields": [
+   "Computer Science"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "756113be98a4e706",
+  "content_hash": "c8ae5f5d4d5a7ebc",
+  "first_seen": "2026-11-14T11:05:12+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
+  "is_open": true
+ },
+ "7292a3808c5834fb": {
+  "source": "jobtech",
+  "source_id": "31729290",
+  "company": "Soros Consulting AB",
+  "title": "Compliancekonsult inom försäkring, DORA och intern styrning (Stockholm)",
+  "url": "https://sorosconsulting.se/2026/11/13/compliancekonsult-inom-forsakring-dora-och-intern-styrning-stockholm/",
+  "description": "Soros Consulting söker nu en Compliancekonsult inom försäkring, DORA och intern styrning till ett konsultuppdrag i Stockholm.\nOm uppdraget\nKunden söker en erfaren compliancekonsult för att stötta ansvarig Compliance Officer (CCO) i två länsbolag. Uppdraget innebär att genomföra och slutföra tre specifika granskningar: (1) utlagd verksamhet och beställarkompetens/uppföljning av tredjepartsleverantörer (ca 40-50 timmar återstår), (2) lämplighet, utbildning, intern styrning/beslutsordning och distribution (Fit & Proper, ca 80 timmar), samt (3) DORA-granskning av kontinuitetshantering/verksamhetskontinuitet (ca 80 timmar). Totalt ca 200-210 timmar. Uppstart av granskningar för 2027 ingår också under januari 2027 samt råd och stöd vid behov. Uppdraget utförs både på plats hos kunden och på distans.\nObligatoriska krav\nDjupgående kunskap om försäkringsrörelselagen (FRL) och det finansiella regelverket.\nDokumenterad erfarenhet av implementering eller granskning mot DORA, specifikt IKT-risk, tredjepartsrisk och kontinuitetshantering.\nErfarenhet av Fit & Proper-processer och intern styrning inom försäkringsbranschen.\nFörmåga att arbeta självständigt och leverera tydliga granskningsrapporter till CCO.\n\nUppdragsinformation\nStart: 2026-11-23\nSlut: 2027-01-31\nOmfattning: 100%\nPlats: Stockholm (SE)\nLön: Enligt överenskommelse\nSista ansökningsdag: 2026-11-16\n\nOm Soros Consulting\nSoros Consulting AB tillsätter erfarna specialister inom energi, elkraft, säkerhet och samhällsviktig infrastruktur. Vi matchar rätt kompetens med uppdrag där den gör verklig skillnad. Vårt fokus är kvalitet, långsiktighet och hållbara relationer och vi skapar goda förutsättningar för både konsulter och uppdragsgivare genom tydlighet och professionalism i varje steg.\nTveka inte på att skicka in din ansökan redan idag!\nHar du frågor? Kontakta oss på jobb@sorosconsulting.se\nfölj oss på Linkedin för fler jobbmöjligheter:\nHemsida\nInstagram\nLinkedIn",
+  "posted_at": "2026-11-13T15:41:45+00:00",
+  "deadline": "2026-11-16T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5591302780",
+  "city": "",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "7292a3808c5834fb",
+  "content_hash": "37ca6b791b012787",
+  "first_seen": "2026-11-14T11:05:12+00:00",
+  "last_seen": "2026-11-14T11:05:12+00:00",
   "is_open": true
  }
 }
