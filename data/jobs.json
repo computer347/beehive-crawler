@@ -2487,7 +2487,7 @@
   "content_hash": "956887e7a843c9e5",
   "first_seen": "2026-09-30T10:05:38+00:00",
   "last_seen": "2026-10-27T09:26:23+00:00",
-  "is_open": true
+  "is_open": false
  },
  "6b6b3ca909ddfa25": {
   "source": "jobtech",
@@ -2560,7 +2560,7 @@
   "content_hash": "fbd8110c8348ce87",
   "first_seen": "2026-09-30T10:05:38+00:00",
   "last_seen": "2026-10-27T09:26:23+00:00",
-  "is_open": true
+  "is_open": false
  },
  "d9dcbe3effc9bd2d": {
   "source": "jobtech",
@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -2630,7 +2630,7 @@
   "content_hash": "81f9071b16303c94",
   "first_seen": "2026-09-30T10:05:38+00:00",
   "last_seen": "2026-10-27T09:26:23+00:00",
-  "is_open": true
+  "is_open": false
  },
  "3a4a1f9175f766de": {
   "source": "jobtech",
@@ -2665,7 +2665,7 @@
   "content_hash": "e60d76b4322c9ffa",
   "first_seen": "2026-09-30T10:05:38+00:00",
   "last_seen": "2026-10-27T09:26:23+00:00",
-  "is_open": true
+  "is_open": false
  },
  "877de922b2afac65": {
   "source": "jobtech",
@@ -2701,7 +2701,7 @@
   "content_hash": "c03b6f350a592fa2",
   "first_seen": "2026-09-30T10:05:38+00:00",
   "last_seen": "2026-10-27T09:26:23+00:00",
-  "is_open": true
+  "is_open": false
  },
  "98a8ebdf51a41ac3": {
   "source": "jobtech",
@@ -2736,7 +2736,7 @@
   "content_hash": "5766edf8db89d9b8",
   "first_seen": "2026-09-30T10:05:38+00:00",
   "last_seen": "2026-10-27T09:26:23+00:00",
-  "is_open": true
+  "is_open": false
  },
  "96f0e6e5efe31b57": {
   "source": "jobtech",
@@ -2771,7 +2771,7 @@
   "content_hash": "c1281673f32efb10",
   "first_seen": "2026-09-30T10:05:38+00:00",
   "last_seen": "2026-10-27T09:26:23+00:00",
-  "is_open": true
+  "is_open": false
  },
  "e82c953a146b7753": {
   "source": "jobtech",
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3332,7 +3332,7 @@
   "id": "2ec2a4d580a11a5a",
   "content_hash": "17f8f4480692f3bc",
   "first_seen": "2026-10-09T11:00:51+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "8ec427fd81a78ee8": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -3900,7 +3900,7 @@
   "id": "eb4f219fa1a59427",
   "content_hash": "f11b1499a7c0c7bb",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "d3485f4a9eeaa44a": {
@@ -4008,7 +4008,7 @@
   "id": "284af395742f5996",
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "a34336eda1249908": {
@@ -4044,7 +4044,7 @@
   "id": "a34336eda1249908",
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "4abdcf409ba10748": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4131,7 +4131,7 @@
   "id": "a95ce12d79fb4275",
   "content_hash": "5653350baebbbb1d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "cf272da6fb5b9a09": {
@@ -4312,7 +4312,7 @@
   "id": "3245c704630c7252",
   "content_hash": "e61dd9f770bbdf73",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "aed461abf42cc158": {
@@ -4419,7 +4419,7 @@
   "id": "e72a18c9c561a77e",
   "content_hash": "fec5d49654245f1c",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "7ae00f5246748da3": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4490,7 +4490,7 @@
   "id": "94710df98f75c84c",
   "content_hash": "6b5d98c35e677409",
   "first_seen": "2026-10-27T09:26:23+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "def938b14cca9b5b": {
@@ -4654,7 +4654,7 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "fc2fd0909073dd88": {
@@ -4700,7 +4700,7 @@
   "id": "fc2fd0909073dd88",
   "content_hash": "3ceda89bdce9683c",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "23fe38f659311b9d": {
@@ -4783,7 +4783,7 @@
   "id": "b7b7e83811bd9251",
   "content_hash": "f3da8d89eed4020c",
   "first_seen": "2026-11-02T11:49:32+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "8134c83ba1d67ea7": {
@@ -4862,7 +4862,7 @@
   "id": "bc568d7d093379ea",
   "content_hash": "98e42f524c9c4b25",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "ffe2c2c0478a0b1d": {
@@ -4897,7 +4897,7 @@
   "id": "ffe2c2c0478a0b1d",
   "content_hash": "b0510c91c2be3356",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "00f8585cc49c03e9": {
@@ -4966,7 +4966,7 @@
   "id": "32a92c72104454f3",
   "content_hash": "c0d712ab093b8135",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "dba1e8c9eacb026f": {
@@ -5002,7 +5002,7 @@
   "id": "dba1e8c9eacb026f",
   "content_hash": "9d5880c4d3f9e7c5",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "5a2c85b82799d60e": {
@@ -5081,7 +5081,7 @@
   "id": "05aadacd4cad0f51",
   "content_hash": "53703d24abeb3f72",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "d1001b3c4ebb0648": {
@@ -5118,7 +5118,7 @@
   "id": "d1001b3c4ebb0648",
   "content_hash": "2d3a2b449cd4d981",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "8ebd286e1ab4059a": {
@@ -5275,7 +5275,7 @@
   "id": "4f521ebd7769aa44",
   "content_hash": "8df416817240adb3",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "ee1700d7e2ea1737": {
@@ -5316,7 +5316,7 @@
   "content_hash": "a54ff07da94fe546",
   "first_seen": "2026-11-06T11:41:06+00:00",
   "last_seen": "2026-11-16T12:15:03+00:00",
-  "is_open": true
+  "is_open": false
  },
  "2b3662a61fe8e635": {
   "source": "jobtech",
@@ -5355,7 +5355,7 @@
   "id": "2b3662a61fe8e635",
   "content_hash": "c22c37d0313ad5e8",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "51e682cde671c095": {
@@ -5390,7 +5390,7 @@
   "id": "51e682cde671c095",
   "content_hash": "5302dac5423547d6",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "8a31d954d7104b5d": {
@@ -5428,7 +5428,7 @@
   "id": "8a31d954d7104b5d",
   "content_hash": "6b5e69eb5d223bb0",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "fab3144eb31f4147": {
@@ -5467,7 +5467,7 @@
   "id": "fab3144eb31f4147",
   "content_hash": "3fc6a5ba4f05c583",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "453b92707c1ce553": {
@@ -5511,7 +5511,7 @@
   "id": "453b92707c1ce553",
   "content_hash": "518aa941ac5e4e5d",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "6d98ce56bedf8ed1": {
@@ -5552,7 +5552,7 @@
   "id": "6d98ce56bedf8ed1",
   "content_hash": "7bc546d99a38142f",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "5d99e6ba89f83f4f": {
@@ -5560,10 +5560,10 @@
   "source_id": "31708542",
   "company": "AFRY AB",
   "title": " Examensarbete: AI-baserad marktäckeanalys från geospatial bilddata",
-  "url": "https://jobs.smartrecruiters.com/AFRY/744000160864320--examensarbete-ai-baserad-marktackeanalys-fran-geospatial-bilddata?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
-  "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är dedikerade experter inom industri, energi och infrastruktur och skapar värde för kommande generationer. AFRY har nordiska rötter med global räckvidd. Våra gemensamma principer – Result driven, Client centric, Empowering och Accountable – vägleder oss i hur vi arbetar, utvecklas och lyckas tillsammans. Var med och accelerera övergången till ett hållbart samhälle. \n\nJobbeskrivning\nBakgrund\nAktuell och tillförlitlig information om terräng och marktäcke är viktig för bland annat kartering, miljöanalys och lägesförståelse. I miljöer där befintligt kartunderlag är begränsat, inaktuellt eller saknas finns ett behov av metoder som snabbt kan omvandla tillgängliga bilddata till användbar geografisk information för att skapa en nulägesbild och fatta välgrundade beslut. \nUtvecklingen inom datorseende och maskininlärning skapar nya möjligheter att automatiskt analysera geospatial bilddata och identifiera olika typer av marktäcke. AI-baserade metoder kan exempelvis användas för att klassificera vegetation, vatten, bebyggelse, vägar och öppen mark och därigenom bidra till att skapa eller uppdatera kartunderlag i miljö med föränderliga förhållanden.  \n \nMål och syfte \nSyftet med examensarbetet är att undersöka och utvärdera AI-baserade metoder för automatisk klassificering av marktäcke från geospatial bilddata. Arbetet ska studera relevanta metoder inom Land Use/Land Cover (LULC), exempelvis bildklassificering och semantisk segmentering. \nMålet är att utveckla ett proof of concept för en eller flera metoder, utvärdera deras prestanda och begränsningar samt lämna rekommendationer för fortsatt utveckling och användning vid skapande och uppdatering av kartunderlag. \n \n\nKvalifikationer\nVi söker dig som \n\nStuderar på högskole- eller universitetsnivå inom exempelvis Datavetenskap, AI/ML, Systemvetenskap, mjukvaruteknik eller motsvarande ingenjörsutbildning\n\n\nIntresse för artificiell intelligens, digitalisering och informationshantering \n\n\nErfarenhet av att använda AI som verktyg, exempelvis inom programmering och mjukvaruutveckling \n\n\nGod kommunikativ förmåga i svenska och engelska, både i tal och skrift \n\n\nPersonliga egenskaper  \n\nSjälvständig och initiativtagande\n\n\nAnalytisk och nyfiken\n\n\nStrukturerad med god problemlösningsförmåga\n\n\nKreativ och intresserad av att utforska nya arbetssätt och tekniska möjligheter\n\n\nIntresse för försvarsbranschen \n\n\nDu kommer ha handledare inom AFRY. \nDetta examensarbete kan genomföras som ensamarbete eller samarbete mellan två studenter, där en lämplig uppdelning i arbetsområden bestäms i samråd utifrån utbildningsinriktning och intresse.  Om ni är två studenter som önskar skriva ihop – skicka då gärna in separata ansökningar med en kommentar om detta i er respektive ansökan.  \nHar du en egen idé om ett examensarbete diskuterar vi gärna det och ser om det kan vara passande för vår verksamhet och identifierade behov framåt. \nTidplan \nUppstart efter överenskommelse, men förslagsvis mitten av januari 2027 och genomförande under våren (motsvarande 30 hp). Exjobbet utförs till största del på vårt huvudkontor i Solna, med viss möjlighet att arbeta på distans. \nSäkerhetsprövning:\nSäkerhetsprövning med registerkontroll kan komma att genomföras då vi har säkerhetsklassad verksamhet inom Defense AFRY.\n\nYtterligare information\nExjobbet utgör en grund för en möjlig framtida anställning hos AFRY. Som anställd på AFRY erbjuder vi en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag och en förmånsportal med en mängd rabatter. Vår personalklubb arrangerar sociala aktiviteter på och utanför kontoret. Allt från skidresor, sjunga i kör till att spela brädspel – det finns något för alla.\nVårt arbete med mångfald är också ständigt pågående, en mix av personligheter och bakgrunder gör oss ännu starkare, mer kreativa och framgångsrika ute på marknaden. Dessutom finns det många sätt att vidareutveckla sig hos oss! Vi satsar på våra medarbetare och har individuella utvecklingsplaner där du får möjligheten att gå utvecklande kurser och certifieringar inom ramen för din tjänst och dina karriärmål.\nNyfiken på att även gå traineeprogram? Läs mer här och anmäl intresse redan nu för start hösten 2027:\nTraineeprogram Defense Följ länk: https://afry.com/sv/traineeprogram-defense\nVi vill att din ansökan består av ett personligt brev samt CV. Beskriv vem du är och vad som gör dig lämpad för detta exjobb hos AFRY! \nSista ansökningsdag är 7 december 2026.\n \nKontaktperson för frågor:\nNiklas Rickenberg, Systems Engineer Defense Infrastructure, niklas.rickenberg@afry.com\n \n\nVi kan ej ta emot ansökningar via e-post. Sök via länken.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
+  "url": "https://jobs.smartrecruiters.com/AFRY/744000161860519--examensarbete-ai-baserad-marktackeanalys-fran-geospatial-bilddata?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
+  "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är dedikerade experter inom industri, energi och infrastruktur och skapar värde för kommande generationer. AFRY har nordiska rötter med global räckvidd. Våra gemensamma principer – Result driven, Client centric, Empowering och Accountable – vägleder oss i hur vi arbetar, utvecklas och lyckas tillsammans. Var med och accelerera övergången till ett hållbart samhälle. \n\nJobbeskrivning\nBakgrund\nAktuell och tillförlitlig information om terräng och marktäcke är viktig för bland annat kartering, miljöanalys och lägesförståelse. I miljöer där befintligt kartunderlag är begränsat, inaktuellt eller saknas finns ett behov av metoder som snabbt kan omvandla tillgängliga bilddata till användbar geografisk information för att skapa en nulägesbild och fatta välgrundade beslut. \nUtvecklingen inom datorseende och maskininlärning skapar nya möjligheter att automatiskt analysera geospatial bilddata och identifiera olika typer av marktäcke. AI-baserade metoder kan exempelvis användas för att klassificera vegetation, vatten, bebyggelse, vägar och öppen mark och därigenom bidra till att skapa eller uppdatera kartunderlag i miljö med föränderliga förhållanden.  \n \nMål och syfte \nSyftet med examensarbetet är att undersöka och utvärdera AI-baserade metoder för automatisk klassificering av marktäcke från geospatial bilddata. Arbetet ska studera relevanta metoder inom Land Use/Land Cover (LULC), exempelvis bildklassificering och semantisk segmentering. \nMålet är att utveckla ett proof of concept för en eller flera metoder, utvärdera deras prestanda och begränsningar samt lämna rekommendationer för fortsatt utveckling och användning vid skapande och uppdatering av kartunderlag. \n \n\nKvalifikationer\nVi söker dig som \n\nStuderar på högskole- eller universitetsnivå inom exempelvis Datavetenskap, AI/ML, Systemvetenskap, mjukvaruteknik eller motsvarande ingenjörsutbildning\n\n\nIntresse för artificiell intelligens, digitalisering och informationshantering \n\n\nErfarenhet av att använda AI som verktyg, exempelvis inom programmering och mjukvaruutveckling \n\n\nGod kommunikativ förmåga i svenska och engelska, både i tal och skrift \n\n\nPersonliga egenskaper  \n\nSjälvständig och initiativtagande\n\n\nAnalytisk och nyfiken\n\n\nStrukturerad med god problemlösningsförmåga\n\n\nKreativ och intresserad av att utforska nya arbetssätt och tekniska möjligheter\n\n\nIntresse för försvarsbranschen \n\n\nDu kommer ha handledare inom AFRY. \nDetta examensarbete kan genomföras som ensamarbete eller samarbete mellan två studenter, där en lämplig uppdelning i arbetsområden bestäms i samråd utifrån utbildningsinriktning och intresse.  Om ni är två studenter som önskar skriva ihop – skicka då gärna in separata ansökningar med en kommentar om detta i er respektive ansökan.  \nHar du en egen idé om ett examensarbete diskuterar vi gärna det och ser om det kan vara passande för vår verksamhet och identifierade behov framåt. \nTidplan \nUppstart efter överenskommelse, men förslagsvis mitten av januari 2027 och genomförande under våren (motsvarande 30 hp). Exjobbet utförs till största del på vårt huvudkontor i Solna, med viss möjlighet att arbeta på distans. \nSäkerhetsprövning:\nSäkerhetsprövning med registerkontroll kan komma att genomföras då vi har säkerhetsklassad verksamhet inom Defense AFRY och då krävs svenskt medborgarskap. \n\nYtterligare information\nExjobbet utgör en grund för en möjlig framtida anställning hos AFRY. Som anställd på AFRY erbjuder vi en modern arbetsplats i ett globalt sammanhang med framåtanda och trygghet i form av kollektivavtal och personalförmåner så som friskvårdsbidrag och en förmånsportal med en mängd rabatter. Vår personalklubb arrangerar sociala aktiviteter på och utanför kontoret. Allt från skidresor, sjunga i kör till att spela brädspel – det finns något för alla.\nVårt arbete med mångfald är också ständigt pågående, en mix av personligheter och bakgrunder gör oss ännu starkare, mer kreativa och framgångsrika ute på marknaden. Dessutom finns det många sätt att vidareutveckla sig hos oss! Vi satsar på våra medarbetare och har individuella utvecklingsplaner där du får möjligheten att gå utvecklande kurser och certifieringar inom ramen för din tjänst och dina karriärmål.\nNyfiken på att även gå traineeprogram? Läs mer här och anmäl intresse redan nu för start hösten 2027:\nTraineeprogram Defense Följ länk: https://afry.com/sv/traineeprogram-defense\nVi vill att din ansökan består av ett personligt brev samt CV. Beskriv vem du är och vad som gör dig lämpad för detta exjobb hos AFRY! \nSista ansökningsdag är 7 december 2026.\n \nKontaktperson för frågor:\nNiklas Rickenberg, Systems Engineer Defense Infrastructure, niklas.rickenberg@afry.com\n \n\nVi kan ej ta emot ansökningar via e-post. Sök via länken.\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
   "posted_at": "2026-11-10T10:53:52+00:00",
-  "deadline": "2027-01-12T23:59:59+00:00",
+  "deadline": "2027-01-15T23:59:59+00:00",
   "pay": null,
   "industry": "",
   "company_slug": "5561206474",
@@ -5585,9 +5585,9 @@
   "bullets": [],
   "enriched": false,
   "id": "5d99e6ba89f83f4f",
-  "content_hash": "922449ad468b8921",
+  "content_hash": "e123494f52fd7ec1",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "73dd0e98be16d9fa": {
@@ -5622,7 +5622,7 @@
   "id": "73dd0e98be16d9fa",
   "content_hash": "d62359fc2196b435",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "0aaf9f75abb5c53c": {
@@ -5657,7 +5657,7 @@
   "id": "0aaf9f75abb5c53c",
   "content_hash": "2e4a9eac97325a66",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "e16c08d2abf084f0": {
@@ -5695,7 +5695,7 @@
   "id": "e16c08d2abf084f0",
   "content_hash": "24fcc3eece9e58f3",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "c72cf1e20f58ea54": {
@@ -5733,7 +5733,7 @@
   "id": "c72cf1e20f58ea54",
   "content_hash": "5483f8c24c225e5a",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "5f86fbe890d1ba80": {
@@ -5771,7 +5771,7 @@
   "id": "5f86fbe890d1ba80",
   "content_hash": "5483f8c24c225e5a",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "5d96c3a60f8b8264": {
@@ -5810,7 +5810,7 @@
   "id": "5d96c3a60f8b8264",
   "content_hash": "875efa33fee802a1",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "ce32a09ecffbd3ba": {
@@ -5847,7 +5847,7 @@
   "id": "ce32a09ecffbd3ba",
   "content_hash": "60707c048c242245",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "d0abdf58c186ff21": {
@@ -5894,7 +5894,7 @@
   "id": "d0abdf58c186ff21",
   "content_hash": "295952901dfbf969",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "b4ab5f10559e385d": {
@@ -5932,7 +5932,7 @@
   "id": "b4ab5f10559e385d",
   "content_hash": "756b90579fe7bbcc",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "6b3fee58de6af4ed": {
@@ -5968,7 +5968,7 @@
   "id": "6b3fee58de6af4ed",
   "content_hash": "7ec3f1221a751bb4",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "5e4a3fb7a8f10d4f": {
@@ -6007,7 +6007,7 @@
   "id": "5e4a3fb7a8f10d4f",
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "1ac3b7d39223c017": {
@@ -6044,7 +6044,7 @@
   "id": "1ac3b7d39223c017",
   "content_hash": "4d48383a7a75bc88",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "756113be98a4e706": {
@@ -6083,7 +6083,7 @@
   "id": "756113be98a4e706",
   "content_hash": "c8ae5f5d4d5a7ebc",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-16T12:15:03+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  },
  "7292a3808c5834fb": {
@@ -6119,6 +6119,241 @@
   "content_hash": "37ca6b791b012787",
   "first_seen": "2026-11-14T11:05:12+00:00",
   "last_seen": "2026-11-16T12:15:03+00:00",
+  "is_open": true
+ },
+ "fd913ed6d7b97824": {
+  "source": "greenhouse",
+  "source_id": "4729795006",
+  "company": "Neo4j",
+  "title": "Summer Internship - Customer Support Operations & Supportability",
+  "url": "https://boards.greenhouse.io/neo4j/jobs/4729795006?gh_jid=4729795006",
+  "description": "About Neo4j: \n Neo4j is the graph intelligence platform that transforms data into knowledge to power the next generation of intelligent applications and AI systems. It includes enterprise-ready knowledge graphs for accurate, explainable, and governed AI; the most comprehensive, trusted, and easy-to-deploy graph capabilities across any environment and data source; and an unmatched ecosystem trusted by 84 of the Fortune 100 and supported by the world’s largest graph community. Intelligence that works. Results that matter.\n Built to work everywhere and integrate with everything across every cloud for dynamic, personalized, and autonomous AI systems. We deliver quicker results, contextual knowledge, and solutions that impact customers and employees across the business.\n Our Vision: \n At Neo4j, we have always strived to help the world make sense of data. \n As business, society and knowledge become increasingly connected, our technology promotes innovation by helping organizations to find and understand data relationships. We created, drive and lead the graph database category, and we’re disrupting how organizations leverage their data to innovate and stay competitive. \n The Role: \n Neo4j Customer Support Operations is a highly effective part of Neo4j’s Field Engineering organisation and provides a key foundation for the long-term success and satisfaction of our growing customer base. Neo4j Customer Support Operations serves as an interface between traditional Customer Support and Product Engineering teams to develop subject matter expertise within Customer Support, as well as developing highly-customised tools and processes to accelerate and enhance our overall service delivery.\n For a number of years, we have partnered with our Product Engineering Team to deliver a series of bespoke applications that are now used across the company on a daily basis as part of our collective work in supporting the global Neo4j customer base.\n The Customer Support Operations Team is responsible for the development and maintenance of many support and engineering applications, including our flagship Neo4j CODEX application. (Not related to OpenAI CODEX!)\n CODEX started as a Customer Support project over 4 years ago, with a lot of development through subsequent summer engineering internships over the last 4 years; and has since grown in functionality and scope to be a suite of applications forming the technical diagnostics hub for all of our Support, Field Engineering, and Product Engineering Teams.\n Throughout the history of Customer Support Operations and Product Engineering collaborating on this summer engineering internship programme, we have always delivered systems that have been transformative and admired across the company.\n We are immensely proud of welcoming some of our past interns back as full time, permanent employees who have gone on to be extremely successful and valuable engineers within Product Engineering developing our core graph analytics and database platform used and trusted around the world.\n The 2027 Project Brief: CODEX Learning Labs \n Project Outline: \n This year we would like to invite our Engineering Interns to work with our Customer Support Operations Team in designing and building a new platform that would expand on the ideas set out in our team’s ideas across 2026, and provide an integrated learning and evaluation framework for engineers across the whole of Neo4j’s Field Engineering Team.\n The system will provide reliable and resettable Neo4j environments that allow engineers to focus on fixing known synthetic problems, or setting up clusters of Neo4j database servers.\n The end goal is that a user would be able to seamlessly navigate from a learning graph that guides them through their learning path, developing and practicing their skills in a series of challenges. The same system would also be able to be used to provide engineers with a vanilla environment without embedded faults or issues.\n Meanwhile, the web application portal will be developed to allow mentors and managers to monitor the progress of their engineers, and review the approach they took to resolve the presented problems.\n Furthermore, we would also like to build a review system that will allow the users to review feedback directly from the learning labs without intervention from a mentor or trainer; for example testing if a solution to a problem has been properly reached.\n Once the team of interns has been selected and joined the company in the summer, the project will be further refined and planned to maximise the value we can deliver to the company, whilst we ensure that we deliver a complete and workable solution.\n The team will not be expected to produce the system fully in isolation, but instead work in consultation with the Support Operations Team to leverage their experience whilst the interns take on board the day-to-day development and project management aspects to ensure that they come away from the summer with an enhanced understanding of building large-scale, company-wide applications; and technologies that can be used as they continue their professional development and careers.\n Key Skills & Technologies: \n The ideal candidate for this internship would be experienced in, or ready to begin working with the following technologies. Of course, we will provide all necessary assistance and access to experts (including the development teams) for any of our Neo4j-developed products and frameworks, so prior experience with these technologies is beneficial but not required.\n For frontend systems we use:\n• Typescript / Javascript\n• React framework\n• Neo4j Design Library (NDL, “needle”) frontend component design library\n• Tanstack / React Router\n• Tanstack / React Query\n For backend systems, we focus on:\n• Java\n• Spring Boot framework\n• Python, in some specific circumstances\n• FastAPI\n• AWS Containers and Lambdas\n• Terraform for infrastructure as code\n• Neo4j Graph Database\n• Okta single sign-on authentication\n• Go",
+  "posted_at": "2026-11-16T09:17:20-05:00",
+  "deadline": null,
+  "pay": null,
+  "industry": "",
+  "company_slug": "neo4j",
+  "city": "Malmö",
+  "country": "SE",
+  "type": "Summer job",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "React",
+   "TypeScript",
+   "LLM applications",
+   "Data analysis",
+   "Cloud (AWS)",
+   "Python"
+  ],
+  "fields": [
+   "Industrial Engineering",
+   "Data Science",
+   "Computer Science"
+  ],
+  "about": "",
+  "bullets": [
+   "Typescript / Javascript",
+   "React framework",
+   "Neo4j Design Library (NDL, “needle”) frontend component design library"
+  ],
+  "enriched": false,
+  "id": "fd913ed6d7b97824",
+  "content_hash": "cdc1b802b2eaaa5f",
+  "first_seen": "2026-11-17T12:37:22+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
+  "is_open": true
+ },
+ "924abc7b9786b07c": {
+  "source": "jobtech",
+  "source_id": "31737368",
+  "company": "Toyota Material Handling Europe AB",
+  "title": "Sommarjobb tjänstemän",
+  "url": "https://www.aplitrak.com/?adid=VE1ITVMuMjExNTEuMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
+  "description": "Sommarjobb inom flera kompetensområden hos Toyota\nVill du bli en del av Toyota och arbeta i en dynamisk och innovativ arbetsplats? Vi på Toyota utvecklar och producerar truckar och materialhanteringslösningar i världsklass. Vi erbjuder nu utvecklande och meningsfulla sommarjobb inom tjänstemannaområdet som ger dig värdefull erfarenhet.\nEtt sommarjobb som gör skillnad för din framtid\nVarje sommar erbjuder vi sommarjobb inom flera kompetensområden som till exempel produktion, ekonomi, kvalitet och produkt- och mjukvaruutveckling. Då vi kan erbjuda en stor variation av tjänster har vi möjligheter för de flesta studenter från gymnasiet till universitet och högskola. Genom sommarjobb kan du som blivande medarbetare få en större förståelse för logistik och produkter, våra kundkrav samt vår arbetsplatskultur. Vi erbjuder dig att få arbeta i en dynamisk och innovativ arbetsmiljö med stöd och handledning från erfarna kollegor.\nJust nu söker vi drivna och engagerade sommarvikarier för olika tjänstemannaroller. Hos oss får du chansen att arbeta inom flera av våra avdelningar, bland annat inom:\nProduktutveckling inom mekanik och mjukvara\nProjektledning: stödja pågående projekt, från planering till genomförande.\nProduktion och planering: analysera och förbättra processer för att optimera flöden.\nKvalitet och miljö: bidra till att utveckla hållbara och effektiva arbetssätt.\nAdministrativt stöd: hantera dokumentation, dataanalys och andra administrativa uppgifter.\nLogistik, orderbokning samt materialplanering\n\nAnge i din ansökan vilket område eller avdelning du är mest intresserad av. För att vi ska kunna göra den bästa matchningen ber vi dig vara tydlig med vilka intressen, kompetenser och erfarenheter du har.\nVi söker dig som:\nStuderar på högskola, universitet eller yrkeshögskola inom teknik, ekonomi, logistik, miljö eller liknande.\nÄr en problemlösare med ett analytiskt sinne.\nHar god kommunikationsförmåga och trivs med att samarbeta.\nÄr nyfiken och vill lära dig mer om industriell verksamhet.\nSer det som en självklarhet att alltid vara kvalitetsmedveten, nyfiken och engagerad.\nHar goda kunskaper i svenska och engelska.\n\nVilka är Toyota Material Handling Europe?\n\nToyota Material Handling Europe är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \nDin framtid på Toyota Material Handling Europe\n\nHos oss blir du en del av en trygg, inkluderande och framåtsträvande arbetsplats där respekt, samarbete och utveckling står i fokus. Vi erbjuder en hållbar vardag med flextid, möjlighet till distansarbete beroende på tjänstens förutsättningar, gym och gruppträning samt friskvårdsbidrag. Som anställd omfattas du av kollektivavtal och får tillgång till förmåner såsom försäkringar, bonus, föräldralön och löneväxling.\nVälkommen med din ansökan\nTycker du att sommarjobbet verkar intressant? Vi ser fram emot din ansökan senast 10 januari 2027. Eftersom vi arbetar med löpande urval rekommenderar vi att du skickar in din ansökan så snart som möjligt.\nSökande med skyddad identitet är välkomna att kontakta HR för information om hur ansökan kan hanteras på ett säkert sätt.\nKontakta gärna våra medarbetare för mer information\nJonna Liljenkvist, People Partner, 072 200 07 26,\nJonna.Liljenkvist@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS",
+  "posted_at": "2026-11-16T15:43:58+00:00",
+  "deadline": "2026-12-14T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5564919537",
+  "city": "Mjölby",
+  "country": "SE",
+  "type": "Summer job",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Mechanical Engineering",
+   "Economics & Business"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "924abc7b9786b07c",
+  "content_hash": "b87df2f818fa1ad8",
+  "first_seen": "2026-11-17T12:37:22+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
+  "is_open": true
+ },
+ "d6621e5606af3813": {
+  "source": "jobtech",
+  "source_id": "31741243",
+  "company": "Bosch Thermoteknik AB",
+  "title": "Internship in Project and Production Engineering",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161819627-internship-in-project-and-production-engineering",
+  "description": "Company Description\nWelcome to a world, where your ideas lead to something big. Welcome to Bosch!\nBosch Thermoteknik AB in Tranås develops, manufactures, and sells heat pumps for the European market. We are approximately 650 employees and form part of the large Bosch Group, which consists of approximately 417,000 employees worldwide.\nWe work with sustainable simplification of everyday life where the focus is on the environment, innovation, and development. In Tranås there is a production unit and a competence and development center. The heat pumps we manufacture draw energy from different sources - the mountain, the water, or the air. We work to constantly be at the forefront and contribute to sustainable energy and a better environment with the goal of creating a simplified everyday life for our customers. In short, we create technology that is \"Invented for life\". \nJob Description\nYour contribution to something big\nAs a full-time intern in the TEF4 department, you actively contribute to develop and create the conditions for a more efficient production setup to optimize manufacturing.\nIn this role you will be supporting the local Production Engineering department with daily project management tasks\nYou will have the opportunity to plan and execute your own production related projects\nEvaluating data and creating statistics will allow you to follow up on KPIs of the production\nDesign parts and create drawings in CAD\nAdministrative tasks to support the local Production Engineering manager will also be part of your duties\nYou will be actively participating in the department’s improvement and development, e.g., by moderating workshops\n\nDuration of the internship: 6 months preferably starting in February 2027\nLocation: on-site in our plant in Tranås, Sweden\nQualifications\nWhat distinguishes you\nCurrently studying Industrial Engineering or similar (Bachelor or Master of Science)\nPrevious production-related experience desirable\nGood analytical skills, problem-solving mindset, and technical thinking\nYou thrive in a dynamic work environment – identifying problems, finding solutions and executing them by actively driving your own ideas\nWorking knowledge in Microsoft Office tools (especially Excel, PowerPoint, Word); experience in other tools (CAD) is a plus\nKnowledge in topics like IoT and Industry 4.0 could also be a plus\nOpen and communicative, ability to approach people easily and to work in a team environment\nFluent verbal and written communication skills in English, Swedish is an advantage\n\nAdditional Information\nWhat we offer you\nMonetary compensation is included to support you during your internship\nWe can offer free accommodation in Tranås\nTo support your well-being, we provide a wellness contribution for use on fitness, sports, or wellness services\nWe cover your travel costs from your residence to Tranås, making relocation easier for you\nYou gain valuable experience working within an international company with global connections\n\nWelcome to Tranås – the heart of Bosch Home Comfort in Sweden\nTranås, beautifully located by the idyllic Lake Sommen and surrounded by forests and nature reserves, is home to Bosch Thermotechnology AB in Sweden. Here, more than 600 associates work in manufacturing and research & development of innovative heating solutions for a sustainable future.\nAt Bosch, we care about you, our business, and the environment.\nWe offer more than a job – we help you grow in your career and as a person. Life is about balance, and we support your goals, whether they involve new challenges, development, or time for family and hobbies.\nJoin a workplace that values individuality, openness, and trust, where you can be yourself and be inspired by diverse perspectives from around the globe.\nJoin us in Tranås and be part of shaping tomorrow’s energy solutions – in a workplace where innovation meets quality of life.\nHere, you’ll find not just a job – but a lifestyle. #LikeABosch",
+  "posted_at": "2026-11-17T11:46:10+00:00",
+  "deadline": "2026-12-17T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5562629062",
+  "city": "Tranås",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "CAD (SolidWorks)",
+   "Statistics",
+   "Excel modelling"
+  ],
+  "fields": [
+   "Mechanical Engineering"
+  ],
+  "about": "In this role you will be supporting the local Production Engineering department with daily project management tasks",
+  "bullets": [],
+  "enriched": false,
+  "id": "d6621e5606af3813",
+  "content_hash": "c505539abaf379c7",
+  "first_seen": "2026-11-17T12:37:22+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
+  "is_open": true
+ },
+ "5f91f1e5424be53c": {
+  "source": "jobtech",
+  "source_id": "31741228",
+  "company": "Bosch Thermoteknik AB",
+  "title": "Internship in Production and Process Engineering",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161820198-internship-in-production-and-process-engineering",
+  "description": "Company Description\nWelcome to a world, where your ideas lead to something big. Welcome to Bosch!\nBosch Thermoteknik AB in Tranås develops, manufactures, and sells heat pumps for the European market. We are approximately 650 employees and form part of the large Bosch Group, which consists of approximately 417,000 employees worldwide.\nWe work with sustainable simplification of everyday life where the focus is on the environment, innovation, and development. In Tranås there is a production unit and a competence and development center. The heat pumps we manufacture draw energy from different sources - the mountain, the water, or the air. We work to constantly be at the forefront and contribute to sustainable energy and a better environment with the goal of creating a simplified everyday life for our customers. In short, we create technology that is \"Invented for life\". \nJob Description\nYour contribution to something big\nYou will support the Technical Engineering Functions Department TEF4.\nYour tasks contain improving existing and developing new production systems.\nYou will gain insights into assembly planning, and line balancing, including the workplace design of assembly stations, as well as the assembly steps and the required tools, materials and fixtures.\nWorking with health and safety, as well as supporting the implementation of lean production systems like 5S, will also be part of the job.\nDuring this internship you can also work independently on smaller engineering projects.\nDesign parts and create drawings in CAD\nThe data analysis and presentation of production data will be part of your tasks as well.\nYou get to expand your interdisciplinary skills by collaborating with the purchasing, engineering, quality, and logistics departments.\nIt will also be possible to dive deeper into automation technology, pneumatics and electric circuits as well as the calibration of testing systems and rapid prototyping by 3D-printing.\n\nDuration of the internship: 6 months, preferably starting in January 2027\nLocation: on-site in our plant in Tranås, Sweden\nQualifications\nWhat distinguishes you\nCurrently studying engineering (e.g. mechanical, industrial, electrical, mechatronics, …) or similar\nA genuine interest in production systems, process improvement, and industrial engineering topics\nInitial experience in production-related environments\nGood analytical skills and the ability to quickly understand and work with new topics\nAbility to work independently and together across departments\nA good working knowledge of Microsoft Office and CAD-Software\n\nExcellent communication skills in English. Swedish and/or German as an advantage\nAdditional Information\nWhat we offer you\nMonetary compensation is included to support you during your internship\nWe can offer free accommodation in Tranås\nTo support your well-being, we provide a wellness contribution for use on fitness, sports, or wellness services\nWe cover your travel costs from your residence to Tranås, making relocation easier for you\nYou gain valuable experience working within an international company with global connections\n\nWelcome to Tranås – the heart of Bosch Home Comfort in Sweden\nTranås, beautifully located by the idyllic Lake Sommen and surrounded by forests and nature reserves, is home to Bosch Thermotechnology AB in Sweden. Here, more than 600 associates work in manufacturing and research & development of innovative heating solutions for a sustainable future.\nAt Bosch, we care about you, our business, and the environment.\nWe offer more than a job – we help you grow in your career and as a person. Life is about balance, and we support your goals, whether they involve new challenges, development, or time for family and hobbies.\nJoin a workplace that values individuality, openness, and trust, where you can be yourself and be inspired by diverse perspectives from around the globe.\nJoin us in Tranås and be part of shaping tomorrow’s energy solutions – in a workplace where innovation meets quality of life.\nHere, you’ll find not just a job – but a lifestyle. #LikeABosch",
+  "posted_at": "2026-11-17T11:44:20+00:00",
+  "deadline": "2026-12-17T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5562629062",
+  "city": "Tranås",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "CAD (SolidWorks)",
+   "Excel modelling",
+   "Data analysis",
+   "Control systems"
+  ],
+  "fields": [
+   "Mechanical Engineering",
+   "Industrial Engineering"
+  ],
+  "about": "You will support the Technical Engineering Functions Department TEF4.",
+  "bullets": [],
+  "enriched": false,
+  "id": "5f91f1e5424be53c",
+  "content_hash": "8e1d38c9f38ee431",
+  "first_seen": "2026-11-17T12:37:22+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
+  "is_open": true
+ },
+ "af0d1de536c28f65": {
+  "source": "jobtech",
+  "source_id": "31741146",
+  "company": "Vattenfall AB",
+  "title": "Internship – Computational Fluid Dynamics (CFD), Energy Transfer &",
+  "url": "https://easyapply.jobs/r/4KURJM428DLse4pXTHu",
+  "description": "Company Description\n\nVattenfall is a leading European energy company with 12 million customers and approximately 21,000 employees. We are convinced that there is a way to build a future in which everyone can choose fossil-free ways to transport, produce, and live.\n\nJob Description\n\nAre you a student looking to apply your knowledge to real-world solutions that support the energy transition? With us, you'll have the opportunity to complete your internship close to the business, working alongside experienced specialists and tackling challenges where your ideas and perspectives can make a real difference.\nAbout the internship\nAs an intern, you will join the Energy Transfer & Environment group within Vattenfall R&D Laboratories, working alongside specialists in fluid mechanics and Computational Fluid Dynamics (CFD). Our work includes numerical flow modelling and experimental measurements for energy applications, including hydropower and nuclear power.\nDuring the internship, you will work with CFD on a defined fluid-mechanics problem relevant to the group’s ongoing activities. Proposed tasks include preparing simulation models and computational meshes, setting up and running simulations, evaluating flow behaviour, and comparing results with available experimental data or reference cases, where applicable. The specific application and simulation tools will be agreed with the supervisor.\nThe aim of the internship is to develop practical skills in CFD and contribute to the understanding of an energy-related flow problem. You will document modelling assumptions, assess the quality and limitations of the results, and present your findings in a technical report and a final presentation to the group.\nDuration: Five months, full-time.This internship is for two students. \n\nQualifications\n\nWe are looking for students who are currently enrolled in ongoing studies and are eager to put their knowledge into practice through an internship at Vattenfall. You are also someone who identifies with our principles: Active, Open, Positive, and Safety. In addition, we expect you to meet the following requirements:\nEducation: Ongoing university studies in Mechanical Engineering, Engineering Physics, Energy Engineering or a related discipline, preferably with coursework in fluid mechanics, numerical methods and CFD.\nPrevious experience with a CFD solver and programming or data analysis is an advantage.\nLanguage skills: Good command of English, both spoken and written, for technical discussions, documentation and presentations.\nAvailability: Able to undertake a five-month internship as part of your ongoing studies.\n\nAdditional Information\nStart of assignment: By agreement.\nLocation: Solna. \nApplication – a document with your CV.\nApplication deadline: 2026-11-30.\nContact person and proposed supervisor at Vattenfall: Eric Lillberg, Senior Principal R&D Engineer, Fluid Mechanics/CFD, eric.lillberg@vattenfall.com, +46 70 537 29 94.\n\nDiversity and Inclusion – In Everything We Do\nAt Vattenfall, we value being Active, Positive, Open, and Safety-conscious. We are looking for employees who share our vision and can contribute to strengthening our company culture. We believe that diversity helps build a more successful and attractive company, and we strive to be role models in diversity and inclusion. Vattenfall actively works to ensure that all employees have equal opportunities and rights, regardless of age, ethnic or cultural background, gender identity, religion or belief, sexual orientation, or disability. Read more about how we work with diversity and inclusion here.\nVattenfall is part of Sweden’s critical infrastructure, and therefore many of our positions are security-classified. If this position is security-classified, a security screening will be conducted prior to employment in accordance with the Swedish Security Protection Act.\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
+  "posted_at": "2026-11-17T11:33:14+00:00",
+  "deadline": "2026-11-30T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5560362138",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Lab measurements",
+   "Data analysis"
+  ],
+  "fields": [
+   "Mechanical Engineering"
+  ],
+  "about": "With us, you'll have the opportunity to complete your internship close to the business, working alongside experienced specialists and tackling challenges where your ideas and perspectives can make a…",
+  "bullets": [],
+  "enriched": false,
+  "id": "af0d1de536c28f65",
+  "content_hash": "39878149b601757f",
+  "first_seen": "2026-11-17T12:37:22+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
+  "is_open": true
+ },
+ "7057b5be04c55130": {
+  "source": "jobtech",
+  "source_id": "31740265",
+  "company": "The Place AB",
+  "title": "Studentmedarbetare - Junior KYC analytiker",
+  "url": "https://jobb.theplace.se/jobs/8752406-studentmedarbetare-junior-kyc-analytiker/applications/new?promotion=2298795-arbetsformedlingen",
+  "description": "Vi söker till vår kund en student inom ekonomi eller juridik som kan arbeta 1–3 dagar i veckan under terminen och stötta framför allt inom KYC, PEP-screening och relaterade AFC-uppgifter. \nArbetsuppgifter: \n\nUppdatera, samla in och analysera KYC information för att säkerställa efterlevnad av gällande regelverk och myndighetskrav.\n\n\nGenomföra PEP-kontroller och utredningar för att identifiera potentiella risker\n\n\nStödja teamets KYC-analytiker och AML-specialist med olika administrativa uppgifter.\n\n\nVi söker dig som:\n\nStuderar en kandidatexamen inom ekonomi eller juridik eller annat närliggande område\n\n\nBehärskar svenska och engelska obehindrat i både tal och skrift\n\n\nHar 1-2 år kvar av dina studier\n\n\nTidigare KYC-erfarenhet är meriterande men inget krav. \nVi tror dessutom att du:\nÄr noggrann, driven och intreserad av finance/compliance\nKan jobba 1-3 dagar per vecka under terminen\nKan börja ditt arbete i mitten av januari 2027\n \nFör rätt person finns även möjlighet att fortsätta under sommaren och eventuellt därefter.\n\nThe Place – Where happy work happens\nLåter detta intressant och du fortfarande vill söka jobbet? Bra – du som lyckas knipa platsen blir dessutom en del av The Place! Som medarbetare hos The Place erbjuds du kompetensnätverk, mentorskap och trygga villkor. I The Place har du en Worklife Partner som är intresserad av att följa och utveckla ditt arbetsliv över tid.",
+  "posted_at": "2026-11-17T10:10:58+00:00",
+  "deadline": "2027-05-16T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5563402758",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [
+   "Finance"
+  ],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "7057b5be04c55130",
+  "content_hash": "d1db219ad6c6422e",
+  "first_seen": "2026-11-17T12:37:22+00:00",
+  "last_seen": "2026-11-17T12:37:22+00:00",
   "is_open": true
  }
 }
