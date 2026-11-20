@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -3098,7 +3098,7 @@
   "id": "e44ca11ca4226ee0",
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "f3ba7d10bb5db8b2": {
@@ -3132,7 +3132,7 @@
   "id": "f3ba7d10bb5db8b2",
   "content_hash": "89944e82bf86ca8e",
   "first_seen": "2026-10-05T10:58:27+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "1586fb73e8b28f4c": {
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -4008,7 +4008,7 @@
   "id": "284af395742f5996",
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "a34336eda1249908": {
@@ -4044,7 +4044,7 @@
   "id": "a34336eda1249908",
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "4abdcf409ba10748": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4312,7 +4312,7 @@
   "id": "3245c704630c7252",
   "content_hash": "e61dd9f770bbdf73",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "aed461abf42cc158": {
@@ -4419,7 +4419,7 @@
   "id": "e72a18c9c561a77e",
   "content_hash": "fec5d49654245f1c",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "7ae00f5246748da3": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4490,7 +4490,7 @@
   "id": "94710df98f75c84c",
   "content_hash": "6b5d98c35e677409",
   "first_seen": "2026-10-27T09:26:23+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "def938b14cca9b5b": {
@@ -4654,7 +4654,7 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "fc2fd0909073dd88": {
@@ -4700,7 +4700,7 @@
   "id": "fc2fd0909073dd88",
   "content_hash": "3ceda89bdce9683c",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "23fe38f659311b9d": {
@@ -4783,7 +4783,7 @@
   "id": "b7b7e83811bd9251",
   "content_hash": "f3da8d89eed4020c",
   "first_seen": "2026-11-02T11:49:32+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "8134c83ba1d67ea7": {
@@ -4862,7 +4862,7 @@
   "id": "bc568d7d093379ea",
   "content_hash": "98e42f524c9c4b25",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "ffe2c2c0478a0b1d": {
@@ -4897,7 +4897,7 @@
   "id": "ffe2c2c0478a0b1d",
   "content_hash": "b0510c91c2be3356",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "00f8585cc49c03e9": {
@@ -5081,7 +5081,7 @@
   "id": "05aadacd4cad0f51",
   "content_hash": "53703d24abeb3f72",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "d1001b3c4ebb0648": {
@@ -5118,7 +5118,7 @@
   "id": "d1001b3c4ebb0648",
   "content_hash": "2d3a2b449cd4d981",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "8ebd286e1ab4059a": {
@@ -5275,7 +5275,7 @@
   "id": "4f521ebd7769aa44",
   "content_hash": "8df416817240adb3",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "ee1700d7e2ea1737": {
@@ -5355,7 +5355,7 @@
   "id": "2b3662a61fe8e635",
   "content_hash": "c22c37d0313ad5e8",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "51e682cde671c095": {
@@ -5428,7 +5428,7 @@
   "id": "8a31d954d7104b5d",
   "content_hash": "6b5e69eb5d223bb0",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "fab3144eb31f4147": {
@@ -5467,7 +5467,7 @@
   "id": "fab3144eb31f4147",
   "content_hash": "3fc6a5ba4f05c583",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "453b92707c1ce553": {
@@ -5511,7 +5511,7 @@
   "id": "453b92707c1ce553",
   "content_hash": "518aa941ac5e4e5d",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "6d98ce56bedf8ed1": {
@@ -5552,7 +5552,7 @@
   "id": "6d98ce56bedf8ed1",
   "content_hash": "7bc546d99a38142f",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "5d99e6ba89f83f4f": {
@@ -5587,7 +5587,7 @@
   "id": "5d99e6ba89f83f4f",
   "content_hash": "e123494f52fd7ec1",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "73dd0e98be16d9fa": {
@@ -5622,7 +5622,7 @@
   "id": "73dd0e98be16d9fa",
   "content_hash": "d62359fc2196b435",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "0aaf9f75abb5c53c": {
@@ -5657,7 +5657,7 @@
   "id": "0aaf9f75abb5c53c",
   "content_hash": "2e4a9eac97325a66",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "e16c08d2abf084f0": {
@@ -5695,7 +5695,7 @@
   "id": "e16c08d2abf084f0",
   "content_hash": "24fcc3eece9e58f3",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "c72cf1e20f58ea54": {
@@ -5733,7 +5733,7 @@
   "id": "c72cf1e20f58ea54",
   "content_hash": "5483f8c24c225e5a",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "5f86fbe890d1ba80": {
@@ -5771,7 +5771,7 @@
   "id": "5f86fbe890d1ba80",
   "content_hash": "5483f8c24c225e5a",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "5d96c3a60f8b8264": {
@@ -5810,7 +5810,7 @@
   "id": "5d96c3a60f8b8264",
   "content_hash": "875efa33fee802a1",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "ce32a09ecffbd3ba": {
@@ -5894,7 +5894,7 @@
   "id": "d0abdf58c186ff21",
   "content_hash": "295952901dfbf969",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "b4ab5f10559e385d": {
@@ -5932,7 +5932,7 @@
   "id": "b4ab5f10559e385d",
   "content_hash": "756b90579fe7bbcc",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "6b3fee58de6af4ed": {
@@ -5968,7 +5968,7 @@
   "id": "6b3fee58de6af4ed",
   "content_hash": "7ec3f1221a751bb4",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "5e4a3fb7a8f10d4f": {
@@ -6007,7 +6007,7 @@
   "id": "5e4a3fb7a8f10d4f",
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "1ac3b7d39223c017": {
@@ -6044,7 +6044,7 @@
   "id": "1ac3b7d39223c017",
   "content_hash": "4d48383a7a75bc88",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "756113be98a4e706": {
@@ -6083,7 +6083,7 @@
   "id": "756113be98a4e706",
   "content_hash": "c8ae5f5d4d5a7ebc",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "7292a3808c5834fb": {
@@ -6165,7 +6165,7 @@
   "id": "fd913ed6d7b97824",
   "content_hash": "cdc1b802b2eaaa5f",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "924abc7b9786b07c": {
@@ -6201,7 +6201,7 @@
   "id": "924abc7b9786b07c",
   "content_hash": "b87df2f818fa1ad8",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "d6621e5606af3813": {
@@ -6239,7 +6239,7 @@
   "id": "d6621e5606af3813",
   "content_hash": "c505539abaf379c7",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "5f91f1e5424be53c": {
@@ -6279,7 +6279,7 @@
   "id": "5f91f1e5424be53c",
   "content_hash": "8e1d38c9f38ee431",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "af0d1de536c28f65": {
@@ -6316,7 +6316,7 @@
   "id": "af0d1de536c28f65",
   "content_hash": "39878149b601757f",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "7057b5be04c55130": {
@@ -6353,7 +6353,7 @@
   "id": "7057b5be04c55130",
   "content_hash": "d1db219ad6c6422e",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "c10e7a5ad6226af5": {
@@ -6455,7 +6455,7 @@
   "id": "dde2a01c4a49038b",
   "content_hash": "039db988a2d043ec",
   "first_seen": "2026-11-18T12:28:41+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "8014b0b2d65657b2": {
@@ -6464,7 +6464,7 @@
   "company": "Trustpilot",
   "title": "Sales Compensation, Student Assistant",
   "url": "https://corporate.trustpilot.com/careers/job/8368919?gh_jid=8368919",
-  "description": "At Trustpilot, we're on an incredible journey. We're a profitable, high-growth FTSE-250 company with a big vision: to become the universal symbol of trust. We run the world's largest open customer review platform, and while we've come a long way, there's still so much exciting work to do. Come join us at the heart of trust!\n Our growing sales organisation is compensated through commission, and our Global Sales Planning & Compensation team structures those plans, sets sales targets, and ensures every salesperson worldwide is paid accurately and on time. Acting as the company’s behavioural economists, we partner with commercial leadership to analyse how incentives drive revenue growth, which gives us an inside view across the entire sales journey, from revenue planning to performance and pay.\n We are looking for a Student Assistant to join our Global Sales Planning & Compensation team in Copenhagen, reporting to the Sales Compensation Manager. This is a hands-on, part-time role with hours planned flexibly around your studies and exam periods. From day one, you will take ownership of real processes that directly impact how colleagues are paid and how leadership tracks performance, working across Sales, Finance, and HR in Denmark, the UK, and the US.\n To thrive in this role, you bring strong analytical instincts, a sharp eye for detail, and genuine curiosity about how incentives shape commercial behaviour. Experience with Salesforce, Forma, or similar business tools is a plus, but not required.\n What you’ll be doing: \n• Support the monthly and quarterly commission cycle to ensure accurate, on-time global payouts.\n• Investigate and resolve commission questions from sales colleagues, explaining data outcomes clearly.\n• Upload and reconcile sales targets across our systems and help prepare and launch commission plans.\n• Run recurring reports and build leadership presentation packs that turn numbers into actionable insights.\n• Coordinate administration for our sales recognition programmes.\n• Help develop our commission system (Forma), build controls, and document repeatable standard operating procedures while working across Forma, Salesforce, and Sage.\n• Collaborate with colleagues in the UK and US across Commercial, Revenue Operations, FP&A, Payroll, Accounting, and HR.\n Who you are: \n• In the final year of a Bachelor's degree, or early in a Master's, in finance, economics, or a related field.\n• Skilled in Excel or Google Sheets (lookups, pivot tables, and clean, structured models) with a strong interest in numbers and data.\n• Analytical, detail-oriented and proactive, you catch anomalies in data and spot ways to improve processes.\n• Commercially curious and eager to learn how sales compensation and incentives drive revenue in a global tech company.\n• A clear, concise communicator who handles confidential pay and performance data with care.\n• Collaborative, fluent in English, and able to work regularly from our Copenhagen office.\n What’s in it for you: \n• Learn how sales compensation works in a global technology company, from plan design to payout, and how commercial leaders use incentives to influence behaviour and reach revenue goals.\n• Hands-on experience in a function that connects Sales, Finance and HR.\n• Ownership of real processes that directly affect how our sales colleagues are paid.\n• Flexible hours that fit around your studies and exam periods.\n• A strong foundation for a career in finance, commercial operations or reward.\n• Rich learning and development opportunities are supported through the Trustpilot Academy and Blinkist\n• Central office with a laid-back vibe and constant buzz of different languages being spoken everywhere you go It’s complete with a coffee bar, canteen, and table tennis and has a wide variety of refreshments available - you can opt-in for breakfast and lunch at an affordable price\n• Regular opportunities to connect and get to know your fellow Trusties, including company-wide celebrations and events, Trustie Community activities, and team socials\n• Opportunity to join the Trustpilot Social Club for a small monthly fee and attend regular social and leisure activities like go-karting, cooking classes, and escape rooms\n About us \n Trustpilot began in 2007 with a simple yet powerful idea that is more relevant today than ever — to be the universal symbol of trust, bringing consumers and businesses together through reviews. Trustpilot is open, independent, and impartial — we help consumers make the right choices and businesses to build trust, grow and improve.\n Today, we have more than 350 million reviews and 60 million monthly active users across the globe, with 149 billion annual Trustpilot brand impressions, and the numbers keep growing. We have more than 1000 employees and we’re headquartered in Copenhagen, with operations in Amsterdam, Denver, Edinburgh, Hamburg, London, Melbourne, Milan and New York. \n We’re driven by connection. It’s at the heart of what we do. Our culture keeps things fresh –– it’s built on the relationships we create. We talk, we laugh, we collaborate and we respect each other. We work across borders and cultures to be the universal symbol of trust in an ever-changing world. With vibrant office locations worldwide and over 50 nationalities, we’re proud to be an equal opportunity workplace with diverse perspectives and ideas. \n Our purpose to help people and businesses help each other is a tall order, but we keep it real. We’re a great bunch of humans, doing awesome stuff, without fuss or pretense. A successful Trustpilot future is driven by you –– we give you the autonomy to shape a career you can be proud of. If you’re ready to grow, let’s go.\n Join us at the heart of trust. \n Trustpilot is committed to creating an inclusive environment where people from all backgrounds can thrive and where different viewpoints and experiences are valued and respected. Trustpilot will consider all applications for employment without regard to race, ethnicity,",
+  "description": "At Trustpilot, we're on an incredible journey. We're a profitable, high-growth FTSE-250 company with a big vision: to become the universal symbol of trust. We run the world's largest open customer review platform, and while we've come a long way, there's still so much exciting work to do. Come join us at the heart of trust!\n Our growing sales organisation is compensated through commission, and our Global Sales Planning & Compensation team structures those plans, sets sales targets, and ensures every salesperson worldwide is paid accurately and on time. Acting as the company’s behavioural economists, we partner with commercial leadership to analyse how incentives drive revenue growth, which gives us an inside view across the entire sales journey, from revenue planning to performance and pay.\n We are looking for a Student Assistant to join our Global Sales Planning & Compensation team in Copenhagen, reporting to the Sales Compensation Manager. This is a hands-on, part-time role with hours planned flexibly around your studies and exam periods. From day one, you will take ownership of real processes that directly impact how colleagues are paid and how leadership tracks performance, working across Sales, Finance, and HR in Denmark, the UK, and the US.\n To thrive in this role, you bring strong analytical instincts, a sharp eye for detail, and genuine curiosity about how incentives shape commercial behaviour. Experience with Salesforce, Forma, or similar business tools is a plus, but not required.\n What you’ll be doing: \n• Support the monthly and quarterly commission cycle to ensure accurate, on-time global payouts.\n• Investigate and resolve commission questions from sales colleagues, explaining data outcomes clearly.\n• Upload and reconcile sales targets across our systems and help prepare and launch commission plans.\n• Run recurring reports and build leadership presentation packs that turn numbers into actionable insights.\n• Coordinate administration for our sales recognition programmes.\n• Help develop our commission system (Forma), build controls, and document repeatable standard operating procedures while working across Forma, Salesforce, and Sage.\n• Collaborate with colleagues in the UK and US across Commercial, Revenue Operations, FP&A, Payroll, Accounting, and HR.\n Who you are: \n• In the final year of a Bachelor's degree, or early in a Master's, in finance, economics, or a related field.\n• Skilled in Excel or Google Sheets (lookups, pivot tables, and clean, structured models) with a strong interest in numbers and data.\n• Analytical, detail-oriented and proactive, you catch anomalies in data and spot ways to improve processes.\n• Commercially curious and eager to learn how sales compensation and incentives drive revenue in a global tech company.\n• A clear, concise communicator who handles confidential pay and performance data with care.\n• Collaborative, fluent in English, and able to work regularly from our Copenhagen office.\n What’s in it for you: \n• Learn how sales compensation works in a global technology company, from plan design to payout, and how commercial leaders use incentives to influence behaviour and reach revenue goals.\n• Hands-on experience in a function that connects Sales, Finance and HR.\n• Ownership of real processes that directly affect how our sales colleagues are paid.\n• Flexible hours that fit around your studies and exam periods.\n• A strong foundation for a career in finance, commercial operations or reward.\n• Rich learning and development opportunities are supported through the Trustpilot Academy and Blinkist\n• Central office with a laid-back vibe and constant buzz of different languages being spoken everywhere you go It’s complete with a coffee bar, canteen, and table tennis and has a wide variety of refreshments available - you can opt-in for breakfast and lunch at an affordable price\n• Regular opportunities to connect and get to know your fellow Trusties, including company-wide celebrations and events, Trustie Community activities, and team socials\n• Opportunity to join the Trustpilot Social Club for a small monthly fee and attend regular social and leisure activities like go-karting, cooking classes, and escape rooms\n#LI-MG1\n About us \n Trustpilot began in 2007 with a simple yet powerful idea that is more relevant today than ever — to be the universal symbol of trust, bringing consumers and businesses together through reviews. Trustpilot is open, independent, and impartial — we help consumers make the right choices and businesses to build trust, grow and improve.\n Today, we have more than 350 million reviews and 60 million monthly active users across the globe, with 149 billion annual Trustpilot brand impressions, and the numbers keep growing. We have more than 1000 employees and we’re headquartered in Copenhagen, with operations in Amsterdam, Denver, Edinburgh, Hamburg, London, Melbourne, Milan and New York. \n We’re driven by connection. It’s at the heart of what we do. Our culture keeps things fresh –– it’s built on the relationships we create. We talk, we laugh, we collaborate and we respect each other. We work across borders and cultures to be the universal symbol of trust in an ever-changing world. With vibrant office locations worldwide and over 50 nationalities, we’re proud to be an equal opportunity workplace with diverse perspectives and ideas. \n Our purpose to help people and businesses help each other is a tall order, but we keep it real. We’re a great bunch of humans, doing awesome stuff, without fuss or pretense. A successful Trustpilot future is driven by you –– we give you the autonomy to shape a career you can be proud of. If you’re ready to grow, let’s go.\n Join us at the heart of trust. \n Trustpilot is committed to creating an inclusive environment where people from all backgrounds can thrive and where different viewpoints and experiences are valued and respected. Trustpilot will consider all applications for employment without regard to race, et",
   "posted_at": "2026-11-19T03:31:47-05:00",
   "deadline": null,
   "pay": null,
@@ -6497,7 +6497,7 @@
   "id": "8014b0b2d65657b2",
   "content_hash": "fb4f736e1f60b08a",
   "first_seen": "2026-11-19T12:19:22+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "1c159c4ef7afb07a": {
@@ -6534,7 +6534,7 @@
   "id": "1c159c4ef7afb07a",
   "content_hash": "38f984afd6672102",
   "first_seen": "2026-11-19T12:19:22+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  },
  "ec7943881ed8a34d": {
@@ -6571,7 +6571,198 @@
   "id": "ec7943881ed8a34d",
   "content_hash": "e9074403c06e1fe1",
   "first_seen": "2026-11-19T12:19:22+00:00",
-  "last_seen": "2026-11-19T12:19:22+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
+  "is_open": true
+ },
+ "4c7d0004b8fffc52": {
+  "source": "ashby",
+  "source_id": "3a5a917a-8d40-4bdb-97fb-8a9fa5245d2a",
+  "company": "Legora",
+  "title": "Solutions & Delivery Intern",
+  "url": "https://jobs.ashbyhq.com/legora/3a5a917a-8d40-4bdb-97fb-8a9fa5245d2a",
+  "description": "ABOUT US\n\nLegora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar.\n\nOur AI-native workspace lets legal professionals move faster, think more clearly, and operate with sharper precision. By analysing thousands of documents in minutes and powering end-to-end workflows, we cut through complexity, teams can focus on what matters: judgment, strategy, and outcomes.\n\n2,100+ customers across 80+ countries trust us, including Cleary Gottlieb, Goodwin, Linklaters, White & Case, Dentons, and Barclays. We’ve scaled to $200M+ in ARR, with teams across Europe, North America and APAC, and continue to expand through acquisitions including Qura, Walter AI, Graceview, Cadastral, and Wexler.\n\nWe partner with world-class performers: including Aaron Judge and the New York Yankees, Ludvig Åberg (and his caddie), and campaigns featuring Jude Law.\n\nJoining Legora means three things.\n\n - We lean in: ownership over titles, outcomes over intentions.\n\n - We fight for excellence: high standards, direct, ego-free feedback.\n\n - We grow together: as a team and with our customers.\n\nMission before ego. Everyone contributes. No one coasts.\n\nIf you’re driven by impact, pace, and raising the bar. This is the place.\n\nThe role\n\nYou help the Solutions & Delivery team get new customers live and using the product well, by supporting onboarding projects, building small tools and materials, and learning how implementation really works.\n\n\n\nWHAT YOU'LL DO\n\n - Support onboarding projects: prepare kickoff materials, track tasks and open questions, and keep project plans and status notes up to date.\n\n - Support and own intake of Technical Delivery and Solutions Engineer requests.\n\n - Help configure and test customer setups (workspaces, permissions, templates, integrations) under the guidance of a Solutions Engineer or Delivery Lead.\n\n - Run QA on workflows before go-live and document bugs or gaps clearly for Product and Engineering.\n\n - Join customer calls as a note-taker, then write up summaries, decisions and action items within 24 hours.\n\n - Build and maintain internal resources: how-to guides, FAQs, demo environments and reusable onboarding checklists.\n\n - Pull and tidy usage data to show how newly onboarded customers are adopting the product.\n\n - Take on one self-owned project during the internship, such as automating a repetitive delivery task or improving a training asset, and present the result to the team.\n\n\nWHAT WE'RE LOOKING FOR\n\n - Currently studying, or recently graduated, in a field such as law, business, information systems, engineering or similar. We care more about curiosity than about the specific degree.\n\n - Clear written and spoken communication in English; additional languages are a plus.\n\n - Structured, detail-oriented and comfortable juggling several small tasks at once.\n\n - Comfortable with technology: you pick up new software quickly, and basic spreadsheet skills are expected.\n\n - Interest in legal tech, AI or professional services is a plus. Light scripting (SQL, Python) or prior customer-facing experience is a bonus, not a requirement.\n\n\nWHAT YOU'LL LEARN\n\n - How a customer moves from signed contract to live, active users, and where projects tend to stall.\n\n - How to scope and run a technical implementation with non-technical stakeholders.\n\n - How Solutions, Customer Success, Product and Sales work together around a customer.\n\nLegora is an Equal Opportunity Employer\n\nAt Legora, we believe great teams are built on diversity of thought and experience. We’re proud to be an equal opportunity employer and committed to creating an inclusive, high-performance culture where everyone can do their best work. We welcome people of all backgrounds and don’t discriminate based on race, color, religion, national origin, gender, gender identity or expression, sexual orientation, age, disability, veteran status, or any other characteristic protected by law.",
+  "posted_at": "2026-11-19T15:03:54+00:00",
+  "deadline": null,
+  "pay": "SEK 33.2K per month",
+  "industry": "",
+  "company_slug": "legora",
+  "city": "Stockholm HQ",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Excel modelling",
+   "SQL",
+   "Python"
+  ],
+  "fields": [
+   "Data Science",
+   "Economics & Business"
+  ],
+  "about": "- Take on one self-owned project during the internship, such as automating a repetitive delivery task or improving a training asset, and present the result to the team.",
+  "bullets": [
+   "We lean in: ownership over titles, outcomes over intentions.",
+   "We fight for excellence: high standards, direct, ego-free feedback.",
+   "We grow together: as a team and with our customers."
+  ],
+  "enriched": false,
+  "id": "4c7d0004b8fffc52",
+  "content_hash": "4948b9cb53e4c801",
+  "first_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
+  "is_open": true
+ },
+ "37d284445b42d743": {
+  "source": "jobtech",
+  "source_id": "31758086",
+  "company": "Experis AB",
+  "title": "Nyexaminerad ingenjör i Stockholm? Här börjar din framtid!",
+  "url": "https://www.aplitrak.com/?adid=RFR5c2FuLjQzMjg4LjEzNzY1QG1hbnBvd2VyZ3JvdXBub3JkaWNzLmFwbGl0cmFrLmNvbQ",
+  "description": "Har du nyligen tagit ingenjörsexamen och är redo att omsätta dina kunskaper i praktiken? Gillar du teknik, problemlösning och att förstå hur saker fungerar och hänger ihop? Genom Experis Academy får du möjlighet att bli anställd från dag ett och ta steget mot en spännande karriär inom avancerad teknik.\n \nTillsammans med en ledande högteknologisk aktör inom försvarsindustrin får du genom ett skräddarsytt utbildningsprogram utveckla din kompetens och påbörja resan mot att bli specialist inom ditt område.\nDu behöver inte kunna allt från början. Vi söker din potential, ditt teknikintresse och din vilja att utvecklas.\nUtbildningen startar i november 2026 i Stockholm och pågår i 3 månader. Därefter följer en 12 månaders specialiseringsperiod hos vår samarbetspartner, där du får använda och utveckla dina kunskaper i praktiken.\n\n\nVar med och utveckla teknik som gör skillnad!\n\nHär får du arbeta i en högteknologisk miljö där avancerad teknik, innovation, kvalitet och säkerhet står i centrum.\nTillsammans med erfarna kollegor får du arbeta med komplexa tekniska produkter och system. Beroende på din bakgrund, dina intressen och verksamhetens behov kan du utvecklas inom exempelvis system, mekanik, elektronik, mjukvara, konstruktion, analys, kvalitet eller säkerhet.\nDet här är en möjlighet att få en stark start på ingenjörskarriären, bygga värdefull erfarenhet och på sikt utvecklas till specialist inom ditt område.\n\n\nSteg 1 - Utbildning genom Experis Academy\n\nDin anställning inleds med en intensivutbildning genom Experis Academy som förbereder dig för ditt kommande uppdrag.\nExperis Academy är en del av konsultbolaget Experis och kombinerar utbildning, kompetensutveckling och praktisk erfarenhet för att skapa en tydlig väg från studier till arbetsliv.\n\n\nDet här får du genom Experis Academy:\n\nAnställning och lön från dag ett - både under utbildning och specialisering.\nKompetensutveckling - bygg vidare på din akademiska bakgrund.\nCoachning och handledning under din utveckling.\n12 månaders specialisering hos vår samarbetspartner.\nMöjlighet att bygga erfarenhet, nätverk och framtida specialistkompetens.\n\n\nSteg 2 - Din utveckling som ingenjör\n\n\nEfter utbildningen påbörjar du din specialiseringsperiod hos vår samarbetspartner i Stockholm. Här får du använda dina kunskaper i verkliga projekt och utvecklas tillsammans med erfarna kollegor.\nDina arbetsuppgifter kan exempelvis handla om tekniska analyser, konstruktion, systemarbete, kvalitetssäkring, dokumentation, verifiering, problemlösning eller utveckling av avancerade tekniska produkter och system.\nDu får även möjlighet att samarbeta mellan olika discipliner, exempelvis mekanik, elektronik, mjukvara, konstruktion och produktion. På så sätt får du en bred förståelse för verksamheten samtidigt som du hittar det område där just dina styrkor kommer bäst till sin rätt.\n\n\nVem kan ansöka?\n\nVi söker dig som är nyexaminerad eller befinner dig i början av din ingenjörskarriär. För oss väger din motivation, nyfikenhet och vilja att lära tyngre än hur mycket arbetslivserfarenhet du har.\nDu gillar teknik och problemlösning, arbetar strukturerat och analytiskt och trivs med att samarbeta med andra.\n\n\nVi tror att du:\n\nHar en högre teknisk utbildning, exempelvis inom maskinteknik, elektroteknik, mekatronik, datateknik, teknisk fysik, mjukvara eller motsvarande.\nÄr nyexaminerad eller tidigt i din karriär.\nHar ett analytiskt och strukturerat arbetssätt.\nÄr nyfiken på hur produkter, system och tekniska lösningar fungerar.\nVill utvecklas och på sikt bygga en specialistkompetens.\n\nErfarenhet från examensarbete, universitetsprojekt, praktik eller sommarjobb är meriterande, men du behöver inte ha flera års arbetslivserfarenhet.\nVi söker potential, inte färdiga specialister.\n\n\nPraktisk information\n\nUtbildningsstart: Februari 2027\nUtbildnings- och specialiseringsort: Stockholm\nOmfattning: Heltid\nSista ansökningsdag: 20 december 2026\n\nUrval sker löpande, så skicka gärna in din ansökan så snart som möjligt. Vi tar inte emot ansökningar via e-post. Vid frågor är du välkommen att kontakta academy@se.experis.com.\n\n\nVälkommen till Experis Academy!\n\nPå Manpower, Experis och Jefferson Wells värnar vi om en trygg och transparent rekryteringsprocess. Vi kommer aldrig att be dig om betalning, bankuppgifter eller annan känslig personlig information i samband med en jobbansökan eller rekrytering. Om du får misstänkta meddelanden som sägs komma från oss ber vi dig att kontakta oss på contactcenter@manpower.se.",
+  "posted_at": "2026-11-20T11:46:11+00:00",
+  "deadline": "2026-12-20T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5568551104",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Graduate",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 3,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Computer Science",
+   "Mechanical Engineering",
+   "Electrical Engineering"
+  ],
+  "about": "Dina arbetsuppgifter kan exempelvis handla om tekniska analyser, konstruktion, systemarbete, kvalitetssäkring, dokumentation, verifiering, problemlösning eller utveckling av avancerade tekniska…",
+  "bullets": [],
+  "enriched": false,
+  "id": "37d284445b42d743",
+  "content_hash": "fa2cc18440795a7c",
+  "first_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
+  "is_open": true
+ },
+ "39a2b918f497ce2d": {
+  "source": "jobtech",
+  "source_id": "31754546",
+  "company": "Bosch Thermoteknik AB",
+  "title": "Internship in Manufacturing Engineering",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162250998-internship-in-manufacturing-engineering",
+  "description": "Company Description\nWelcome to a world, where your ideas lead to something big. Welcome to Bosch!\nBosch Thermoteknik AB in Tranås develops, manufactures, and sells heat pumps for the European market. We are approximately 650 employees and form part of the large Bosch Group, which consists of approximately 417,000 employees worldwide.\nWe work with sustainable simplification of everyday life where the focus is on the environment, innovation, and development. In Tranås there is a production unit and a competence and development center. The heat pumps we manufacture draw energy from different sources - the mountain, the water, or the air. We work to constantly be at the forefront and contribute to sustainable energy and a better environment with the goal of creating a simplified everyday life for our customers. In short, we create technology that is \"Invented for life\". \n\n\nJob Description\nYour contribution to something big\nDuring your internship in Manufacturing Engineering you will support the local colleagues with their daily tasks which includes your involvement in\nImproving projects in production (Kaizen)\nLine support topics involving problem-solving techniques (8D and problem-solving sheet).\nAnalysis of data from production like downtimes, cycle times, or first-pass rate\nStandardization of processes and routines\nImplementation of new software tools such as digital Process Confirmation or new Workforce Management tool\nIndustrial engineering topics (including Ergonomics and Time Studies)\n\n \nFurthermore, you will support with general organizational tasks and contribute on special projects.\nWhile working with us, you will familiarize yourself with manufacturing and assembly processes.\n \nDuration of the internship: 6 months\n\n\nQualifications\nWhat distinguishes you\nCurrently studying Engineering or Industrial Engineering, preferably in Master’s program\nAnalytical skills and ability to quickly understand and work with new topics\nSolution-oriented mindset\nAbility to work independently and to take responsibility for own work\nWorking knowledge of Microsoft Office tools, e.g. Word, Excel, PowerPoint\nResult-oriented and pro-active attitude\nExcellent written and verbal communication skills in English - Swedish and/or German is an advantage\n\n\n\nAdditional Information\nWhat we offer you\nMonetary compensation is included to support you during your internship\nWe can offer free accommodation in Tranås\nTo support your well-being, we provide a wellness contribution for use on fitness, sports, or wellness services\nWe cover your travel costs from your residence to Tranås, making relocation easier for you\nYou gain valuable experience working within an international company with global connections\n\nWelcome to Tranås – the heart of Bosch Home Comfort in Sweden\nTranås, beautifully located by the idyllic Lake Sommen and surrounded by forests and nature reserves, is home to Bosch Thermotechnology AB in Sweden. Here, more than 600 associates work in manufacturing and research & development of innovative heating solutions for a sustainable future.\nAt Bosch, we care about you, our business, and the environment.\nWe offer more than a job – we help you grow in your career and as a person. Life is about balance, and we support your goals, whether they involve new challenges, development, or time for family and hobbies.\nJoin a workplace that values individuality, openness, and trust, where you can be yourself and be inspired by diverse perspectives from around the globe.\nJoin us in Tranås and be part of shaping tomorrow’s energy solutions – in a workplace where innovation meets quality of life.\nHere, you’ll find not just a job – but a lifestyle. #LikeABosch",
+  "posted_at": "2026-11-19T17:11:06+00:00",
+  "deadline": "2026-12-19T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5562629062",
+  "city": "Tranås",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Excel modelling"
+  ],
+  "fields": [
+   "Industrial Engineering"
+  ],
+  "about": "During your internship in Manufacturing Engineering you will support the local colleagues with their daily tasks which includes your involvement in",
+  "bullets": [],
+  "enriched": false,
+  "id": "39a2b918f497ce2d",
+  "content_hash": "7bdfcf0d0193b36e",
+  "first_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
+  "is_open": true
+ },
+ "c590763287b92f50": {
+  "source": "jobtech",
+  "source_id": "31754526",
+  "company": "Bosch Thermoteknik AB",
+  "title": "Internship in Software Engineering",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162281893-internship-in-software-engineering",
+  "description": "Company Description\nWelcome to a world, where your ideas lead to something big. Welcome to Bosch!\nBosch Thermoteknik AB in Tranås develops, manufactures, and sells heat pumps for the European market. We are approximately 650 employees and form part of the large Bosch Group, which consists of approximately 417,000 employees worldwide.\nWe work with sustainable simplification of everyday life where the focus is on the environment, innovation, and development. In Tranås there is a production unit and a competence and development center. The heat pumps we manufacture draw energy from different sources - the mountain, the water, or the air. We work to constantly be at the forefront and contribute to sustainable energy and a better environment with the goal of creating a simplified everyday life for our customers. In short, we create technology that is \"Invented for life\". \n\n\nJob Description\nYour contribution to something big \nAs an Intern in the Software Engineering Department, you will help our Team drive IT development projects.  \nYou will be responsible for organizing and participating in project workshops and events \nPreparing and delivering presentations during meetings will be a key part of your responsibilities \nYou will also prepare content and participate in discussions with senior management, contributing to strategic decision-making \nFrom a technical perspective, your work will focus heavily on model-based development using the MATLAB/Simulink environment \n\nDuration of the internship: 6 months, preferably starting in March 2027 \nLocation: on-site in our plant in Tranås, Sweden \n\n\nQualifications\nWhat distinguishes you \nCurrently studying Control and System Engineering, Computer Science, or similar (Bachelor or Master of Science) \nAbility to manage and set priorities in a changing environment  \nGood analytical skills  \nAbility to work independently and approach people easily  \nStructured and result-oriented way of working with an ‘outside of the box’ thinking \nWorking knowledge in Microsoft Office tools (esp. Excel and PowerPoint) \nExcellent verbal and written communication skills in English \nIdeally knowledge in Matlab/Simulink \n\n\n\nAdditional Information\nWhat we offer you  \nMonetary compensation is included to support you during your internship \nWe can offer free accommodation in Tranås  \nTo support your well-being, we provide a wellness contribution for use on fitness, sports, or wellness services \nWe cover your travel costs from your residence to Tranås, making relocation easier for you \nYou gain valuable experience working within an international company with global connections \n\nWelcome to Tranås – the heart of Bosch Home Comfort in Sweden\nTranås, beautifully located by the idyllic Lake Sommen and surrounded by forests and nature reserves, is home to Bosch Thermotechnology AB in Sweden. Here, more than 600 associates work in manufacturing and research & development of innovative heating solutions for a sustainable future.\nAt Bosch, we care about you, our business, and the environment.\nWe offer more than a job – we help you grow in your career and as a person. Life is about balance, and we support your goals, whether they involve new challenges, development, or time for family and hobbies.\nJoin a workplace that values individuality, openness, and trust, where you can be yourself and be inspired by diverse perspectives from around the globe.\nJoin us in Tranås and be part of shaping tomorrow’s energy solutions – in a workplace where innovation meets quality of life.\nHere, you’ll find not just a job – but a lifestyle. #LikeABosch",
+  "posted_at": "2026-11-19T17:09:55+00:00",
+  "deadline": "2026-12-19T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5562629062",
+  "city": "Tranås",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "MATLAB",
+   "Excel modelling"
+  ],
+  "fields": [
+   "Computer Science"
+  ],
+  "about": "As an Intern in the Software Engineering Department, you will help our Team drive IT development projects.",
+  "bullets": [],
+  "enriched": false,
+  "id": "c590763287b92f50",
+  "content_hash": "e9b32da108287049",
+  "first_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
+  "is_open": true
+ },
+ "52846802da98c8fa": {
+  "source": "jobtech",
+  "source_id": "31754549",
+  "company": "Bosch Thermoteknik AB",
+  "title": "Internship in Industrial Engineering & Logistics",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162249923-internship-in-industrial-engineering-logistics",
+  "description": "Company Description\nWelcome to a world, where your ideas lead to something big. Welcome to Bosch!\nBosch Thermoteknik AB in Tranås develops, manufactures, and sells heat pumps for the European market. We are approximately 650 employees and form part of the large Bosch Group, which consists of approximately 417,000 employees worldwide.\nWe work with sustainable simplification of everyday life where the focus is on the environment, innovation, and development. In Tranås there is a production unit and a competence and development center. The heat pumps we manufacture draw energy from different sources - the mountain, the water, or the air. We work to constantly be at the forefront and contribute to sustainable energy and a better environment with the goal of creating a simplified everyday life for our customers. In short, we create technology that is \"Invented for life\". \n\n\nJob Description\nYour contribution to something big\nSupport and execute improvement projects related to material flow, internal transportation, storage and production line supply\nDevelop and update drawings for flow racks, trolleys and material handling equipment using CAD\nYou will have the opportunity to plan and execute logistics-related improvement projects\nCollect, analyze, and visualize logistics data using analytical tools to identify improvement opportunities and support KPI follow-ups\nYou will be Applying industrial engineering methods, including ergonomics assessments, standardized work, process mapping and FMEA\nPrepare and participate in workshops, collaborate with cross-functional teams and follow up on project activities\nSupport project planning, documentation, and routine administrative tasks to ensure projects stay organized and on track.\n\nDuration of the internship: 6 months, preferably starting in March 2027\nLocation: on-site in our plant in Tranås, Sweden\n\n\nQualifications\nWhat distinguishes you\nCurrently studying Engineering or similar (Bachelor or Master of Science)\nStructured and goal oriented. With ability to work independently and approach people easily\nStrong interest in manufacturing, logistics and continuous improvement\nBasic knowledge of CAD software (AutoCAD or similar) is an advantage.\nKnowledge in Microsoft Office tools (Excel, PowerPoint, Word)\nGood analytical skills and problem-solving mindset\nFluent verbal and written communication skills in English\n\n\n\nAdditional Information\nWhat we offer you\nMonetary compensation is included to support you during your internship\nWe can offer free accommodation in Tranås\nTo support your well-being, we provide a wellness contribution for use on fitness, sports, or wellness services\nWe cover your travel costs from your residence to Tranås, making relocation easier for you\nYou gain valuable experience working within an international company with global connections\n\nWelcome to Tranås – the heart of Bosch Home Comfort in Sweden\nTranås, beautifully located by the idyllic Lake Sommen and surrounded by forests and nature reserves, is home to Bosch Thermotechnology AB in Sweden. Here, more than 600 associates work in manufacturing and research & development of innovative heating solutions for a sustainable future.\nAt Bosch, we care about you, our business, and the environment.\nWe offer more than a job – we help you grow in your career and as a person. Life is about balance, and we support your goals, whether they involve new challenges, development, or time for family and hobbies.\nJoin a workplace that values individuality, openness, and trust, where you can be yourself and be inspired by diverse perspectives from around the globe.\nJoin us in Tranås and be part of shaping tomorrow’s energy solutions – in a workplace where innovation meets quality of life.\nHere, you’ll find not just a job – but a lifestyle. #LikeABosch",
+  "posted_at": "2026-11-19T17:13:25+00:00",
+  "deadline": "2026-12-19T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "5562629062",
+  "city": "Tranås",
+  "country": "SE",
+  "type": "Internship",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "CAD (SolidWorks)",
+   "Excel modelling",
+   "Data visualisation"
+  ],
+  "fields": [
+   "Industrial Engineering"
+  ],
+  "about": "You will have the opportunity to plan and execute logistics-related improvement projects",
+  "bullets": [],
+  "enriched": false,
+  "id": "52846802da98c8fa",
+  "content_hash": "06923c520e57f82b",
+  "first_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-20T12:19:48+00:00",
   "is_open": true
  }
 }
