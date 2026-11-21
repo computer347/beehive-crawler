@@ -2594,7 +2594,7 @@
   "id": "d9dcbe3effc9bd2d",
   "content_hash": "4b0d852740397d13",
   "first_seen": "2026-09-30T10:05:38+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "51e11c83c475db15": {
@@ -3099,7 +3099,7 @@
   "content_hash": "bdc512dfdf09191f",
   "first_seen": "2026-10-03T09:31:24+00:00",
   "last_seen": "2026-11-20T12:19:48+00:00",
-  "is_open": true
+  "is_open": false
  },
  "f3ba7d10bb5db8b2": {
   "source": "jobtech",
@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -3830,7 +3830,7 @@
   "id": "ad7948d67f33f347",
   "content_hash": "2edeeb4ab859ab27",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "05aeb9eaf40486ec": {
@@ -3865,7 +3865,7 @@
   "id": "05aeb9eaf40486ec",
   "content_hash": "0c3f702d222ea5aa",
   "first_seen": "2026-10-20T08:59:43+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "eb4f219fa1a59427": {
@@ -4009,7 +4009,7 @@
   "content_hash": "aeddf2ad28d242fc",
   "first_seen": "2026-10-22T09:01:02+00:00",
   "last_seen": "2026-11-20T12:19:48+00:00",
-  "is_open": true
+  "is_open": false
  },
  "a34336eda1249908": {
   "source": "jobtech",
@@ -4045,7 +4045,7 @@
   "content_hash": "728582d6c6b3baa7",
   "first_seen": "2026-10-22T09:01:02+00:00",
   "last_seen": "2026-11-20T12:19:48+00:00",
-  "is_open": true
+  "is_open": false
  },
  "4abdcf409ba10748": {
   "source": "greenhouse",
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4312,7 +4312,7 @@
   "id": "3245c704630c7252",
   "content_hash": "e61dd9f770bbdf73",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "aed461abf42cc158": {
@@ -4419,7 +4419,7 @@
   "id": "e72a18c9c561a77e",
   "content_hash": "fec5d49654245f1c",
   "first_seen": "2026-10-24T08:29:28+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "7ae00f5246748da3": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4490,7 +4490,7 @@
   "id": "94710df98f75c84c",
   "content_hash": "6b5d98c35e677409",
   "first_seen": "2026-10-27T09:26:23+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "def938b14cca9b5b": {
@@ -4654,7 +4654,7 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "fc2fd0909073dd88": {
@@ -4700,7 +4700,7 @@
   "id": "fc2fd0909073dd88",
   "content_hash": "3ceda89bdce9683c",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "23fe38f659311b9d": {
@@ -4783,7 +4783,7 @@
   "id": "b7b7e83811bd9251",
   "content_hash": "f3da8d89eed4020c",
   "first_seen": "2026-11-02T11:49:32+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "8134c83ba1d67ea7": {
@@ -4862,7 +4862,7 @@
   "id": "bc568d7d093379ea",
   "content_hash": "98e42f524c9c4b25",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "ffe2c2c0478a0b1d": {
@@ -4897,7 +4897,7 @@
   "id": "ffe2c2c0478a0b1d",
   "content_hash": "b0510c91c2be3356",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "00f8585cc49c03e9": {
@@ -5081,7 +5081,7 @@
   "id": "05aadacd4cad0f51",
   "content_hash": "53703d24abeb3f72",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "d1001b3c4ebb0648": {
@@ -5118,7 +5118,7 @@
   "id": "d1001b3c4ebb0648",
   "content_hash": "2d3a2b449cd4d981",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "8ebd286e1ab4059a": {
@@ -5275,7 +5275,7 @@
   "id": "4f521ebd7769aa44",
   "content_hash": "8df416817240adb3",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "ee1700d7e2ea1737": {
@@ -5355,7 +5355,7 @@
   "id": "2b3662a61fe8e635",
   "content_hash": "c22c37d0313ad5e8",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "51e682cde671c095": {
@@ -5428,7 +5428,7 @@
   "id": "8a31d954d7104b5d",
   "content_hash": "6b5e69eb5d223bb0",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "fab3144eb31f4147": {
@@ -5467,7 +5467,7 @@
   "id": "fab3144eb31f4147",
   "content_hash": "3fc6a5ba4f05c583",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "453b92707c1ce553": {
@@ -5511,7 +5511,7 @@
   "id": "453b92707c1ce553",
   "content_hash": "518aa941ac5e4e5d",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "6d98ce56bedf8ed1": {
@@ -5552,7 +5552,7 @@
   "id": "6d98ce56bedf8ed1",
   "content_hash": "7bc546d99a38142f",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "5d99e6ba89f83f4f": {
@@ -5587,7 +5587,7 @@
   "id": "5d99e6ba89f83f4f",
   "content_hash": "e123494f52fd7ec1",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "73dd0e98be16d9fa": {
@@ -5622,7 +5622,7 @@
   "id": "73dd0e98be16d9fa",
   "content_hash": "d62359fc2196b435",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "0aaf9f75abb5c53c": {
@@ -5657,7 +5657,7 @@
   "id": "0aaf9f75abb5c53c",
   "content_hash": "2e4a9eac97325a66",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "e16c08d2abf084f0": {
@@ -5695,7 +5695,7 @@
   "id": "e16c08d2abf084f0",
   "content_hash": "24fcc3eece9e58f3",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "c72cf1e20f58ea54": {
@@ -5733,7 +5733,7 @@
   "id": "c72cf1e20f58ea54",
   "content_hash": "5483f8c24c225e5a",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "5f86fbe890d1ba80": {
@@ -5771,7 +5771,7 @@
   "id": "5f86fbe890d1ba80",
   "content_hash": "5483f8c24c225e5a",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "5d96c3a60f8b8264": {
@@ -5810,7 +5810,7 @@
   "id": "5d96c3a60f8b8264",
   "content_hash": "875efa33fee802a1",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "ce32a09ecffbd3ba": {
@@ -5894,7 +5894,7 @@
   "id": "d0abdf58c186ff21",
   "content_hash": "295952901dfbf969",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "b4ab5f10559e385d": {
@@ -5932,7 +5932,7 @@
   "id": "b4ab5f10559e385d",
   "content_hash": "756b90579fe7bbcc",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "6b3fee58de6af4ed": {
@@ -5968,7 +5968,7 @@
   "id": "6b3fee58de6af4ed",
   "content_hash": "7ec3f1221a751bb4",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "5e4a3fb7a8f10d4f": {
@@ -6007,7 +6007,7 @@
   "id": "5e4a3fb7a8f10d4f",
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "1ac3b7d39223c017": {
@@ -6044,7 +6044,7 @@
   "id": "1ac3b7d39223c017",
   "content_hash": "4d48383a7a75bc88",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "756113be98a4e706": {
@@ -6083,7 +6083,7 @@
   "id": "756113be98a4e706",
   "content_hash": "c8ae5f5d4d5a7ebc",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "7292a3808c5834fb": {
@@ -6165,7 +6165,7 @@
   "id": "fd913ed6d7b97824",
   "content_hash": "cdc1b802b2eaaa5f",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "924abc7b9786b07c": {
@@ -6201,7 +6201,7 @@
   "id": "924abc7b9786b07c",
   "content_hash": "b87df2f818fa1ad8",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "d6621e5606af3813": {
@@ -6239,7 +6239,7 @@
   "id": "d6621e5606af3813",
   "content_hash": "c505539abaf379c7",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "5f91f1e5424be53c": {
@@ -6279,7 +6279,7 @@
   "id": "5f91f1e5424be53c",
   "content_hash": "8e1d38c9f38ee431",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "af0d1de536c28f65": {
@@ -6316,7 +6316,7 @@
   "id": "af0d1de536c28f65",
   "content_hash": "39878149b601757f",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "7057b5be04c55130": {
@@ -6353,7 +6353,7 @@
   "id": "7057b5be04c55130",
   "content_hash": "d1db219ad6c6422e",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "c10e7a5ad6226af5": {
@@ -6455,7 +6455,7 @@
   "id": "dde2a01c4a49038b",
   "content_hash": "039db988a2d043ec",
   "first_seen": "2026-11-18T12:28:41+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "8014b0b2d65657b2": {
@@ -6497,7 +6497,7 @@
   "id": "8014b0b2d65657b2",
   "content_hash": "fb4f736e1f60b08a",
   "first_seen": "2026-11-19T12:19:22+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "1c159c4ef7afb07a": {
@@ -6534,7 +6534,7 @@
   "id": "1c159c4ef7afb07a",
   "content_hash": "38f984afd6672102",
   "first_seen": "2026-11-19T12:19:22+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "ec7943881ed8a34d": {
@@ -6571,7 +6571,7 @@
   "id": "ec7943881ed8a34d",
   "content_hash": "e9074403c06e1fe1",
   "first_seen": "2026-11-19T12:19:22+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "4c7d0004b8fffc52": {
@@ -6583,7 +6583,7 @@
   "description": "ABOUT US\n\nLegora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar.\n\nOur AI-native workspace lets legal professionals move faster, think more clearly, and operate with sharper precision. By analysing thousands of documents in minutes and powering end-to-end workflows, we cut through complexity, teams can focus on what matters: judgment, strategy, and outcomes.\n\n2,100+ customers across 80+ countries trust us, including Cleary Gottlieb, Goodwin, Linklaters, White & Case, Dentons, and Barclays. We’ve scaled to $200M+ in ARR, with teams across Europe, North America and APAC, and continue to expand through acquisitions including Qura, Walter AI, Graceview, Cadastral, and Wexler.\n\nWe partner with world-class performers: including Aaron Judge and the New York Yankees, Ludvig Åberg (and his caddie), and campaigns featuring Jude Law.\n\nJoining Legora means three things.\n\n - We lean in: ownership over titles, outcomes over intentions.\n\n - We fight for excellence: high standards, direct, ego-free feedback.\n\n - We grow together: as a team and with our customers.\n\nMission before ego. Everyone contributes. No one coasts.\n\nIf you’re driven by impact, pace, and raising the bar. This is the place.\n\nThe role\n\nYou help the Solutions & Delivery team get new customers live and using the product well, by supporting onboarding projects, building small tools and materials, and learning how implementation really works.\n\n\n\nWHAT YOU'LL DO\n\n - Support onboarding projects: prepare kickoff materials, track tasks and open questions, and keep project plans and status notes up to date.\n\n - Support and own intake of Technical Delivery and Solutions Engineer requests.\n\n - Help configure and test customer setups (workspaces, permissions, templates, integrations) under the guidance of a Solutions Engineer or Delivery Lead.\n\n - Run QA on workflows before go-live and document bugs or gaps clearly for Product and Engineering.\n\n - Join customer calls as a note-taker, then write up summaries, decisions and action items within 24 hours.\n\n - Build and maintain internal resources: how-to guides, FAQs, demo environments and reusable onboarding checklists.\n\n - Pull and tidy usage data to show how newly onboarded customers are adopting the product.\n\n - Take on one self-owned project during the internship, such as automating a repetitive delivery task or improving a training asset, and present the result to the team.\n\n\nWHAT WE'RE LOOKING FOR\n\n - Currently studying, or recently graduated, in a field such as law, business, information systems, engineering or similar. We care more about curiosity than about the specific degree.\n\n - Clear written and spoken communication in English; additional languages are a plus.\n\n - Structured, detail-oriented and comfortable juggling several small tasks at once.\n\n - Comfortable with technology: you pick up new software quickly, and basic spreadsheet skills are expected.\n\n - Interest in legal tech, AI or professional services is a plus. Light scripting (SQL, Python) or prior customer-facing experience is a bonus, not a requirement.\n\n\nWHAT YOU'LL LEARN\n\n - How a customer moves from signed contract to live, active users, and where projects tend to stall.\n\n - How to scope and run a technical implementation with non-technical stakeholders.\n\n - How Solutions, Customer Success, Product and Sales work together around a customer.\n\nLegora is an Equal Opportunity Employer\n\nAt Legora, we believe great teams are built on diversity of thought and experience. We’re proud to be an equal opportunity employer and committed to creating an inclusive, high-performance culture where everyone can do their best work. We welcome people of all backgrounds and don’t discriminate based on race, color, religion, national origin, gender, gender identity or expression, sexual orientation, age, disability, veteran status, or any other characteristic protected by law.",
   "posted_at": "2026-11-19T15:03:54+00:00",
   "deadline": null,
-  "pay": "SEK 33.2K per month",
+  "pay": null,
   "industry": "",
   "company_slug": "legora",
   "city": "Stockholm HQ",
@@ -6614,7 +6614,7 @@
   "id": "4c7d0004b8fffc52",
   "content_hash": "4948b9cb53e4c801",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "37d284445b42d743": {
@@ -6651,7 +6651,7 @@
   "id": "37d284445b42d743",
   "content_hash": "fa2cc18440795a7c",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "39a2b918f497ce2d": {
@@ -6687,7 +6687,7 @@
   "id": "39a2b918f497ce2d",
   "content_hash": "7bdfcf0d0193b36e",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "c590763287b92f50": {
@@ -6724,7 +6724,7 @@
   "id": "c590763287b92f50",
   "content_hash": "e9b32da108287049",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  },
  "52846802da98c8fa": {
@@ -6762,7 +6762,7 @@
   "id": "52846802da98c8fa",
   "content_hash": "06923c520e57f82b",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-20T12:19:48+00:00",
+  "last_seen": "2026-11-21T11:54:14+00:00",
   "is_open": true
  }
 }
