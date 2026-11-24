@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4453,7 +4453,7 @@
   "id": "7ae00f5246748da3",
   "content_hash": "e383f6f6d13e8fe0",
   "first_seen": "2026-10-26T09:29:12+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "94710df98f75c84c": {
@@ -4654,7 +4654,7 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "fc2fd0909073dd88": {
@@ -4700,7 +4700,7 @@
   "id": "fc2fd0909073dd88",
   "content_hash": "3ceda89bdce9683c",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "23fe38f659311b9d": {
@@ -4783,7 +4783,7 @@
   "id": "b7b7e83811bd9251",
   "content_hash": "f3da8d89eed4020c",
   "first_seen": "2026-11-02T11:49:32+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "8134c83ba1d67ea7": {
@@ -4862,7 +4862,7 @@
   "id": "bc568d7d093379ea",
   "content_hash": "98e42f524c9c4b25",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "ffe2c2c0478a0b1d": {
@@ -5275,7 +5275,7 @@
   "id": "4f521ebd7769aa44",
   "content_hash": "8df416817240adb3",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "ee1700d7e2ea1737": {
@@ -5355,7 +5355,7 @@
   "id": "2b3662a61fe8e635",
   "content_hash": "c22c37d0313ad5e8",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "51e682cde671c095": {
@@ -5428,7 +5428,7 @@
   "id": "8a31d954d7104b5d",
   "content_hash": "6b5e69eb5d223bb0",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "fab3144eb31f4147": {
@@ -5467,7 +5467,7 @@
   "id": "fab3144eb31f4147",
   "content_hash": "3fc6a5ba4f05c583",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "453b92707c1ce553": {
@@ -5511,7 +5511,7 @@
   "id": "453b92707c1ce553",
   "content_hash": "518aa941ac5e4e5d",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "6d98ce56bedf8ed1": {
@@ -5552,7 +5552,7 @@
   "id": "6d98ce56bedf8ed1",
   "content_hash": "7bc546d99a38142f",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "5d99e6ba89f83f4f": {
@@ -5587,7 +5587,7 @@
   "id": "5d99e6ba89f83f4f",
   "content_hash": "e123494f52fd7ec1",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "73dd0e98be16d9fa": {
@@ -5622,7 +5622,7 @@
   "id": "73dd0e98be16d9fa",
   "content_hash": "d62359fc2196b435",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "0aaf9f75abb5c53c": {
@@ -5657,7 +5657,7 @@
   "id": "0aaf9f75abb5c53c",
   "content_hash": "2e4a9eac97325a66",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "e16c08d2abf084f0": {
@@ -5695,7 +5695,7 @@
   "id": "e16c08d2abf084f0",
   "content_hash": "24fcc3eece9e58f3",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "c72cf1e20f58ea54": {
@@ -5733,7 +5733,7 @@
   "id": "c72cf1e20f58ea54",
   "content_hash": "5483f8c24c225e5a",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "5f86fbe890d1ba80": {
@@ -5771,7 +5771,7 @@
   "id": "5f86fbe890d1ba80",
   "content_hash": "5483f8c24c225e5a",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "5d96c3a60f8b8264": {
@@ -5810,7 +5810,7 @@
   "id": "5d96c3a60f8b8264",
   "content_hash": "875efa33fee802a1",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "ce32a09ecffbd3ba": {
@@ -5894,7 +5894,7 @@
   "id": "d0abdf58c186ff21",
   "content_hash": "295952901dfbf969",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "b4ab5f10559e385d": {
@@ -5932,7 +5932,7 @@
   "id": "b4ab5f10559e385d",
   "content_hash": "756b90579fe7bbcc",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "6b3fee58de6af4ed": {
@@ -5968,7 +5968,7 @@
   "id": "6b3fee58de6af4ed",
   "content_hash": "7ec3f1221a751bb4",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "5e4a3fb7a8f10d4f": {
@@ -6007,7 +6007,7 @@
   "id": "5e4a3fb7a8f10d4f",
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "1ac3b7d39223c017": {
@@ -6044,7 +6044,7 @@
   "id": "1ac3b7d39223c017",
   "content_hash": "4d48383a7a75bc88",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "756113be98a4e706": {
@@ -6083,7 +6083,7 @@
   "id": "756113be98a4e706",
   "content_hash": "c8ae5f5d4d5a7ebc",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "7292a3808c5834fb": {
@@ -6165,7 +6165,7 @@
   "id": "fd913ed6d7b97824",
   "content_hash": "cdc1b802b2eaaa5f",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "924abc7b9786b07c": {
@@ -6201,7 +6201,7 @@
   "id": "924abc7b9786b07c",
   "content_hash": "b87df2f818fa1ad8",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "d6621e5606af3813": {
@@ -6239,7 +6239,7 @@
   "id": "d6621e5606af3813",
   "content_hash": "c505539abaf379c7",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "5f91f1e5424be53c": {
@@ -6279,7 +6279,7 @@
   "id": "5f91f1e5424be53c",
   "content_hash": "8e1d38c9f38ee431",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "af0d1de536c28f65": {
@@ -6316,7 +6316,7 @@
   "id": "af0d1de536c28f65",
   "content_hash": "39878149b601757f",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "7057b5be04c55130": {
@@ -6353,7 +6353,7 @@
   "id": "7057b5be04c55130",
   "content_hash": "d1db219ad6c6422e",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "c10e7a5ad6226af5": {
@@ -6455,7 +6455,7 @@
   "id": "dde2a01c4a49038b",
   "content_hash": "039db988a2d043ec",
   "first_seen": "2026-11-18T12:28:41+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "8014b0b2d65657b2": {
@@ -6497,7 +6497,7 @@
   "id": "8014b0b2d65657b2",
   "content_hash": "fb4f736e1f60b08a",
   "first_seen": "2026-11-19T12:19:22+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "1c159c4ef7afb07a": {
@@ -6534,7 +6534,7 @@
   "id": "1c159c4ef7afb07a",
   "content_hash": "38f984afd6672102",
   "first_seen": "2026-11-19T12:19:22+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "ec7943881ed8a34d": {
@@ -6571,7 +6571,7 @@
   "id": "ec7943881ed8a34d",
   "content_hash": "e9074403c06e1fe1",
   "first_seen": "2026-11-19T12:19:22+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "4c7d0004b8fffc52": {
@@ -6651,7 +6651,7 @@
   "id": "37d284445b42d743",
   "content_hash": "fa2cc18440795a7c",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "39a2b918f497ce2d": {
@@ -6687,7 +6687,7 @@
   "id": "39a2b918f497ce2d",
   "content_hash": "7bdfcf0d0193b36e",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "c590763287b92f50": {
@@ -6724,7 +6724,7 @@
   "id": "c590763287b92f50",
   "content_hash": "e9b32da108287049",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  },
  "52846802da98c8fa": {
@@ -6762,7 +6762,77 @@
   "id": "52846802da98c8fa",
   "content_hash": "06923c520e57f82b",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-23T13:50:50+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
+  "is_open": true
+ },
+ "bbe9d7f5168b4531": {
+  "source": "jobtech",
+  "source_id": "31768707",
+  "company": "Regeringskansliet",
+  "title": "Studentmedarbetare till Finansdepartementet",
+  "url": "https://web103.reachmee.com/ext/I003/584/main?site=19&validator=60988ba3b4a8fb26b1d3dbdf5e1a013e&lang=SE&rmpage=job&rmjob=16754&utm_medium=talentech_publishing&utm_source=jobtip",
+  "description": "Vill du jobba i centrum för den ekonomiska politiken i Sverige? Är du en student som har praktiserat hos oss? Då kan vi erbjuda en spännande möjlighet för dig vid Finansdepartementet, i hjärtat av svensk förvaltning.\nDin arbetsdag. Sveriges morgondag.\nFinansdepartementet ansvarar för frågor som rör statens ekonomi. Som studentmedarbetare kommer du att stötta någon av Finansdepartementets avdelningar där du får utföra arbetsuppgifter av varierande karaktär och svårighetsgrad. Arbetsuppgifterna kan bestå av exempelvis enklare handläggningsuppgifter, omvärldsbevakning och faktainsamling, analyser och beräkningar, administrativa uppgifter, stöd i ärendehantering eller interna processer.\nFöljande avdelningar söker studentmedarbetare:\nBudgetavdelningen\n Budgetavdelningen ansvarar för att leda och samordna arbetet med statens budget samt för budgetpolitik, budgetreglering och budgetuppföljning. Avdelningen gör även analyser av effektiviteten i samhällets resursanvändning, lämnar råd om utformningen av den ekonomiska politiken samt deltar i det ekonomisk-politiska samarbetet inom EU och OECD. Budgetavdelningen är också involverade i samtliga regeringsbeslut med ekonomiska och organisatoriska konsekvenser.\nAvdelningen för bolag med statligt ägande\n Avdelningen för Statliga Bolag vid Finansdepartementet ansvarar för förvaltningen av 42 statliga bolag, däribland Vattenfall, LKAB, Sveaskog, Telia, SJ, Systembolaget, Apoteket, PostNord, Svensk Exportkredit och Akademiska Hus. Bolagsportföljen utgör en betydande del av svenskt näringsliv: det samlade värdet uppgår till 870 miljarder kronor, den årliga omsättningen överstiger 500 miljarder kronor och utdelningen till svenska staten uppgår till 20–25 miljarder kronor per år.\nFinansmarknadsavdelningen\n Avdelningen arbetar för en välfungerande finansmarknad med goda villkor för konsumenter och företag, samtidigt som finansiell stabilitet och konsumentskydd säkerställs. Den ansvarar för frågor som rör statsskuldspolitik, pensionssparande, Riksbanken och myndighetsstyrning inom finansmarknadsområdet. Arbetet präglas av omfattande regelgivning och snabb teknisk utveckling. Avdelningen består av en stabsenhet och tre lagstiftande enheter.\nInternationella och ekonomiska avdelningen\n Avdelningen gör ekonomiska prognoser och analyser av resursfördelning, tillväxt, sysselsättning och offentliga finanser. Den samordnar departementets internationella arbete, deltar i samarbetet inom EU, OECD, Norden och IMF samt tar fram svenska positioner. Den ansvarar även för styrningen av flera myndigheter och består av fyra enheter.\nAvdelningen för offentlig förvaltning\n Avdelningen hanterar frågor om styrning och finansiering av kommuner, den statliga förvaltningspolitiken och arbetsgivarpolitiken, offentlig upphandling, digital infrastruktur och digitalisering av den offentliga sektorn, offentlig statistik, spelfrågor, statlig fastighetsförvaltning och konsumentfrågor. Det europeiska samarbetet har en framträdande roll i stora delar av verksamheten.\nRätts- och stabsavdelningen\n Avdelningen består av tre enheter som ansvarar för rättsligt stöd till merparten av departementets avdelningar, verksamhetsstyrning samt administrativt stöd till den politiska ledningen. Som studentmedarbetare kommer du vara placerad på sekretariatet för verksamhetsstyrning och bistå i enhetens verksamhet som bland annat omfattar intern styrning och verksamhetsplanering på departementet, samordning av arbetet med Finansdepartementets delar av statsbudgeten, viss IT-administration och utveckling samt vissa ekonomiadministrativa frågor.\nSkatte- och tullavdelningen\n Avdelningen ansvarar för lagstiftning inom skatt, folkbokföring, tull och indrivning samt deltar i internationellt samarbete inom området, bland annat inom EU. Avdelningen gör även beräkningar av effekterna av förändringar i skatte- och tullregelverken. Avdelningen består av sex enheter: tre lagstiftande enheter, en enhet för internationell skattepolicy, en nationalekonomenhet och en stabsenhet. Studentmedarbetare placeras vid stabsenheten, som samordnar avdelningens EU-frågor och arbete i budgetprocessen, eller skattekonomiska enheten, som ansvarar för konsekvensanalyser vid ändrade skatteregler.\nLäs mer om vår verksamhet här: http://www.regeringen.se/sveriges-regering/finansdepartementet/arbeta-pa-budgetavdelningen/\nDin bakgrund\nVi söker dig som för närvarande studerar på universitet eller högskola med inriktning som bedöms som relevant. Du har praktiserat i Regeringskansliet som en del av din högskole- eller universitetsutbildning de senaste två åren samt har mycket goda kunskaper i engelska och svenska samt i Officepaketet.\nHar du erfarenhet av praktik på Finansdepartementet eller inom berörd enhet eller avdelning eller tidigare arbetslivserfarenhet inom offentlig verksamhet ser vi det som meriterande. Även kunskap och erfarenhet av för avdelningen relevanta IT-system och/eller generativa AI-verktyg är meriterande för tjänsten.\nDina egenskaper\nVi söker dig som är självgående och ansvarstagande, strukturerad och kvalitetsmedveten. Du har lätt för att sätta dig in i nya frågor samt har god samarbetsförmåga och är serviceinriktad. Stor vikt kommer att läggas vid personliga egenskaper.\nÖvrigt\nDu behöver inte vara svensk medborgare för att få anställning men arbetet kräver mycket goda kunskaper i svenska och engelska. En säkerhetsprövning genomförs innan beslut om anställning fattas.Tidsbegränsad anställning på deltid (Avtal om villkor för tidsbegränsad anställning som studentmedarbetare). Vi söker flera studentmedarbetare.I samband med din ansökan får du även besvara ett antal urvalsfrågor. Vi ber dig att ta dig tid att besvara dessa noggrant, då de ligger till grund för vårt fortsatta urval.\nÄr du intresserad?\nVill du veta mer om anställningen och vad vi erbjuder, kontakta enhetschef och administrativ chef Emil Antonsson. Du är också välkommen att kontakta rekryteringsspecialist Sophie Karlsson. Fackliga kontaktpersoner är Filip Hellberg för",
+  "posted_at": "2026-11-23T17:30:12+00:00",
+  "deadline": "2026-12-14T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "2021003831",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "bbe9d7f5168b4531",
+  "content_hash": "55b1eb82a5342083",
+  "first_seen": "2026-11-24T14:24:37+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
+  "is_open": true
+ },
+ "3d013d5c13c2a879": {
+  "source": "jobtech",
+  "source_id": "31772188",
+  "company": "Kammarkollegiet",
+  "title": "Studentmedarbetare inom arkiv och registratur",
+  "url": "https://web103.reachmee.com/ext/I009/977/main?site=6&validator=7247981ed1348085a2a82df3dad0be94&lang=SE&rmpage=job&rmjob=617&utm_medium=talentech_publishing",
+  "description": "Studerar du arkivvetenskap eller arkiv- och informationsvetenskap, juridik eller statsvetenskap och är intresserad av ett extrajobb inom staten? Då är rollen som studentmedarbetare hos oss perfekt för dig! \n \nKammarkollegiet är en statlig myndighet med lång historia och ett brett och differentierat samhällsuppdrag. Myndigheten arbetar bland annat med juridiska tjänster, kapitalförvaltning, försäkringslösningar och administrativa uppdrag för stat, kommuner och regioner.\n \nRättssekretariatet är myndighetens stöd- och styrfunktion inom informationshantering och för rättsliga frågor. Vi ansvarar för arkiv, registratur och samordning av informationshanteringen inom Kammarkollegiet samt säkerställer att myndigheten följer tryckfrihetsförordningen, offentlighets- och sekretesslagen, arkivlagen och annan relevant lagstiftning.\n \nRättssekretariatet har även det övergripande ansvaret för förvaltningsrättsliga frågor, bevakar myndighetsövergripande lagstiftning och samordnar remissarbete samt policy- och metodutveckling inom vårt område.\n \nArbetsbeskrivning\nArbetet består av diarieföring och arkivering samt stöd till handläggare i ärendehanteringsfrågor. Myndighetens centrala arkiv och registratur ansvarar för myndighetens arkivhållning och för att lämna ut allmänna handlingar i avslutade ärenden.\n \nTjänsten innebär till största del arbete med diarieföring. Den kommer även att innebära biträde till enhetens arkivarier och registratorer i exempelvis frågor som rör arkivering och/eller viss annan andra administrativa arbetsuppgifter och diarieföring.\n \nÄr du vår nya kollega?\nVi söker dig som:\nläser arkiv- och informationsvetenskap, juridik eller statsvetenskap, ekonomi eller motsvarande samt har avklarat minst 60 hp och minst ett år kvar på dina studier\nhar goda kunskaper i svenska språket i tal och skrift\n\n \nDet är meriterande om du har:\ntidigare erfarenhet från likvärdig roll som arbetsgivaren bedömer är relevant för tjänsten\nerfarenhet av administrativt arbete inom offentlig förvaltning\nerfarenhet av att arbeta inom arkiv och/eller registratur\nhar erfarenhet från att arbeta på statlig myndighet\n\n \nVi söker dig som är noggrann, strukturerad, har lätt för att lära dig system och har hög servicekänsla. Du trivs med att arbeta både självständigt och i grupp. Du är självgående, lyhörd och flexibel. En förutsättning för att kunna göra ett bra arbete i den här rollen är att du lockas av varierande arbetsdagar och trivs med att snabbt ställa om mellan arbetsuppgifter med ganska tvära kast. Vi lägger mycket stor vikt vid dina personliga egenskaper.\n \nKammarkollegiet eftersträvar mångfald och värdesätter de kvaliteter den tillför verksamheten. Vi sätter kompetensen i fokus och välkomnar alla sökande oavsett kön, könsidentitet och könsuttryck, etnisk och social tillhörighet, religion eller annan trosuppfattning, funktionsförmåga, sexuell läggning och ålder.\n \nMer information\nTidsbegränsad anställning som studentmedarbetare under vårterminen 2027. Omfattningen är upp till 25 %. Tillträde enligt överenskommelse.\n \nFör att vara aktuell för en tjänst som studentmedarbetare behöver du uppfylla följande krav:\nBedriva heltidsstudier på högskolenivå\nFullgjort godkända studier motsvarande lägst 60 hp\nInte påbörjat en forskarutbildning.\n\n \nTjänsten är placerad på vårt välkomnande kontor på Slottsbacken i Gamla stan i Stockholm.\n \nAnsökan\nDu ansöker genom att bifoga ditt CV (inte personligt brev) samt intyg på fullgjort godkända studier motsvarande lägst 60 högskolepoäng. För att kunna göra en rättvis och likvärdig bedömning av dig som sökande använder vi oss av urvalsfrågor i vårt rekryteringssystem. Vi ber dig därför att svara på frågorna så utförligt som möjligt så att vi kan avgöra hur väl du matchar den efterfrågade kompetensen.\nVälkommen med din ansökan senast den 6 december 2026.'\n \nKontaktpersoner\nFör frågor om tjänsten kontakta tf chefsjurist Elisabeth Hammar, 08-700 08 37 eller arbetsledare för registratur och arkiv, Marie Backerling, 08-700 06 54.\nFackliga representanter är Karin Edstrand, Saco-S, mailto:karin.edstrand@kammarkollegiet.se och Lisa Ericson, ST, mailto:lisa.ericson@arvsfonden.se.\n \nÖvrigt\nKammarkollegiet är en statlig myndighet under Finansdepartementet. Vi är omkring 370 medarbetare som arbetar med uppdrag inom juridik, administration, ekonomi, försäkring och kapitalförvaltning. Vår breda verksamhet riktar sig till andra myndigheter men också till privatpersoner, företag, föreningar och stiftelser. Vi har kontor i Stockholm, Karlstad och Härnösand och sedan år 1539 har vi haft en central roll i den svenska statsförvaltningen.\n \nInför rekryteringsarbetet har vi tagit ställning till rekryteringskanaler och marknadsföring. Vi undanber oss därför vänligen men bestämt kontakt med mediesäljare, rekryteringssajter och liknande.",
+  "posted_at": "2026-11-24T13:37:47+00:00",
+  "deadline": "2026-12-06T23:59:59+00:00",
+  "pay": null,
+  "industry": "",
+  "company_slug": "2021000829",
+  "city": "Stockholm",
+  "country": "SE",
+  "type": "Part-time",
+  "mode": "On-site",
+  "level": "B",
+  "min_year": 2,
+  "langs": [
+   "English",
+   "Swedish"
+  ],
+  "skills": [],
+  "fields": [
+   "Economics & Business"
+  ],
+  "about": "",
+  "bullets": [],
+  "enriched": false,
+  "id": "3d013d5c13c2a879",
+  "content_hash": "e266c99e68fb12cc",
+  "first_seen": "2026-11-24T14:24:37+00:00",
+  "last_seen": "2026-11-24T14:24:37+00:00",
   "is_open": true
  }
 }
