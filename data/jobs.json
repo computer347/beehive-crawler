@@ -3406,7 +3406,7 @@
   "id": "15e9ed21cc470f00",
   "content_hash": "4f1b358be2e64ea6",
   "first_seen": "2026-10-12T11:27:09+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "c3ce1fa9d010a7eb": {
@@ -4090,7 +4090,7 @@
   "id": "4abdcf409ba10748",
   "content_hash": "8457996cb789560d",
   "first_seen": "2026-10-23T08:56:01+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "a95ce12d79fb4275": {
@@ -4654,7 +4654,7 @@
   "id": "eb89c946085ac4c6",
   "content_hash": "4934a25d4968bec4",
   "first_seen": "2026-10-30T10:33:50+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "fc2fd0909073dd88": {
@@ -4700,7 +4700,7 @@
   "id": "fc2fd0909073dd88",
   "content_hash": "7a59b087497ccd1e",
   "first_seen": "2026-10-31T10:02:03+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "23fe38f659311b9d": {
@@ -4783,7 +4783,7 @@
   "id": "b7b7e83811bd9251",
   "content_hash": "f3da8d89eed4020c",
   "first_seen": "2026-11-02T11:49:32+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "8134c83ba1d67ea7": {
@@ -4862,7 +4862,7 @@
   "id": "bc568d7d093379ea",
   "content_hash": "98e42f524c9c4b25",
   "first_seen": "2026-11-03T11:28:02+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "ffe2c2c0478a0b1d": {
@@ -5275,7 +5275,7 @@
   "id": "4f521ebd7769aa44",
   "content_hash": "8df416817240adb3",
   "first_seen": "2026-11-05T11:43:35+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "ee1700d7e2ea1737": {
@@ -5355,7 +5355,7 @@
   "id": "2b3662a61fe8e635",
   "content_hash": "c22c37d0313ad5e8",
   "first_seen": "2026-11-06T11:41:06+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "51e682cde671c095": {
@@ -5428,7 +5428,7 @@
   "id": "8a31d954d7104b5d",
   "content_hash": "6b5e69eb5d223bb0",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "fab3144eb31f4147": {
@@ -5467,7 +5467,7 @@
   "id": "fab3144eb31f4147",
   "content_hash": "3fc6a5ba4f05c583",
   "first_seen": "2026-11-07T10:47:11+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "453b92707c1ce553": {
@@ -5511,7 +5511,7 @@
   "id": "453b92707c1ce553",
   "content_hash": "518aa941ac5e4e5d",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "6d98ce56bedf8ed1": {
@@ -5552,7 +5552,7 @@
   "id": "6d98ce56bedf8ed1",
   "content_hash": "7bc546d99a38142f",
   "first_seen": "2026-11-09T12:19:08+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "5d99e6ba89f83f4f": {
@@ -5587,7 +5587,7 @@
   "id": "5d99e6ba89f83f4f",
   "content_hash": "e123494f52fd7ec1",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "73dd0e98be16d9fa": {
@@ -5622,7 +5622,7 @@
   "id": "73dd0e98be16d9fa",
   "content_hash": "d62359fc2196b435",
   "first_seen": "2026-11-10T11:56:51+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "0aaf9f75abb5c53c": {
@@ -5657,7 +5657,7 @@
   "id": "0aaf9f75abb5c53c",
   "content_hash": "2e4a9eac97325a66",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "e16c08d2abf084f0": {
@@ -5810,7 +5810,7 @@
   "id": "5d96c3a60f8b8264",
   "content_hash": "875efa33fee802a1",
   "first_seen": "2026-11-11T11:33:50+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "ce32a09ecffbd3ba": {
@@ -5894,7 +5894,7 @@
   "id": "d0abdf58c186ff21",
   "content_hash": "295952901dfbf969",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "b4ab5f10559e385d": {
@@ -5932,7 +5932,7 @@
   "id": "b4ab5f10559e385d",
   "content_hash": "756b90579fe7bbcc",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "6b3fee58de6af4ed": {
@@ -5968,7 +5968,7 @@
   "id": "6b3fee58de6af4ed",
   "content_hash": "7ec3f1221a751bb4",
   "first_seen": "2026-11-13T11:42:30+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "5e4a3fb7a8f10d4f": {
@@ -6007,7 +6007,7 @@
   "id": "5e4a3fb7a8f10d4f",
   "content_hash": "ddcefd77ed5e0c2f",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "1ac3b7d39223c017": {
@@ -6044,7 +6044,7 @@
   "id": "1ac3b7d39223c017",
   "content_hash": "4d48383a7a75bc88",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "756113be98a4e706": {
@@ -6083,7 +6083,7 @@
   "id": "756113be98a4e706",
   "content_hash": "c8ae5f5d4d5a7ebc",
   "first_seen": "2026-11-14T11:05:12+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "7292a3808c5834fb": {
@@ -6165,7 +6165,7 @@
   "id": "fd913ed6d7b97824",
   "content_hash": "cdc1b802b2eaaa5f",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "924abc7b9786b07c": {
@@ -6201,7 +6201,7 @@
   "id": "924abc7b9786b07c",
   "content_hash": "b87df2f818fa1ad8",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "d6621e5606af3813": {
@@ -6239,7 +6239,7 @@
   "id": "d6621e5606af3813",
   "content_hash": "c505539abaf379c7",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "5f91f1e5424be53c": {
@@ -6279,7 +6279,7 @@
   "id": "5f91f1e5424be53c",
   "content_hash": "8e1d38c9f38ee431",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "af0d1de536c28f65": {
@@ -6316,7 +6316,7 @@
   "id": "af0d1de536c28f65",
   "content_hash": "39878149b601757f",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "7057b5be04c55130": {
@@ -6353,7 +6353,7 @@
   "id": "7057b5be04c55130",
   "content_hash": "d1db219ad6c6422e",
   "first_seen": "2026-11-17T12:37:22+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "c10e7a5ad6226af5": {
@@ -6418,7 +6418,7 @@
   "content_hash": "499a6706b867505e",
   "first_seen": "2026-11-18T12:28:41+00:00",
   "last_seen": "2026-11-26T13:21:27+00:00",
-  "is_open": true
+  "is_open": false
  },
  "dde2a01c4a49038b": {
   "source": "jobtech",
@@ -6455,7 +6455,7 @@
   "id": "dde2a01c4a49038b",
   "content_hash": "039db988a2d043ec",
   "first_seen": "2026-11-18T12:28:41+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "8014b0b2d65657b2": {
@@ -6498,7 +6498,7 @@
   "content_hash": "fb4f736e1f60b08a",
   "first_seen": "2026-11-19T12:19:22+00:00",
   "last_seen": "2026-11-26T13:21:27+00:00",
-  "is_open": true
+  "is_open": false
  },
  "1c159c4ef7afb07a": {
   "source": "jobtech",
@@ -6534,7 +6534,7 @@
   "id": "1c159c4ef7afb07a",
   "content_hash": "38f984afd6672102",
   "first_seen": "2026-11-19T12:19:22+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "ec7943881ed8a34d": {
@@ -6571,7 +6571,7 @@
   "id": "ec7943881ed8a34d",
   "content_hash": "e9074403c06e1fe1",
   "first_seen": "2026-11-19T12:19:22+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "4c7d0004b8fffc52": {
@@ -6651,7 +6651,7 @@
   "id": "37d284445b42d743",
   "content_hash": "fa2cc18440795a7c",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "39a2b918f497ce2d": {
@@ -6687,7 +6687,7 @@
   "id": "39a2b918f497ce2d",
   "content_hash": "7bdfcf0d0193b36e",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "c590763287b92f50": {
@@ -6724,7 +6724,7 @@
   "id": "c590763287b92f50",
   "content_hash": "e9b32da108287049",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "52846802da98c8fa": {
@@ -6762,7 +6762,7 @@
   "id": "52846802da98c8fa",
   "content_hash": "06923c520e57f82b",
   "first_seen": "2026-11-20T12:19:48+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "bbe9d7f5168b4531": {
@@ -6797,7 +6797,7 @@
   "id": "bbe9d7f5168b4531",
   "content_hash": "55b1eb82a5342083",
   "first_seen": "2026-11-24T14:24:37+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "3d013d5c13c2a879": {
@@ -6832,7 +6832,7 @@
   "id": "3d013d5c13c2a879",
   "content_hash": "e266c99e68fb12cc",
   "first_seen": "2026-11-24T14:24:37+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "a6f04d3545fa3aff": {
@@ -6869,7 +6869,7 @@
   "id": "a6f04d3545fa3aff",
   "content_hash": "c9255ca42bf24216",
   "first_seen": "2026-11-25T13:43:00+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "2fcff43977239477": {
@@ -6904,7 +6904,7 @@
   "id": "2fcff43977239477",
   "content_hash": "3bc3b57da0c14d05",
   "first_seen": "2026-11-25T13:43:00+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "a743452af3eca8b6": {
@@ -6950,7 +6950,7 @@
   "id": "a743452af3eca8b6",
   "content_hash": "59ead969f676aa30",
   "first_seen": "2026-11-26T13:21:27+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  },
  "f844086a47e6a522": {
@@ -6984,7 +6984,41 @@
   "id": "f844086a47e6a522",
   "content_hash": "269cb4166063b829",
   "first_seen": "2026-11-26T13:21:27+00:00",
-  "last_seen": "2026-11-26T13:21:27+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
+  "is_open": true
+ },
+ "04e25e85d161db9f": {
+  "source": "workday",
+  "source_id": "R61739",
+  "company": "Valmet",
+  "title": "Thesis Worker - Machine Concept Upgrade",
+  "url": "https://valmet.wd103.myworkdayjobs.com/External/job/Karlstad/Thesis-Worker---Machine-Concept-Upgrade_R61739",
+  "description": "What we offer \n At Valmet, you'll have the opportunity to work with leading technologies and industry experts in a truly global organization. We offer a collaborative and inclusive environment where innovation, sustainability, and continuous improvement are part of our everyday work. Join us and help shape the future of tissue technology while creating sustainable results for our customers worldwide.\n Background \n ReDry is an innovative solution within Valmet tissue machine concept DCT, which is made to lower energy consumption and at the same time increase dryness after pressing of the tissue. Warm air from the drying yankee hood is reused in the process to allow for easier water removal from the tissue sheet.\n Assignment \n A new design of the ReDry has currently been implemented in our standard concept DCT200, but we would need a similar solution to be implemented in the smaller version DCT100.\n Qualification: Master or Bachelor in science, 3D modelling.\n Duration: Flexible.\n Contact: Lina Järåsen, lina.jarasen@valmet.com. Please note that we do not accept applications via email.\n Site: Valmet Karlstad Lamberget.\n Apply: Through the link in the ad, at the latest on December 1st.\n When everything works together \n Valmet is where the best talent from a wide variety of backgrounds comes together. We work together with our customers throughout the entire lifecycle, delivering cutting-edge technologies and services as well as mission-critical automation and flow control solutions. Backed by more than 225 years of industrial experience and a global team of over 19,000 professionals close to customers; we are uniquely positioned to transform industries toward a regenerative tomorrow. \n At Valmet, diversity of thought drives innovation. We are committed to a respectful and inclusive environment, where people can be themselves and are supported to contribute at their best. We welcome applicants from all backgrounds and make hiring decisions based on skills, experience, and potential, never on personal characteristics such as gender, gender identity, age, ethnicity, nationality, disability, neurodiversity, religion, sexual orientation, or political views. \n Join the team – and lead the way with us!",
+  "posted_at": "2026-11-17T00:00:00+00:00",
+  "deadline": null,
+  "pay": null,
+  "industry": "Industrial machinery",
+  "company_slug": "valmet",
+  "city": "Karlstad",
+  "country": "SE",
+  "type": "Thesis",
+  "mode": "On-site",
+  "level": "M",
+  "min_year": 4,
+  "langs": [
+   "English"
+  ],
+  "skills": [
+   "Control systems"
+  ],
+  "fields": [],
+  "about": "At Valmet, you'll have the opportunity to work with leading technologies and industry experts in a truly global organization.",
+  "bullets": [],
+  "enriched": false,
+  "id": "04e25e85d161db9f",
+  "content_hash": "617d86cf818f098a",
+  "first_seen": "2026-11-27T13:19:09+00:00",
+  "last_seen": "2026-11-27T13:19:09+00:00",
   "is_open": true
  }
 }
